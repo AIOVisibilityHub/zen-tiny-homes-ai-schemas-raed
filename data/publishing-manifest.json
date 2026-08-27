@@ -1,0 +1,819 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T21:57:02.432Z",
+  "client": {
+    "name": "Zen Tiny Homes",
+    "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
+    "primaryWebsiteUrl": "www.zentinyhomes.com",
+    "pagesUrl": "https://zentinyhomes.aiovisibility.net",
+    "phone": "(760) 492-0742",
+    "email": "zentinyhomes@gmail.com",
+    "locations": [
+      {
+        "name": "Carlsbad",
+        "address": "7200 Ponto Rd",
+        "city": "Carlsbad",
+        "state": "CA",
+        "zip": "",
+        "phone": "760-492-0742",
+        "email": "zentinyhomes@gmail.com"
+      },
+      {
+        "name": "Vista (corporate/filing)",
+        "address": "906 La Rueda Dr",
+        "city": "Vista",
+        "state": "CA",
+        "zip": "",
+        "phone": "760-492-0742",
+        "email": "zentinyhomes@gmail.com"
+      },
+      {
+        "name": "Encinitas (model office)",
+        "address": "227 Rosebay Dr",
+        "city": "Encinitas",
+        "state": "CA",
+        "zip": "",
+        "phone": "760-492-0742",
+        "email": "zentinyhomes@gmail.com"
+      }
+    ],
+    "services": [
+      "Custom tiny home design",
+      "Custom tiny home construction",
+      "Tiny-home property assessments",
+      "Site feasibility consultations",
+      "Small-space planning",
+      "Custom floor-plan development",
+      "Interior layout design",
+      "Space-optimization design",
+      "Storage-optimization design",
+      "Multifunctional living-space design",
+      "Tiny-home project planning",
+      "Tiny-home placement planning",
+      "Tiny-home customization and upgrades",
+      "Backyard tiny homes",
+      "Guest homes",
+      "Primary-residence tiny homes",
+      "Multigenerational living solutions",
+      "Rental-unit tiny homes",
+      "Tiny-home shells",
+      "Turnkey tiny-home builds",
+      "Foundation-based tiny homes",
+      "Tiny-home zoning guidance",
+      "Tiny-home permitting guidanc"
+    ],
+    "cities": [
+      "Vista",
+      "Oceanside",
+      "Carlsbad",
+      "San Marcos",
+      "Escondido",
+      "Encinitas",
+      "Solana Beach",
+      "Del Mar",
+      "Poway",
+      "Santee",
+      "El Cajon",
+      "La Mesa",
+      "Lemon Grove",
+      "National City",
+      "Chula Vista",
+      "Imperial Beach",
+      "Coronado",
+      "San Diego",
+      "Fallbrook",
+      "Bonsall",
+      "Valley Center",
+      "Rancho Santa Fe",
+      "Rancho Bernardo",
+      "Rancho Peñasquitos",
+      "4S Ranch",
+      "Ramona",
+      "Julian",
+      "Lakeside",
+      "Alpine",
+      "Jamul",
+      "Spring Valley",
+      "La Jolla",
+      "Pacific Beach",
+      "Mission Beach",
+      "Ocean Beach",
+      "Point Loma",
+      "North Park",
+      "South Park",
+      "Hillcrest",
+      "Clairemont",
+      "Mira Mesa",
+      "Sorrento Valley",
+      "Carmel Valley",
+      "Torrey Pines",
+      "University City",
+      "Tierrasanta",
+      "Kearny Mesa",
+      "Scripps Ranch",
+      "Spring Valley",
+      "Bonita",
+      "Otay Mesa",
+      "San Ysidro"
+    ]
+  },
+  "package": {
+    "totalFiles": 130,
+    "totalBytes": 441546,
+    "stats": {
+      "faqs": 99,
+      "helpArticles": 0,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 0,
+      "products": 0,
+      "locations": 3,
+      "awards": 0,
+      "caseStudies": 6,
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 110
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-is-a-tiny-house.json",
+        "bytes": 736,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-create-a-custom-design-for-me.json",
+        "bytes": 811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-a-site-assessment.json",
+        "bytes": 782,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-build-an-accessory-dwelling-unit-adu.json",
+        "bytes": 805,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-financing-or-payment-plans.json",
+        "bytes": 737,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-you-help-me-with-permits.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-visit-or-view-model-tiny-homes-before-purchase.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-custom-zen-tiny-home-cost.json",
+        "bytes": 794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-financing-options-are-available-for-purchasing-a-zen-tiny-home.json",
+        "bytes": 870,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-permitting-process-work-for-movable-tiny-homes-in-san-diego-county.json",
+        "bytes": 907,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-zen-tiny-homes-different-from-other-builders-in-southern-california.json",
+        "bytes": 903,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-design-and-construction-process-typically-take.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-zen-tiny-homes-models-customizable-to-suit-personal-preferences.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-warranty-comes-with-a-zen-tiny-home.json",
+        "bytes": 784,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-assist-with-site-evaluation-and-preparation.json",
+        "bytes": 822,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-building-codes-and-standards-do-zen-tiny-homes-comply-with.json",
+        "bytes": 789,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-the-site-assessment-service.json",
+        "bytes": 751,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-zen-tiny-homes-units-qualify-as-accessory-dwelling-units-adus.json",
+        "bytes": 862,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utilities-are-required-for-zen-tiny-homes.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-solar-power-options-available-for-zen-tiny-homes.json",
+        "bytes": 754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-energy-efficient-are-zen-tiny-homes.json",
+        "bytes": 778,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-zen-tiny-homes-suitable-for-off-grid-living.json",
+        "bytes": 777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-be-used-for-short-term-rentals-airbnb-vrbo.json",
+        "bytes": 801,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-price-range-for-different-zen-tiny-homes-models.json",
+        "bytes": 795,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-interior-finishes-and-materials-are-offered.json",
+        "bytes": 766,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-people-can-comfortably-live-in-a-zen-tiny-home.json",
+        "bytes": 773,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-moving-a-tiny-home-onto-a-property.json",
+        "bytes": 856,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-professional-installation-available-from-zen-tiny-homes.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-maintenance-requirements-for-a-zen-tiny-home.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-zen-tiny-homes-handle-fire-safety-and-compliance.json",
+        "bytes": 781,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-be-placed-on-properties-with-existing-homes.json",
+        "bytes": 820,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-best-ways-to-maximize-space-in-a-tiny-home.json",
+        "bytes": 801,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-zen-tiny-homes-support-clients-through-local-permitting-challenges.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-financing-available-for-land-acquisition-alongside-home-purchase.json",
+        "bytes": 813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-communities-or-zoning-areas-allow-zen-tiny-homes-in-southern-california.json",
+        "bytes": 874,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-zen-tiny-homes-address-accessibility-requirements.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-insurance-requirements-for-owning-a-zen-tiny-home.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-selling-a-zen-tiny-home.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-movable-tiny-homes-transported-and-set-up.json",
+        "bytes": 808,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-be-winterized-for-cold-climates.json",
+        "bytes": 758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-environmentally-sustainable-are-zen-tiny-homes-materials.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-container-home-conversions-available-through-zen-tiny-homes.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-steps-to-convert-a-garage-into-a-tiny-home.json",
+        "bytes": 834,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-average-utility-cost-for-a-zen-tiny-home.json",
+        "bytes": 815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-be-delivered-outside-california.json",
+        "bytes": 802,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-zen-tiny-homes-offer-design-consultations-remotely.json",
+        "bytes": 753,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-project-management-support-does-zen-tiny-homes-offer.json",
+        "bytes": 815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-visit-a-zen-tiny-home-model-before-purchasing.json",
+        "bytes": 785,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-tiny-homes-a-good-investment-for-rental-income.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-quality-control-managed-during-the-build-process.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-legal-documentation-is-required-to-install-a-tiny-home.json",
+        "bytes": 805,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-challenges-clients-face-and-how-are-they-resolved.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-zen-tiny-homes-contribute-to-the-tiny-home-movement.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-community-resources-or-advocacy-does-zen-tiny-homes-support.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-brent-hensley-s-background-in-design-and-construction.json",
+        "bytes": 799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-testimonials-or-case-studies-available-to-review.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-customer-service-and-post-sale-support-managed.json",
+        "bytes": 789,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-zen-tiny-homes-engage-with-local-communities.json",
+        "bytes": 795,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-sustainable-design-principles-does-zen-tiny-homes-follow.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-alternative-financing-options-like-crowdfunding-available.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-owning-a-zen-tiny-home-affect-resale-value.json",
+        "bytes": 751,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-impact-do-tiny-homes-have-on-neighborhoods.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-advanced-customization-options-exist-for-zen-tiny-homes.json",
+        "bytes": 798,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-hear-from-previous-clients.json",
+        "bytes": 736,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-pet-friendly-design-options-available.json",
+        "bytes": 769,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-be-expanded-or-added-onto-later.json",
+        "bytes": 758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-zen-tiny-homes-handle-differing-local-building-codes.json",
+        "bytes": 801,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-zen-tiny-homes-suitable-for-remote-work-environments.json",
+        "bytes": 808,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-zen-tiny-homes-support-healthy-living.json",
+        "bytes": 710,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-financing-options-be-adjusted-post-purchase.json",
+        "bytes": 707,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-technology-integrations-are-available-in-zen-tiny-homes.json",
+        "bytes": 784,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-zen-tiny-homes-contribute-to-housing-affordability.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-privacy-features-are-incorporated-into-zen-tiny-homes.json",
+        "bytes": 752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-zen-tiny-homes-provide-assistance-with-home-resale.json",
+        "bytes": 763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-help-with-permits-beyond-building-codes.json",
+        "bytes": 734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-upgrades-available-for-aging-in-place-or-disability-needs.json",
+        "bytes": 807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-customization-process-like-with-zen-tiny-homes.json",
+        "bytes": 810,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-insurance-options-are-recommended-for-zen-tiny-homes.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-zen-tiny-homes-assist-with-financing-applications.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-interior-design-services-offered-by-zen-tiny-homes.json",
+        "bytes": 792,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-zen-tiny-homes-manage-utility-hookups.json",
+        "bytes": 720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-modular-or-prefab-components-used-in-construction.json",
+        "bytes": 749,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-zen-tiny-homes-eligible-for-green-building-certifications.json",
+        "bytes": 767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-be-used-in-intentional-community-settings.json",
+        "bytes": 750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-pet-accommodations-are-available-in-zen-tiny-homes.json",
+        "bytes": 759,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-zen-tiny-homes-have-smart-home-capabilities.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-extended-warranty-options-offered.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-battery-storage-systems-included-with-solar-options.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-financing-approval-process-usually-take.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-causes-of-building-permit-delays.json",
+        "bytes": 786,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-floor-plan-options-are-available.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-zen-tiny-homes-built-on-or-off-site.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-credit-criteria-are-required-for-financing.json",
+        "bytes": 711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-zen-tiny-homes-accommodate-wheelchair-users.json",
+        "bytes": 720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-zen-tiny-homes-comply-with-fire-regulations.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-insurance-claims-handled.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-return-on-investment-can-tiny-home-owners-expect.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-active-is-the-resale-market-for-tiny-homes.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-post-purchase-smart-tech-upgrades-available.json",
+        "bytes": 699,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/tiny-home-builder-service.json",
+        "bytes": 4353,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/carlsbad-hq-factory.json",
+        "bytes": 277,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/vista-corporate-filing.json",
+        "bytes": 281,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/encinitas-model-office.json",
+        "bytes": 284,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/alpine-model-efficient-urban-living.json",
+        "bytes": 480,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/large-family-custom-mammoth-build.json",
+        "bytes": 472,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/the-zen-cottage-eco-guest-house.json",
+        "bytes": 457,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/alpine-model-efficient-urban-living-107.json",
+        "bytes": 480,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/large-family-custom-mammoth-build-108.json",
+        "bytes": 472,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/the-zen-cottage-eco-guest-house-109.json",
+        "bytes": 457,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/zen-tiny-homes-organization.json",
+        "bytes": 4250,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 23806,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 32254,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 30867,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 18278,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 93714,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 22545,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 317,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 2464,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 353,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 196,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1362,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 56599,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 16270,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 16270,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 2438,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 18067,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 15363,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 802,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed"
+    }
+  }
+}

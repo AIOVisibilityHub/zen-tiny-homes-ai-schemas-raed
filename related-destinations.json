@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T21:57:02.428Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Zen Tiny Homes",
+    "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
+    "primaryWebsiteUrl": "www.zentinyhomes.com",
+    "aiDataHub": "https://zentinyhomes.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Zen Tiny Homes — canonical website",
+      "url": "https://zentinyhomes.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Zen Tiny Homes — AI Data Hub",
+      "url": "https://zentinyhomes.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+name: Monthly Schema Refresh
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh all timestamps
+        run: |
+          TIMESTAMP=\$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          TODAY=\$(date -u +%Y-%m-%d)
+          find faqs help services webpages personnel -name '*.json' 2>/dev/null | while read file; do
+            sed -i "s/\\"dateModified\\":.*./\\"dateModified\\": \\"\$TIMESTAMP\\",/" "\$file" 2>/dev/null || true
+          done
+          [ -f "ai-sitemap.xml" ] && sed -i "s|<lastmod>[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}</lastmod>|<lastmod>\$TODAY</lastmod>|g" ai-sitemap.xml
+          find . -name '*.html' -exec sed -i "s|Last updated: [0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}|Last updated: \$TODAY|g" {} \\;
+          git config user.name 'Schema Publisher'
+          git config user.email 'noreply@schema.publisher'
+          git add -A
+          git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Zen Tiny Homes' && git push)
+      - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
+        run: |
+          SITE="https://zentinyhomes.aiovisibility.net"
+          KEY="2959776437d7c03ff94d5421785b595d"
+          HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
+          if [ -f ai-sitemap.xml ]; then
+            URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
+          else
+            URLS="[\"$SITE/\"]"
+          fi
+          if [ "$URLS" != "[]" ]; then
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json" \
+              -d "{\"host\":\"$HOST\",\"key\":\"$KEY\",\"keyLocation\":\"$SITE/$KEY.txt\",\"urlList\":$URLS}" || true
+          fi
