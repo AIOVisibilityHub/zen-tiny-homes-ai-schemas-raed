@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common challenges clients face, and how are they resolved?",
+  "description": "Challenges include permit delays, site restrictions, and logistics. Zen Tiny Homes provides expert consulting to navigate and resolve these efficiently.",
+  "url": "www.zentinyhomes.com/faq/what-are-common-challenges-clients-face-and-how-are-they-resolved",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common challenges clients face, and how are they resolved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include permit delays, site restrictions, and logistics. Zen Tiny Homes provides expert consulting to navigate and resolve these efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

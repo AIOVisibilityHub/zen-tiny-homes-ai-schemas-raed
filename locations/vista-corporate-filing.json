@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Zen Tiny Homes - Vista (corporate/filing)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "906 La Rueda Dr",
+    "addressLocality": "Vista",
+    "addressRegion": "CA"
+  },
+  "telephone": "760-492-0742",
+  "url": "www.zentinyhomes.com"
+}

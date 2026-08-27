@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What interior finishes and materials are offered?",
+  "description": "Options include hardwood floors, quartz countertops, custom cabinetry, modern rustic or minimalist finishes chosen to match client preferences.",
+  "url": "www.zentinyhomes.com/faq/what-interior-finishes-and-materials-are-offered",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What interior finishes and materials are offered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Options include hardwood floors, quartz countertops, custom cabinetry, modern rustic or minimalist finishes chosen to match client preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

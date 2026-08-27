@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes be used for short-term rentals (Airbnb, VRBO)?",
+  "description": "Yes, they are popular for short-term rentals subject to local regulations, offering stylish and functional spaces attractive to travelers.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-be-used-for-short-term-rentals-airbnb-vrbo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes be used for short-term rentals (Airbnb, VRBO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, they are popular for short-term rentals subject to local regulations, offering stylish and functional spaces attractive to travelers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

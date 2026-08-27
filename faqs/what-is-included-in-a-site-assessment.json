@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a site assessment?",
+  "description": "Zen Tiny Homes’ site assessment involves a professional visiting your property, surveying site conditions, and advising on placement, logistics, and local requi",
+  "url": "www.zentinyhomes.com/faq/what-is-included-in-a-site-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a site assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes’ site assessment involves a professional visiting your property, surveying site conditions, and advising on placement, logistics, and local requirements.​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

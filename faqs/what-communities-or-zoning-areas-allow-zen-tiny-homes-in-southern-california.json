@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What communities or zoning areas allow Zen Tiny Homes in Southern California?",
+  "description": "Many Southern California jurisdictions allow tiny homes as RVs, ADUs, or under special permits; Zen Tiny Homes verifies zoning compliance for each project.",
+  "url": "www.zentinyhomes.com/faq/what-communities-or-zoning-areas-allow-zen-tiny-homes-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What communities or zoning areas allow Zen Tiny Homes in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many Southern California jurisdictions allow tiny homes as RVs, ADUs, or under special permits; Zen Tiny Homes verifies zoning compliance for each project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

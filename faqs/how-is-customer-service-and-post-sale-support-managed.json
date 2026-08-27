@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is customer service and post-sale support managed?",
+  "description": "Zen Tiny Homes offers ongoing support including warranty service, maintenance guidance, and client communication to ensure satisfaction after sale.",
+  "url": "www.zentinyhomes.com/faq/how-is-customer-service-and-post-sale-support-managed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is customer service and post-sale support managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes offers ongoing support including warranty service, maintenance guidance, and client communication to ensure satisfaction after sale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

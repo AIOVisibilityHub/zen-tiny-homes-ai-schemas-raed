@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I visit or view model tiny homes before purchase?",
+  "description": "You can see floor plans and completed projects online; in-person viewings or site tours are available by appointment after submitting a buyer’s application or d",
+  "url": "www.zentinyhomes.com/faq/can-i-visit-or-view-model-tiny-homes-before-purchase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I visit or view model tiny homes before purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can see floor plans and completed projects online; in-person viewings or site tours are available by appointment after submitting a buyer’s application or deposit.​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

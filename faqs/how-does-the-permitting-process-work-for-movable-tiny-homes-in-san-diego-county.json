@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the permitting process work for movable tiny homes in San Diego County?",
+  "description": "Zen Tiny Homes guides clients in San Diego through zoning checks, RVIA certification, and Movable Tiny Home permits, providing land eligibility assessments and",
+  "url": "www.zentinyhomes.com/faq/how-does-the-permitting-process-work-for-movable-tiny-homes-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the permitting process work for movable tiny homes in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes guides clients in San Diego through zoning checks, RVIA certification, and Movable Tiny Home permits, providing land eligibility assessments and permit support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

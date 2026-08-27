@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Zen Tiny Homes manage utility hookups?",
+  "description": "They coordinate connections for electricity, water, and sewage, working with local utilities for seamless setup on your property.",
+  "url": "www.zentinyhomes.com/faq/does-zen-tiny-homes-manage-utility-hookups",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Zen Tiny Homes manage utility hookups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They coordinate connections for electricity, water, and sewage, working with local utilities for seamless setup on your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

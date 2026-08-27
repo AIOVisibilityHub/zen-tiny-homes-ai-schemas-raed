@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes be winterized for cold climates?",
+  "description": "Yes, homes can be equipped with enhanced insulation, efficient heating systems, and sealed windows to withstand cold weather conditions.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-be-winterized-for-cold-climates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes be winterized for cold climates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, homes can be equipped with enhanced insulation, efficient heating systems, and sealed windows to withstand cold weather conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes be used in intentional community settings?",
+  "description": "Yes, they are suitable for co-housing and eco-village projects, supporting sustainable and community-oriented living.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-be-used-in-intentional-community-settings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes be used in intentional community settings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, they are suitable for co-housing and eco-village projects, supporting sustainable and community-oriented living."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are insurance claims handled?",
+  "description": "Zen Tiny Homes supports clients through the claims process providing documentation and repair coordination.",
+  "url": "www.zentinyhomes.com/faq/how-are-insurance-claims-handled",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are insurance claims handled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes supports clients through the claims process providing documentation and repair coordination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes help with permits beyond building codes?",
+  "description": "Yes, including environmental permits, utility hookups, and HOA approvals through experienced permit consultants.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-help-with-permits-beyond-building-codes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes help with permits beyond building codes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, including environmental permits, utility hookups, and HOA approvals through experienced permit consultants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

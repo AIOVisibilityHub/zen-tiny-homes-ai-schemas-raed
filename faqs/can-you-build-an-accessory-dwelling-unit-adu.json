@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you build an Accessory Dwelling Unit (ADU)?",
+  "description": "Zen Tiny Homes specializes in ADUs as well as standalone tiny homes, and they assist with permitting to ensure the build meets all California code and zoning re",
+  "url": "www.zentinyhomes.com/faq/can-you-build-an-accessory-dwelling-unit-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you build an Accessory Dwelling Unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes specializes in ADUs as well as standalone tiny homes, and they assist with permitting to ensure the build meets all California code and zoning regulations.​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

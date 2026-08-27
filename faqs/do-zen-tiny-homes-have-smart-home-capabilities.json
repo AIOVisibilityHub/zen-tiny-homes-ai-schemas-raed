@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes have smart home capabilities?",
+  "description": "Clients can integrate smart thermostats, security cameras, lighting, and appliance controls for a connected living experience.",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-have-smart-home-capabilities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes have smart home capabilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clients can integrate smart thermostats, security cameras, lighting, and appliance controls for a connected living experience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

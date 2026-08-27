@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for moving a tiny home onto a property?",
+  "description": "Zen Tiny Homes coordinate licensed movers to transport units safely with onsite setup including leveling, anchoring, and utility connections backed by professio",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-moving-a-tiny-home-onto-a-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for moving a tiny home onto a property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes coordinate licensed movers to transport units safely with onsite setup including leveling, anchoring, and utility connections backed by professional installation services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

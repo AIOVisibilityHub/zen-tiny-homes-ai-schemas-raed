@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the steps to convert a garage into a tiny home?",
+  "description": "Steps include assessing space, obtaining permits, designing a compliant floor plan, ensuring utilities access, and professional construction or conversion by Ze",
+  "url": "www.zentinyhomes.com/faq/what-are-the-steps-to-convert-a-garage-into-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the steps to convert a garage into a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steps include assessing space, obtaining permits, designing a compliant floor plan, ensuring utilities access, and professional construction or conversion by Zen Tiny Homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

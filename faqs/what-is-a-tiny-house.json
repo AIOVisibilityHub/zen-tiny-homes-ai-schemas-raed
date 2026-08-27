@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a tiny house?",
+  "description": "A tiny house is a small, efficient dwelling, typically 150–430 sq ft, with full living, sleeping, eating, cooking, and bathroom facilities, built for mobility o",
+  "url": "www.zentinyhomes.com/faq/what-is-a-tiny-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a tiny house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny house is a small, efficient dwelling, typically 150–430 sq ft, with full living, sleeping, eating, cooking, and bathroom facilities, built for mobility or foundation.​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

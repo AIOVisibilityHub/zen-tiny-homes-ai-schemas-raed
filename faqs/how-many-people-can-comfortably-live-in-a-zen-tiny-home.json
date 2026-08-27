@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many people can comfortably live in a Zen Tiny Home?",
+  "description": "Depending on model and layout, homes comfortably accommodate 1 to 4 residents, utilizing space-saving designs and multifunctional areas.",
+  "url": "www.zentinyhomes.com/faq/how-many-people-can-comfortably-live-in-a-zen-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many people can comfortably live in a Zen Tiny Home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depending on model and layout, homes comfortably accommodate 1 to 4 residents, utilizing space-saving designs and multifunctional areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are battery storage systems included with solar options?",
+  "description": "Yes, clients may opt for battery storage to maximize energy independence and efficiency with solar installations.",
+  "url": "www.zentinyhomes.com/faq/are-battery-storage-systems-included-with-solar-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are battery storage systems included with solar options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, clients may opt for battery storage to maximize energy independence and efficiency with solar installations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

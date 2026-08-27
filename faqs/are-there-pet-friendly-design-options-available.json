@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there pet-friendly design options available?",
+  "description": "Yes, Zen Tiny Homes can be customized with pet-friendly flooring, built-in feeding stations, and secure outdoor spaces to accommodate pets safely.",
+  "url": "www.zentinyhomes.com/faq/are-there-pet-friendly-design-options-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there pet-friendly design options available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes can be customized with pet-friendly flooring, built-in feeding stations, and secure outdoor spaces to accommodate pets safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

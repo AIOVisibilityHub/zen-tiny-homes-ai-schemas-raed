@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for selling a Zen Tiny Home?",
+  "description": "Selling a Zen Tiny Home involves market appraisal, preparing the home for sale, legal documentation, and using specialized real estate channels experienced with",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-selling-a-zen-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for selling a Zen Tiny Home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selling a Zen Tiny Home involves market appraisal, preparing the home for sale, legal documentation, and using specialized real estate channels experienced with tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

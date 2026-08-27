@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do Zen Tiny Homes handle fire safety and compliance?",
+  "description": "Zen Tiny Homes use fire-resistant materials and meet all fire safety codes and regulations relevant to tiny homes to ensure occupant safety.",
+  "url": "www.zentinyhomes.com/faq/how-do-zen-tiny-homes-handle-fire-safety-and-compliance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Zen Tiny Homes handle fire safety and compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes use fire-resistant materials and meet all fire safety codes and regulations relevant to tiny homes to ensure occupant safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

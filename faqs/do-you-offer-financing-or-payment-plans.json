@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer financing or payment plans?",
+  "description": "Zen Tiny Homes helps clients explore financing options and provides phased payment schedules depending on the project’s scope and budget.​",
+  "url": "www.zentinyhomes.com/faq/do-you-offer-financing-or-payment-plans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer financing or payment plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes helps clients explore financing options and provides phased payment schedules depending on the project’s scope and budget.​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

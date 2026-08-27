@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a custom Zen Tiny Home cost?",
+  "description": "Completed tiny homes start at $25,000. Site assessment is $500, and the custom design program starts at $2,500. Pricing increases with size, materials, and cust",
+  "url": "www.zentinyhomes.com/faq/how-much-does-a-custom-zen-tiny-home-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a custom Zen Tiny Home cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Completed tiny homes start at $25,000. Site assessment is $500, and the custom design program starts at $2,500. Pricing increases with size, materials, and custom features.​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

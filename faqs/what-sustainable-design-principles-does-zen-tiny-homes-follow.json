@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What sustainable design principles does Zen Tiny Homes follow?",
+  "description": "They incorporate passive solar design, use eco-friendly building materials, prioritize energy efficiency, and minimize waste throughout construction.",
+  "url": "www.zentinyhomes.com/faq/what-sustainable-design-principles-does-zen-tiny-homes-follow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What sustainable design principles does Zen Tiny Homes follow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They incorporate passive solar design, use eco-friendly building materials, prioritize energy efficiency, and minimize waste throughout construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

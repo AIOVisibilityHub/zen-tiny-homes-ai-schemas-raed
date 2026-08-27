@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes support healthy living?",
+  "description": "Homes feature natural light, ventilation, non-toxic materials, and ergonomic designs to promote physical and mental well-being.",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-support-healthy-living",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes support healthy living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homes feature natural light, ventilation, non-toxic materials, and ergonomic designs to promote physical and mental well-being."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

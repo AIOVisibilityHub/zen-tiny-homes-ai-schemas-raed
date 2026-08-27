@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What insurance options are recommended for Zen Tiny Homes?",
+  "description": "Homeowners typically require specialized tiny home insurance or RV insurance. Zen Tiny Homes assists with insurance providers familiar with tiny homes.",
+  "url": "www.zentinyhomes.com/faq/what-insurance-options-are-recommended-for-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What insurance options are recommended for Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowners typically require specialized tiny home insurance or RV insurance. Zen Tiny Homes assists with insurance providers familiar with tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What privacy features are incorporated into Zen Tiny Homes?",
+  "description": "Soundproofing, strategic window placement, and smart layouts enhance privacy without compromising space or natural light.",
+  "url": "www.zentinyhomes.com/faq/what-privacy-features-are-incorporated-into-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What privacy features are incorporated into Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soundproofing, strategic window placement, and smart layouts enhance privacy without compromising space or natural light."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

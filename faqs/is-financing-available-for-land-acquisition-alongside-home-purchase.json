@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is financing available for land acquisition alongside home purchase?",
+  "description": "Financing options for land purchase can be coordinated alongside home financing through approved lenders familiar with tiny home projects.",
+  "url": "www.zentinyhomes.com/faq/is-financing-available-for-land-acquisition-alongside-home-purchase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is financing available for land acquisition alongside home purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Financing options for land purchase can be coordinated alongside home financing through approved lenders familiar with tiny home projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

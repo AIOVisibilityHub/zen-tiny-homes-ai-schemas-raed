@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are solar power options available for Zen Tiny Homes?",
+  "description": "Yes, customizable solar power systems with battery storage are offered to reduce utility bills or enable off-grid living solutions.",
+  "url": "www.zentinyhomes.com/faq/are-solar-power-options-available-for-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are solar power options available for Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customizable solar power systems with battery storage are offered to reduce utility bills or enable off-grid living solutions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

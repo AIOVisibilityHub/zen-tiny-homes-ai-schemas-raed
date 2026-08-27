@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are alternative financing options like crowdfunding available?",
+  "description": "Zen Tiny Homes consults on alternative financing such as crowdfunding and grants to help clients with unique funding needs.",
+  "url": "www.zentinyhomes.com/faq/are-alternative-financing-options-like-crowdfunding-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are alternative financing options like crowdfunding available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes consults on alternative financing such as crowdfunding and grants to help clients with unique funding needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

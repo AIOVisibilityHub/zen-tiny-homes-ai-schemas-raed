@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Zen Tiny Homes - Encinitas (model office)",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "227 Rosebay Dr",
+    "addressLocality": "Encinitas",
+    "addressRegion": "CA"
+  },
+  "telephone": "760-492-0742",
+  "url": "www.zentinyhomes.com"
+}

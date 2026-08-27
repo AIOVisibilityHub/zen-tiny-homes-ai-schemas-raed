@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes be delivered outside California?",
+  "description": "Delivery outside California is possible with additional shipping and permitting considerations. Zen Tiny Homes coordinates logistics for out-of-state clients.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-be-delivered-outside-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes be delivered outside California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delivery outside California is possible with additional shipping and permitting considerations. Zen Tiny Homes coordinates logistics for out-of-state clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

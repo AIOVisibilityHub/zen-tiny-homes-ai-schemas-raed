@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do Zen Tiny Homes contribute to housing affordability?",
+  "description": "By offering cost-effective, sustainable housing solutions that reduce barriers to entry, Zen Tiny Homes help alleviate housing shortages and affordability.",
+  "url": "www.zentinyhomes.com/faq/how-do-zen-tiny-homes-contribute-to-housing-affordability",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Zen Tiny Homes contribute to housing affordability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By offering cost-effective, sustainable housing solutions that reduce barriers to entry, Zen Tiny Homes help alleviate housing shortages and affordability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

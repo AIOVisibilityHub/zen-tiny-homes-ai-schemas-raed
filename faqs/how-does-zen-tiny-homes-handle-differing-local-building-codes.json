@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Zen Tiny Homes handle differing local building codes?",
+  "description": "The company conducts thorough research for each build location and adapts designs to meet or exceed all local building codes and regulations.",
+  "url": "www.zentinyhomes.com/faq/how-does-zen-tiny-homes-handle-differing-local-building-codes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Zen Tiny Homes handle differing local building codes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The company conducts thorough research for each build location and adapts designs to meet or exceed all local building codes and regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

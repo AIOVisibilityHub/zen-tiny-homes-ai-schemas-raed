@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are interior design services offered by Zen Tiny Homes?",
+  "description": "Custom interior design consultations are available to select finishes, layouts, and furnishings that reflect your personal style and functionality.",
+  "url": "www.zentinyhomes.com/faq/are-interior-design-services-offered-by-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are interior design services offered by Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom interior design consultations are available to select finishes, layouts, and furnishings that reflect your personal style and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

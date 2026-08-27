@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the financing approval process usually take?",
+  "description": "Typical loan approvals take 30 to 60 days depending on lender and client documentation readiness.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-the-financing-approval-process-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the financing approval process usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical loan approvals take 30 to 60 days depending on lender and client documentation readiness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

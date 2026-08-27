@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Brent Hensley’s background in design and construction?",
+  "description": "Brent Hensley has decades of experience in architecture and custom home building, focused on innovative and sustainable tiny home designs.",
+  "url": "www.zentinyhomes.com/faq/what-is-brent-hensley-s-background-in-design-and-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Brent Hensley’s background in design and construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brent Hensley has decades of experience in architecture and custom home building, focused on innovative and sustainable tiny home designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

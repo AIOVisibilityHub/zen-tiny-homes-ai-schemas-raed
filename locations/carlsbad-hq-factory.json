@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Zen Tiny Homes - Carlsbad HQ/Factory",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7200 Ponto Rd",
+    "addressLocality": "Carlsbad",
+    "addressRegion": "CA"
+  },
+  "telephone": "760-492-0742",
+  "url": "www.zentinyhomes.com"
+}

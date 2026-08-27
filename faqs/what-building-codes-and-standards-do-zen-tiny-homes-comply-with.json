@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What building codes and standards do Zen Tiny Homes comply with?",
+  "description": "They comply with California building codes, RVIA standards for tiny homes on wheels, fire safety regulations, and local zoning laws.",
+  "url": "www.zentinyhomes.com/faq/what-building-codes-and-standards-do-zen-tiny-homes-comply-with",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What building codes and standards do Zen Tiny Homes comply with?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They comply with California building codes, RVIA standards for tiny homes on wheels, fire safety regulations, and local zoning laws."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What technology integrations are available in Zen Tiny Homes?",
+  "description": "Options include smart thermostats, security systems, solar monitoring, and voice-controlled lighting and appliances for modern living.",
+  "url": "www.zentinyhomes.com/faq/what-technology-integrations-are-available-in-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What technology integrations are available in Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Options include smart thermostats, security systems, solar monitoring, and voice-controlled lighting and appliances for modern living."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

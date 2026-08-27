@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes Zen Tiny Homes different from other builders in Southern California?",
+  "description": "Zen Tiny Homes stands out with fully customizable designs, strict code compliance, use of sustainable materials, and dedicated customer support throughout the b",
+  "url": "www.zentinyhomes.com/faq/what-makes-zen-tiny-homes-different-from-other-builders-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes Zen Tiny Homes different from other builders in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes stands out with fully customizable designs, strict code compliance, use of sustainable materials, and dedicated customer support throughout the build process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

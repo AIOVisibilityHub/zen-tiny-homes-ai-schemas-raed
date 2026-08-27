@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What impact do tiny homes have on neighborhoods?",
+  "description": "Tiny homes provide affordable housing with minimal environmental impact, often revitalizing underused spaces without overcrowding neighborhoods.",
+  "url": "www.zentinyhomes.com/faq/what-impact-do-tiny-homes-have-on-neighborhoods",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What impact do tiny homes have on neighborhoods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny homes provide affordable housing with minimal environmental impact, often revitalizing underused spaces without overcrowding neighborhoods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

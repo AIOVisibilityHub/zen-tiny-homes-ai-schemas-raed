@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes units qualify as accessory dwelling units (ADUs)?",
+  "description": "Many Zen Tiny Homes qualify as ADUs depending on local regulations, size restrictions, and utility provisions; Zen Tiny Homes assists with ADU eligibility and p",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-units-qualify-as-accessory-dwelling-units-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes units qualify as accessory dwelling units (ADUs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many Zen Tiny Homes qualify as ADUs depending on local regulations, size restrictions, and utility provisions; Zen Tiny Homes assists with ADU eligibility and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

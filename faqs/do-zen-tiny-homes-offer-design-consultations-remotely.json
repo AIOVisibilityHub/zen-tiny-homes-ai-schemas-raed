@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes offer design consultations remotely?",
+  "description": "Yes, virtual consultations via video call or phone are offered to clients worldwide for personalized design and planning support.",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-offer-design-consultations-remotely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes offer design consultations remotely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, virtual consultations via video call or phone are offered to clients worldwide for personalized design and planning support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

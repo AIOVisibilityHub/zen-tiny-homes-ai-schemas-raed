@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are tiny homes a good investment for rental income?",
+  "description": "Tiny homes can generate strong rental income due to high demand for unique, affordable, and flexible housing options, especially in popular short-term rental ma",
+  "url": "www.zentinyhomes.com/faq/are-tiny-homes-a-good-investment-for-rental-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are tiny homes a good investment for rental income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny homes can generate strong rental income due to high demand for unique, affordable, and flexible housing options, especially in popular short-term rental markets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

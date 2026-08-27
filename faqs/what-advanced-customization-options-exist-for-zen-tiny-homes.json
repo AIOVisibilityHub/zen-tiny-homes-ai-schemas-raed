@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What advanced customization options exist for Zen Tiny Homes?",
+  "description": "Clients may choose smart home automation, custom cabinetry, solar power systems, and specialized finishes tailored to individual preferences.",
+  "url": "www.zentinyhomes.com/faq/what-advanced-customization-options-exist-for-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What advanced customization options exist for Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clients may choose smart home automation, custom cabinetry, solar power systems, and specialized finishes tailored to individual preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

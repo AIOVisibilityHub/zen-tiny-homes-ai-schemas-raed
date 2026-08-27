@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What project management support does Zen Tiny Homes offer?",
+  "description": "Zen Tiny Homes provides end-to-end project management including timeline tracking, permit coordination, subcontractor oversight, and client communication.",
+  "url": "www.zentinyhomes.com/faq/what-project-management-support-does-zen-tiny-homes-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What project management support does Zen Tiny Homes offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes provides end-to-end project management including timeline tracking, permit coordination, subcontractor oversight, and client communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
