@@ -17,6 +17,7 @@ Zen Tiny Homes publishes a structured AI Data Package designed for high-trust di
 - [canonical] Zen Tiny Homes — canonical website — https://zentinyhomes.aiovisibility.net
 - [ai-data-hub] Zen Tiny Homes — AI Data Hub — https://zentinyhomes.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/zen-tiny-homes-ai-schemas-raed/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
