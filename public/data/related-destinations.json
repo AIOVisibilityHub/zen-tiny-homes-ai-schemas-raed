@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-03T00:19:12.411Z",
+  "generatedAt": "2026-09-03T00:19:28.916Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/zen-tiny-homes-ai-schemas-raed/ai-data.html"
+      "url": "https://zentinyhomes.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed",
-      "pagesUrl": "https://aiovisibilityhub.github.io/zen-tiny-homes-ai-schemas-raed/",
+      "pagesUrl": "https://zentinyhomes.aiovisibility.net/",
       "repo": "AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed"
     }
   }

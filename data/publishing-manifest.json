@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-03T00:19:12.422Z",
+  "generatedAt": "2026-09-03T00:19:28.923Z",
   "client": {
     "name": "Zen Tiny Homes",
     "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
@@ -119,7 +119,7 @@
   },
   "package": {
     "totalFiles": 585,
-    "totalBytes": 3148432,
+    "totalBytes": 3110349,
     "stats": {
       "faqs": 326,
       "helpArticles": 230,
@@ -2984,37 +2984,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 24023,
+        "bytes": 18479,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 30661,
+        "bytes": 25245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 30904,
+        "bytes": 25296,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18315,
+        "bytes": 13006,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 317052,
+        "bytes": 311738,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 653647,
+        "bytes": 648402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 19440,
+        "bytes": 14036,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3026,7 +3026,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2594,
+        "bytes": 2567,
         "purpose": "LLM hint"
       },
       {
@@ -3046,32 +3046,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1641,
+        "bytes": 1587,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 261376,
+        "bytes": 261322,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 71342,
+        "bytes": 71315,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 71342,
+        "bytes": 71315,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2592,
+        "bytes": 2565,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 89796,
+        "bytes": 89769,
         "purpose": "Repository README"
       },
       {
@@ -3089,7 +3089,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed",
-      "pagesUrl": "https://aiovisibilityhub.github.io/zen-tiny-homes-ai-schemas-raed/",
+      "pagesUrl": "https://zentinyhomes.aiovisibility.net/",
       "repo": "AIOVisibilityHub/zen-tiny-homes-ai-schemas-raed"
     }
   }
