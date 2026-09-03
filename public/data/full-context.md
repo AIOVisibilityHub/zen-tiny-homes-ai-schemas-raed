@@ -1,16 +1,17 @@
 # Zen Tiny Homes — Full AI Context
 
 **Canonical URL:** https://zentinyhomes.aiovisibility.net
-**Generated:** 2026-08-27
+**Generated:** 2026-09-03
 
 ## Overview
 Zen Tiny Homes publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **99** faqs
+- **326** faqs
+- **230** helpArticles
 - **1** services
 - **3** locations
-- **6** caseStudies
+- **3** caseStudies
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources

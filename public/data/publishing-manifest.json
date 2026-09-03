@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T21:57:09.961Z",
+  "generatedAt": "2026-09-03T00:19:12.422Z",
   "client": {
     "name": "Zen Tiny Homes",
     "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
@@ -10,31 +10,31 @@
     "email": "zentinyhomes@gmail.com",
     "locations": [
       {
-        "name": "Carlsbad",
-        "address": "7200 Ponto Rd",
+        "zip": "",
         "city": "Carlsbad",
-        "state": "CA",
-        "zip": "",
+        "name": "Carlsbad",
+        "email": "zentinyhomes@gmail.com",
         "phone": "760-492-0742",
-        "email": "zentinyhomes@gmail.com"
+        "state": "CA",
+        "address": "7200 Ponto Rd"
       },
       {
-        "name": "Vista (corporate/filing)",
-        "address": "906 La Rueda Dr",
+        "zip": "",
         "city": "Vista",
-        "state": "CA",
-        "zip": "",
+        "name": "Vista (corporate/filing)",
+        "email": "zentinyhomes@gmail.com",
         "phone": "760-492-0742",
-        "email": "zentinyhomes@gmail.com"
+        "state": "CA",
+        "address": "906 La Rueda Dr"
       },
       {
-        "name": "Encinitas (model office)",
-        "address": "227 Rosebay Dr",
-        "city": "Encinitas",
-        "state": "CA",
         "zip": "",
+        "city": "Encinitas",
+        "name": "Encinitas (model office)",
+        "email": "zentinyhomes@gmail.com",
         "phone": "760-492-0742",
-        "email": "zentinyhomes@gmail.com"
+        "state": "CA",
+        "address": "227 Rosebay Dr"
       }
     ],
     "services": [
@@ -118,24 +118,24 @@
     ]
   },
   "package": {
-    "totalFiles": 130,
-    "totalBytes": 410158,
+    "totalFiles": 585,
+    "totalBytes": 3148432,
     "stats": {
-      "faqs": 99,
-      "helpArticles": 0,
+      "faqs": 326,
+      "helpArticles": 230,
       "services": 1,
       "webpages": 0,
       "personnel": 0,
       "products": 0,
       "locations": 3,
       "awards": 0,
-      "caseStudies": 6,
+      "caseStudies": 3,
       "organization": 1,
       "press": 0,
       "reviews": 0,
       "qna": 0,
       "research": 0,
-      "total": 110
+      "total": 564
     }
   },
   "entrypoints": {
@@ -149,6 +149,54 @@
     "readme": "README.md"
   },
   "categories": {
+    "services": [
+      {
+        "path": "services/tiny-home-builder-service.json",
+        "bytes": 4353,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/carlsbad-hq-factory.json",
+        "bytes": 277,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/vista-corporate-filing.json",
+        "bytes": 281,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/encinitas-model-office.json",
+        "bytes": 284,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/alpine-model-efficient-urban-living.json",
+        "bytes": 480,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/large-family-custom-mammoth-build.json",
+        "bytes": 472,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/the-zen-cottage-eco-guest-house.json",
+        "bytes": 457,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/zen-tiny-homes-organization.json",
+        "bytes": 4250,
+        "purpose": "schema"
+      }
+    ],
     "faqs": [
       {
         "path": "faqs/what-is-a-tiny-house.json",
@@ -644,100 +692,2329 @@
         "path": "faqs/are-post-purchase-smart-tech-upgrades-available.json",
         "bytes": 699,
         "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-designing-a-custom-tiny-home.json",
+        "bytes": 1232,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-influence-the-cost-of-a-custom-tiny-home-design.json",
+        "bytes": 1356,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-designing-a-custom-tiny-home-with-zen-tiny-homes.json",
+        "bytes": 1455,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-own-land-before-starting-a-custom-tiny-home-design.json",
+        "bytes": 1336,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-building-codes-apply-to-tiny-homes-in-san-marcos.json",
+        "bytes": 1459,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-provide-my-own-floor-plans-or-must-i-use-zen-tiny-homes-designs.json",
+        "bytes": 1399,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-advantages-of-a-custom-tiny-home-over-a-pre-designed-model.json",
+        "bytes": 1451,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-energy-efficiency-considerations-impact-custom-tiny-home-design.json",
+        "bytes": 1461,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-required-for-a-tiny-home-on-a-permanent-foundation-in-escondido.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-materials-for-my-custom-tiny-home.json",
+        "bytes": 1450,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-considered-a-tiny-home-and-what-are-the-typical-dimensions.json",
+        "bytes": 1294,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-average-cost-of-a-custom-tiny-home-built-by-zen-tiny-homes.json",
+        "bytes": 1306,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-custom-tiny-home.json",
+        "bytes": 1245,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-a-tiny-home-on-a-foundation-or-does-it-have-to-be-on-wheels.json",
+        "bytes": 1354,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-permits-are-needed-for-a-tiny-home-in-san-marcos.json",
+        "bytes": 1409,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-a-custom-built-tiny-home-and-a-pre-built-model.json",
+        "bytes": 1444,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utility-connections-are-needed-for-a-tiny-home.json",
+        "bytes": 1340,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-lifespan-of-a-custom-built-tiny-home.json",
+        "bytes": 1364,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-common-challenges-in-building-a-tiny-home-in-the-vista-area.json",
+        "bytes": 1479,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-tiny-home-property-assessment.json",
+        "bytes": 1395,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-a-property-assessment-for-my-tiny-home.json",
+        "bytes": 1397,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-tiny-home-property-assessment-cost.json",
+        "bytes": 1399,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-specific-regulations-apply-to-tiny-homes-in-oceanside.json",
+        "bytes": 1466,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-a-tiny-home-property-assessment.json",
+        "bytes": 1466,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-property-assessment-if-i-m-putting-my-tiny-home-on-a-foundation.json",
+        "bytes": 1450,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-tiny-home-property-assessment-take.json",
+        "bytes": 1344,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-a-property-assessment-and-a-home-appraisal-for-a-t.json",
+        "bytes": 1525,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-property-assessment-reveals-challenges-for-a-tiny-home.json",
+        "bytes": 1505,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-a-property-assessment-for-a-tiny-home-on-wheels.json",
+        "bytes": 1430,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-site-feasibility-consultation-for-a-tiny-home.json",
+        "bytes": 1264,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-schedule-a-site-feasibility-consultation.json",
+        "bytes": 1203,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-are-assessed-during-a-site-feasibility-consultation.json",
+        "bytes": 1292,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-site-feasibility-consultation-take.json",
+        "bytes": 1180,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-cost-of-a-site-feasibility-consultation-for-a-tiny-home.json",
+        "bytes": 1202,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-site-feasibility-consultation-if-i-already-own-land.json",
+        "bytes": 1285,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-site-feasibility-consultation-and-a-general-pro.json",
+        "bytes": 1368,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-assist-with-permitting-and-zoning-if-issues-are-found-during.json",
+        "bytes": 1322,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-a-site-feasibility-consultation-important-for-tiny-homes-in-oceanside.json",
+        "bytes": 1323,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-have-ready-for-my-site-feasibility-consultation.json",
+        "bytes": 1233,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-small-space-planning.json",
+        "bytes": 1354,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-maximize-storage-in-a-small-home.json",
+        "bytes": 1425,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-challenges-in-small-space-planning.json",
+        "bytes": 1455,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-a-small-space-planning-project.json",
+        "bytes": 1474,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-specific-design-styles-best-suited-for-small-spaces.json",
+        "bytes": 1499,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-professional-small-space-planning-cost.json",
+        "bytes": 1488,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-hire-a-small-space-planning-specialist.json",
+        "bytes": 1462,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-advantages-of-a-multi-functional-space-in-tiny-homes.json",
+        "bytes": 1469,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-small-space-planning-services-in-carlsbad-ca.json",
+        "bytes": 1423,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-integrate-sustainability-into-small-space-planning.json",
+        "bytes": 1535,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-custom-floor-plan-development.json",
+        "bytes": 1350,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-develop-a-custom-tiny-home-floor-plan.json",
+        "bytes": 1439,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-cost-for-custom-floor-plan-development-for-a-tiny-home.json",
+        "bytes": 1400,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-creating-a-custom-floor-plan-with-zen-tiny-homes.json",
+        "bytes": 1370,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-a-custom-floor-plan-instead-of-a-standard-design.json",
+        "bytes": 1480,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-provide-my-own-sketches-or-ideas-for-the-custom-floor-plan.json",
+        "bytes": 1339,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-specific-regulations-for-tiny-home-floor-plans-in-oceanside.json",
+        "bytes": 1558,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-custom-floor-plan-development-differ-from-interior-design-services.json",
+        "bytes": 1504,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-should-i-consider-when-planning-a-tiny-home-floor-plan.json",
+        "bytes": 1440,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-zen-tiny-homes-assist-with-custom-floor-plans-for-ada-accessibility.json",
+        "bytes": 1435,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-interior-layout-design-for-a-tiny-home.json",
+        "bytes": 1362,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-typically-take-to-finalize-a-tiny-home-interior-layout-design.json",
+        "bytes": 1335,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-key-differences-between-a-custom-tiny-home-layout-and-a-pre-designe.json",
+        "bytes": 1529,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-designing-the-interior-layout-of-my-zen-tiny-home.json",
+        "bytes": 1397,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-maximize-storage-in-my-tiny-home-s-interior-layout.json",
+        "bytes": 1441,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-start-thinking-about-interior-layout-design-for-my-tiny-home-proje.json",
+        "bytes": 1484,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-cost-range-for-interior-layout-design-services-for-a-tiny-ho.json",
+        "bytes": 1522,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-best-interior-layout-for-my-tiny-home-if-i-have-specific-acc.json",
+        "bytes": 1537,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-design-a-tiny-home-interior-layout-suitable-for-a-family-with-children.json",
+        "bytes": 1464,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-common-interior-layout-design-trends-for-tiny-homes-in-carlsbad.json",
+        "bytes": 1483,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-space-optimization-design-in-a-tiny-home.json",
+        "bytes": 1187,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-my-small-living-space-feel-larger.json",
+        "bytes": 1235,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-storage-solutions-for-tiny-homes.json",
+        "bytes": 1213,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-designing-a-space-optimized-tiny-home.json",
+        "bytes": 1328,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-professional-space-optimization-design-cost-for-a-tiny-home.json",
+        "bytes": 1376,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-professional-space-optimization-design-for-my-tiny-home-p.json",
+        "bytes": 1360,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-minimalist-design-and-space-optimization-design.json",
+        "bytes": 1493,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-space-optimization-design-increase-the-resale-value-of-a-tiny-home.json",
+        "bytes": 1291,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-integrate-sustainability-into-space-optimized-tiny-home-designs.json",
+        "bytes": 1427,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-design-considerations-are-unique-to-tiny-homes-in-san-marcos-ca.json",
+        "bytes": 1433,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-storage-optimization-design-for-tiny-homes.json",
+        "bytes": 1265,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-maximize-storage-in-my-tiny-home-without-making-it-feel-cluttered.json",
+        "bytes": 1358,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-common-storage-challenges-in-tiny-homes.json",
+        "bytes": 1299,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-a-professional-for-storage-optimization-design-in-my-tiny.json",
+        "bytes": 1365,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-custom-storage-solutions-does-zen-tiny-homes-offer.json",
+        "bytes": 1341,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-storage-optimization-design-typically-add-to-the-cost-of-a-tiny-ho.json",
+        "bytes": 1430,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-design-process-for-integrating-storage-solutions-into-a-tiny-home.json",
+        "bytes": 1426,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-specific-storage-solutions-recommended-for-a-tiny-home-in-the-vista-ar.json",
+        "bytes": 1484,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-design-and-implement-custom-storage-solutions.json",
+        "bytes": 1363,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-storage-optimization-design-increase-the-resale-value-of-my-tiny-home.json",
+        "bytes": 1351,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-multifunctional-living-space-design.json",
+        "bytes": 1271,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-multifunctional-design-save-space-in-a-tiny-home.json",
+        "bytes": 1322,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-examples-of-multifunctional-furniture-for-tiny-homes.json",
+        "bytes": 1280,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-multifunctional-design-for-my-tiny-home.json",
+        "bytes": 1293,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-multifunctional-design-impact-the-cost-of-a-tiny-home.json",
+        "bytes": 1407,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-designing-a-multifunctional-living-space-with-zen-tiny-h.json",
+        "bytes": 1534,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-benefits-of-a-modular-vs-built-in-approach-for-multifunctional-tiny.json",
+        "bytes": 1422,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-ensure-my-multifunctional-tiny-home-design-meets-local-building-codes.json",
+        "bytes": 1507,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeframe-for-designing-and-building-a-multifunctional-tiny.json",
+        "bytes": 1398,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-considerations-are-unique-to-designing-multifunctional-spaces-in-oceanside.json",
+        "bytes": 1503,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-a-tiny-home-project-from-start-to-finish.json",
+        "bytes": 1331,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-average-costs-associated-with-building-a-tiny-home.json",
+        "bytes": 1255,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-regulations-are-needed-to-build-a-tiny-home-in-the-areas-you-se.json",
+        "bytes": 1516,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-a-tiny-home-on-wheels-thow-and-a-foundation-tiny-home.json",
+        "bytes": 1387,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-first-step-when-considering-a-tiny-home-project.json",
+        "bytes": 1318,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-customize-the-design-of-my-tiny-home-or-are-there-standard-models-availabl.json",
+        "bytes": 1376,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utility-connections-are-needed-for-a-tiny-home-and-how-are-they-managed.json",
+        "bytes": 1474,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-tiny-home-compare-to-a-traditional-home-in-terms-of-energy-efficiency.json",
+        "bytes": 1502,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-should-i-consider-when-choosing-a-builder-for-my-tiny-home-project.json",
+        "bytes": 1406,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-financing-options-are-available-for-tiny-homes.json",
+        "bytes": 1316,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-should-i-consider-when-choosing-a-location-for-my-tiny-home.json",
+        "bytes": 1350,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-building-permit-to-place-a-tiny-home-in-san-diego-county.json",
+        "bytes": 1487,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-parking-a-tiny-home-on-wheels-and-placing-a-founda.json",
+        "bytes": 1601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-prepare-a-site-for-a-tiny-home.json",
+        "bytes": 1417,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-tiny-home-placement-and-permitting-process-usually-take.json",
+        "bytes": 1447,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-place-a-tiny-home-in-my-backyard-as-an-adu-in-escondido.json",
+        "bytes": 1438,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-foundation-do-tiny-homes-require.json",
+        "bytes": 1474,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-start-planning-for-tiny-home-placement.json",
+        "bytes": 1350,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-an-off-grid-and-on-grid-setup-for-my-tiny-home.json",
+        "bytes": 1547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-customization-options-are-available-for-a-zen-tiny-home.json",
+        "bytes": 1374,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-customize-a-tiny-home.json",
+        "bytes": 1342,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-customized-tiny-home.json",
+        "bytes": 1265,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-upgrade-features-on-my-tiny-home-after-it-s-been-built.json",
+        "bytes": 1415,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-standard-model-and-a-custom-built-tiny-home.json",
+        "bytes": 1452,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-tiny-home-upgrades-affect-its-resale-value.json",
+        "bytes": 1251,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-specific-upgrades-recommended-for-tiny-homes-in-carlsbad.json",
+        "bytes": 1416,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-popular-energy-efficient-upgrades-for-tiny-homes.json",
+        "bytes": 1383,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-finalize-my-customization-choices-during-the-tiny-home-building-pr.json",
+        "bytes": 1414,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-backyard-tiny-home.json",
+        "bytes": 1206,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-backyard-tiny-home-cost-in-san-diego-county.json",
+        "bytes": 1356,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-building-a-backyard-tiny-home-with-zen-tiny-homes.json",
+        "bytes": 1395,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-backyard-tiny-home.json",
+        "bytes": 1338,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-common-uses-for-a-backyard-tiny-home.json",
+        "bytes": 1140,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-build-a-backyard-tiny-home-in-carlsbad.json",
+        "bytes": 1368,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-modular-and-a-stick-built-backyard-tiny-home.json",
+        "bytes": 1427,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-should-i-consider-when-choosing-a-builder-for-my-backyard-tiny-home.json",
+        "bytes": 1413,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-backyard-tiny-homes-affect-property-value.json",
+        "bytes": 1241,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utility-connections-are-needed-for-a-backyard-tiny-home.json",
+        "bytes": 1355,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-guest-home-and-how-is-it-different-from-an-adu.json",
+        "bytes": 1538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-typical-costs-associated-with-building-a-guest-home-in-san-marcos.json",
+        "bytes": 1505,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-guest-home.json",
+        "bytes": 1348,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-benefits-of-adding-a-guest-home-to-my-property.json",
+        "bytes": 1405,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-regulations-are-required-for-building-a-guest-home-in-oceanside.json",
+        "bytes": 1517,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-a-guest-home-as-a-rental-property.json",
+        "bytes": 1303,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-should-i-consider-when-choosing-a-builder-for-my-guest-home.json",
+        "bytes": 1482,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-building-a-guest-home-with-zen-tiny-homes.json",
+        "bytes": 1463,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-guest-home-be-customized-to-my-specific-needs-and-design-preferences.json",
+        "bytes": 1419,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-utility-requirements-for-a-new-guest-home.json",
+        "bytes": 1422,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-primary-residence-tiny-home.json",
+        "bytes": 1277,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-zoning-requirements-for-a-tiny-home-in-san-diego-county.json",
+        "bytes": 1507,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-primary-residence-tiny-home-typically-cost.json",
+        "bytes": 1376,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-construction-timeline-for-a-primary-residence-tiny-home.json",
+        "bytes": 1389,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-financing-for-a-primary-residence-tiny-home.json",
+        "bytes": 1418,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-tiny-home-and-an-adu-in-california.json",
+        "bytes": 1392,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-required-to-build-a-primary-residence-tiny-home-in-carlsbad.json",
+        "bytes": 1583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-location-for-my-primary-residence-tiny-home.json",
+        "bytes": 1476,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-utility-considerations-for-a-primary-residence-tiny-home.json",
+        "bytes": 1429,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-designing-and-building-a-custom-primary-residence-tiny-h.json",
+        "bytes": 1524,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-multigenerational-living-solution.json",
+        "bytes": 1308,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-benefits-of-building-an-adu-for-multigenerational-living.json",
+        "bytes": 1390,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-build-a-multigenerational-home-addition-or-adu-in-san-m.json",
+        "bytes": 1455,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-constructing-a-multigenerational-living-solutio.json",
+        "bytes": 1375,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-zoning-and-permit-requirements-for-adus-in-carlsbad.json",
+        "bytes": 1429,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-design-for-a-multigenerational-home.json",
+        "bytes": 1443,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-an-existing-structure-into-an-adu-for-family-in-vista.json",
+        "bytes": 1418,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-junior-adu-and-a-standard-adu.json",
+        "bytes": 1410,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-is-the-right-time-to-consider-a-multigenerational-living-solution.json",
+        "bytes": 1438,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-financing-options-are-available-for-building-an-adu-or-home-addition.json",
+        "bytes": 1436,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-common-types-of-tiny-homes-suitable-for-rental-units.json",
+        "bytes": 1484,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-build-a-tiny-home-for-rental-purposes.json",
+        "bytes": 1371,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-regulations-are-required-for-a-rental-tiny-home-in-san-marcos.json",
+        "bytes": 1538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-tiny-home-for-a-rental-unit.json",
+        "bytes": 1408,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-should-i-consider-when-choosing-a-builder-for-a-rental-tiny-home.json",
+        "bytes": 1474,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-tiny-home-on-my-property-generate-rental-income.json",
+        "bytes": 1375,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-return-on-investment-roi-for-a-rental-tiny-home.json",
+        "bytes": 1401,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utility-connections-are-needed-for-a-rental-tiny-home-adu.json",
+        "bytes": 1411,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-tiny-homes-compare-to-traditional-apartments-as-rental-units.json",
+        "bytes": 1457,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-specific-design-considerations-for-tiny-homes-intended-for-rental.json",
+        "bytes": 1507,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-tiny-home-shell.json",
+        "bytes": 1204,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-a-zen-tiny-homes-tiny-home-shell.json",
+        "bytes": 1279,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-tiny-home-shell-cost.json",
+        "bytes": 1234,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-constructing-a-tiny-home-shell.json",
+        "bytes": 1250,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-steps-are-involved-in-purchasing-a-tiny-home-shell-from-zen-tiny-homes.json",
+        "bytes": 1278,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-customize-the-design-of-my-tiny-home-shell.json",
+        "bytes": 1223,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-advantages-of-buying-a-tiny-home-shell-versus-a-fully-finished-tiny.json",
+        "bytes": 1328,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-zen-tiny-homes-shells-meet-building-codes-in-areas-like-vista-and-oceanside.json",
+        "bytes": 1373,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-finishes-are-required-after-receiving-a-tiny-home-shell.json",
+        "bytes": 1229,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-size-for-my-tiny-home-shell.json",
+        "bytes": 1232,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-turnkey-tiny-home-build-mean.json",
+        "bytes": 1260,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-typically-take-to-build-a-turnkey-tiny-home.json",
+        "bytes": 1224,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-average-cost-of-a-turnkey-tiny-home-from-zen-tiny-homes.json",
+        "bytes": 1338,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-customize-the-design-of-my-turnkey-tiny-home.json",
+        "bytes": 1248,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-foundation-options-are-available-for-a-turnkey-tiny-home.json",
+        "bytes": 1360,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-regulations-are-required-for-a-tiny-home-in-the-areas-you-serve.json",
+        "bytes": 1455,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-zen-tiny-homes-turnkey-builds-compare-to-buying-a-pre-built-tiny-home.json",
+        "bytes": 1424,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-payment-schedule-for-a-turnkey-tiny-home-project.json",
+        "bytes": 1343,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-secure-my-own-land-before-starting-a-turnkey-tiny-home-project.json",
+        "bytes": 1306,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utility-connections-are-needed-for-a-turnkey-tiny-home.json",
+        "bytes": 1332,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-foundation-based-tiny-home.json",
+        "bytes": 1275,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-advantages-of-a-foundation-based-tiny-home-over-a-tiny-home-on-whee.json",
+        "bytes": 1474,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-cost-of-building-a-foundation-based-tiny-home.json",
+        "bytes": 1391,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-foundation-based-tiny-home.json",
+        "bytes": 1372,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-zoning-regulations-apply-to-foundation-based-tiny-homes-in-vist.json",
+        "bytes": 1514,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-finance-a-foundation-based-tiny-home-with-a-traditional-mortgage.json",
+        "bytes": 1416,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utilities-are-needed-for-a-foundation-based-tiny-home.json",
+        "bytes": 1386,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-designing-and-building-a-foundation-based-tiny-home.json",
+        "bytes": 1449,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-contractor-for-my-foundation-based-tiny-home-project.json",
+        "bytes": 1513,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-size-limits-for-foundation-based-tiny-homes-in-escondido.json",
+        "bytes": 1379,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-tiny-home-zoning-and-why-is-it-important.json",
+        "bytes": 1464,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-tiny-homes-allowed-in-all-residential-zones-in-vista-oceanside-carlsbad-san.json",
+        "bytes": 1606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-tiny-home-on-wheels-thow-and-a-permanent-founda.json",
+        "bytes": 1754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-typically-required-for-building-a-tiny-home-on-a-permanent-foun.json",
+        "bytes": 1621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-typically-take-to-get-zoning-approval-and-building-permits-for.json",
+        "bytes": 1492,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-place-a-tiny-home-in-my-backyard-as-an-accessory-dwelling-unit-adu.json",
+        "bytes": 1521,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-challenges-or-hurdles-when-seeking-tiny-home-zoning-approval.json",
+        "bytes": 1583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-cost-associated-with-obtaining-tiny-home-permits-and-zoning.json",
+        "bytes": 1606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-zen-tiny-homes-help-me-navigate-tiny-home-zoning-regulations.json",
+        "bytes": 1554,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-can-i-find-the-specific-zoning-ordinances-for-tiny-homes-in-my-city.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-definition-of-a-tiny-home-for-permitting-purposes-in-san-diego-count.json",
+        "bytes": 1552,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-place-a-tiny-home-on-my-property-in-vista-ca.json",
+        "bytes": 1408,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-obtaining-tiny-home-permits-in-carlsbad.json",
+        "bytes": 1472,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-common-challenges-when-permitting-a-tiny-home-as-an-adu.json",
+        "bytes": 1439,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-permit-a-tiny-home-in-san-marcos-ca.json",
+        "bytes": 1446,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-tiny-home-on-wheels-and-a-tiny-home-on-a-perman.json",
+        "bytes": 1634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-steps-are-involved-in-the-tiny-home-permitting-process.json",
+        "bytes": 1496,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-professional-help-for-tiny-home-permitting.json",
+        "bytes": 1450,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-different-permitting-requirements-for-detached-vs-attached-tiny-homes.json",
+        "bytes": 1563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-first-step-to-take-when-considering-a-tiny-home-on-my-property.json",
+        "bytes": 1513,
+        "purpose": "schema"
       }
     ],
-    "services": [
+    "help": [
       {
-        "path": "services/tiny-home-builder-service.json",
-        "bytes": 4353,
-        "purpose": "schema"
-      }
-    ],
-    "locations": [
-      {
-        "path": "locations/carlsbad-hq-factory.json",
-        "bytes": 277,
+        "path": "help/what-to-consider-before-designing-your-tiny-home.json",
+        "bytes": 4404,
         "purpose": "schema"
       },
       {
-        "path": "locations/vista-corporate-filing.json",
-        "bytes": 281,
+        "path": "help/making-your-tiny-home-design-work-for-you-mistakes-to-avoid.json",
+        "bytes": 3557,
         "purpose": "schema"
       },
       {
-        "path": "locations/encinitas-model-office.json",
-        "bytes": 284,
-        "purpose": "schema"
-      }
-    ],
-    "case-studies": [
-      {
-        "path": "case-studies/alpine-model-efficient-urban-living.json",
-        "bytes": 480,
+        "path": "help/when-is-it-time-to-bring-in-a-professional-for-your-tiny-home-design.json",
+        "bytes": 3721,
         "purpose": "schema"
       },
       {
-        "path": "case-studies/large-family-custom-mammoth-build.json",
-        "bytes": 472,
+        "path": "help/why-is-tiny-home-construction-different.json",
+        "bytes": 3473,
         "purpose": "schema"
       },
       {
-        "path": "case-studies/the-zen-cottage-eco-guest-house.json",
-        "bytes": 457,
+        "path": "help/understanding-the-tiny-home-building-process.json",
+        "bytes": 3410,
         "purpose": "schema"
       },
       {
-        "path": "case-studies/alpine-model-efficient-urban-living-107.json",
-        "bytes": 480,
+        "path": "help/myths-vs-facts-tiny-home-construction.json",
+        "bytes": 3886,
         "purpose": "schema"
       },
       {
-        "path": "case-studies/large-family-custom-mammoth-build-108.json",
-        "bytes": 472,
+        "path": "help/is-my-property-right-for-a-tiny-home-what-to-consider-first.json",
+        "bytes": 3951,
         "purpose": "schema"
       },
       {
-        "path": "case-studies/the-zen-cottage-eco-guest-house-109.json",
-        "bytes": 457,
+        "path": "help/myths-about-tiny-home-placement-on-your-land.json",
+        "bytes": 4536,
         "purpose": "schema"
-      }
-    ],
-    "organization": [
+      },
       {
-        "path": "organization/zen-tiny-homes-organization.json",
-        "bytes": 4250,
+        "path": "help/when-to-call-a-professional-for-your-tiny-home-site-assessment.json",
+        "bytes": 4698,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-tiny-home-site-plans-are-confusing.json",
+        "bytes": 4291,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/don-t-make-these-mistakes-when-choosing-your-tiny-home-location.json",
+        "bytes": 5308,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-site-feasibility-consultations-are-key-to-your-tiny-home-dream.json",
+        "bytes": 5424,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-small-space-feel-so-cluttered.json",
+        "bytes": 3686,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-for-a-tiny-home.json",
+        "bytes": 3723,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-get-professional-help-with-small-space-planning.json",
+        "bytes": 3977,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-custom-tiny-home-design-feels-too-restrictive-what-can-i-do.json",
+        "bytes": 3875,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-should-i-avoid-when-developing-a-custom-tiny-home-floor-plan.json",
+        "bytes": 3826,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-professional-for-custom-floor-plan-development.json",
+        "bytes": 4179,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-tiny-home-layout-feels-off.json",
+        "bytes": 4151,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/debunking-tiny-home-interior-design-myths.json",
+        "bytes": 4280,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-does-a-professional-designer-become-essential-for-your-tiny-home-interior.json",
+        "bytes": 4525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-optimizing-space-in-your-tiny-home.json",
+        "bytes": 4069,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-maximize-every-inch-in-your-tiny-home.json",
+        "bytes": 4428,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-tiny-home-storage-working-against-you.json",
+        "bytes": 4107,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-tiny-home-feel-so-cramped.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-tiny-home-storage-optimized.json",
+        "bytes": 4027,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-for-storage-optimization-design.json",
+        "bytes": 3901,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-do-my-tiny-home-spaces-feel-disconnected.json",
+        "bytes": 3778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-my-tiny-home-needs-to-serve-multiple-purposes.json",
+        "bytes": 4189,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-for-multifunctional-living-space-design.json",
+        "bytes": 4144,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-your-tiny-home-won-t-fit-your-lifestyle.json",
+        "bytes": 3259,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/feeling-overwhelmed-starting-your-tiny-home-project.json",
+        "bytes": 3427,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-you-making-these-mistakes-planning-your-tiny-home.json",
+        "bytes": 3824,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/unsure-if-a-tiny-home-is-right-for-your-property.json",
+        "bytes": 3367,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/confused-about-where-to-put-your-tiny-home-legally.json",
+        "bytes": 3487,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-you-know-the-truth-about-tiny-home-placement-regulations.json",
+        "bytes": 3872,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-customizing-my-tiny-home-too-complicated.json",
+        "bytes": 3962,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-tiny-home-customization.json",
+        "bytes": 5155,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-hire-a-professional-for-tiny-home-upgrades.json",
+        "bytes": 4448,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-a-backyard-tiny-home-add-value-to-my-property.json",
+        "bytes": 4285,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-difference-between-an-adu-and-a-tiny-home.json",
+        "bytes": 4099,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-really-build-a-tiny-home-in-my-backyard.json",
+        "bytes": 4102,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-your-guest-home-won-t-feel-private.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-building-a-guest-tiny-home.json",
+        "bytes": 3954,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-guest-home-the-right-solution-for-my-property.json",
+        "bytes": 3941,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-my-primary-tiny-home-be-legal-in-san-diego.json",
+        "bytes": 3999,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-primary-tiny-home-maximizes-space.json",
+        "bytes": 3902,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-design-a-functional-primary-tiny-home.json",
+        "bytes": 3911,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-tiny-home-vision-coming-together.json",
+        "bytes": 3410,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-even-start-designing-a-custom-tiny-home.json",
+        "bytes": 6342,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-common-mistakes-in-tiny-home-design-to-avoid.json",
+        "bytes": 4458,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-consider-before-building-a-tiny-home.json",
+        "bytes": 5201,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-typical-timeline-for-building-a-custom-tiny-home.json",
+        "bytes": 4933,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-custom-tiny-home-construction-right-for-my-property.json",
+        "bytes": 5353,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-about-where-to-put-your-tiny-home.json",
+        "bytes": 4789,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-property-right-for-a-tiny-home.json",
+        "bytes": 8256,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-sense-of-zoning-for-your-tiny-home.json",
+        "bytes": 5613,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-really-have-a-tiny-home-on-my-land.json",
+        "bytes": 5498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-tiny-home-feasibility-consultation.json",
+        "bytes": 5377,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-do-tiny-home-site-assessments-matter-so-much.json",
+        "bytes": 5563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-make-my-small-space-feel-bigger.json",
+        "bytes": 3981,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-should-i-avoid-when-designing-a-tiny-home.json",
+        "bytes": 4441,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-really-right-for-my-lifestyle.json",
+        "bytes": 4214,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-goes-into-creating-a-custom-floor-plan.json",
+        "bytes": 6867,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-customize-my-tiny-home-s-layout.json",
+        "bytes": 4372,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-it-actually-take-to-build-a-custom-tiny-home.json",
+        "bytes": 8090,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/feeling-claustrophobic-in-your-tiny-home.json",
+        "bytes": 3652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-tiny-home-interior-for-your-lifestyle.json",
+        "bytes": 5523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-tiny-home-layout-working-against-you.json",
+        "bytes": 4232,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-with-storage-in-your-small-space.json",
+        "bytes": 3641,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maximizing-functionality-in-a-compact-footprint.json",
+        "bytes": 4230,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-expert-help-with-your-tiny-home-interior.json",
+        "bytes": 4146,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-maximize-every-inch-a-tiny-home-storage-checklist.json",
+        "bytes": 8314,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-your-tiny-home-design-not-working-for-you.json",
+        "bytes": 4419,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-right-for-my-multifaceted-life.json",
+        "bytes": 4280,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-tiny-kitchen-feel-so-small-and-unusable.json",
+        "bytes": 4235,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-create-a-multipurpose-living-space-in-your-tiny-home.json",
+        "bytes": 6068,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-before-planning-your-tiny-home-project.json",
+        "bytes": 3839,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-custom-tiny-home-build.json",
+        "bytes": 6357,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-tiny-home-design-so-important.json",
+        "bytes": 4126,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/where-can-i-legally-place-my-tiny-home.json",
+        "bytes": 4336,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-your-tiny-home-site-plan.json",
+        "bytes": 4825,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-vs-tiny-house-what-s-the-difference-for-placement.json",
+        "bytes": 5373,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-tiny-home-doesn-t-feel-quite-right.json",
+        "bytes": 4532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-tiny-home-truly-yours.json",
+        "bytes": 4947,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-designing-your-tiny-home.json",
+        "bytes": 3265,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-a-backyard-tiny-home-where-do-i-start.json",
+        "bytes": 4249,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-backyard-tiny-homes-worth-the-effort.json",
+        "bytes": 4862,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-regulations-for-your-backyard-tiny-home.json",
+        "bytes": 5141,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-guest-home-right-for-your-property.json",
+        "bytes": 3860,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-designing-a-tiny-home-for-guests.json",
+        "bytes": 3900,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-building-a-guest-tiny-home.json",
+        "bytes": 3952,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-san-diego-regulations-for-your-primary-tiny-home.json",
+        "bytes": 3964,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-primary-tiny-home-a-real-estate-investment.json",
+        "bytes": 3948,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-for-a-foundation-built-primary-tiny-home.json",
+        "bytes": 6234,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-custom-tiny-home-design-matter.json",
+        "bytes": 4172,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-perfect-tiny-home-layout.json",
+        "bytes": 6185,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-in-tiny-home-design-to-avoid.json",
+        "bytes": 4394,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-tiny-home-construction-process.json",
+        "bytes": 7000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-tiny-home-construction-really-take.json",
+        "bytes": 4235,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-choose-a-custom-builder-for-your-tiny-home.json",
+        "bytes": 4345,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-property-suitable-for-a-tiny-home.json",
+        "bytes": 3121,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-goes-into-a-thorough-tiny-home-property-assessment.json",
+        "bytes": 3148,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-steps-to-assess-my-land-for-a-tiny-home.json",
+        "bytes": 6383,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-site-feasibility-crucial-for-my-tiny-home-project.json",
+        "bytes": 3253,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-tiny-home-site-selection.json",
+        "bytes": 4240,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-get-a-professional-site-assessment-for-my-tiny-home.json",
+        "bytes": 4091,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/feeling-claustrophobic-in-a-small-space.json",
+        "bytes": 3608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maximizing-every-inch-small-space-planning-checklist.json",
+        "bytes": 6652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-tiny-home-feels-cramped-what-went-wrong.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-design-a-tiny-home-that-feels-huge.json",
+        "bytes": 4602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-tiny-home-layout-limiting-your-lifestyle.json",
+        "bytes": 3615,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-customizing-your-tiny-home-floor-plan.json",
+        "bytes": 3702,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-tiny-home-feel-cramped.json",
+        "bytes": 3939,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/designing-your-tiny-home-where-do-you-even-begin.json",
+        "bytes": 3952,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-tiny-home-layout-design.json",
+        "bytes": 4160,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maximizing-every-inch-the-tiny-home-challenge.json",
+        "bytes": 4077,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-create-smart-storage-in-your-tiny-home.json",
+        "bytes": 4350,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-a-professional-necessary-for-tiny-home-space-design.json",
+        "bytes": 4241,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-with-clutter-in-your-tiny-home.json",
+        "bytes": 4879,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/where-do-i-put-everything-in-a-tiny-home.json",
+        "bytes": 5675,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-tiny-homes-really-liveable.json",
+        "bytes": 4635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-my-tiny-home-needs-to-do-it-all.json",
+        "bytes": 4749,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-design-a-tiny-home-for-multiple-uses.json",
+        "bytes": 6463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/feeling-overwhelmed-by-tiny-home-decisions.json",
+        "bytes": 3756,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-best-way-to-plan-my-tiny-home-project.json",
+        "bytes": 6388,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-envision-your-tiny-home-layout.json",
+        "bytes": 3880,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-about-the-legal-side-of-your-tiny-home-placement.json",
+        "bytes": 4099,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-right-for-my-property-in-san-diego.json",
+        "bytes": 4212,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-figure-out-where-my-tiny-home-can-go.json",
+        "bytes": 5887,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-tiny-home-design-feels-cramped-how-can-i-make-it-feel-bigger.json",
+        "bytes": 4199,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-legally-add-a-tiny-home-to-my-backyard.json",
+        "bytes": 4877,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-customizing-your-tiny-home-design.json",
+        "bytes": 4347,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-to-avoid-when-planning-a-backyard-tiny-home.json",
+        "bytes": 5177,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-customize-your-tiny-home-for-maximum-livability.json",
+        "bytes": 7552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-need-a-local-expert-for-your-backyard-adu-project.json",
+        "bytes": 4445,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-the-right-primary-residence-for-you.json",
+        "bytes": 3262,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-custom-tiny-home-for-full-time-living.json",
+        "bytes": 7932,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-tiny-home-living-as-a-primary-residence.json",
+        "bytes": 4425,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thinking-about-a-guest-home-what-you-need-to-know.json",
+        "bytes": 3985,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-building-a-tiny-guest-home.json",
+        "bytes": 5059,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-experts-for-your-guest-home-project.json",
+        "bytes": 4760,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/feeling-overwhelmed-by-tiny-home-design-choices.json",
+        "bytes": 3726,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-makes-a-tiny-home-truly-custom.json",
+        "bytes": 4651,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-tiny-home-design.json",
+        "bytes": 4755,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-the-construction-process-for-a-tiny-home.json",
+        "bytes": 5941,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-on-a-foundation-the-right-choice-for-you.json",
+        "bytes": 4993,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-before-starting-your-tiny-home-construction.json",
+        "bytes": 7920,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-buying-land-for-a-tiny-home.json",
+        "bytes": 4109,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-figure-out-if-your-property-can-host-a-tiny-home.json",
+        "bytes": 5590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-property-assessments-crucial-for-tiny-home-success.json",
+        "bytes": 4419,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-tiny-home-site-feasibility-consultation.json",
+        "bytes": 3977,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-do-i-need-a-site-plan-for-my-tiny-home-project.json",
+        "bytes": 3825,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-zoning-for-your-tiny-home-in-san-diego.json",
+        "bytes": 6011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-tiny-home-feels-cramped-what-am-i-doing-wrong.json",
+        "bytes": 3883,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-tiny-home-vision-just-isn-t-coming-together.json",
+        "bytes": 4023,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-right-for-my-lifestyle-what-to-consider.json",
+        "bytes": 4092,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-design-a-functional-tiny-house-layout.json",
+        "bytes": 5849,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-biggest-mistakes-people-make-with-tiny-home-layouts.json",
+        "bytes": 4653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-an-interior-layout-that-feels-spacious-and-functional.json",
+        "bytes": 3811,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-designing-your-tiny-home-interior.json",
+        "bytes": 3661,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-your-tiny-home-interior-layout-design.json",
+        "bytes": 4653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-maximize-every-square-inch-in-your-tiny-home-with-space-optimization.json",
+        "bytes": 4999,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-right-for-me-if-i-need-lots-of-storage.json",
+        "bytes": 3825,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-the-most-of-your-tiny-home-a-space-optimization-checklist.json",
+        "bytes": 8050,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-every-inch-count-in-your-tiny-home.json",
+        "bytes": 3542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tired-of-clutter-smart-storage-solutions-for-small-spaces.json",
+        "bytes": 3575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-storage-headaches-in-your-tiny-home.json",
+        "bytes": 2497,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-makes-a-tiny-home-feel-spacious-not-cramped.json",
+        "bytes": 3578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-tiny-home-needs-a-dynamic-floor-plan.json",
+        "bytes": 3488,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-limited-space-multifunctional-design-to-the-rescue.json",
+        "bytes": 3552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/feeling-overwhelmed-starting-your-tiny-home-journey.json",
+        "bytes": 4168,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-make-sure-my-tiny-home-project-stays-on-track.json",
+        "bytes": 6373,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-should-i-avoid-when-planning-my-tiny-home-project.json",
+        "bytes": 4966,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/confused-about-adu-vs-tiny-house-for-your-property.json",
+        "bytes": 4796,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-about-where-to-put-your-tiny-home-legally.json",
+        "bytes": 4526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-steps-do-i-need-to-take-before-placing-a-tiny-home.json",
+        "bytes": 6818,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-tiny-home-doesn-t-feel-personalized-enough-what-can-i-do.json",
+        "bytes": 4436,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-approach-customizing-your-tiny-home-for-ultimate-comfort.json",
+        "bytes": 7173,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-upgrading-your-tiny-home.json",
+        "bytes": 4794,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-putting-a-tiny-home-in-your-backyard.json",
+        "bytes": 4667,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-backyard-tiny-home-project.json",
+        "bytes": 8107,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-tiny-homes-legal-in-my-san-diego-backyard.json",
+        "bytes": 4522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/confused-about-tiny-home-regulations-in-san-diego.json",
+        "bytes": 3267,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-tiny-home-really-feel-spacious.json",
+        "bytes": 3348,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/guest-home-or-adu-which-is-right-for-your-property.json",
+        "bytes": 3350,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-permitting-for-your-tiny-guest-home.json",
+        "bytes": 3383,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-tiny-home-for-rental-income.json",
+        "bytes": 3488,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-tiny-home-feel-spacious.json",
+        "bytes": 6384,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-started-with-your-custom-tiny-home-build.json",
+        "bytes": 6165,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-build-a-custom-tiny-home-on-my-property.json",
+        "bytes": 4339,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-tiny-home-construction.json",
+        "bytes": 4741,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-know-if-your-property-is-tiny-home-ready.json",
+        "bytes": 4061,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-first-steps-to-placing-a-tiny-home-on-my-land.json",
+        "bytes": 7154,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-need-a-professional-for-my-tiny-home-site-assessment.json",
+        "bytes": 5203,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-does-a-site-feasibility-consultation-actually-cover.json",
+        "bytes": 4335,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-local-regulations-for-tiny-homes.json",
+        "bytes": 6998,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-should-i-avoid-when-planning-my-tiny-home-space.json",
+        "bytes": 2846,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-tiny-home-design-actually-practical.json",
+        "bytes": 4034,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-get-started-designing-my-custom-tiny-home.json",
+        "bytes": 7066,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-design-a-functional-tiny-home-layout.json",
+        "bytes": 4920,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-tiny-home-floor-plans-so-hard-to-get-right.json",
+        "bytes": 4184,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-visualize-your-tiny-home-layout-before-it-s-built.json",
+        "bytes": 3939,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-create-an-optimized-interior-layout-for-your-tiny-home.json",
+        "bytes": 5111,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-your-tiny-home-interior-design.json",
+        "bytes": 4621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-about-wasted-space-in-your-tiny-home.json",
+        "bytes": 4002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/checklist-maximizing-every-square-foot-in-your-tiny-home.json",
+        "bytes": 7919,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-you-create-a-seamless-flow-in-a-small-living-area.json",
+        "bytes": 4953,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/where-can-i-put-all-my-stuff-in-a-tiny-home.json",
+        "bytes": 3950,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-should-i-avoid-when-planning-tiny-home-storage.json",
+        "bytes": 4377,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-maximize-every-inch-of-my-tiny-home.json",
+        "bytes": 6940,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-tiny-home-really-feel-spacious-and-open.json",
+        "bytes": 4051,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-design-a-tiny-home-that-adapts-to-my-daily-needs.json",
+        "bytes": 3531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-it-possible-to-have-a-functional-kitchen-in-a-tiny-house.json",
+        "bytes": 4097,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-tiny-home-project-stuck-before-it-even-starts.json",
+        "bytes": 4903,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-first-step-to-building-a-custom-tiny-home.json",
+        "bytes": 6817,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-a-tiny-home-that-truly-fits-your-life.json",
+        "bytes": 5109,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-know-before-picking-a-spot-for-my-tiny-home.json",
+        "bytes": 5523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-tiny-homes-legal-everywhere-in-san-diego-county.json",
+        "bytes": 5556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-should-i-avoid-when-placing-my-tiny-home.json",
+        "bytes": 6145,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-customizing-your-tiny-home.json",
+        "bytes": 4552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tiny-home-right-for-my-property.json",
+        "bytes": 4878,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-upgrades-really-add-value-to-a-tiny-home.json",
+        "bytes": 4818,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-an-expert-for-your-tiny-home-customization.json",
+        "bytes": 5463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-can-t-i-just-buy-a-pre-built-tiny-home-for-my-backyard.json",
+        "bytes": 4198,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-real-difference-between-an-adu-and-a-tiny-house.json",
+        "bytes": 3948,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-know-if-my-property-can-have-a-guest-home.json",
+        "bytes": 4033,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-consider-before-committing-to-a-primary-residence-tiny-home.json",
+        "bytes": 3997,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-tiny-homes-really-legal-in-san-diego.json",
+        "bytes": 3825,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-first-steps-to-building-a-custom-tiny-home.json",
+        "bytes": 7441,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 18262,
+        "bytes": 24023,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 26838,
+        "bytes": 30661,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 25259,
+        "bytes": 30904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12969,
+        "bytes": 18315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 88400,
+        "bytes": 317052,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 653647,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 17141,
+        "bytes": 19440,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -774,37 +3051,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 56877,
+        "bytes": 261376,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 16400,
+        "bytes": 71342,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 16400,
+        "bytes": 71342,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2568,
+        "bytes": 2592,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 18197,
+        "bytes": 89796,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 15363,
+        "bytes": 75245,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 802,
+        "bytes": 879,
         "purpose": "Standard sitemap"
       }
     ]
