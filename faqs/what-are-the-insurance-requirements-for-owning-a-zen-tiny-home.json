@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the insurance requirements for owning a Zen Tiny Home?",
-  "description": "Insurance needs vary; clients typically require homeowner’s or RV insurance depending on classification. Zen Tiny Homes assists in identifying suitable coverage",
   "url": "www.zentinyhomes.com/faq/what-are-the-insurance-requirements-for-owning-a-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the insurance requirements for owning a Zen Tiny Home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Insurance needs vary; clients typically require homeowner’s or RV insurance depending on classification. Zen Tiny Homes assists in identifying suitable coverage."
-      }
-    }
-  ],
+  "name": "What are the insurance requirements for owning a Zen Tiny Home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the insurance requirements for owning a Zen Tiny Home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance needs vary; clients typically require homeowner’s or RV insurance depending on classification. Zen Tiny Homes assists in identifying suitable coverage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Insurance needs vary; clients typically require homeowner’s or RV insurance depending on classification. Zen Tiny Homes assists in identifying suitable coverage"
 }

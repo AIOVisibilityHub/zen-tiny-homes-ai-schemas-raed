@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a modular and a stick-built backyard tiny home?",
+  "description": "Modular homes are largely pre-built off-site for faster installation, while stick-built homes are constructed entirely on-site, offering more customization. Bot",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-modular-and-a-stick-built-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a modular and a stick-built backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modular backyard tiny homes are largely constructed off-site in a factory setting, then transported and assembled on your property. This can often lead to faster construction times and reduced weather delays. Stick-built homes, conversely, are built entirely on-site from the ground up, offering greater design flexibility and customization to fit specific site challenges. Both methods result in durable, code-compliant structures; the choice often depends on budget, timeline, and design preferences.",
+        "description": "Modular homes are largely pre-built off-site for faster installation, while stick-built homes are constructed entirely on-site, offering more customization. Both are code-compliant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

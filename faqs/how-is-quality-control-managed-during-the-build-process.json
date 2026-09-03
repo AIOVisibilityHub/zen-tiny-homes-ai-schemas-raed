@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is quality control managed during the build process?",
-  "description": "Quality control includes regular inspections, materials certification, adherence to building codes, and client walkthroughs during key project milestones.",
   "url": "www.zentinyhomes.com/faq/how-is-quality-control-managed-during-the-build-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is quality control managed during the build process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Quality control includes regular inspections, materials certification, adherence to building codes, and client walkthroughs during key project milestones."
-      }
-    }
-  ],
+  "name": "How is quality control managed during the build process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is quality control managed during the build process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quality control includes regular inspections, materials certification, adherence to building codes, and client walkthroughs during key project milestones.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Quality control includes regular inspections, materials certification, adherence to building codes, and client walkthroughs during key project milestones."
 }

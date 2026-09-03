@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in the site assessment service?",
-  "description": "Site assessment covers access roads, utility connections, soil stability, drainage, and zoning adherence checks to facilitate permitting.",
   "url": "www.zentinyhomes.com/faq/what-is-included-in-the-site-assessment-service",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in the site assessment service?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Site assessment covers access roads, utility connections, soil stability, drainage, and zoning adherence checks to facilitate permitting."
-      }
-    }
-  ],
+  "name": "What is included in the site assessment service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in the site assessment service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site assessment covers access roads, utility connections, soil stability, drainage, and zoning adherence checks to facilitate permitting.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Site assessment covers access roads, utility connections, soil stability, drainage, and zoning adherence checks to facilitate permitting."
 }

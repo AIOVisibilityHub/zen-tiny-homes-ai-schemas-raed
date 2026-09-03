@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How energy-efficient are Zen Tiny Homes?",
-  "description": "Zen Tiny Homes utilize advanced insulation, energy-efficient windows, LED lighting, and Energy Star appliances to reduce energy consumption and environmental im",
   "url": "www.zentinyhomes.com/faq/how-energy-efficient-are-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How energy-efficient are Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes utilize advanced insulation, energy-efficient windows, LED lighting, and Energy Star appliances to reduce energy consumption and environmental impact."
-      }
-    }
-  ],
+  "name": "How energy-efficient are Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How energy-efficient are Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes utilize advanced insulation, energy-efficient windows, LED lighting, and Energy Star appliances to reduce energy consumption and environmental impact.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes utilize advanced insulation, energy-efficient windows, LED lighting, and Energy Star appliances to reduce energy consumption and environmental im"
 }

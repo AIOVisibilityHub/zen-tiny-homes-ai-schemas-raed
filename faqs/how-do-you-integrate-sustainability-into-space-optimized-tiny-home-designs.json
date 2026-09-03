@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you integrate sustainability into space-optimized tiny home designs?",
+  "description": "Sustainability in tiny home design involves using eco-friendly materials, energy-efficient appliances, natural light/ventilation, and water-saving fixtures.",
+  "url": "www.zentinyhomes.com/faq/how-do-you-integrate-sustainability-into-space-optimized-tiny-home-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you integrate sustainability into space-optimized tiny home designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Integrating sustainability into space-optimized tiny home designs involves several approaches. This includes selecting durable, locally sourced, or recycled materials to minimize environmental impact. Efficient appliance choices and smart home technology can reduce energy consumption. Furthermore, designs often prioritize natural light and ventilation to lessen reliance on artificial heating and cooling. Water-saving fixtures and greywater recycling systems are also common considerations, reducing utility needs in a compact footprint.",
+        "description": "Sustainability in tiny home design involves using eco-friendly materials, energy-efficient appliances, natural light/ventilation, and water-saving fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

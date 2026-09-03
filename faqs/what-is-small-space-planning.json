@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is small-space planning?",
+  "description": "Small-space planning is the strategic design of compact living areas to maximize functionality and comfort. It uses innovative solutions like multi-functional f",
+  "url": "www.zentinyhomes.com/faq/what-is-small-space-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is small-space planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small-space planning is the strategic design and organization of compact living areas to maximize functionality, comfort, and aesthetics. It involves innovative solutions such as multi-functional furniture, vertical storage, and intelligent layouts to make every square foot count. The goal is to create an efficient and enjoyable living environment that feels spacious despite its limited size, often found in tiny homes, apartments, or accessory dwelling units (ADUs). This approach considers natural light, flow, and personal needs to tailor the space effectively.",
+        "description": "Small-space planning is the strategic design of compact living areas to maximize functionality and comfort. It uses innovative solutions like multi-functional furniture and vertical storage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

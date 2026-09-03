@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider a custom floor plan instead of a standard design?",
+  "description": "Opt for a custom floor plan if standard designs don't meet your unique lifestyle, accessibility needs, or desire for specialized features and specific space opt",
+  "url": "www.zentinyhomes.com/faq/when-should-i-consider-a-custom-floor-plan-instead-of-a-standard-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider a custom floor plan instead of a standard design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a custom floor plan if standard designs don't fully meet your unique lifestyle, specific accessibility needs, or desire for specialized features. If you have a particular vision for how your space should function, require specific room dimensions, or want to integrate non-traditional elements, a custom plan is beneficial. It's also ideal if you need to optimize space for a specific purpose, such as a home office, a unique hobby area, or to accommodate particular furniture pieces not fitting standard layouts. Custom plans ensure your tiny home is truly yours.",
+        "description": "Opt for a custom floor plan if standard designs don't meet your unique lifestyle, accessibility needs, or desire for specialized features and specific space optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

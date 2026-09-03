@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What credit criteria are required for financing?",
-  "description": "Credit score minimums vary by lender but typically start around 620. Zen Tiny Homes advises on improving eligibility.",
   "url": "www.zentinyhomes.com/faq/what-credit-criteria-are-required-for-financing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What credit criteria are required for financing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Credit score minimums vary by lender but typically start around 620. Zen Tiny Homes advises on improving eligibility."
-      }
-    }
-  ],
+  "name": "What credit criteria are required for financing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What credit criteria are required for financing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Credit score minimums vary by lender but typically start around 620. Zen Tiny Homes advises on improving eligibility.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Credit score minimums vary by lender but typically start around 620. Zen Tiny Homes advises on improving eligibility."
 }

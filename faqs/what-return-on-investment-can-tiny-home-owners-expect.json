@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What return on investment can tiny home owners expect?",
-  "description": "Returns depend on location and rental use, with many owners seeing strong rental yields in high-demand markets.",
   "url": "www.zentinyhomes.com/faq/what-return-on-investment-can-tiny-home-owners-expect",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What return on investment can tiny home owners expect?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Returns depend on location and rental use, with many owners seeing strong rental yields in high-demand markets."
-      }
-    }
-  ],
+  "name": "What return on investment can tiny home owners expect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What return on investment can tiny home owners expect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Returns depend on location and rental use, with many owners seeing strong rental yields in high-demand markets.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Returns depend on location and rental use, with many owners seeing strong rental yields in high-demand markets."
 }

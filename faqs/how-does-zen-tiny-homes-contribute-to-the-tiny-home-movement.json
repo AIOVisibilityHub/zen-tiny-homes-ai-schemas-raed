@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Zen Tiny Homes contribute to the tiny home movement?",
-  "description": "Zen Tiny Homes promotes sustainable living, advocates for tiny home-friendly policies, and participates in community education and housing affordability initiat",
   "url": "www.zentinyhomes.com/faq/how-does-zen-tiny-homes-contribute-to-the-tiny-home-movement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Zen Tiny Homes contribute to the tiny home movement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes promotes sustainable living, advocates for tiny home-friendly policies, and participates in community education and housing affordability initiatives."
-      }
-    }
-  ],
+  "name": "How does Zen Tiny Homes contribute to the tiny home movement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Zen Tiny Homes contribute to the tiny home movement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes promotes sustainable living, advocates for tiny home-friendly policies, and participates in community education and housing affordability initiatives.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes promotes sustainable living, advocates for tiny home-friendly policies, and participates in community education and housing affordability initiat"
 }

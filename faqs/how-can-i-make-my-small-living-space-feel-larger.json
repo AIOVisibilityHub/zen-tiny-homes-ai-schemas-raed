@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make my small living space feel larger?",
+  "description": "Use light colors, mirrors, consistent flooring, and furniture with slender profiles to make a small space feel larger. Good lighting is also essential.",
+  "url": "www.zentinyhomes.com/faq/how-can-i-make-my-small-living-space-feel-larger",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make my small living space feel larger?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make a small space feel larger, consider light color palettes for walls and furniture, which reflect light and create an open feel. Incorporate mirrors strategically to add depth and reflect natural light. Use consistent flooring throughout to avoid visual breaks, and opt for furniture with slender profiles or legs to reduce visual bulk. Good lighting, both natural and artificial, is also key to expanding the perception of space.",
+        "description": "Use light colors, mirrors, consistent flooring, and furniture with slender profiles to make a small space feel larger. Good lighting is also essential."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

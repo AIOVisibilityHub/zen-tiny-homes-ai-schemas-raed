@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I ensure my multifunctional tiny home design meets local building codes in Carlsbad?",
+  "description": "We ensure compliance with Carlsbad's ADU/tiny home regulations by designing to zoning, setback, and safety standards, and guiding you through permits.",
+  "url": "www.zentinyhomes.com/faq/how-can-i-ensure-my-multifunctional-tiny-home-design-meets-local-building-codes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I ensure my multifunctional tiny home design meets local building codes in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensuring your multifunctional tiny home design meets local building codes in Carlsbad requires careful planning and adherence to specific regulations for ADUs (Accessory Dwelling Units) or tiny homes on foundations, or RVIA standards for tiny homes on wheels. Zen Tiny Homes is experienced with Carlsbad's requirements. We work to ensure designs comply with zoning ordinances, setback rules, minimum space requirements, and safety standards for features like ladder access to lofts or integrated appliances. We guide you through the necessary permits and inspections to ensure full compliance.",
+        "description": "We ensure compliance with Carlsbad's ADU/tiny home regulations by designing to zoning, setback, and safety standards, and guiding you through permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

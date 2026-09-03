@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are modular or prefab components used in construction?",
-  "description": "Modular and prefab elements are utilized to improve build time and quality control while maintaining customization flexibility.",
   "url": "www.zentinyhomes.com/faq/are-modular-or-prefab-components-used-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are modular or prefab components used in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modular and prefab elements are utilized to improve build time and quality control while maintaining customization flexibility."
-      }
-    }
-  ],
+  "name": "Are modular or prefab components used in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are modular or prefab components used in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modular and prefab elements are utilized to improve build time and quality control while maintaining customization flexibility.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Modular and prefab elements are utilized to improve build time and quality control while maintaining customization flexibility."
 }

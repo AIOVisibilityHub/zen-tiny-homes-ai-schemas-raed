@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing a multifunctional living space with Zen Tiny Homes?",
+  "description": "Our process involves an initial consultation to understand your needs, followed by collaborative design and refinement of layouts to optimize space and incorpor",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-multifunctional-living-space-with-zen-tiny-h",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing a multifunctional living space with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your lifestyle, needs, and priorities for your tiny home. We then create preliminary layouts that incorporate multifunctional elements tailored to your specific requirements. We focus on identifying key areas that can serve multiple roles and propose intelligent storage solutions and adaptable furniture. Through collaborative revisions, we refine the design to ensure it optimizes every inch of space while reflecting your personal style and maximizing functionality. The final design prioritizes efficiency and comfort.",
+        "description": "Our process involves an initial consultation to understand your needs, followed by collaborative design and refinement of layouts to optimize space and incorporate multifunctional elements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a tiny home property assessment cost?",
+  "description": "The cost of a tiny home property assessment varies based on site complexity, location, and required services, such as zoning checks or detailed surveys. Get a s",
+  "url": "www.zentinyhomes.com/faq/how-much-does-a-tiny-home-property-assessment-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a tiny home property assessment cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a tiny home property assessment can vary depending on the complexity of the site and the scope of services required. Factors influencing the price include the property's location, size, and specific characteristics that need evaluation, such as soil testing or extensive utility research. A basic assessment focusing on zoning and utility availability might be less expensive than one requiring detailed environmental surveys or topographical analysis. It's best to obtain a detailed quote based on your specific property and needs.",
+        "description": "The cost of a tiny home property assessment varies based on site complexity, location, and required services, such as zoning checks or detailed surveys. Get a specific quote for your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

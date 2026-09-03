@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can multifunctional design save space in a tiny home?",
+  "description": "It saves space by using multi-purpose furniture, built-ins, vertical storage, and flexible layouts that allow areas to transform.",
+  "url": "www.zentinyhomes.com/faq/how-can-multifunctional-design-save-space-in-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can multifunctional design save space in a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multifunctional design saves space by integrating features that serve more than one role. This includes custom built-ins like a bed that folds into a wall or a staircase with integrated drawers. Furniture on wheels allows for easy reconfiguration, while convertible pieces such as sofa beds or expanding tables provide flexibility. Vertical storage solutions like wall-mounted shelving or lofted areas also reclaim floor space. By carefully planning each element, a tiny home can accommodate all necessary functions within a compact footprint.",
+        "description": "It saves space by using multi-purpose furniture, built-ins, vertical storage, and flexible layouts that allow areas to transform."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

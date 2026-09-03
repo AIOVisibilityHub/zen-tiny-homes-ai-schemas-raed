@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes assist with custom floor plans for ADA accessibility?",
+  "description": "Yes, Zen Tiny Homes can design custom floor plans with ADA accessibility features, including wider doorways, accessible bathrooms, and optimized layouts.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-assist-with-custom-floor-plans-for-ada-accessibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes assist with custom floor plans for ADA accessibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes can absolutely assist with designing custom floor plans that incorporate ADA accessibility features. We understand the importance of creating inclusive living spaces. Our design team can integrate wider doorways, accessible bathrooms, ramp options, lower counters, and optimized layouts for maneuverability, ensuring your tiny home is comfortable and functional for all occupants. Please communicate your specific accessibility requirements during the initial consultation so we can tailor the design to meet your needs effectively and safely.",
+        "description": "Yes, Zen Tiny Homes can design custom floor plans with ADA accessibility features, including wider doorways, accessible bathrooms, and optimized layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

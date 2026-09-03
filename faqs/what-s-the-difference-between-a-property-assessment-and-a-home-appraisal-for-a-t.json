@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a property assessment and a home appraisal for a tiny home?",
+  "description": "A property assessment evaluates land suitability for a tiny home before construction, checking zoning and utilities. A home appraisal determines the monetary va",
+  "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-a-property-assessment-and-a-home-appraisal-for-a-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a property assessment and a home appraisal for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A property assessment focuses on evaluating the raw land's suitability and compliance with regulations for building or placing a tiny home, often occurring *before* construction or placement. It examines zoning, utilities, and site conditions. A home appraisal, conversely, determines the monetary value of an existing tiny home and its associated land, usually for financing, insurance, or sale purposes. While both involve evaluating property, their objectives, timing, and scope are distinct: assessment is about feasibility, appraisal is about value.",
+        "description": "A property assessment evaluates land suitability for a tiny home before construction, checking zoning and utilities. A home appraisal determines the monetary value of an existing tiny home and its land."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe for designing and building a multifunctional tiny home?",
+  "description": "Design typically takes 4-8 weeks, and construction takes 3-6 months, depending on complexity and customization, not including permitting.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeframe-for-designing-and-building-a-multifunctional-tiny",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe for designing and building a multifunctional tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical timeframe for designing and building a multifunctional tiny home can vary based on complexity and customization. The design phase usually takes 4-8 weeks, involving consultations, revisions, and finalization. Once permits are secured, the construction phase can range from 3-6 months, depending on the chosen materials, custom features like built-in transforming furniture, and the overall size. These estimates do not include potential permitting delays, which can sometimes extend the overall project timeline.",
+        "description": "Design typically takes 4-8 weeks, and construction takes 3-6 months, depending on complexity and customization, not including permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

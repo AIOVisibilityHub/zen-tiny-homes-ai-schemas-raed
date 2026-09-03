@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Zen Tiny Homes support clients through local permitting challenges?",
-  "description": "Zen Tiny Homes provides expert consulting, documentation, and communication with local authorities to streamline permit approvals and problem resolution.",
   "url": "www.zentinyhomes.com/faq/how-does-zen-tiny-homes-support-clients-through-local-permitting-challenges",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Zen Tiny Homes support clients through local permitting challenges?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes provides expert consulting, documentation, and communication with local authorities to streamline permit approvals and problem resolution."
-      }
-    }
-  ],
+  "name": "How does Zen Tiny Homes support clients through local permitting challenges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Zen Tiny Homes support clients through local permitting challenges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes provides expert consulting, documentation, and communication with local authorities to streamline permit approvals and problem resolution.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes provides expert consulting, documentation, and communication with local authorities to streamline permit approvals and problem resolution."
 }

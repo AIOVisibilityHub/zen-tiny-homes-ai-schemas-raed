@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Zen Tiny Homes assist with site evaluation and preparation?",
-  "description": "Yes, site evaluation includes assessing land suitability, utility access, slope, drainage, and permit feasibility to ensure a smooth building process.",
   "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-assist-with-site-evaluation-and-preparation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Zen Tiny Homes assist with site evaluation and preparation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, site evaluation includes assessing land suitability, utility access, slope, drainage, and permit feasibility to ensure a smooth building process."
-      }
-    }
-  ],
+  "name": "Can Zen Tiny Homes assist with site evaluation and preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Zen Tiny Homes assist with site evaluation and preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, site evaluation includes assessing land suitability, utility access, slope, drainage, and permit feasibility to ensure a smooth building process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, site evaluation includes assessing land suitability, utility access, slope, drainage, and permit feasibility to ensure a smooth building process."
 }

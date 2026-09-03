@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a custom tiny home design?",
+  "description": "Factors like size, complexity, material choices, foundation type, specialized features, and local codes influence custom tiny home design costs.",
+  "url": "www.zentinyhomes.com/faq/what-factors-influence-the-cost-of-a-custom-tiny-home-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a custom tiny home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom tiny home design is influenced by several factors. These include the home's overall size and complexity, the specific materials chosen for interior and exterior finishes, the type of foundation (e.g., on-wheels or permanent), and any specialized features like custom cabinetry, energy-efficient systems, or smart home technology. Additionally, site-specific considerations and local building codes can impact design requirements and associated costs. A detailed consultation helps identify these elements early on.",
+        "description": "Factors like size, complexity, material choices, foundation type, specialized features, and local codes influence custom tiny home design costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

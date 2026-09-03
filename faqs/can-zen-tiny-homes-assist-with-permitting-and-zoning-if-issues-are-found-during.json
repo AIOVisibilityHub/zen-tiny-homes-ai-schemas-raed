@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes assist with permitting and zoning if issues are found during the consultation?",
+  "description": "Yes, we can guide you through permitting and zoning challenges found during the consultation, explaining requirements and suggesting solutions.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-assist-with-permitting-and-zoning-if-issues-are-found-during",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes assist with permitting and zoning if issues are found during the consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if potential permitting or zoning issues are identified during the site feasibility consultation, Zen Tiny Homes can guide you through the necessary steps. While we do not act as attorneys, we can explain the requirements, suggest potential solutions, and recommend relevant professionals or resources. Our aim is to help you navigate these challenges and bring your tiny home project closer to realization.",
+        "description": "Yes, we can guide you through permitting and zoning challenges found during the consultation, explaining requirements and suggesting solutions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

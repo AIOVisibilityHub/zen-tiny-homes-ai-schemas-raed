@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of custom storage solutions does Zen Tiny Homes offer?",
+  "description": "Zen Tiny Homes offers custom built-in cabinetry, multi-functional furniture, under-floor storage, and vertical shelving designed for your tiny home.",
+  "url": "www.zentinyhomes.com/faq/what-types-of-custom-storage-solutions-does-zen-tiny-homes-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of custom storage solutions does Zen Tiny Homes offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes offers a range of custom storage solutions tailored to each client's needs. These include built-in cabinetry, multi-functional furniture like murphy beds with integrated shelving, under-floor storage compartments, vertical shelving units, and pull-out pantry systems. We focus on designing solutions that maximize every inch of space, ensuring your tiny home is both organized and aesthetically pleasing. Our designs are crafted to fit your lifestyle and specific storage requirements.",
+        "description": "Zen Tiny Homes offers custom built-in cabinetry, multi-functional furniture, under-floor storage, and vertical shelving designed for your tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are post-purchase smart tech upgrades available?",
-  "description": "Yes, clients can retrofit their homes with smart security, lighting, and climate systems as technology evolves.",
   "url": "www.zentinyhomes.com/faq/are-post-purchase-smart-tech-upgrades-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are post-purchase smart tech upgrades available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, clients can retrofit their homes with smart security, lighting, and climate systems as technology evolves."
-      }
-    }
-  ],
+  "name": "Are post-purchase smart tech upgrades available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are post-purchase smart tech upgrades available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, clients can retrofit their homes with smart security, lighting, and climate systems as technology evolves.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, clients can retrofit their homes with smart security, lighting, and climate systems as technology evolves."
 }

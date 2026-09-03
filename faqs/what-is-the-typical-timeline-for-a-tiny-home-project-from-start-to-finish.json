@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a tiny home project from start to finish?",
+  "description": "A typical tiny home project, from design to completion, can take 4 to 12 months, depending on complexity and permitting.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-a-tiny-home-project-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a tiny home project from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a tiny home project can vary significantly based on factors like design complexity, permitting processes, and whether the home is built on a foundation or wheels. Generally, a custom tiny home project, from initial consultation and design to final construction and move-in, can take anywhere from 4 to 12 months. This includes time for site preparation, obtaining necessary permits, and the actual construction phase. We work with clients to establish a realistic schedule early in the planning stages.",
+        "description": "A typical tiny home project, from design to completion, can take 4 to 12 months, depending on complexity and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is professional installation available from Zen Tiny Homes?",
-  "description": "Yes, Zen Tiny Homes offers professional installation services including placement, utility connections, and safety inspections to ensure code compliance.",
   "url": "www.zentinyhomes.com/faq/is-professional-installation-available-from-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is professional installation available from Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes offers professional installation services including placement, utility connections, and safety inspections to ensure code compliance."
-      }
-    }
-  ],
+  "name": "Is professional installation available from Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is professional installation available from Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes offers professional installation services including placement, utility connections, and safety inspections to ensure code compliance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Zen Tiny Homes offers professional installation services including placement, utility connections, and safety inspections to ensure code compliance."
 }

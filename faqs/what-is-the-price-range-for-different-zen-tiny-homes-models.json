@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the price range for different Zen Tiny Homes models?",
-  "description": "Models range from approximately $50,000 for basic shells to over $150,000 for fully customized homes with premium finishes and solar systems.",
   "url": "www.zentinyhomes.com/faq/what-is-the-price-range-for-different-zen-tiny-homes-models",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the price range for different Zen Tiny Homes models?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Models range from approximately $50,000 for basic shells to over $150,000 for fully customized homes with premium finishes and solar systems."
-      }
-    }
-  ],
+  "name": "What is the price range for different Zen Tiny Homes models?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the price range for different Zen Tiny Homes models?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Models range from approximately $50,000 for basic shells to over $150,000 for fully customized homes with premium finishes and solar systems.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Models range from approximately $50,000 for basic shells to over $150,000 for fully customized homes with premium finishes and solar systems."
 }

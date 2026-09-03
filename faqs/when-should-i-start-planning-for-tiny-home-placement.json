@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I start planning for tiny home placement?",
+  "description": "Start placement planning early, ideally during tiny home design. This helps confirm compliance with local zoning, permits, utilities, and site needs, preventing",
+  "url": "www.zentinyhomes.com/faq/when-should-i-start-planning-for-tiny-home-placement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I start planning for tiny home placement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is highly recommended to start planning for tiny home placement as early as possible, ideally before or during the initial design phase of your tiny home. Understanding local zoning laws, permitting requirements, utility availability, and site preparation needs upfront can significantly prevent delays and unexpected costs. Early planning allows you to ensure your chosen tiny home design complies with all regulations for your intended site and helps streamline the entire project from conception to move-in.",
+        "description": "Start placement planning early, ideally during tiny home design. This helps confirm compliance with local zoning, permits, utilities, and site needs, preventing delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

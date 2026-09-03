@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use a guest home as a rental property?",
+  "description": "Yes, guest homes can often be legally rented for passive income. It's important to check local regulations on short-term versus long-term rentals, which can var",
+  "url": "www.zentinyhomes.com/faq/can-i-use-a-guest-home-as-a-rental-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use a guest home as a rental property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many areas, including the communities we serve, guest homes (ADUs) can be legally rented out, providing a significant source of passive income. Rental income can help homeowners with their mortgage payments, property taxes, or simply provide additional financial flexibility. However, it's crucial to check local regulations regarding short-term vs. long-term rentals, as rules can vary. We can discuss the general rental potential and considerations based on your specific location.",
+        "description": "Yes, guest homes can often be legally rented for passive income. It's important to check local regulations on short-term versus long-term rentals, which can vary by area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What financing options are available for purchasing a Zen Tiny Home?",
-  "description": "Zen Tiny Homes offers cash purchases, traditional bank and RV loans, personal loans, and phased payment plans starting with a 50% down payment, tailored to clie",
   "url": "www.zentinyhomes.com/faq/what-financing-options-are-available-for-purchasing-a-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What financing options are available for purchasing a Zen Tiny Home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes offers cash purchases, traditional bank and RV loans, personal loans, and phased payment plans starting with a 50% down payment, tailored to clients' budgets."
-      }
-    }
-  ],
+  "name": "What financing options are available for purchasing a Zen Tiny Home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for purchasing a Zen Tiny Home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes offers cash purchases, traditional bank and RV loans, personal loans, and phased payment plans starting with a 50% down payment, tailored to clients' budgets.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes offers cash purchases, traditional bank and RV loans, personal loans, and phased payment plans starting with a 50% down payment, tailored to clie"
 }

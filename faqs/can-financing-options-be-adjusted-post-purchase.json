@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can financing options be adjusted post-purchase?",
-  "description": "Financing plans can be restructured with lenders to accommodate life changes, subject to lender approval and terms.",
   "url": "www.zentinyhomes.com/faq/can-financing-options-be-adjusted-post-purchase",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can financing options be adjusted post-purchase?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financing plans can be restructured with lenders to accommodate life changes, subject to lender approval and terms."
-      }
-    }
-  ],
+  "name": "Can financing options be adjusted post-purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can financing options be adjusted post-purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing plans can be restructured with lenders to accommodate life changes, subject to lender approval and terms.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Financing plans can be restructured with lenders to accommodate life changes, subject to lender approval and terms."
 }

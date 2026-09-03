@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is a site feasibility consultation important for tiny homes in Oceanside?",
+  "description": "A site feasibility consultation is important in Oceanside to navigate specific local zoning, ADU regulations, and potential coastal or flood zone requirements.",
+  "url": "www.zentinyhomes.com/faq/why-is-a-site-feasibility-consultation-important-for-tiny-homes-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is a site feasibility consultation important for tiny homes in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For tiny homes in Oceanside, a site feasibility consultation is crucial due to specific local regulations and environmental considerations. Oceanside, like other coastal cities, may have unique zoning ordinances regarding accessory dwelling units (ADUs) or tiny homes, as well as potential flood zone or coastal commission requirements. Understanding these local nuances ensures compliance and avoids delays in your project.",
+        "description": "A site feasibility consultation is important in Oceanside to navigate specific local zoning, ADU regulations, and potential coastal or flood zone requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

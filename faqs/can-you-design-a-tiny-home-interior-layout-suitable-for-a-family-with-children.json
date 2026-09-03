@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you design a tiny home interior layout suitable for a family with children?",
+  "description": "Yes, we design family-friendly layouts with multi-functional spaces, dedicated play areas, robust storage, and safety features to optimize living for all.",
+  "url": "www.zentinyhomes.com/faq/can-you-design-a-tiny-home-interior-layout-suitable-for-a-family-with-children",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you design a tiny home interior layout suitable for a family with children?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, designing a tiny home interior layout for a family with children is absolutely possible and requires strategic planning. We focus on creating multi-functional spaces, such as bunk beds that convert into seating, dedicated play areas that can be stowed away, and robust storage solutions for toys and clothes. Safety features, durable materials, and clever partitioning for privacy are also key considerations. Our designers work to create a layout that maximizes living space, fosters family interaction, and provides individual zones for both children and adults.",
+        "description": "Yes, we design family-friendly layouts with multi-functional spaces, dedicated play areas, robust storage, and safety features to optimize living for all."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

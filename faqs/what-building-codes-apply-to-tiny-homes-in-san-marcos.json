@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What building codes apply to tiny homes in San Marcos?",
+  "description": "Tiny homes in San Marcos are subject to California Residential Code for permanent structures or RVIA standards for homes on wheels; local zoning must be verifie",
+  "url": "www.zentinyhomes.com/faq/what-building-codes-apply-to-tiny-homes-in-san-marcos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What building codes apply to tiny homes in San Marcos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Marcos, tiny homes are subject to specific building codes and zoning ordinances that vary based on whether the home is on a permanent foundation or on wheels. Permanently installed tiny homes typically fall under the California Residential Code, similar to traditional homes, with specific requirements for foundations, utilities, and safety. Tiny homes on wheels may be considered recreational vehicles (RVs) and must comply with RVIA standards. It is crucial to verify current local regulations with the City of San Marcos planning department, and we can guide you through these requirements during the design phase.",
+        "description": "Tiny homes in San Marcos are subject to California Residential Code for permanent structures or RVIA standards for homes on wheels; local zoning must be verified."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

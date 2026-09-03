@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right materials for my custom tiny home?",
+  "description": "Choosing materials for your tiny home involves balancing durability, aesthetics, weight, maintenance, and budget, considering climate and lifestyle, with guidan",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-materials-for-my-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right materials for my custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right materials for your custom tiny home involves balancing durability, aesthetics, weight, maintenance, and budget. Consider the climate and your lifestyle: lighter materials might be preferred for a tiny home on wheels, while more robust, energy-efficient options suit a permanent foundation. We guide you through options for flooring, siding, roofing, countertops, and cabinetry, discussing pros and cons of each. We also focus on sustainable and healthy material choices, ensuring your tiny home is not only beautiful but also long-lasting and comfortable.",
+        "description": "Choosing materials for your tiny home involves balancing durability, aesthetics, weight, maintenance, and budget, considering climate and lifestyle, with guidance on sustainable options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

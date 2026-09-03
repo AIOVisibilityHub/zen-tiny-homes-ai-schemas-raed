@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common causes of building permit delays?",
-  "description": "Incomplete applications, zoning conflicts, or environmental reviews often cause delays; Zen Tiny Homes provides expert permit support to mitigate issues.",
   "url": "www.zentinyhomes.com/faq/what-are-common-causes-of-building-permit-delays",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common causes of building permit delays?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Incomplete applications, zoning conflicts, or environmental reviews often cause delays; Zen Tiny Homes provides expert permit support to mitigate issues."
-      }
-    }
-  ],
+  "name": "What are common causes of building permit delays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of building permit delays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Incomplete applications, zoning conflicts, or environmental reviews often cause delays; Zen Tiny Homes provides expert permit support to mitigate issues.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Incomplete applications, zoning conflicts, or environmental reviews often cause delays; Zen Tiny Homes provides expert permit support to mitigate issues."
 }

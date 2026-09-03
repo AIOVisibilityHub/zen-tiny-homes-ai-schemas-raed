@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities are required for Zen Tiny Homes?",
-  "description": "Standard utilities include electricity, potable water, and sewage or septic systems. Optional solar power and composting toilets support off-grid living.",
   "url": "www.zentinyhomes.com/faq/what-utilities-are-required-for-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities are required for Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard utilities include electricity, potable water, and sewage or septic systems. Optional solar power and composting toilets support off-grid living."
-      }
-    }
-  ],
+  "name": "What utilities are required for Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are required for Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard utilities include electricity, potable water, and sewage or septic systems. Optional solar power and composting toilets support off-grid living.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Standard utilities include electricity, potable water, and sewage or septic systems. Optional solar power and composting toilets support off-grid living."
 }

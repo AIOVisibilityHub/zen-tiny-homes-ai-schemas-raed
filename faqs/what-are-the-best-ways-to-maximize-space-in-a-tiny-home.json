@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the best ways to maximize space in a tiny home?",
-  "description": "Custom built-in storage, fold-away furniture, lofted sleeping areas, and open floor plans are used to maximize living and storage space in tiny homes.",
   "url": "www.zentinyhomes.com/faq/what-are-the-best-ways-to-maximize-space-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the best ways to maximize space in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom built-in storage, fold-away furniture, lofted sleeping areas, and open floor plans are used to maximize living and storage space in tiny homes."
-      }
-    }
-  ],
+  "name": "What are the best ways to maximize space in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best ways to maximize space in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom built-in storage, fold-away furniture, lofted sleeping areas, and open floor plans are used to maximize living and storage space in tiny homes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Custom built-in storage, fold-away furniture, lofted sleeping areas, and open floor plans are used to maximize living and storage space in tiny homes."
 }

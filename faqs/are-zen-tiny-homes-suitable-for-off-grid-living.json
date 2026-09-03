@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are Zen Tiny Homes suitable for off-grid living?",
-  "description": "Fully, with optional solar installations, rainwater catchment systems, and composting toilets, Zen Tiny Homes support sustainable off-grid lifestyles.",
   "url": "www.zentinyhomes.com/faq/are-zen-tiny-homes-suitable-for-off-grid-living",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are Zen Tiny Homes suitable for off-grid living?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fully, with optional solar installations, rainwater catchment systems, and composting toilets, Zen Tiny Homes support sustainable off-grid lifestyles."
-      }
-    }
-  ],
+  "name": "Are Zen Tiny Homes suitable for off-grid living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are Zen Tiny Homes suitable for off-grid living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fully, with optional solar installations, rainwater catchment systems, and composting toilets, Zen Tiny Homes support sustainable off-grid lifestyles.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Fully, with optional solar installations, rainwater catchment systems, and composting toilets, Zen Tiny Homes support sustainable off-grid lifestyles."
 }

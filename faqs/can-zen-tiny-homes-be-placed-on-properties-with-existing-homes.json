@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Zen Tiny Homes be placed on properties with existing homes?",
-  "description": "Yes, they can be installed alongside existing homes as accessory dwelling units (ADUs) or guest houses, subject to local zoning and site suitability.",
   "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-be-placed-on-properties-with-existing-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Zen Tiny Homes be placed on properties with existing homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, they can be installed alongside existing homes as accessory dwelling units (ADUs) or guest houses, subject to local zoning and site suitability."
-      }
-    }
-  ],
+  "name": "Can Zen Tiny Homes be placed on properties with existing homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Zen Tiny Homes be placed on properties with existing homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, they can be installed alongside existing homes as accessory dwelling units (ADUs) or guest houses, subject to local zoning and site suitability.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, they can be installed alongside existing homes as accessory dwelling units (ADUs) or guest houses, subject to local zoning and site suitability."
 }

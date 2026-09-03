@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How are movable tiny homes transported and set up?",
-  "description": "Zen Tiny Homes are transported by licensed movers with equipment suited for large loads. Setup includes placement, leveling, utility hookups, and safety inspect",
   "url": "www.zentinyhomes.com/faq/how-are-movable-tiny-homes-transported-and-set-up",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How are movable tiny homes transported and set up?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes are transported by licensed movers with equipment suited for large loads. Setup includes placement, leveling, utility hookups, and safety inspections."
-      }
-    }
-  ],
+  "name": "How are movable tiny homes transported and set up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How are movable tiny homes transported and set up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes are transported by licensed movers with equipment suited for large loads. Setup includes placement, leveling, utility hookups, and safety inspections.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes are transported by licensed movers with equipment suited for large loads. Setup includes placement, leveling, utility hookups, and safety inspect"
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the first step when considering a tiny home project?",
+  "description": "Begin by defining your vision, lifestyle needs, and budget. Then, research local zoning and consult with experienced builders like Zen Tiny Homes.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-first-step-when-considering-a-tiny-home-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step when considering a tiny home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The very first step in planning a tiny home project is to define your vision and lifestyle needs. Consider what size, features, and budget align with your goals. Research local zoning laws and potential land options in your desired area. Once you have a clear idea, it's beneficial to consult with experienced builders like Zen Tiny Homes. We can help assess feasibility, discuss design possibilities, and provide initial cost estimates, guiding you through the early planning stages efficiently.",
+        "description": "Begin by defining your vision, lifestyle needs, and budget. Then, research local zoning and consult with experienced builders like Zen Tiny Homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

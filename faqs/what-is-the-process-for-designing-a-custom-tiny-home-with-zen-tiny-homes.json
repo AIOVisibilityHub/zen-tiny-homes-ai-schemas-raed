@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing a custom tiny home with Zen Tiny Homes?",
+  "description": "The design process involves initial consultation, concept development, design refinement, material selection, and final construction document creation, ensuring",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-custom-tiny-home-with-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing a custom tiny home with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our design process begins with an initial consultation to understand your vision, needs, and budget. Next, we develop preliminary concept sketches and floor plans for your review. We then refine these designs based on your feedback, selecting specific materials and finishes. Once the design is approved, we create detailed construction documents. Throughout this process, we ensure compliance with local zoning and building regulations in areas like Vista, Oceanside, and Carlsbad, ensuring your custom tiny home is both beautiful and permissible.",
+        "description": "The design process involves initial consultation, concept development, design refinement, material selection, and final construction document creation, ensuring local compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific regulations apply to tiny homes in Oceanside?",
+  "description": "Oceanside generally treats tiny homes on foundations as conventional homes, while tiny homes on wheels face RV restrictions. Verify specific zoning and ADU regu",
+  "url": "www.zentinyhomes.com/faq/what-specific-regulations-apply-to-tiny-homes-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific regulations apply to tiny homes in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Oceanside, tiny homes on foundations are generally treated like conventional homes and must comply with the city's building codes and zoning ordinances for single-family residences. Tiny homes on wheels are often considered recreational vehicles (RVs) and typically have restrictions on their permanent placement, usually limited to RV parks or specific accessory dwelling unit (ADU) contexts where allowed. It is essential to verify current zoning and ADU regulations directly with the City of Oceanside Planning Department, as rules can evolve. Our assessment clarifies these local specifics.",
+        "description": "Oceanside generally treats tiny homes on foundations as conventional homes, while tiny homes on wheels face RV restrictions. Verify specific zoning and ADU regulations with the city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

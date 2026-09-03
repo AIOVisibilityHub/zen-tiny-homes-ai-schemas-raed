@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average utility cost for a Zen Tiny Home?",
-  "description": "Due to energy efficiency and optional solar, utility costs are typically significantly lower than traditional homes, with averages depending on location and usa",
   "url": "www.zentinyhomes.com/faq/what-is-the-average-utility-cost-for-a-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average utility cost for a Zen Tiny Home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Due to energy efficiency and optional solar, utility costs are typically significantly lower than traditional homes, with averages depending on location and usage."
-      }
-    }
-  ],
+  "name": "What is the average utility cost for a Zen Tiny Home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average utility cost for a Zen Tiny Home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Due to energy efficiency and optional solar, utility costs are typically significantly lower than traditional homes, with averages depending on location and usage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Due to energy efficiency and optional solar, utility costs are typically significantly lower than traditional homes, with averages depending on location and usa"
 }

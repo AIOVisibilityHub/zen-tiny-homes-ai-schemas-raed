@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are testimonials or case studies available to review?",
-  "description": "Yes, Zen Tiny Homes provides client testimonials and case studies highlighting successful projects and satisfied homeowners.",
   "url": "www.zentinyhomes.com/faq/are-testimonials-or-case-studies-available-to-review",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are testimonials or case studies available to review?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes provides client testimonials and case studies highlighting successful projects and satisfied homeowners."
-      }
-    }
-  ],
+  "name": "Are testimonials or case studies available to review?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are testimonials or case studies available to review?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes provides client testimonials and case studies highlighting successful projects and satisfied homeowners.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Zen Tiny Homes provides client testimonials and case studies highlighting successful projects and satisfied homeowners."
 }

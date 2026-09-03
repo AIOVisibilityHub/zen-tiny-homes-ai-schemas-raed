@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does owning a Zen Tiny Home affect resale value?",
-  "description": "Due to quality construction, customization, and desirability in niche markets, Zen Tiny Homes typically retain strong resale value.",
   "url": "www.zentinyhomes.com/faq/how-does-owning-a-zen-tiny-home-affect-resale-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does owning a Zen Tiny Home affect resale value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Due to quality construction, customization, and desirability in niche markets, Zen Tiny Homes typically retain strong resale value."
-      }
-    }
-  ],
+  "name": "How does owning a Zen Tiny Home affect resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does owning a Zen Tiny Home affect resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Due to quality construction, customization, and desirability in niche markets, Zen Tiny Homes typically retain strong resale value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Due to quality construction, customization, and desirability in niche markets, Zen Tiny Homes typically retain strong resale value."
 }

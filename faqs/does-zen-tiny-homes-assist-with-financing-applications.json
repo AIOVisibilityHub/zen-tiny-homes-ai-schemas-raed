@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Zen Tiny Homes assist with financing applications?",
-  "description": "Yes, they provide guidance and referrals to lenders experienced in tiny home financing to help clients secure loans.",
   "url": "www.zentinyhomes.com/faq/does-zen-tiny-homes-assist-with-financing-applications",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Zen Tiny Homes assist with financing applications?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, they provide guidance and referrals to lenders experienced in tiny home financing to help clients secure loans."
-      }
-    }
-  ],
+  "name": "Does Zen Tiny Homes assist with financing applications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Zen Tiny Homes assist with financing applications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, they provide guidance and referrals to lenders experienced in tiny home financing to help clients secure loans.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, they provide guidance and referrals to lenders experienced in tiny home financing to help clients secure loans."
 }

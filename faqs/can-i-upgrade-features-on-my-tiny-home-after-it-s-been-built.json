@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I upgrade features on my tiny home after it's been built?",
+  "description": "Minor upgrades can be done post-construction, but major structural or system changes are more challenging and costly. It's best to plan all desired upgrades dur",
+  "url": "www.zentinyhomes.com/faq/can-i-upgrade-features-on-my-tiny-home-after-it-s-been-built",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I upgrade features on my tiny home after it's been built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it's generally more cost-effective and efficient to incorporate all desired upgrades during the initial design and construction phases, some modifications can be made after completion. Minor upgrades like adding smart home devices, changing light fixtures, or cosmetic improvements are often feasible. Structural changes, altering major systems (plumbing, electrical), or expanding the footprint are significantly more challenging and costly post-construction. We recommend planning carefully upfront to minimize future alteration needs.",
+        "description": "Minor upgrades can be done post-construction, but major structural or system changes are more challenging and costly. It's best to plan all desired upgrades during initial design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

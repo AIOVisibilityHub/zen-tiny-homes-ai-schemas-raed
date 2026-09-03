@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you integrate sustainability into small-space planning?",
+  "description": "Sustainability is integrated through material selection, energy-efficient design, and waste reduction. We maximize natural light, use water-saving fixtures, and",
+  "url": "www.zentinyhomes.com/faq/how-do-you-integrate-sustainability-into-small-space-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you integrate sustainability into small-space planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Integrating sustainability into small-space planning involves thoughtful material selection, energy-efficient design, and waste reduction strategies. We prioritize using reclaimed, recycled, or locally sourced materials whenever possible. Design choices focus on maximizing natural light and ventilation to reduce reliance on artificial lighting and HVAC, lowering energy consumption. Water-saving fixtures and smart home technologies are also incorporated. The smaller footprint of tiny homes inherently reduces resource consumption, and our planning aims to further minimize environmental impact throughout the build and lifespan of the home.",
+        "description": "Sustainability is integrated through material selection, energy-efficient design, and waste reduction. We maximize natural light, use water-saving fixtures, and prioritize eco-friendly materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a property assessment for my tiny home?",
+  "description": "Conduct a property assessment before buying land or finalizing tiny home placement to identify potential issues and ensure compliance with local regulations and",
+  "url": "www.zentinyhomes.com/faq/when-do-i-need-a-property-assessment-for-my-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a property assessment for my tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should obtain a property assessment before purchasing land for a tiny home or before deciding on the final placement of a tiny home on an existing property. This early step helps identify any potential issues that could prevent you from legally placing or building your tiny home. It's crucial for understanding the local regulatory landscape, utility availability, and any site-specific challenges. Waiting until after land purchase or construction plans are final can lead to costly delays or even necessitate finding an entirely new location.",
+        "description": "Conduct a property assessment before buying land or finalizing tiny home placement to identify potential issues and ensure compliance with local regulations and utility access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

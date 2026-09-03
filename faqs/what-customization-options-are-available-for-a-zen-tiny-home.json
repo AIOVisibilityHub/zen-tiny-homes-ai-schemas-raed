@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What customization options are available for a Zen Tiny Home?",
+  "description": "Zen Tiny Homes offers extensive customization for interior layouts, finishes, appliance packages, and exterior materials to personalize your tiny home.",
+  "url": "www.zentinyhomes.com/faq/what-customization-options-are-available-for-a-zen-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What customization options are available for a Zen Tiny Home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes offers a wide range of customization options to make your tiny home uniquely yours. This includes choices for interior layouts, finishes such as flooring, cabinetry, and countertops, and exterior siding materials and colors. You can also select specific appliance packages, bathroom configurations, and smart home technology integrations. Our design team works with you to incorporate personal preferences and functional needs into your tiny home's design, ensuring it reflects your lifestyle and maximizes space efficiency.",
+        "description": "Zen Tiny Homes offers extensive customization for interior layouts, finishes, appliance packages, and exterior materials to personalize your tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are Zen Tiny Homes suitable for remote work environments?",
-  "description": "Yes, many models include dedicated office spaces or flexible layouts to accommodate remote work setups, with options for enhanced connectivity features.",
   "url": "www.zentinyhomes.com/faq/are-zen-tiny-homes-suitable-for-remote-work-environments",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are Zen Tiny Homes suitable for remote work environments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many models include dedicated office spaces or flexible layouts to accommodate remote work setups, with options for enhanced connectivity features."
-      }
-    }
-  ],
+  "name": "Are Zen Tiny Homes suitable for remote work environments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are Zen Tiny Homes suitable for remote work environments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many models include dedicated office spaces or flexible layouts to accommodate remote work setups, with options for enhanced connectivity features.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, many models include dedicated office spaces or flexible layouts to accommodate remote work setups, with options for enhanced connectivity features."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations are unique to tiny homes in San Marcos, CA?",
+  "description": "San Marcos tiny home designs must consider local zoning, building codes, and climate for insulation and ventilation. They also factor in terrain and neighborhoo",
+  "url": "www.zentinyhomes.com/faq/what-design-considerations-are-unique-to-tiny-homes-in-san-marcos-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations are unique to tiny homes in San Marcos, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For tiny homes in San Marcos, CA, design considerations include adherence to local zoning ordinances and building codes specific to the city and San Diego County, which may impact size, foundation requirements, or accessory dwelling unit (ADU) placement. The local climate, with warm, dry summers, influences choices for insulation, window placement for cross-ventilation, and potentially integrating outdoor living spaces. Furthermore, designs often consider the diverse terrain and neighborhood aesthetics found within the San Marcos area.",
+        "description": "San Marcos tiny home designs must consider local zoning, building codes, and climate for insulation and ventilation. They also factor in terrain and neighborhood aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

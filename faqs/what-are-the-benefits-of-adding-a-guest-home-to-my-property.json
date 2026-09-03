@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of adding a guest home to my property?",
+  "description": "A guest home offers benefits like extra space for family or an office, potential rental income, and increased property value. It provides flexible, private livi",
+  "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-adding-a-guest-home-to-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of adding a guest home to my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a guest home to your property offers multiple advantages. It can provide a flexible space for family members, serve as a dedicated home office, or generate rental income to help offset mortgage costs. Guest homes can also increase your property's overall value and appeal. They offer privacy and independence for occupants while keeping them close. Many homeowners appreciate the versatility a guest home provides, adapting to changing needs over time, from guest accommodation to a rental unit or personal retreat.",
+        "description": "A guest home offers benefits like extra space for family or an office, potential rental income, and increased property value. It provides flexible, private living arrangements on your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

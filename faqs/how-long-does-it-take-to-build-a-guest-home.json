@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a guest home?",
+  "description": "Building a guest home typically takes 3-6 months after permitting, which can add several months. The total time depends on permits, construction complexity, and",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-guest-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a guest home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a guest home can range from a few months to over half a year, depending on several factors. Permitting and approvals from local authorities are a significant part of the process, and their duration can vary. Once permits are secured, the construction phase typically takes 3-6 months. This includes site preparation, foundation work, framing, utility connections, interior finishes, and final inspections. Delays can occur due to weather, material availability, or changes requested during construction.",
+        "description": "Building a guest home typically takes 3-6 months after permitting, which can add several months. The total time depends on permits, construction complexity, and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

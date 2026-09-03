@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors are assessed during a site feasibility consultation?",
+  "description": "Factors assessed include zoning, building codes, utility access, topography, soil conditions, and potential environmental concerns.",
+  "url": "www.zentinyhomes.com/faq/what-factors-are-assessed-during-a-site-feasibility-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors are assessed during a site feasibility consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a site feasibility consultation, several key factors are assessed. These include local zoning and building codes, ensuring the property allows tiny homes and meets setback requirements. We also evaluate utility access for water, sewer/septic, and electrical connections. Topography, soil conditions, access for construction, and potential environmental concerns like flood zones or fire hazards are also reviewed to provide a comprehensive understanding of the site's readiness.",
+        "description": "Factors assessed include zoning, building codes, utility access, topography, soil conditions, and potential environmental concerns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

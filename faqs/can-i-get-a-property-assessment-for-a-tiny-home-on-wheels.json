@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get a property assessment for a tiny home on wheels?",
+  "description": "Yes, a property assessment for a tiny home on wheels is recommended to verify local zoning for placement, assess utility access, and ensure compliance with RV o",
+  "url": "www.zentinyhomes.com/faq/can-i-get-a-property-assessment-for-a-tiny-home-on-wheels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a property assessment for a tiny home on wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a property assessment is highly recommended for tiny homes on wheels (THOWs), even though they are considered recreational vehicles in many jurisdictions. The assessment will focus on whether local zoning allows for THOW placement, especially for long-term residency or as an accessory dwelling unit. It will also evaluate access to necessary hookups for water, sewer, and electricity, and ensure the site complies with any setback requirements or specific regulations for RVs or mobile living. This prevents unexpected legal or logistical issues after placement.",
+        "description": "Yes, a property assessment for a tiny home on wheels is recommended to verify local zoning for placement, assess utility access, and ensure compliance with RV or ADU regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of warranty comes with a Zen Tiny Home?",
-  "description": "Zen Tiny Homes provides a one-year limited warranty covering structural and craftsmanship defects, with options to extend coverage on select components.",
   "url": "www.zentinyhomes.com/faq/what-kind-of-warranty-comes-with-a-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of warranty comes with a Zen Tiny Home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes provides a one-year limited warranty covering structural and craftsmanship defects, with options to extend coverage on select components."
-      }
-    }
-  ],
+  "name": "What kind of warranty comes with a Zen Tiny Home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with a Zen Tiny Home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes provides a one-year limited warranty covering structural and craftsmanship defects, with options to extend coverage on select components.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes provides a one-year limited warranty covering structural and craftsmanship defects, with options to extend coverage on select components."
 }

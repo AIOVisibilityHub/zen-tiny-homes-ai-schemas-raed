@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building a backyard tiny home with Zen Tiny Homes?",
+  "description": "The process involves an initial consultation, custom design and permitting, efficient construction, and a final walkthrough. We handle all stages from concept t",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-building-a-backyard-tiny-home-with-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building a backyard tiny home with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to discuss your vision, budget, and site feasibility. We then move into design and permitting, where our team creates custom plans and handles the necessary applications with local authorities. Once permits are approved, we proceed with construction, adhering to high-quality standards and efficient timelines. Throughout the build, we maintain clear communication, culminating in a final walkthrough and handover of your completed tiny home.",
+        "description": "The process involves an initial consultation, custom design and permitting, efficient construction, and a final walkthrough. We handle all stages from concept to completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

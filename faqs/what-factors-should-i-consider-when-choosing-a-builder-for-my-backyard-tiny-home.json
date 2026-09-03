@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a builder for my backyard tiny home?",
+  "description": "Choose a builder with ADU experience, local permitting knowledge, a strong portfolio, transparent communication, and proper licensing. Check reviews and testimo",
+  "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a builder for my backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a builder, consider their experience with ADUs specifically, their local knowledge of permitting and zoning regulations in your area, and their portfolio of completed projects. Look for transparent communication, detailed contracts, and positive client testimonials. Ensure they are licensed, insured, and committed to high-quality craftsmanship. A builder who understands your vision and can navigate the complexities of local requirements is essential for a successful project.",
+        "description": "Choose a builder with ADU experience, local permitting knowledge, a strong portfolio, transparent communication, and proper licensing. Check reviews and testimonials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

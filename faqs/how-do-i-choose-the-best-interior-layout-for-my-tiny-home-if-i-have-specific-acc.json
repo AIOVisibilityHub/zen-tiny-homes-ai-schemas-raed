@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best interior layout for my tiny home if I have specific accessibility needs?",
+  "description": "Prioritize wide doorways, clear paths, and an accessible bathroom (roll-in shower, grab bars). Discuss specific needs early with designers for a customized, com",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-best-interior-layout-for-my-tiny-home-if-i-have-specific-acc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best interior layout for my tiny home if I have specific accessibility needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the best interior layout for accessibility needs involves prioritizing wider doorways, clear pathways without obstacles, and a thoughtfully designed bathroom. Consider incorporating a roll-in shower, grab bars, and appropriate toilet height. Kitchen layouts should allow for easy access to countertops and appliances, potentially with adjustable-height surfaces. Ensure switches and outlets are within reach. It's crucial to discuss your specific needs with our designers early on, as we can customize layouts to enhance maneuverability and comfort for all occupants.",
+        "description": "Prioritize wide doorways, clear paths, and an accessible bathroom (roll-in shower, grab bars). Discuss specific needs early with designers for a customized, comfortable layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

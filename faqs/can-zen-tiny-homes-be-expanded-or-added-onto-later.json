@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Zen Tiny Homes be expanded or added onto later?",
-  "description": "Some models are designed for easy expansion or can be paired with additional units, allowing flexibility as client needs grow or change.",
   "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-be-expanded-or-added-onto-later",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Zen Tiny Homes be expanded or added onto later?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Some models are designed for easy expansion or can be paired with additional units, allowing flexibility as client needs grow or change."
-      }
-    }
-  ],
+  "name": "Can Zen Tiny Homes be expanded or added onto later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Zen Tiny Homes be expanded or added onto later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Some models are designed for easy expansion or can be paired with additional units, allowing flexibility as client needs grow or change.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Some models are designed for easy expansion or can be paired with additional units, allowing flexibility as client needs grow or change."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits and regulations are needed to build a tiny home in the areas you serve like Carlsbad or Oceanside?",
+  "description": "Permits depend on local zoning and if the tiny home is on a foundation or wheels. We help clients navigate regulations in Carlsbad, Oceanside, and other service",
+  "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-are-needed-to-build-a-tiny-home-in-the-areas-you-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits and regulations are needed to build a tiny home in the areas you serve like Carlsbad or Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permitting for tiny homes varies based on local zoning ordinances and whether the home is on a foundation or wheels. In areas like Carlsbad or Oceanside, a foundation tiny home typically requires standard building permits, adhering to the Uniform Building Code. Tiny homes on wheels are often classified differently, sometimes as RVs or accessory dwelling units (ADUs), each with specific regulations regarding placement, utility hookups, and occupancy. We assist clients in navigating the local permitting process to ensure compliance.",
+        "description": "Permits depend on local zoning and if the tiny home is on a foundation or wheels. We help clients navigate regulations in Carlsbad, Oceanside, and other service areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

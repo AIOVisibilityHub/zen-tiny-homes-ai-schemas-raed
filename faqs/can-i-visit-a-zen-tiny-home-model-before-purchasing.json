@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I visit a Zen Tiny Home model before purchasing?",
-  "description": "Yes, Zen Tiny Homes offers scheduled tours at their model locations where clients can experience layouts and finishes before deciding on a purchase.",
   "url": "www.zentinyhomes.com/faq/can-i-visit-a-zen-tiny-home-model-before-purchasing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I visit a Zen Tiny Home model before purchasing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes offers scheduled tours at their model locations where clients can experience layouts and finishes before deciding on a purchase."
-      }
-    }
-  ],
+  "name": "Can I visit a Zen Tiny Home model before purchasing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I visit a Zen Tiny Home model before purchasing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes offers scheduled tours at their model locations where clients can experience layouts and finishes before deciding on a purchase.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Zen Tiny Homes offers scheduled tours at their model locations where clients can experience layouts and finishes before deciding on a purchase."
 }

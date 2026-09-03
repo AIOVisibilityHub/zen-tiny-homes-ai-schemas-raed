@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for interior layout design services for a tiny home?",
+  "description": "Cost for interior layout design varies based on project scope, complexity, and customization level. Custom designs are a higher investment than adapting pre-des",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-interior-layout-design-services-for-a-tiny-ho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for interior layout design services for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost range for interior layout design services for a tiny home can vary based on the scope and complexity of the project. Factors influencing cost include whether you opt for a fully custom design, the number of revisions, and the level of detail required in material and finish selections. Some firms offer design packages, while others charge hourly. A custom design will generally be a higher investment due to its bespoke nature, whereas adapting a pre-designed layout will typically be more budget-friendly. We provide detailed quotes after understanding your specific requirements.",
+        "description": "Cost for interior layout design varies based on project scope, complexity, and customization level. Custom designs are a higher investment than adapting pre-designed layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

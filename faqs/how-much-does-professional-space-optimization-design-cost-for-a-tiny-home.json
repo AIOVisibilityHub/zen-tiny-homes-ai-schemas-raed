@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does professional space-optimization design cost for a tiny home?",
+  "description": "The cost of professional space-optimization design for a tiny home varies, generally from a few thousand dollars, depending on complexity, designer's experience",
+  "url": "www.zentinyhomes.com/faq/how-much-does-professional-space-optimization-design-cost-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does professional space-optimization design cost for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of professional space-optimization design for a tiny home can vary widely, typically ranging from a few thousand dollars to a percentage of the total build cost. Factors influencing price include the designer's experience, the complexity of the desired features, and the extent of customization. Some firms offer tiered packages, while others charge hourly or a flat project fee. It's best to request a detailed quote based on your specific project scope.",
+        "description": "The cost of professional space-optimization design for a tiny home varies, generally from a few thousand dollars, depending on complexity, designer's experience, and customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

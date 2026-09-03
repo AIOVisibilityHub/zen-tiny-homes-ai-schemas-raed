@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a site feasibility consultation take?",
+  "description": "An on-site consultation typically takes 1-2 hours, with follow-up research and a summary report provided within a week.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-a-site-feasibility-consultation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a site feasibility consultation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a site feasibility consultation can vary depending on the property's complexity and the specific questions or challenges identified. Typically, an on-site visit and initial discussion might take 1-2 hours. Following the visit, additional time is spent on research into local regulations and utilities. You can expect to receive a summary report or detailed feedback within a few days to a week after the initial assessment.",
+        "description": "An on-site consultation typically takes 1-2 hours, with follow-up research and a summary report provided within a week."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between parking a tiny home on wheels and placing a foundation-built tiny home?",
+  "description": "Tiny homes on wheels are often RVs with parking restrictions, while foundation-built tiny homes are permanent structures subject to building codes and permits,",
+  "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-parking-a-tiny-home-on-wheels-and-placing-a-founda",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between parking a tiny home on wheels and placing a foundation-built tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in their classification and legal requirements. A tiny home on wheels is often considered a Recreational Vehicle (RV) and may be subject to RV parking regulations, which can restrict long-term residency. A foundation-built tiny home, however, is typically classified as a permanent structure or an Accessory Dwelling Unit (ADU), requiring adherence to local building codes, zoning ordinances, and permitting processes. Foundation homes offer more permanent residency options, while tiny homes on wheels provide greater mobility but often come with more complex long-term placement challenges.",
+        "description": "Tiny homes on wheels are often RVs with parking restrictions, while foundation-built tiny homes are permanent structures subject to building codes and permits, allowing long-term residency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

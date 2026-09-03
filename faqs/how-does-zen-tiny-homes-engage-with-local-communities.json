@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Zen Tiny Homes engage with local communities?",
-  "description": "Zen Tiny Homes partners with local nonprofits, participates in community housing initiatives, and hosts educational workshops on tiny living benefits.",
   "url": "www.zentinyhomes.com/faq/how-does-zen-tiny-homes-engage-with-local-communities",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Zen Tiny Homes engage with local communities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes partners with local nonprofits, participates in community housing initiatives, and hosts educational workshops on tiny living benefits."
-      }
-    }
-  ],
+  "name": "How does Zen Tiny Homes engage with local communities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Zen Tiny Homes engage with local communities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes partners with local nonprofits, participates in community housing initiatives, and hosts educational workshops on tiny living benefits.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes partners with local nonprofits, participates in community housing initiatives, and hosts educational workshops on tiny living benefits."
 }

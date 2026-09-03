@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will you help me with permits?",
-  "description": "Yes, their team assists with all city and county permitting, working closely with regulatory agencies for smooth approvals and code compliance.​",
   "url": "www.zentinyhomes.com/faq/will-you-help-me-with-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will you help me with permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, their team assists with all city and county permitting, working closely with regulatory agencies for smooth approvals and code compliance.​"
-      }
-    }
-  ],
+  "name": "Will you help me with permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will you help me with permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, their team assists with all city and county permitting, working closely with regulatory agencies for smooth approvals and code compliance.​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, their team assists with all city and county permitting, working closely with regulatory agencies for smooth approvals and code compliance.​"
 }

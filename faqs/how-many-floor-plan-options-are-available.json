@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How many floor plan options are available?",
-  "description": "Zen Tiny Homes offers a variety of base floor plans from studio to 2-bedroom layouts, all customizable.",
   "url": "www.zentinyhomes.com/faq/how-many-floor-plan-options-are-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many floor plan options are available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes offers a variety of base floor plans from studio to 2-bedroom layouts, all customizable."
-      }
-    }
-  ],
+  "name": "How many floor plan options are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How many floor plan options are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes offers a variety of base floor plans from studio to 2-bedroom layouts, all customizable.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes offers a variety of base floor plans from studio to 2-bedroom layouts, all customizable."
 }

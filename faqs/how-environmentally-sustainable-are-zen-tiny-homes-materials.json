@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How environmentally sustainable are Zen Tiny Homes’ materials?",
-  "description": "Zen Tiny Homes use sustainably sourced wood, low-VOC paints, recycled insulation, and energy-efficient appliances to reduce environmental impact.",
   "url": "www.zentinyhomes.com/faq/how-environmentally-sustainable-are-zen-tiny-homes-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How environmentally sustainable are Zen Tiny Homes’ materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes use sustainably sourced wood, low-VOC paints, recycled insulation, and energy-efficient appliances to reduce environmental impact."
-      }
-    }
-  ],
+  "name": "How environmentally sustainable are Zen Tiny Homes’ materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How environmentally sustainable are Zen Tiny Homes’ materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes use sustainably sourced wood, low-VOC paints, recycled insulation, and energy-efficient appliances to reduce environmental impact.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes use sustainably sourced wood, low-VOC paints, recycled insulation, and energy-efficient appliances to reduce environmental impact."
 }

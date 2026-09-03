@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are extended warranty options offered?",
-  "description": "Extended warranty packages covering additional years and specific systems are available upon request.",
   "url": "www.zentinyhomes.com/faq/are-extended-warranty-options-offered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are extended warranty options offered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Extended warranty packages covering additional years and specific systems are available upon request."
-      }
-    }
-  ],
+  "name": "Are extended warranty options offered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are extended warranty options offered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Extended warranty packages covering additional years and specific systems are available upon request.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Extended warranty packages covering additional years and specific systems are available upon request."
 }

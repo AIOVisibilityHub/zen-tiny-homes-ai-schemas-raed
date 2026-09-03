@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What pet accommodations are available in Zen Tiny Homes?",
-  "description": "Custom pet-friendly features include built-in feeding stations, pet doors, and secure enclosures integrated into the home design.",
   "url": "www.zentinyhomes.com/faq/what-pet-accommodations-are-available-in-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What pet accommodations are available in Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom pet-friendly features include built-in feeding stations, pet doors, and secure enclosures integrated into the home design."
-      }
-    }
-  ],
+  "name": "What pet accommodations are available in Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What pet accommodations are available in Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom pet-friendly features include built-in feeding stations, pet doors, and secure enclosures integrated into the home design.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Custom pet-friendly features include built-in feeding stations, pet doors, and secure enclosures integrated into the home design."
 }

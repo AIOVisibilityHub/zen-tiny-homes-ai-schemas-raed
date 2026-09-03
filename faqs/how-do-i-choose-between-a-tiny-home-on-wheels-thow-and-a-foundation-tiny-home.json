@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between a tiny home on wheels (THOW) and a foundation tiny home?",
+  "description": "Choose a tiny home on wheels for mobility and flexibility, or a foundation tiny home for permanence and traditional financing options.",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-between-a-tiny-home-on-wheels-thow-and-a-foundation-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between a tiny home on wheels (THOW) and a foundation tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing between a tiny home on wheels (THOW) and a foundation tiny home depends on your lifestyle and long-term goals. THOWs offer mobility and can sometimes circumvent stricter building codes by being classified as RVs, ideal for those who desire to relocate or travel. Foundation tiny homes are permanent structures, often qualifying for traditional mortgages and integrating better into established communities. Your decision should consider factors like mobility needs, local zoning, financing options, and desired permanence.",
+        "description": "Choose a tiny home on wheels for mobility and flexibility, or a foundation tiny home for permanence and traditional financing options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

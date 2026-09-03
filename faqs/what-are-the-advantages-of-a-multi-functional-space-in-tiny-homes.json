@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of a multi-functional space in tiny homes?",
+  "description": "Multi-functional spaces in tiny homes allow a single area to serve multiple purposes, maximizing efficiency and adaptability. This makes compact homes feel larg",
+  "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-a-multi-functional-space-in-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of a multi-functional space in tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multi-functional spaces are crucial in tiny homes because they allow a single area to serve multiple purposes, significantly enhancing liveability and efficiency. For example, a living room might transform into a guest bedroom or a dining area into a workspace. This approach maximizes the utility of every square foot, reducing the need for separate rooms and making the home feel larger and more adaptable. It allows residents to perform various activities without feeling confined, contributing to a more versatile and comfortable living experience within a compact footprint.",
+        "description": "Multi-functional spaces in tiny homes allow a single area to serve multiple purposes, maximizing efficiency and adaptability. This makes compact homes feel larger and more versatile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

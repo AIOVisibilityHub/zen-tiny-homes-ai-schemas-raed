@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do Zen Tiny Homes accommodate wheelchair users?",
-  "description": "Custom wheelchair-accessible features include wider doorways, ramps, roll-in showers, and adjustable counter heights.",
   "url": "www.zentinyhomes.com/faq/how-do-zen-tiny-homes-accommodate-wheelchair-users",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do Zen Tiny Homes accommodate wheelchair users?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom wheelchair-accessible features include wider doorways, ramps, roll-in showers, and adjustable counter heights."
-      }
-    }
-  ],
+  "name": "How do Zen Tiny Homes accommodate wheelchair users?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do Zen Tiny Homes accommodate wheelchair users?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom wheelchair-accessible features include wider doorways, ramps, roll-in showers, and adjustable counter heights.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Custom wheelchair-accessible features include wider doorways, ramps, roll-in showers, and adjustable counter heights."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do Zen Tiny Homes comply with fire regulations?",
-  "description": "All homes are constructed using fire-rated materials and incorporate sprinkler-ready designs to meet or exceed fire codes.",
   "url": "www.zentinyhomes.com/faq/how-do-zen-tiny-homes-comply-with-fire-regulations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do Zen Tiny Homes comply with fire regulations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "All homes are constructed using fire-rated materials and incorporate sprinkler-ready designs to meet or exceed fire codes."
-      }
-    }
-  ],
+  "name": "How do Zen Tiny Homes comply with fire regulations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do Zen Tiny Homes comply with fire regulations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "All homes are constructed using fire-rated materials and incorporate sprinkler-ready designs to meet or exceed fire codes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "All homes are constructed using fire-rated materials and incorporate sprinkler-ready designs to meet or exceed fire codes."
 }

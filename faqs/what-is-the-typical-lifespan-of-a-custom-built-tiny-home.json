@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical lifespan of a custom-built tiny home?",
+  "description": "The lifespan of a custom-built tiny home can exceed 50 years, similar to traditional homes, especially with quality materials and regular maintenance.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-lifespan-of-a-custom-built-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical lifespan of a custom-built tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-constructed custom tiny home, especially one built to traditional residential standards, can have a lifespan comparable to a conventional home, often exceeding 50 years. For tiny homes on wheels, the lifespan can be similar if properly maintained and regularly inspected, though the trailer chassis itself may have a different longevity. Key factors influencing lifespan include the quality of materials used, the construction methods, and ongoing maintenance. We use durable materials and proven building practices to ensure longevity.",
+        "description": "The lifespan of a custom-built tiny home can exceed 50 years, similar to traditional homes, especially with quality materials and regular maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

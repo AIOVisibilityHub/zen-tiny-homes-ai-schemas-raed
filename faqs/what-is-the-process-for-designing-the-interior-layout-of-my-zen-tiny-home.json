@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing the interior layout of my Zen Tiny Home?",
+  "description": "The process involves an initial consultation, concept sketches, client feedback and revisions, followed by final approval and material selection.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-the-interior-layout-of-my-zen-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing the interior layout of my Zen Tiny Home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our design process begins with a consultation to understand your lifestyle, needs, and preferences. We then develop initial concept sketches and floor plans, incorporating your input. These drafts are presented for your review and feedback, leading to revisions until the layout meets your approval. Once the layout is finalized, we move to material and finish selections, ensuring every detail contributes to your vision. The process is collaborative, designed to ensure the final layout is both functional and aesthetically pleasing.",
+        "description": "The process involves an initial consultation, concept sketches, client feedback and revisions, followed by final approval and material selection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

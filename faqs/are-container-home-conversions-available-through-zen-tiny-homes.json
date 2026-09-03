@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are container home conversions available through Zen Tiny Homes?",
-  "description": "While Zen Tiny Homes primarily builds traditional tiny houses, they offer consultation on container conversions tailored to client needs and local codes.",
   "url": "www.zentinyhomes.com/faq/are-container-home-conversions-available-through-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are container home conversions available through Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While Zen Tiny Homes primarily builds traditional tiny houses, they offer consultation on container conversions tailored to client needs and local codes."
-      }
-    }
-  ],
+  "name": "Are container home conversions available through Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are container home conversions available through Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Zen Tiny Homes primarily builds traditional tiny houses, they offer consultation on container conversions tailored to client needs and local codes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "While Zen Tiny Homes primarily builds traditional tiny houses, they offer consultation on container conversions tailored to client needs and local codes."
 }

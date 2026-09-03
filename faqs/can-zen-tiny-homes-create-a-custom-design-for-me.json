@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Zen Tiny Homes create a custom design for me?",
-  "description": "Yes, every Zen Tiny Home is custom-designed for your needs. You can specify floor-plans, upgrades, and unique features; their 3D design program ensures personal",
   "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-create-a-custom-design-for-me",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Zen Tiny Homes create a custom design for me?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, every Zen Tiny Home is custom-designed for your needs. You can specify floor-plans, upgrades, and unique features; their 3D design program ensures personalization.​"
-      }
-    }
-  ],
+  "name": "Can Zen Tiny Homes create a custom design for me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Zen Tiny Homes create a custom design for me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, every Zen Tiny Home is custom-designed for your needs. You can specify floor-plans, upgrades, and unique features; their 3D design program ensures personalization.​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, every Zen Tiny Home is custom-designed for your needs. You can specify floor-plans, upgrades, and unique features; their 3D design program ensures personal"
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common uses for a backyard tiny home?",
+  "description": "Common uses include guest housing, independent living for family, home offices, and rental units for income.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-uses-for-a-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common uses for a backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Backyard tiny homes serve a variety of practical purposes for homeowners. They are frequently used as guest houses for visitors, private residences for aging parents or adult children, or dedicated home offices and creative studios. Many clients also choose to rent them out for additional income. Their versatility allows them to adapt to evolving family needs or provide a flexible space for hobbies and personal pursuits.",
+        "description": "Common uses include guest housing, independent living for family, home offices, and rental units for income."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

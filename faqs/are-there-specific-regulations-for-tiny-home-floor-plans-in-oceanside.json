@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific regulations for tiny home floor plans in Oceanside?",
+  "description": "Local regulations in Oceanside, including zoning and building codes, can affect overall tiny home dimensions and placement, indirectly impacting floor plan poss",
+  "url": "www.zentinyhomes.com/faq/are-there-specific-regulations-for-tiny-home-floor-plans-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific regulations for tiny home floor plans in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Zen Tiny Homes focuses on the interior layout, local zoning ordinances and building codes in Oceanside can influence overall tiny home dimensions and placement, which indirectly impacts floor plan possibilities. These regulations often pertain to minimum square footage, foundation requirements, utility connections, and setbacks. Our team is knowledgeable about general local requirements and can advise on how these might affect your custom floor plan, ensuring compliance with relevant city guidelines for tiny homes on foundations or wheels. We recommend consulting with the city's planning department for precise details.",
+        "description": "Local regulations in Oceanside, including zoning and building codes, can affect overall tiny home dimensions and placement, indirectly impacting floor plan possibilities. Zen Tiny Homes can advise on these."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

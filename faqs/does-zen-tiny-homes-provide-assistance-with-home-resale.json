@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Zen Tiny Homes provide assistance with home resale?",
-  "description": "They offer guidance on market trends, staging tips, and connections with specialty realtors to maximize resale value of tiny homes.",
   "url": "www.zentinyhomes.com/faq/does-zen-tiny-homes-provide-assistance-with-home-resale",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Zen Tiny Homes provide assistance with home resale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "They offer guidance on market trends, staging tips, and connections with specialty realtors to maximize resale value of tiny homes."
-      }
-    }
-  ],
+  "name": "Does Zen Tiny Homes provide assistance with home resale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Zen Tiny Homes provide assistance with home resale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "They offer guidance on market trends, staging tips, and connections with specialty realtors to maximize resale value of tiny homes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "They offer guidance on market trends, staging tips, and connections with specialty realtors to maximize resale value of tiny homes."
 }

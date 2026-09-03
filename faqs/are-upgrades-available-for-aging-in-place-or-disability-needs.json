@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are upgrades available for aging in place or disability needs?",
-  "description": "Zen Tiny Homes offer customizable accessibility features like ramps, widened doorways, and adjustable fixtures for inclusive living experiences.",
   "url": "www.zentinyhomes.com/faq/are-upgrades-available-for-aging-in-place-or-disability-needs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are upgrades available for aging in place or disability needs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes offer customizable accessibility features like ramps, widened doorways, and adjustable fixtures for inclusive living experiences."
-      }
-    }
-  ],
+  "name": "Are upgrades available for aging in place or disability needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are upgrades available for aging in place or disability needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes offer customizable accessibility features like ramps, widened doorways, and adjustable fixtures for inclusive living experiences.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes offer customizable accessibility features like ramps, widened doorways, and adjustable fixtures for inclusive living experiences."
 }

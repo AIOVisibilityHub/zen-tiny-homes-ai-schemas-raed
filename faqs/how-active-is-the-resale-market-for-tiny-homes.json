@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How active is the resale market for tiny homes?",
-  "description": "The tiny home resale market is growing, fueled by demand for affordable, sustainable housing, especially in urban and vacation areas.",
   "url": "www.zentinyhomes.com/faq/how-active-is-the-resale-market-for-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How active is the resale market for tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The tiny home resale market is growing, fueled by demand for affordable, sustainable housing, especially in urban and vacation areas."
-      }
-    }
-  ],
+  "name": "How active is the resale market for tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How active is the resale market for tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tiny home resale market is growing, fueled by demand for affordable, sustainable housing, especially in urban and vacation areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The tiny home resale market is growing, fueled by demand for affordable, sustainable housing, especially in urban and vacation areas."
 }

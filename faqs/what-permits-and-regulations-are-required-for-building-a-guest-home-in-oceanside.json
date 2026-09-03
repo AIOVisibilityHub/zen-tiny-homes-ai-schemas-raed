@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits and regulations are required for building a guest home in Oceanside?",
+  "description": "Building a guest home in Oceanside requires various permits, including a building permit, and compliance with local zoning ordinances regarding size, setbacks,",
+  "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-are-required-for-building-a-guest-home-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits and regulations are required for building a guest home in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a guest home in Oceanside requires navigating local zoning ordinances and obtaining various permits. This typically includes a building permit, which ensures the structure meets safety and construction codes. Depending on the project, you might also need permits for grading, plumbing, electrical, and mechanical work. Oceanside has specific regulations regarding ADU size, setbacks from property lines, and parking requirements. Our team can help you understand and manage the permitting process to ensure compliance with all local laws.",
+        "description": "Building a guest home in Oceanside requires various permits, including a building permit, and compliance with local zoning ordinances regarding size, setbacks, and parking. Our team assists with the permitting process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

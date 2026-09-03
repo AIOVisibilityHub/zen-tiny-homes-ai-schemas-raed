@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for creating a custom floor plan with Zen Tiny Homes?",
+  "description": "The process involves an initial consultation, preliminary sketches, client feedback and revisions, and final blueprint production.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-creating-a-custom-floor-plan-with-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for creating a custom floor plan with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Next, our design team develops preliminary sketches and concepts based on your input. We then present these designs for your review and feedback, incorporating any revisions. This iterative process continues until the floor plan meets your approval. Once finalized, we produce detailed blueprints ready for construction. Throughout each stage, we maintain open communication to ensure your custom tiny home perfectly aligns with your expectations.",
+        "description": "The process involves an initial consultation, preliminary sketches, client feedback and revisions, and final blueprint production."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

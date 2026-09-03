@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to develop a custom tiny home floor plan?",
+  "description": "Developing a custom floor plan typically takes 4-10 weeks, depending on complexity and revisions. Zen Tiny Homes prioritizes clear communication for efficient d",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-develop-a-custom-tiny-home-floor-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to develop a custom tiny home floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for developing a custom tiny home floor plan can vary based on the complexity of the design, the number of revisions requested, and the speed of client feedback. Typically, the initial design phase, from concept to preliminary sketches, might take 2-4 weeks. Subsequent revisions and refinements could extend the process by another 2-6 weeks. Zen Tiny Homes prioritizes clear communication to streamline this process, aiming for efficient development without compromising on quality or your vision. We work closely with clients to establish realistic timelines.",
+        "description": "Developing a custom floor plan typically takes 4-10 weeks, depending on complexity and revisions. Zen Tiny Homes prioritizes clear communication for efficient design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

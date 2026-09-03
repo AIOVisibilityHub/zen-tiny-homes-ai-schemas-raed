@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do energy efficiency considerations impact custom tiny home design?",
+  "description": "Energy efficiency in custom tiny homes impacts material choices, insulation, window placement, and HVAC systems, reducing costs and environmental impact.",
+  "url": "www.zentinyhomes.com/faq/how-do-energy-efficiency-considerations-impact-custom-tiny-home-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do energy efficiency considerations impact custom tiny home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Energy efficiency is a key consideration in custom tiny home design, impacting material selection, window placement, insulation, and HVAC systems. Designing for efficiency involves selecting high-performance windows, increasing insulation values in walls, floors, and roofs, and incorporating passive solar design principles. We can integrate options like solar panels, energy recovery ventilators, and efficient appliances to reduce your long-term utility costs and environmental footprint. These decisions are made early in the design process to optimize the home's performance and comfort.",
+        "description": "Energy efficiency in custom tiny homes impacts material choices, insulation, window placement, and HVAC systems, reducing costs and environmental impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

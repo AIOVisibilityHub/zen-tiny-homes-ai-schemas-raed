@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What community resources or advocacy does Zen Tiny Homes support?",
-  "description": "They support affordable housing groups, environmental organizations, and local zoning reform efforts to make tiny home living more accessible.",
   "url": "www.zentinyhomes.com/faq/what-community-resources-or-advocacy-does-zen-tiny-homes-support",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What community resources or advocacy does Zen Tiny Homes support?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "They support affordable housing groups, environmental organizations, and local zoning reform efforts to make tiny home living more accessible."
-      }
-    }
-  ],
+  "name": "What community resources or advocacy does Zen Tiny Homes support?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What community resources or advocacy does Zen Tiny Homes support?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "They support affordable housing groups, environmental organizations, and local zoning reform efforts to make tiny home living more accessible.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "They support affordable housing groups, environmental organizations, and local zoning reform efforts to make tiny home living more accessible."
 }

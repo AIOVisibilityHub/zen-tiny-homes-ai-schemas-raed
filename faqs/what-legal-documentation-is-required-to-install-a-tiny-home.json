@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What legal documentation is required to install a tiny home?",
-  "description": "Required documents often include building permits, zoning approvals, utility agreements, and proof of compliance with local and state regulations.",
   "url": "www.zentinyhomes.com/faq/what-legal-documentation-is-required-to-install-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What legal documentation is required to install a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Required documents often include building permits, zoning approvals, utility agreements, and proof of compliance with local and state regulations."
-      }
-    }
-  ],
+  "name": "What legal documentation is required to install a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What legal documentation is required to install a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Required documents often include building permits, zoning approvals, utility agreements, and proof of compliance with local and state regulations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Required documents often include building permits, zoning approvals, utility agreements, and proof of compliance with local and state regulations."
 }

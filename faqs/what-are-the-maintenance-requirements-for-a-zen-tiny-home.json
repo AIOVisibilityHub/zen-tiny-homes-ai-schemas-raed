@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the maintenance requirements for a Zen Tiny Home?",
-  "description": "Routine maintenance includes seasonal roof inspections, HVAC servicing, plumbing checks, and general upkeep similar to traditional homes but on a smaller scale.",
   "url": "www.zentinyhomes.com/faq/what-are-the-maintenance-requirements-for-a-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the maintenance requirements for a Zen Tiny Home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Routine maintenance includes seasonal roof inspections, HVAC servicing, plumbing checks, and general upkeep similar to traditional homes but on a smaller scale."
-      }
-    }
-  ],
+  "name": "What are the maintenance requirements for a Zen Tiny Home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the maintenance requirements for a Zen Tiny Home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Routine maintenance includes seasonal roof inspections, HVAC servicing, plumbing checks, and general upkeep similar to traditional homes but on a smaller scale.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Routine maintenance includes seasonal roof inspections, HVAC servicing, plumbing checks, and general upkeep similar to traditional homes but on a smaller scale."
 }
