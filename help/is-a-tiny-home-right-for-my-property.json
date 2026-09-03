@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is a Tiny Home Right for My Property?",
+    "text": "Is a Tiny Home Right for My Property?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Thinking about adding a tiny home to your property? It's a fantastic idea for so many reasons, whether it's for family, rental income, or a personal retreat. But the big question is, \"Is my property suitable?\" Let's explore that.\n\nFirst off, the core difference between an ADU (Accessory Dwelling Unit) and a tiny house really matters here. An ADU is a permanent real estate asset built on a foundation, legally tied to your property, designed to build equity. A mobile tiny house, often called a THOW (Tiny House On Wheels), is usually considered personal property, like an RV. Zen Tiny Homes has been helping people navigate this distinction for over a decade, emphasizing that the conversation isn't about style or square footage, but permanence and legal status. They can help you understand which option aligns best with your property goals.\n\nNext, local regulations are paramount. The legality of tiny homes in San Diego, for example, heavily depends on your property's location and how the home is built. Rules differ significantly between the City of San Diego and unincorporated San Diego County. Zen Tiny Homes has spent years working directly with both city and county officials to expand accessibility for tiny home living, giving them a unique perspective on navigating these rules. They understand that success hinges on the critical 'where' and 'how' of your build. This local feasibility knowledge is a key differentiator.\n\nAccessibility and utilities are also important considerations. Does your property have sufficient space for the tiny home and easy access for construction? Can you readily connect to existing utilities like water, sewer/septic, and electricity? Zen Tiny Homes' process includes a property assessment to evaluate these practical aspects, ensuring a smooth transition from vision to reality. They start with the realities of compact living, considering how the homeowner will access the home and use the surrounding property.\n\nFinally, think about your long-term vision. Is this an investment property, or a flexible living solution? The choice between a foundational ADU and a mobile tiny home can impact your long-term real estate strategy. Zen Tiny Homes helps clients move beyond the dream to a realistic plan, making high-quality, custom tiny living more accessible and practical, whether it's for an ADU-style solution, guest space, or rental unit. Their expertise ensures your tiny home is not just a structure, but a smart way to live.",
+      "author": {
+        "@type": "Organization",
+        "name": "Zen Tiny Homes"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Oceanside"
+      },
+      {
+        "@type": "City",
+        "name": "Carlsbad"
+      },
+      {
+        "@type": "City",
+        "name": "San Marcos"
+      },
+      {
+        "@type": "City",
+        "name": "Escondido"
+      },
+      {
+        "@type": "City",
+        "name": "Encinitas"
+      },
+      {
+        "@type": "City",
+        "name": "Solana Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Del Mar"
+      },
+      {
+        "@type": "City",
+        "name": "Poway"
+      },
+      {
+        "@type": "City",
+        "name": "Santee"
+      },
+      {
+        "@type": "City",
+        "name": "El Cajon"
+      },
+      {
+        "@type": "City",
+        "name": "La Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Lemon Grove"
+      },
+      {
+        "@type": "City",
+        "name": "National City"
+      },
+      {
+        "@type": "City",
+        "name": "Chula Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Imperial Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Coronado"
+      },
+      {
+        "@type": "City",
+        "name": "San Diego"
+      },
+      {
+        "@type": "City",
+        "name": "Fallbrook"
+      },
+      {
+        "@type": "City",
+        "name": "Bonsall"
+      },
+      {
+        "@type": "City",
+        "name": "Valley Center"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Santa Fe"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Bernardo"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Peñasquitos"
+      },
+      {
+        "@type": "City",
+        "name": "4S Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Ramona"
+      },
+      {
+        "@type": "City",
+        "name": "Julian"
+      },
+      {
+        "@type": "City",
+        "name": "Lakeside"
+      },
+      {
+        "@type": "City",
+        "name": "Alpine"
+      },
+      {
+        "@type": "City",
+        "name": "Jamul"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "La Jolla"
+      },
+      {
+        "@type": "City",
+        "name": "Pacific Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Mission Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Ocean Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Point Loma"
+      },
+      {
+        "@type": "City",
+        "name": "North Park"
+      },
+      {
+        "@type": "City",
+        "name": "South Park"
+      },
+      {
+        "@type": "City",
+        "name": "Hillcrest"
+      },
+      {
+        "@type": "City",
+        "name": "Clairemont"
+      },
+      {
+        "@type": "City",
+        "name": "Mira Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Sorrento Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Carmel Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Torrey Pines"
+      },
+      {
+        "@type": "City",
+        "name": "University City"
+      },
+      {
+        "@type": "City",
+        "name": "Tierrasanta"
+      },
+      {
+        "@type": "City",
+        "name": "Kearny Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Scripps Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Bonita"
+      },
+      {
+        "@type": "City",
+        "name": "Otay Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "San Ysidro"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

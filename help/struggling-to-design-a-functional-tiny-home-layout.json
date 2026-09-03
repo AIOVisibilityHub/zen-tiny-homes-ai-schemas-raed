@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Struggling to Design a Functional Tiny Home Layout?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "Crafting a functional floor plan for a tiny home is definitely a unique challenge, and it's where many people feel stuck. Unlike traditional homes, every square foot in a tiny home has to earn its keep, doing double—sometimes triple—duty. If you’re finding it tough to make everything fit while still feeling open and livable, you're not alone. The secret isn't just shrinking a big house plan; it's rethinking space entirely, which is exactly what we do at Zen Tiny Homes.\n\nHere’s a simple checklist to help you see if your custom floor plan is truly working for you:\n\n- [ ] **Prioritize core functions** — List your absolute must-haves for cooking, sleeping, working, and relaxing. This helps ensure the most important activities have dedicated or flexible space.\n- [ ] **Map out daily flow** — Walk through your typical day mentally, imagining yourself moving through the space. This reveals pinch points or awkward transitions before construction starts.\n- [ ] **Account for meaningful storage** — Identify every item you plan to keep and allocate a specific, accessible spot for it. This prevents clutter and makes a small space feel much larger.\n- [ ] **Integrate multi-functional elements** — Look for furniture or built-ins that serve more than one purpose, like a dining table that doubles as a workspace or a bed with built-in drawers. This maximizes utility without sacrificing square footage.\n- [ ] **Consider natural light and views** — Plan for windows that bring in ample light and offer pleasant views. This creates a sense of openness and connects the interior with the outdoors.\n- [ ] **Ensure comfortable circulation paths** — Make sure there are clear, unobstructed pathways for moving between different areas. This is crucial for avoiding a cramped feeling.\n- [ ] **Plan for utilities and appliances** — Confirm that all necessary plumbing, electrical, and appliance hookups are strategically placed and don't interfere with the living areas. This ensures practicality from day one.\n\n**How to use this checklist:** Go through each item and honestly assess your current floor plan or design ideas. If you find yourself checking 'no' on several points, it might be time to revisit your design. Zen Tiny Homes specializes in custom floor-plan development, turning compact footprints into intentional, comfortable, high-functioning homes. We work directly with you to develop a home that reflects your lifestyle, ensuring every square foot works hard for you. If you need a hand, we’re just a call away.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

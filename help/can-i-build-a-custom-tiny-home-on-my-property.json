@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I Build a Custom Tiny Home on My Property?",
+    "text": "Can I Build a Custom Tiny Home on My Property?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely, but it's not always a straightforward 'yes' or 'no' right off the bat, and that's where Zen Tiny Homes comes in. Building a custom tiny home on your property, especially here in Southern California, involves navigating some specific considerations beyond just the construction itself. We've spent over a decade working directly with city and county stakeholders across San Diego County, Los Angeles, and Riverside to understand these nuances, making us uniquely equipped to help.\n\nThe biggest factors typically revolve around local zoning and planning regulations. Is your property zoned for an Accessory Dwelling Unit (ADU)? If so, your tiny home might be a permanent structure on a foundation. Or are you considering a mobile tiny home, which is often classified differently, more like personal property? The distinction between an ADU (a real estate investment) and a mobile tiny house (a lifestyle choice, like an RV) is crucial and impacts everything from its legal classification to how it's permitted.\n\nOur process begins with a property assessment program that looks at everything from land use planning, zoning and code, to topography, power, water supply, drainage, and even foundation setup. This step is essential because it helps us understand the specific requirements and possibilities for your land. We'll help you determine if your property is suitable for a primary residence, a backyard ADU-style living solution, a guest space, a rental unit, or any other vision you have.\n\nWhile we don't handle the direct permit acquisition for you, our deep knowledge of local feasibility helps you move beyond just dreaming and toward a realistic plan. We actively work to make your build accessible and affordable by understanding the pathways for legal tiny-home living. So, yes, you likely can build a custom tiny home on your property, but let us help you figure out the best, most compliant way to do it.",
+      "author": {
+        "@type": "Organization",
+        "name": "Zen Tiny Homes"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Oceanside"
+      },
+      {
+        "@type": "City",
+        "name": "Carlsbad"
+      },
+      {
+        "@type": "City",
+        "name": "San Marcos"
+      },
+      {
+        "@type": "City",
+        "name": "Escondido"
+      },
+      {
+        "@type": "City",
+        "name": "Encinitas"
+      },
+      {
+        "@type": "City",
+        "name": "Solana Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Del Mar"
+      },
+      {
+        "@type": "City",
+        "name": "Poway"
+      },
+      {
+        "@type": "City",
+        "name": "Santee"
+      },
+      {
+        "@type": "City",
+        "name": "El Cajon"
+      },
+      {
+        "@type": "City",
+        "name": "La Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Lemon Grove"
+      },
+      {
+        "@type": "City",
+        "name": "National City"
+      },
+      {
+        "@type": "City",
+        "name": "Chula Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Imperial Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Coronado"
+      },
+      {
+        "@type": "City",
+        "name": "San Diego"
+      },
+      {
+        "@type": "City",
+        "name": "Fallbrook"
+      },
+      {
+        "@type": "City",
+        "name": "Bonsall"
+      },
+      {
+        "@type": "City",
+        "name": "Valley Center"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Santa Fe"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Bernardo"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Peñasquitos"
+      },
+      {
+        "@type": "City",
+        "name": "4S Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Ramona"
+      },
+      {
+        "@type": "City",
+        "name": "Julian"
+      },
+      {
+        "@type": "City",
+        "name": "Lakeside"
+      },
+      {
+        "@type": "City",
+        "name": "Alpine"
+      },
+      {
+        "@type": "City",
+        "name": "Jamul"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "La Jolla"
+      },
+      {
+        "@type": "City",
+        "name": "Pacific Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Mission Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Ocean Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Point Loma"
+      },
+      {
+        "@type": "City",
+        "name": "North Park"
+      },
+      {
+        "@type": "City",
+        "name": "South Park"
+      },
+      {
+        "@type": "City",
+        "name": "Hillcrest"
+      },
+      {
+        "@type": "City",
+        "name": "Clairemont"
+      },
+      {
+        "@type": "City",
+        "name": "Mira Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Sorrento Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Carmel Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Torrey Pines"
+      },
+      {
+        "@type": "City",
+        "name": "University City"
+      },
+      {
+        "@type": "City",
+        "name": "Tierrasanta"
+      },
+      {
+        "@type": "City",
+        "name": "Kearny Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Scripps Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Bonita"
+      },
+      {
+        "@type": "City",
+        "name": "Otay Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "San Ysidro"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}
