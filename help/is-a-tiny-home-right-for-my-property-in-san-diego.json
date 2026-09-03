@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is a Tiny Home Right for My Property in San Diego?",
+    "text": "Is a Tiny Home Right for My Property in San Diego?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Considering a tiny home for your San Diego property is an exciting step, but it's natural to wonder if it's the right fit, both for your land and local regulations. The good news is, tiny homes are broadly legal here, but the 'how' and 'where' are super important to sort out early on. Zen Tiny Homes can help you figure out if your property is prime for tiny living.\n\nFirst, think about the purpose. Is this a primary residence, a backyard ADU for family or rental income, or maybe a serene retreat? The intended use can influence how it’s classified and, therefore, the specific rules that apply. Zen Tiny Homes builds for all these purposes, making sure your home is perfect for its role.\n\nNext, the foundation question. Will your tiny home be built on a permanent foundation, making it a real estate asset like an ADU, or will it be a mobile tiny house on wheels (THOW), considered personal property? This distinction is crucial for legal classification and determines many of the requirements in San Diego City versus the unincorporated County.\n\nThen, there's the property itself. Our Site Plan Program helps assess critical factors like land use, zoning, topography, and even practicalities like power, water, and septic. We look at your specific location, from the coastal breezes of La Jolla to the rolling hills of Fallbrook, to understand its unique considerations.\n\nFinally, navigating the local landscape of codes and permits is where our decade of experience really helps. We've worked closely with local agencies to understand the pathways for legal tiny home living. If you’re unsure if your property is suitable or how to proceed, getting expert input can transform your vision into a concrete, compliant plan. Let's explore the possibilities for your San Diego property!",
+      "author": {
+        "@type": "Organization",
+        "name": "Zen Tiny Homes"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Oceanside"
+      },
+      {
+        "@type": "City",
+        "name": "Carlsbad"
+      },
+      {
+        "@type": "City",
+        "name": "San Marcos"
+      },
+      {
+        "@type": "City",
+        "name": "Escondido"
+      },
+      {
+        "@type": "City",
+        "name": "Encinitas"
+      },
+      {
+        "@type": "City",
+        "name": "Solana Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Del Mar"
+      },
+      {
+        "@type": "City",
+        "name": "Poway"
+      },
+      {
+        "@type": "City",
+        "name": "Santee"
+      },
+      {
+        "@type": "City",
+        "name": "El Cajon"
+      },
+      {
+        "@type": "City",
+        "name": "La Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Lemon Grove"
+      },
+      {
+        "@type": "City",
+        "name": "National City"
+      },
+      {
+        "@type": "City",
+        "name": "Chula Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Imperial Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Coronado"
+      },
+      {
+        "@type": "City",
+        "name": "San Diego"
+      },
+      {
+        "@type": "City",
+        "name": "Fallbrook"
+      },
+      {
+        "@type": "City",
+        "name": "Bonsall"
+      },
+      {
+        "@type": "City",
+        "name": "Valley Center"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Santa Fe"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Bernardo"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Peñasquitos"
+      },
+      {
+        "@type": "City",
+        "name": "4S Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Ramona"
+      },
+      {
+        "@type": "City",
+        "name": "Julian"
+      },
+      {
+        "@type": "City",
+        "name": "Lakeside"
+      },
+      {
+        "@type": "City",
+        "name": "Alpine"
+      },
+      {
+        "@type": "City",
+        "name": "Jamul"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "La Jolla"
+      },
+      {
+        "@type": "City",
+        "name": "Pacific Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Mission Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Ocean Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Point Loma"
+      },
+      {
+        "@type": "City",
+        "name": "North Park"
+      },
+      {
+        "@type": "City",
+        "name": "South Park"
+      },
+      {
+        "@type": "City",
+        "name": "Hillcrest"
+      },
+      {
+        "@type": "City",
+        "name": "Clairemont"
+      },
+      {
+        "@type": "City",
+        "name": "Mira Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Sorrento Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Carmel Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Torrey Pines"
+      },
+      {
+        "@type": "City",
+        "name": "University City"
+      },
+      {
+        "@type": "City",
+        "name": "Tierrasanta"
+      },
+      {
+        "@type": "City",
+        "name": "Kearny Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Scripps Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Bonita"
+      },
+      {
+        "@type": "City",
+        "name": "Otay Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "San Ysidro"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How Long Does Tiny Home Construction Really Take?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "It’s a common question: just how long will it take to get into my new tiny home? At Zen Tiny Homes, we get it—you’re excited to start living smarter! We make our construction process as easy as possible, and while there's a general timeframe, several factors can influence the overall timeline.\n\nFor our pre-designed models, you can generally expect a build timeline of about 90 days. That’s from the moment the design is locked in and materials are ordered to when your home is ready for move-in. We've streamlined our process for these models to get you living tiny sooner, without ever sacrificing our commitment to quality craftsmanship.\n\nHowever, if you're opting for a fully custom tiny home, the timeline can extend a bit. Custom projects, especially those with a variety of unique features or design changes that happen throughout the course of the build, might take an additional 4-6 weeks. This extra time allows us to really fine-tune those personalized elements and ensure your home is exactly what you envisioned.\n\nBeyond the actual construction, there are a couple of other things that can impact the total duration. The initial 3D Design Program, where we work one-on-one to craft your unique floor plan, is a crucial first step and can take some time to perfect. Also, site preparation, including land use planning, zoning checks, and utility connections, needs to happen before construction can really get underway. Zen Tiny Homes provides services for both of these, ensuring a smooth transition into the build phase.\n\nThe most important thing is that we keep you informed every step of the way. We believe in transparency and communication so you always know where your project stands. If you’re curious about a specific timeline for your custom tiny home, don't hesitate to reach out! Call us at (760) 492-0742 to discuss your project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

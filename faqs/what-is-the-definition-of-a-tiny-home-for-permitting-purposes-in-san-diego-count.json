@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the definition of a tiny home for permitting purposes in San Diego County?",
+  "description": "For permitting in San Diego County, a tiny home is often classified as an Accessory Dwelling Unit (ADU) if it meets specific size and utility connection criteri",
+  "url": "www.zentinyhomes.com/faq/what-is-the-definition-of-a-tiny-home-for-permitting-purposes-in-san-diego-count",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the definition of a tiny home for permitting purposes in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego County, a tiny home for permitting is typically considered an Accessory Dwelling Unit (ADU) if it meets specific size, foundation, and utility requirements. The term 'tiny home' can refer to various structures, but for permanent installation, it often falls under ADU regulations, allowing for smaller, independent living spaces on existing residential lots. Regulations cover aspects like minimum square footage, connection to utilities, and compliance with local zoning. Understanding whether your tiny home is classified as a permanent structure, an ADU, or a recreational vehicle is crucial for the permitting process.",
+        "description": "For permitting in San Diego County, a tiny home is often classified as an Accessory Dwelling Unit (ADU) if it meets specific size and utility connection criteria."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of building a foundation-based tiny home?",
+  "description": "The cost of a foundation-based tiny home typically ranges from $80,000 to $200,000+, depending on size, design, materials, and local permit fees.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-of-building-a-foundation-based-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of building a foundation-based tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building a foundation-based tiny home varies significantly based on size, design complexity, material choices, and location-specific permit fees. Generally, costs can range from $80,000 to $200,000 or more. This includes expenses for foundation work, structural framing, exterior finishes, interior fittings, utility connections, and permits. High-end finishes, custom designs, and complex site preparation can push costs higher. It's advisable to obtain detailed quotes and understand all potential expenditures before starting the project.",
+        "description": "The cost of a foundation-based tiny home typically ranges from $80,000 to $200,000+, depending on size, design, materials, and local permit fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

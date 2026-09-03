@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right location for my primary-residence tiny home?",
+  "description": "Choose a location based on local zoning, utility access, and community amenities. Research areas with favorable tiny home regulations and assess property condit",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-location-for-my-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right location for my primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right location involves considering several factors, including local zoning laws, access to utilities, community amenities, and personal lifestyle preferences. Research areas that have favorable tiny home regulations or allow ADUs if you plan to place it on an existing property. Assess the availability of water, sewer or septic, and electricity connections. Consider proximity to work, schools, and essential services. Also, evaluate the property's topography and soil conditions for foundation suitability, ensuring it aligns with your long-term living goals.",
+        "description": "Choose a location based on local zoning, utility access, and community amenities. Research areas with favorable tiny home regulations and assess property conditions for suitability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

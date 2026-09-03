@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost associated with obtaining tiny home permits and zoning approvals?",
+  "description": "Permit and zoning approval costs for a tiny home typically include application, plan check, and impact fees, ranging from a few thousand to over ten thousand do",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-associated-with-obtaining-tiny-home-permits-and-zoning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost associated with obtaining tiny home permits and zoning approvals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of obtaining tiny home permits and zoning approvals can vary significantly but generally includes application fees, plan check fees, and impact fees. These fees are set by the individual city or county and are often calculated based on the project's valuation, square footage, or type of construction. For a typical permanent foundation tiny home or ADU, these costs can range from a few thousand dollars to upwards of ten thousand dollars or more, depending on the scope of work and local fee structures. This does not include costs for architectural drawings or engineering reports, which are also necessary for the permit application.",
+        "description": "Permit and zoning approval costs for a tiny home typically include application, plan check, and impact fees, ranging from a few thousand to over ten thousand dollars, excluding design costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

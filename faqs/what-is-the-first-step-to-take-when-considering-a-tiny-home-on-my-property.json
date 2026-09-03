@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the first step to take when considering a tiny home on my property?",
+  "description": "The first step is researching local zoning ordinances and building codes to understand feasibility, size restrictions, and utility requirements for tiny homes o",
+  "url": "www.zentinyhomes.com/faq/what-is-the-first-step-to-take-when-considering-a-tiny-home-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step to take when considering a tiny home on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step when considering a tiny home on your property is to research your local zoning ordinances and building codes. This includes understanding if tiny homes or Accessory Dwelling Units (ADUs) are permitted in your specific zone, what size and height restrictions apply, and what utility connections are required. Contacting your local planning department or building department can provide clarity on these initial requirements. This foundational research will help you determine the feasibility of your project and inform your design decisions before investing significant time or resources.",
+        "description": "The first step is researching local zoning ordinances and building codes to understand feasibility, size restrictions, and utility requirements for tiny homes on your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

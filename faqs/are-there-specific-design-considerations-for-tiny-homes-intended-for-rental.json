@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific design considerations for tiny homes intended for rental?",
+  "description": "Rental tiny homes benefit from designs optimizing privacy, storage, and durable, low-maintenance materials. Efficient layouts and resilient finishes are key for",
+  "url": "www.zentinyhomes.com/faq/are-there-specific-design-considerations-for-tiny-homes-intended-for-rental",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific design considerations for tiny homes intended for rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, tiny homes built for rental units often benefit from specific design considerations to maximize appeal and functionality for tenants. This includes optimizing layouts for privacy and storage, incorporating durable, low-maintenance materials, and selecting finishes that are both attractive and resilient to wear and tear. Smart space utilization, efficient appliances, and clear separation of sleeping and living areas are key. Zen Tiny Homes focuses on designs that are tenant-friendly and ensure long-term durability for rental success in areas like Oceanside and Carlsbad.",
+        "description": "Rental tiny homes benefit from designs optimizing privacy, storage, and durable, low-maintenance materials. Efficient layouts and resilient finishes are key for tenant appeal and longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

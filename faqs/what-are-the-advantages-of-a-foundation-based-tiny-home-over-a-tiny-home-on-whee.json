@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of a foundation-based tiny home over a tiny home on wheels?",
+  "description": "Foundation-based tiny homes offer greater stability, easier financing, and compliance with residential building codes, enhancing long-term value.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-a-foundation-based-tiny-home-over-a-tiny-home-on-whee",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of a foundation-based tiny home over a tiny home on wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foundation-based tiny homes offer several key advantages compared to tiny homes on wheels. They are typically treated as permanent structures, which can simplify financing and insurance processes. Permanence also means greater stability and longevity, as they are not subject to the wear and tear of frequent movement. Building codes often allow for larger footprints and more diverse architectural designs. Furthermore, they can increase property value and are generally perceived as more traditional housing, making them suitable for long-term residency within established communities.",
+        "description": "Foundation-based tiny homes offer greater stability, easier financing, and compliance with residential building codes, enhancing long-term value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

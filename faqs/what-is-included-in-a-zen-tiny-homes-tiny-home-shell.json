@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a Zen Tiny Homes tiny-home shell?",
+  "description": "Our tiny-home shells include framing, exterior sheathing, weather barrier, roofing, siding, windows, doors, and the foundation (trailer or permanent).",
+  "url": "www.zentinyhomes.com/faq/what-is-included-in-a-zen-tiny-homes-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a Zen Tiny Homes tiny-home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes tiny-home shells typically include the structural framing, exterior sheathing, weather barrier, roofing, exterior siding, and windows and doors installed. The foundation, whether a custom trailer or a permanent base, is also part of the shell package. Our shells are designed to be weather-resistant and secure, ready for your interior finishing work. Specific inclusions can be discussed during the design consultation to match your project requirements.",
+        "description": "Our tiny-home shells include framing, exterior sheathing, weather barrier, roofing, siding, windows, doors, and the foundation (trailer or permanent)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

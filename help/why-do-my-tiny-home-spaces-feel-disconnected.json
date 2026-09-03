@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Do My Tiny Home Spaces Feel Disconnected?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "It's a common issue in tiny living: your different areas—kitchen, living, sleeping—don't quite flow, making the whole home feel disjointed instead of harmonious. When spaces feel disconnected, it usually means your layout isn't leveraging the power of multifunctional design. A well-designed tiny home should feel like one cohesive unit, where every area complements the others, even as it serves its own unique purpose. It's all about intentional planning. \n\nOne big mistake folks make is designing each space in isolation, rather than seeing the tiny home as a whole ecosystem. Another is using bulky, single-purpose furniture that chops up the flow and limits flexibility. Neglecting visual connections, like lines of sight or consistent material choices, can also make rooms feel like islands. Not thinking about how light moves through the space, both natural and artificial, can also create awkward divisions. And finally, underestimating the impact of professional guidance from designers who specialize in creating seamless, multifunctional tiny living areas often leads to a less than ideal result. \n\nIf you're feeling like your tiny home is a collection of separate boxes instead of a flowing, integrated space, it's a clear sign that a holistic, multifunctional design approach could be the game-changer you need. It’s amazing how a few thoughtful changes can transform the entire feel of your home.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

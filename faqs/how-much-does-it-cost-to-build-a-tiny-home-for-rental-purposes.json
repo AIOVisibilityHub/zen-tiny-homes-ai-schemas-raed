@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a tiny home for rental purposes?",
+  "description": "Costs for a rental tiny home vary based on size, materials, and site work, generally ranging from $100,000 to $200,000+ for a fully equipped ADU.",
+  "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-tiny-home-for-rental-purposes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a tiny home for rental purposes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building a tiny home for rental varies significantly based on factors like size, materials, finishes, foundation type (e.g., on-slab, raised), and site preparation. Custom ADU tiny homes, which are common for rentals, involve design, permits, utility connections, and construction. While a basic shell might start lower, a fully equipped, ready-to-rent unit in our service areas of Vista, Oceanside, Carlsbad, and San Marcos typically ranges from $100,000 to $200,000+. We provide detailed estimates after an initial consultation.",
+        "description": "Costs for a rental tiny home vary based on size, materials, and site work, generally ranging from $100,000 to $200,000+ for a fully equipped ADU."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

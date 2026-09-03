@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are tiny homes allowed in all residential zones in Vista, Oceanside, Carlsbad, San Marcos, and Escondido?",
+  "description": "No, tiny homes are not universally allowed in all residential zones. They are often permitted as Accessory Dwelling Units (ADUs) on lots with existing single-fa",
+  "url": "www.zentinyhomes.com/faq/are-tiny-homes-allowed-in-all-residential-zones-in-vista-oceanside-carlsbad-san",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are tiny homes allowed in all residential zones in Vista, Oceanside, Carlsbad, San Marcos, and Escondido?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The allowance of tiny homes varies within residential zones across different cities. Generally, most cities in the region, including Vista, Oceanside, Carlsbad, San Marcos, and Escondido, address tiny homes primarily as Accessory Dwelling Units (ADUs). This means they are typically permitted on lots with existing single-family homes, subject to specific size, setback, and height limitations. Dedicated tiny home communities or allowing them as standalone primary residences outside of ADU regulations is less common. It's essential to consult the specific municipal code for the exact property.",
+        "description": "No, tiny homes are not universally allowed in all residential zones. They are often permitted as Accessory Dwelling Units (ADUs) on lots with existing single-family homes, subject to specific city regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the utility requirements for a new guest home?",
+  "description": "Guest homes require independent connections for water, sewer/septic, and electricity, and often gas. We assess your property to determine whether these will be",
+  "url": "www.zentinyhomes.com/faq/what-are-the-utility-requirements-for-a-new-guest-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the utility requirements for a new guest home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A new guest home requires independent utility connections for water, sewer (or septic), electricity, and often gas. Depending on local codes and your property's existing infrastructure, these connections might be tied into your main house's utilities or require separate meters and hookups. We assess your site's specific conditions and local utility provider requirements during the planning phase to ensure all necessary connections are properly designed and installed. This ensures the guest home functions as a fully independent unit.",
+        "description": "Guest homes require independent connections for water, sewer/septic, and electricity, and often gas. We assess your property to determine whether these will be separate or tied into your main house's utilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

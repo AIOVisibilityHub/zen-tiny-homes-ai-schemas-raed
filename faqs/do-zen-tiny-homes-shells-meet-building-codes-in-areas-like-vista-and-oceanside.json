@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes shells meet building codes in areas like Vista and Oceanside?",
+  "description": "Our shells meet applicable building codes for permanent structures or RV standards for THOWs. Check local zoning in Vista or Oceanside for specifics.",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-shells-meet-building-codes-in-areas-like-vista-and-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes shells meet building codes in areas like Vista and Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes constructs shells to applicable local building codes and standards for structures intended for permanent placement or for RV standards if designed as a tiny house on wheels (THOW). Building codes can vary by municipality. For shells intended for permanent installation in areas like Vista or Oceanside, we ensure the structural integrity meets relevant requirements. We advise clients to verify specific local zoning and permitting requirements for their intended property.",
+        "description": "Our shells meet applicable building codes for permanent structures or RV standards for THOWs. Check local zoning in Vista or Oceanside for specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mistakes to Avoid When Building a Guest Tiny Home",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "Building a guest tiny home can be an exciting project, but it’s easy to overlook some common pitfalls that could turn your dream into a headache. We've been building tiny homes for over a decade, and we've seen it all, so let’s talk about how to sidestep those issues to ensure your guest home is a success. Zen Tiny Homes is here to guide you through the process, making sure your custom build is smart and seamless.\n\nOne big mistake is ignoring local zoning laws and permit requirements. In San Diego, rules for ADUs (Accessory Dwelling Units), which guest homes often fall under, differ between the City and unincorporated County areas. Always verify what's allowed on your specific property before you even start designing. Another common oversight is underestimating utility hook-ups. Don't assume you can just plug it in! Water, sewer, and electricity need proper planning and often dedicated connections. Failing to plan for adequate storage is another pitfall; guests still need space for their luggage and personal items, even if they're only staying a short while. Poor ventilation and lighting can make a small space feel cramped and unwelcoming, so prioritize natural light and good airflow. Finally, trying to cut corners on design and construction quality can lead to costly repairs down the road. It's an investment, and quality craftsmanship ensures longevity and value.\n\nWant to avoid these common errors? Let Zen Tiny Homes lend our expertise. We'll help you navigate the complexities and build a guest home that stands the test of time and delights your visitors.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

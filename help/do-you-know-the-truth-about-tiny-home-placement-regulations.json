@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Do You Know the Truth About Tiny Home Placement Regulations?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "There's a lot of chatter out there about tiny home legality, and it's easy to get mixed signals. Let's clear up some common myths:\n\n*   **Myth:** Tiny homes are legal everywhere in San Diego County, so placement is easy.\n    *   **Fact:** While broadly legal, rules differ significantly between the City of San Diego and unincorporated County areas. Success depends on 'where' and 'how' it's built.\n*   **Myth:** A tiny home on wheels (THOW) can be parked permanently anywhere.\n    *   **Fact:** A THOW is often considered personal property, like an RV. Its permanent placement options are far more restricted than a foundation-built ADU.\n*   **Myth:** Tiny homes are always ADUs.\n    *   **Fact:** 'Tiny house' is a descriptive term for a small home. 'ADU' (Accessory Dwelling Unit) is a legal land-use classification for a permanent, foundation-built secondary housing unit. They're not interchangeable.\n*   **Myth:** You don't need permits for a tiny home if it's small enough.\n    *   **Fact:** Almost all tiny home placements, especially foundation-built ones, require permits and adherence to building codes. Skipping this can lead to big problems.\n*   **Myth:** Any builder can handle tiny home placement details.\n    *   **Fact:** This requires specialized knowledge of local zoning, utilities, and specific tiny home ordinances. Zen Tiny Homes has over a decade of experience navigating these complexities in Southern California. Don't risk costly mistakes; get the right advice.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

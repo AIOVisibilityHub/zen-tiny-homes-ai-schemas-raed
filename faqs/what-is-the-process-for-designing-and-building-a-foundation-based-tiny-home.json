@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and building a foundation-based tiny home?",
+  "description": "The process involves design, permit acquisition, site preparation, construction of the structure and utilities, and final inspections before occupancy.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-and-building-a-foundation-based-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and building a foundation-based tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with conceptual design, where you define your needs, preferences, and budget. This leads to architectural plans that comply with local zoning and building codes. Next, permits are secured from the relevant city departments. Site preparation follows, including foundation work and utility trenching. Construction then proceeds with framing, roofing, exterior finishes, and interior build-out, including plumbing, electrical, and insulation. Finally, inspections are conducted, and a certificate of occupancy is issued before you can move in.",
+        "description": "The process involves design, permit acquisition, site preparation, construction of the structure and utilities, and final inspections before occupancy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

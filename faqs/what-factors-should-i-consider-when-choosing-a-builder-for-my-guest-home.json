@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a builder for my guest home?",
+  "description": "Choose a builder with ADU experience, local regulatory knowledge, a strong portfolio, and transparent communication. Ensure they are licensed, insured, and alig",
+  "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-guest-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a builder for my guest home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a builder for your guest home, prioritize experience with ADUs and local regulations in your area. Look for a company with a strong portfolio of completed projects, positive client testimonials, and transparent communication throughout the process. Ensure they are licensed and insured. It's also important to assess their design capabilities and how well they understand your specific needs and vision for the guest home, from initial concept to final construction. Zen Tiny Homes emphasizes local expertise and a tailored approach.",
+        "description": "Choose a builder with ADU experience, local regulatory knowledge, a strong portfolio, and transparent communication. Ensure they are licensed, insured, and align with your design vision for the guest home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different permitting requirements for detached vs. attached tiny homes (ADUs)?",
+  "description": "Detached and attached tiny homes (ADUs) have different permitting requirements, especially regarding setbacks, fire separation, and utility connection methods b",
+  "url": "www.zentinyhomes.com/faq/are-there-different-permitting-requirements-for-detached-vs-attached-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different permitting requirements for detached vs. attached tiny homes (ADUs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there can be different permitting requirements for detached versus attached tiny homes (ADUs). While both must comply with general ADU regulations, detached units often have specific setback requirements from property lines and main structures. Attached ADUs, which share a wall with the primary residence, may have different fire separation requirements or structural considerations related to the existing building. Both types need to meet utility connection standards, but the method of connection can vary. Local zoning ordinances will detail these distinctions, impacting design and construction specifics.",
+        "description": "Detached and attached tiny homes (ADUs) have different permitting requirements, especially regarding setbacks, fire separation, and utility connection methods based on local zoning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

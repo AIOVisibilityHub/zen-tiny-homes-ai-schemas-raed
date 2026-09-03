@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning and permit requirements for ADUs in Carlsbad?",
+  "description": "Carlsbad ADUs require permits and adherence to specific zoning rules like setbacks, size limits, and lot size minimums. State laws have simplified many regulati",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-and-permit-requirements-for-adus-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning and permit requirements for ADUs in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Carlsbad, Accessory Dwelling Units (ADUs) are permissible on most residential lots, subject to specific zoning and development standards. Requirements often include minimum lot size, setback distances from property lines, maximum ADU size, and height limits. Permitting involves submitting plans to the City of Carlsbad for review and approval, including architectural, structural, and utility plans. State laws have streamlined some ADU regulations, making them easier to build. We assist clients in navigating these local regulations to ensure compliance.",
+        "description": "Carlsbad ADUs require permits and adherence to specific zoning rules like setbacks, size limits, and lot size minimums. State laws have simplified many regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

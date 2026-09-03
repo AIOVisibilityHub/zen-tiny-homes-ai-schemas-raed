@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Don't Make These Mistakes When Choosing Your Tiny Home Location",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "Choosing the perfect spot for your tiny home is exciting, but it's also where many first-time builders hit unexpected snags. We’ve seen a lot in our decade-plus of building tiny homes across Southern California, and there are some common missteps you'll want to avoid to ensure a smooth process. Getting your site feasibility right from the start makes all the difference.\n\n*   **Mistake #1: Ignoring Zoning and Local Ordinances.** This is probably the biggest one. Many people assume that because a home is tiny, it's exempt from the same rules as a traditional house. Not true! Zoning dictates what can be built where, and the rules vary drastically even within the same county. What might be allowed for an ADU (Accessory Dwelling Unit) on a foundation could be completely different for a mobile tiny home on wheels. **How to avoid:** Get an expert like Zen Tiny Homes involved early. We have extensive experience working with local agencies on tiny home pathways and can help you understand the specific regulations for your area.\n\n*   **Mistake #2: Underestimating Utility Connections.** Thinking you can just run an extension cord and a garden hose can lead to big problems. Proper connections for power, water, and septic/sewer are crucial for legal and comfortable living. Is there existing infrastructure? How far away is it? What are the costs to connect? **How to avoid:** Our Site Plan Program specifically addresses these elements, including power and water supply, and drainage/septic, ensuring your tiny home has reliable services.\n\n*   **Mistake #3: Overlooking Property Access.** Can a large construction vehicle or even the tiny home itself be delivered to the exact spot you envision? Is the path clear and stable? Think about future access for maintenance or if you ever need to move it. **How to avoid:** Consider the practicalities of access during your initial site assessment. A professional can identify potential hurdles that might not be obvious at first glance.\n\n*   **Mistake #4: Not Considering Topography and Drainage.** Is your land flat, or does it have a slope? How does water flow on your property, especially during heavy rains? You don't want your tiny home sitting in a bog or on an unstable slope. **How to avoid:** A thorough site plan evaluation will include topography assessment and drainage solutions, ensuring your tiny home is built on stable, dry ground.\n\n*   **Mistake #5: Forgetting About Long-Term Use and Future Needs.** Are you planning for a primary residence, an ADU, a rental unit, or a guest space? Your long-term vision can influence site choice. For instance, an ADU might require specific placement relative to the main house. **How to avoid:** Work with a builder who understands that tiny homes are about livability over square footage. Zen Tiny Homes designs around your actual life and future goals, starting with the site to ensure it supports your vision.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

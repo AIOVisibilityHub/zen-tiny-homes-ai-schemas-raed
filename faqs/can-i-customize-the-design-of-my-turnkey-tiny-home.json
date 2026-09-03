@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize the design of my turnkey tiny home?",
+  "description": "Yes, you can customize the design of your turnkey tiny home, including floor plans, materials, and finishes, to match your lifestyle.",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-turnkey-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize the design of my turnkey tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customization is a core part of our service. We work closely with clients to design a tiny home that fits their specific lifestyle, aesthetic preferences, and functional requirements. From floor plans and interior layouts to exterior finishes, material choices, and fixture selections, you have a significant say in the design process. Our team will guide you through available options and ensure the design meets all necessary building standards for your intended location.",
+        "description": "Yes, you can customize the design of your turnkey tiny home, including floor plans, materials, and finishes, to match your lifestyle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

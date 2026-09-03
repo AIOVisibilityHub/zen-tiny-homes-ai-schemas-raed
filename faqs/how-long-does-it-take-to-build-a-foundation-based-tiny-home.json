@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a foundation-based tiny home?",
+  "description": "Building a foundation-based tiny home typically takes 3 to 6 months, influenced by design complexity, permit processing, and material availability.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-foundation-based-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a foundation-based tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a foundation-based tiny home varies, but generally, it can take anywhere from 3 to 6 months from initial design approval to move-in. This duration depends on factors such as the complexity of the design, the speed of permit approvals, material availability, and the specific contractor's schedule. Site preparation, foundation pouring, framing, utility hookups, and interior finishing all contribute to the overall timeline. Efficient planning and clear communication with your builder can help streamline the process.",
+        "description": "Building a foundation-based tiny home typically takes 3 to 6 months, influenced by design complexity, permit processing, and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

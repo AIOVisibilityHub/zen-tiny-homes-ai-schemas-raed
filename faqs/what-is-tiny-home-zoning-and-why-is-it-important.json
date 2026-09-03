@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is tiny home zoning and why is it important?",
+  "description": "Tiny home zoning outlines local rules for building and occupying tiny homes, including size, foundation, and utility requirements. It's important to understand",
+  "url": "www.zentinyhomes.com/faq/what-is-tiny-home-zoning-and-why-is-it-important",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is tiny home zoning and why is it important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny home zoning refers to the specific local regulations that dictate where and how tiny homes can be built and occupied. These regulations vary significantly by city and county, covering aspects like minimum dwelling size, foundation requirements, utility connections, and whether a tiny home can be a primary residence or an accessory dwelling unit (ADU). Understanding these rules is crucial because they determine the feasibility and legality of placing a tiny home on a property. Non-compliance can lead to fines, forced removal, or an inability to obtain necessary permits.",
+        "description": "Tiny home zoning outlines local rules for building and occupying tiny homes, including size, foundation, and utility requirements. It's important to understand these rules to ensure your tiny home project is legal and compliant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

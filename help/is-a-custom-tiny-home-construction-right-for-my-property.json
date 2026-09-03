@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Is a custom tiny home construction right for my property?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "Deciding if a custom tiny home construction is the right move for your property isn't always straightforward. It involves more than just liking the idea of a smaller footprint; you need to consider the practicalities and how it fits with your specific land and local rules. Zen Tiny Homes has been helping folks in San Diego County and across Southern California figure this out for over a decade, so we know the drill.\n\n- [ ] **Zoning and Local Ordinances — why it matters:** Not all properties are zoned for tiny homes, especially if you're planning it as a permanent dwelling or an ADU. You need to check with your local city and county planning departments to understand the specific regulations regarding tiny homes, setbacks, and occupancy limits. We have deep knowledge of these requirements and can help navigate the complexities, having worked directly with local agencies.\n- [ ] **Accessibility and Utilities — why it matters:** Your tiny home will need access to water, electricity, and potentially sewage or septic systems. Is your property already set up for this, or will extensive (and costly) trenching or hookups be required? Consider the ease of bringing these services to your chosen tiny home site. Our site plan program assesses power, water supply, drainage, and septic.\n- [ ] **Topography and Foundation Needs — why it matters:** The lay of your land can impact construction. A very sloped or uneven site might require significant grading or a more complex foundation, increasing costs and build time. Decide early if you want your tiny home on a foundation (like an ADU) or as a mobile unit. We assist with the additional engineering for foundation homes.\n- [ ] **Purpose of the Tiny Home — why it matters:** What's the tiny home's role on your property? Is it a primary residence, a guest suite, an Airbnb rental, or a multigenerational housing solution? The intended use often dictates the type of construction, permitting, and specific design features needed. We specialize in building homes for various purposes, always focused on livability over just square footage.\n- [ ] **Budget and Long-Term Value — why it matters:** Custom construction can be an investment. Understand the full costs involved, from design and materials to site preparation and permits. Consider if this addition aligns with your long-term property goals, whether it's for personal use, rental income, or increasing property value. We price out your build transparently after the 3D design to help you budget effectively.\n\n**How to use this checklist:** Go through each item and honestly assess your property and goals. If you find yourself scratching your head on a few points, that's a perfect sign it’s time to reach out to a professional. Zen Tiny Homes offers a simplified process, starting with property assessment, to guide you through these crucial considerations and ensure your tiny home is practical, legal-minded, and a perfect fit for your property.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

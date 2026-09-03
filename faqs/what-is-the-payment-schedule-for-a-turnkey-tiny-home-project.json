@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the payment schedule for a turnkey tiny home project?",
+  "description": "Payment for turnkey tiny homes involves an initial deposit followed by incremental payments at key construction milestones until completion.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-payment-schedule-for-a-turnkey-tiny-home-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the payment schedule for a turnkey tiny home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our typical payment schedule for a turnkey tiny home project involves a series of incremental payments tied to project milestones. An initial deposit secures your project slot and begins the design phase. Subsequent payments are then scheduled upon the completion of key stages, such as foundation work, framing, rough-ins (electrical/plumbing), and interior finishes. The final payment is due upon your complete satisfaction and the home's delivery. This structure ensures transparency and aligns payments with tangible progress.",
+        "description": "Payment for turnkey tiny homes involves an initial deposit followed by incremental payments at key construction milestones until completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

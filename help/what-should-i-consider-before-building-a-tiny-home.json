@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What should I consider before building a tiny home?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "Embarking on a custom tiny home construction journey is a big step, and getting it right means thinking through a few key things before the first nail is hammered. It’s not just about getting a smaller house; it’s about crafting a smart, efficient living space that truly works for you.\n\n1.  **Property Feasibility:** Before construction, you absolutely need to know where your tiny home will go. This means assessing your land for things like zoning regulations, topography, and access to essential utilities like power and water. Zen Tiny Homes has over a decade of experience working with local agencies in San Diego County and Southern California, helping clients navigate these specific challenges to ensure legal and practical placement. We can help with land use planning, drainage, septic, and foundation setup. If your property isn't sorted, your build might hit unexpected snags.\n\n2.  **Custom Design Alignment:** Your tiny home shouldn't just be a scaled-down version of a big house. It needs to be designed around your specific lifestyle. This includes efficient layouts, meaningful storage, and flexible living areas. We work with clients one-on-one through our 3D Design Program to create unique floor plans, blueprints, and architectural services, ensuring the design perfectly matches how you live. A well-thought-out design upfront prevents costly changes during construction.\n\n3.  **Budget and Timeline Expectations:** Custom builds can vary. While our typical build timeline is around 90 days for standard projects, highly customized homes with unique features might take longer. It’s important to have a realistic budget that accounts for materials, labor, and any custom elements. After the 3D design is complete, we use that to price out your build, giving you a clear picture. Having a transparent discussion about costs and timelines from the start is crucial for a smooth construction process.\n\n4.  **Material Selection for Durability and Efficiency:** Tiny homes require smart material choices, not just for aesthetics but for insulation, durability, and weight (if mobile). You want materials that stand up to the elements and contribute to energy efficiency. We focus on quality craftsmanship and selecting materials that ensure your tiny home is built to last.\n\n5.  **Finding the Right Builder:** This is probably the most critical decision. You need a builder who specializes in tiny homes, not just conventional construction. Zen Tiny Homes isn't a conventional builder; we're small-space living specialists. We offer end-to-end simplicity, from property assessment to design and construction, with deep local knowledge of tiny home requirements. Choosing a builder with this expertise means your home will be built correctly, efficiently, and tailored to the unique demands of tiny living.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

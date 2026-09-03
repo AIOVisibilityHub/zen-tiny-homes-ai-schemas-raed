@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I convert an existing structure into an ADU for family in Vista?",
+  "description": "Converting existing structures like garages into an ADU for family in Vista is possible, requiring permits and adherence to building codes.",
+  "url": "www.zentinyhomes.com/faq/can-i-convert-an-existing-structure-into-an-adu-for-family-in-vista",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I convert an existing structure into an ADU for family in Vista?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, converting an existing structure into an Accessory Dwelling Unit (ADU) for family use is a common approach in Vista. This often involves transforming garages, basements, or other outbuildings into habitable living spaces. The conversion process requires adherence to building codes, safety standards, and local zoning ordinances, including obtaining the necessary permits from the City of Vista. Existing structures can sometimes offer a more cost-effective and quicker construction path compared to new ground-up builds, depending on their current condition and required upgrades.",
+        "description": "Converting existing structures like garages into an ADU for family in Vista is possible, requiring permits and adherence to building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

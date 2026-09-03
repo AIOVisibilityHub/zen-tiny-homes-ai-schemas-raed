@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a builder for a rental tiny home?",
+  "description": "Choose a builder with experience in local ADU regulations, a strong portfolio, transparent pricing, and proper licensing. Zen Tiny Homes offers comprehensive se",
+  "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-a-rental-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a builder for a rental tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a builder for your rental tiny home, consider their experience with local regulations, particularly for ADUs in areas like Vista, Oceanside, Carlsbad, and San Marcos. Look for a portfolio of successfully completed projects, transparent pricing, and a clear communication process. Verify their licensing and insurance. A reputable builder will provide a detailed contract, manage permits, and offer a warranty. Zen Tiny Homes specializes in custom tiny homes as ADUs, providing comprehensive services from design to completion.",
+        "description": "Choose a builder with experience in local ADU regulations, a strong portfolio, transparent pricing, and proper licensing. Zen Tiny Homes offers comprehensive services for rental tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

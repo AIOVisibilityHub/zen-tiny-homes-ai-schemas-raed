@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my foundation-based tiny home project?",
+  "description": "Choose a contractor with experience in ADUs or small homes, verified licensing and insurance, strong references, and a clear understanding of local codes.",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-contractor-for-my-foundation-based-tiny-home-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my foundation-based tiny home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor is crucial for a successful foundation-based tiny home project. Look for builders with proven experience in constructing ADUs or custom small homes, preferably in your local area like Carlsbad or Oceanside. Check their licensing, insurance, and references. Review their portfolio for quality of work and design compatibility with your vision. Obtain detailed, transparent quotes that outline all costs and timelines. Effective communication and a clear contract are essential. Prioritize contractors who demonstrate a strong understanding of local building codes and permitting processes.",
+        "description": "Choose a contractor with experience in ADUs or small homes, verified licensing and insurance, strong references, and a clear understanding of local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

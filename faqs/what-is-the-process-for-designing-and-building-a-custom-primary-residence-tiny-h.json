@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and building a custom primary-residence tiny home?",
+  "description": "The custom tiny home process involves initial consultation, design, permitting, site preparation, construction, and final inspections. It ensures compliance wit",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-and-building-a-custom-primary-residence-tiny-h",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and building a custom primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with a consultation to define your needs, budget, and desired features. This leads to preliminary design concepts and architectural drawings. Once designs are approved, permit applications are submitted to the local jurisdiction. After permits are issued, site preparation, including foundation and utility work, commences. The tiny home is then constructed, either on-site or off-site, followed by installation and final utility connections. Throughout, there are inspections to ensure compliance with building codes and standards before final occupancy.",
+        "description": "The custom tiny home process involves initial consultation, design, permitting, site preparation, construction, and final inspections. It ensures compliance with all building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

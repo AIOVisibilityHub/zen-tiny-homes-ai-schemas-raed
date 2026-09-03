@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in the tiny home permitting process?",
+  "description": "The process involves plan development, submission for review, permit issuance, and multiple inspections throughout construction, leading to a final certificate",
+  "url": "www.zentinyhomes.com/faq/what-steps-are-involved-in-the-tiny-home-permitting-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in the tiny home permitting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The tiny home permitting process typically involves several key steps. First, you'll need to develop detailed site plans and architectural drawings that comply with local zoning and building codes. Next, you submit these plans to the relevant city or county planning and building departments for review. This often includes a plan check, where officials ensure compliance. After approval, permits are issued, allowing construction or placement to begin. Throughout construction, inspections are required at various stages to verify adherence to approved plans and codes, culminating in a final inspection and certificate of occupancy.",
+        "description": "The process involves plan development, submission for review, permit issuance, and multiple inspections throughout construction, leading to a final certificate of occupancy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

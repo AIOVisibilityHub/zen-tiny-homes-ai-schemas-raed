@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in purchasing a tiny-home shell from Zen Tiny Homes?",
+  "description": "The process involves consultation, design finalization, construction at our facility, and then pickup or delivery for your interior finishing.",
+  "url": "www.zentinyhomes.com/faq/what-steps-are-involved-in-purchasing-a-tiny-home-shell-from-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in purchasing a tiny-home shell from Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation to discuss your vision, size requirements, and budget. Next, we move to design, where plans are developed and finalized. Once the design is approved and contracts are signed, construction of your shell commences at our facility. Throughout the build, we provide updates. Upon completion, we arrange for pickup or delivery, and you take over for the interior finishing.",
+        "description": "The process involves consultation, design finalization, construction at our facility, and then pickup or delivery for your interior finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

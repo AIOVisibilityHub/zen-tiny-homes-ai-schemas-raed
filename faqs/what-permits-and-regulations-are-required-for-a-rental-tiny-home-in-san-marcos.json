@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits and regulations are required for a rental tiny home in San Marcos?",
+  "description": "Rental tiny homes in San Marcos, particularly ADUs, require planning and building permits, adhering to zoning ordinances, setbacks, and utility standards. Zen T",
+  "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-are-required-for-a-rental-tiny-home-in-san-marcos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits and regulations are required for a rental tiny home in San Marcos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Marcos, building a rental tiny home, especially an Accessory Dwelling Unit (ADU), requires adherence to city zoning ordinances and building codes. This typically involves obtaining planning permits, building permits, and ensuring compliance with setback requirements, height restrictions, and utility connection standards. Specific regulations can impact the size, location, and design of your tiny home. It's crucial to consult with the city's planning department. Zen Tiny Homes assists clients with navigating these local permitting processes during the design and construction phases.",
+        "description": "Rental tiny homes in San Marcos, particularly ADUs, require planning and building permits, adhering to zoning ordinances, setbacks, and utility standards. Zen Tiny Homes assists with this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

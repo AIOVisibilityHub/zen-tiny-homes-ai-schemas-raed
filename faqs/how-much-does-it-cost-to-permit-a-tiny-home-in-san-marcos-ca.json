@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to permit a tiny home in San Marcos, CA?",
+  "description": "Permit costs in San Marcos, CA, vary significantly based on project scope, size, and specific requirements, potentially ranging from hundreds to thousands of do",
+  "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-permit-a-tiny-home-in-san-marcos-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to permit a tiny home in San Marcos, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to permit a tiny home in San Marcos, CA, can vary widely based on the project's scope, size, and specific requirements. Permit fees typically include plan check fees, building permit fees, and impact fees which contribute to local infrastructure. These can range from a few hundred to several thousand dollars. Additional costs might arise from required studies, such as soil reports, or engineering plans, if not already completed. It's recommended to consult the City of San Marcos Building Department for a detailed fee schedule relevant to your specific tiny home project.",
+        "description": "Permit costs in San Marcos, CA, vary significantly based on project scope, size, and specific requirements, potentially ranging from hundreds to thousands of dollars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

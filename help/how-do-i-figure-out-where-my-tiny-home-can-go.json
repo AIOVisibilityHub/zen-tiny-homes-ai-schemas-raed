@@ -1,0 +1,257 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How Do I Figure Out Where My Tiny Home Can Go?",
+  "description": "Step 1: Understand Your Property's Location. The rules differ significantly if your property is within the City of San Diego or in the unincorporated County. The City often treats tiny homes as ADUs, ",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Understand Your Property's Location. The rules differ significantly if your property is within the City of San Diego or in the unincorporated County. The City often treats tiny homes as ADUs, while the County has its own specific ordinances. This is the very first thing to nail down.",
+      "text": "Step 1: Understand Your Property's Location. The rules differ significantly if your property is within the City of San Diego or in the unincorporated County. The City often treats tiny homes as ADUs, while the County has its own specific ordinances. This is the very first thing to nail down."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Determine Your Home's Foundation Type. Will your tiny home be built on a permanent foundation or will it be a Tiny House on Wheels (THOW)? This is a foundational (pun intended!) distinction. Foundation homes are tied to real estate, while THOWs are typically considered personal property, like an RV. Each has different placement requirements.",
+      "text": "Step 2: Determine Your Home's Foundation Type. Will your tiny home be built on a permanent foundation or will it be a Tiny House on Wheels (THOW)? This is a foundational (pun intended!) distinction. Foundation homes are tied to real estate, while THOWs are typically considered personal property, like an RV. Each has different placement requirements."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Assess Your Property's Specifics. Our Site Plan services dive into the nitty-gritty: land use planning, local zoning codes, and topography. We look at the lay of your land to see what's feasible. Are there slopes? Existing structures? These all play a part.",
+      "text": "Step 3: Assess Your Property's Specifics. Our Site Plan services dive into the nitty-gritty: land use planning, local zoning codes, and topography. We look at the lay of your land to see what's feasible. Are there slopes? Existing structures? These all play a part."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Check Utilities and Infrastructure. You'll need power, water, and a plan for drainage and septic. We assess your site's access to these essentials, ensuring your tiny home can be fully functional and comfortable. Getting this right upfront avoids major headaches later.",
+      "text": "Step 4: Check Utilities and Infrastructure. You'll need power, water, and a plan for drainage and septic. We assess your site's access to these essentials, ensuring your tiny home can be fully functional and comfortable. Getting this right upfront avoids major headaches later."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Get Expert Eyes on Your Plan. Don't try to decipher complex zoning documents alone. Zen Tiny Homes has over a decade of experience working directly with San Diego city and county officials. We can help ensure your chosen site meets all requirements and guide you through the permit process. This professional insight is invaluable for a smooth, legal placement. Ready to find the ideal spot for your tiny sanctuary?",
+      "text": "Step 5: Get Expert Eyes on Your Plan. Don't try to decipher complex zoning documents alone. Zen Tiny Homes has over a decade of experience working directly with San Diego city and county officials. We can help ensure your chosen site meets all requirements and guide you through the permit process. This professional insight is invaluable for a smooth, legal placement. Ready to find the ideal spot for your tiny sanctuary?"
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

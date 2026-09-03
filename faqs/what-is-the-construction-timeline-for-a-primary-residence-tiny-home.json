@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the construction timeline for a primary-residence tiny home?",
+  "description": "Construction for a primary tiny home generally takes 3 to 6 months after permits are approved. This can vary based on design complexity and material availabilit",
+  "url": "www.zentinyhomes.com/faq/what-is-the-construction-timeline-for-a-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the construction timeline for a primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a primary-residence tiny home typically ranges from 3 to 6 months, once permits are secured. This duration depends on the complexity of the design, custom features, material availability, and the builder's schedule. Site preparation, including foundation work and utility hookups, will add to the overall project duration. Permitting processes, which vary by local jurisdiction, can also significantly extend the pre-construction phase, sometimes taking several months independently.",
+        "description": "Construction for a primary tiny home generally takes 3 to 6 months after permits are approved. This can vary based on design complexity and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Navigating the Tiny Home Construction Process",
+  "description": "Step 1: 3D Design Program (Initial 4-6 weeks) — This is where your vision truly takes shape. We work with you one-on-one to create a unique floor plan, including digital sketching, blueprints, and arc",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: 3D Design Program (Initial 4-6 weeks) — This is where your vision truly takes shape. We work with you one-on-one to create a unique floor plan, including digital sketching, blueprints, and architectural services. This phase ensures every detail is perfect on paper before we cut any wood. Our experts also handle code planning and ensure the design aligns with local requirements.",
+      "text": "Step 1: 3D Design Program (Initial 4-6 weeks) — This is where your vision truly takes shape. We work with you one-on-one to create a unique floor plan, including digital sketching, blueprints, and architectural services. This phase ensures every detail is perfect on paper before we cut any wood. Our experts also handle code planning and ensure the design aligns with local requirements."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Material Order and Deposit (Week 6-8) — Once your 3D design is finalized and approved, a deposit is placed. This deposit allows us to order the initial materials needed for your home. We prioritize quality craftsmanship, ensuring only the best materials are selected to bring your design to life. The procurement process is carefully managed to avoid delays.",
+      "text": "Step 2: Material Order and Deposit (Week 6-8) — Once your 3D design is finalized and approved, a deposit is placed. This deposit allows us to order the initial materials needed for your home. We prioritize quality craftsmanship, ensuring only the best materials are selected to bring your design to life. The procurement process is carefully managed to avoid delays."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Foundation and Site Preparation (Concurrent with materials) — While materials are being ordered, any necessary foundation work or site preparation begins. For homes on a foundation, additional engineering might be needed, which we're happy to assist with. Our site plan services cover land use, zoning, topography, and utility connections like power, water, and septic.",
+      "text": "Step 3: Foundation and Site Preparation (Concurrent with materials) — While materials are being ordered, any necessary foundation work or site preparation begins. For homes on a foundation, additional engineering might be needed, which we're happy to assist with. Our site plan services cover land use, zoning, topography, and utility connections like power, water, and septic."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Core Construction (Approx. 90 days for standard builds) — This is where your home starts to rise! Our skilled builders begin constructing your tiny home based on the approved blueprints. We're committed to delivering high-quality, custom homes. While our pre-designed models can be built in about 90 days, custom projects might take 4-6 weeks longer, especially if there are unique features or design changes.",
+      "text": "Step 4: Core Construction (Approx. 90 days for standard builds) — This is where your home starts to rise! Our skilled builders begin constructing your tiny home based on the approved blueprints. We're committed to delivering high-quality, custom homes. While our pre-designed models can be built in about 90 days, custom projects might take 4-6 weeks longer, especially if there are unique features or design changes."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Interior Finishes and Utilities (Weeks 12-16+) — As the structure comes together, interior work kicks off. This includes installing appliances, cabinetry, flooring, and connecting all utilities. We pay close attention to every detail, ensuring the interior reflects your design and is fully functional. This phase brings your personalized space to life.",
+      "text": "Step 5: Interior Finishes and Utilities (Weeks 12-16+) — As the structure comes together, interior work kicks off. This includes installing appliances, cabinetry, flooring, and connecting all utilities. We pay close attention to every detail, ensuring the interior reflects your design and is fully functional. This phase brings your personalized space to life."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Final Walkthrough and Handover (Week 16+) — Before you move in, we conduct a thorough final walkthrough. This is your chance to inspect every detail and ensure everything meets your expectations. Once you're completely satisfied, we hand over the keys to your beautifully crafted, custom tiny home!.",
+      "text": "Ready to start building your intelligently designed tiny home? Contact Zen Tiny Homes at (760) 492-0742 to begin your journey."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

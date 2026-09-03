@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize the design of my tiny-home shell?",
+  "description": "Yes, you can customize the dimensions, roof style, window/door placement, and exterior materials of your tiny-home shell to fit your vision.",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize the design of my tiny-home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customization is a primary benefit of choosing a tiny-home shell. Zen Tiny Homes works with clients to design a shell that meets their specific needs and aesthetic preferences. You can often choose the overall dimensions, roof style, window and door placements, and exterior siding materials. This flexibility allows you to create a unique foundation for your future tiny home, ensuring it aligns with your vision for the completed interior.",
+        "description": "Yes, you can customize the dimensions, roof style, window/door placement, and exterior materials of your tiny-home shell to fit your vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there size limits for foundation-based tiny homes in Escondido?",
+  "description": "In Escondido, foundation-based tiny homes (ADUs) typically have a maximum size of 1,200 sq ft and a minimum of 150-220 sq ft.",
+  "url": "www.zentinyhomes.com/faq/are-there-size-limits-for-foundation-based-tiny-homes-in-escondido",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there size limits for foundation-based tiny homes in Escondido?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in Escondido, foundation-based tiny homes, often built as Accessory Dwelling Units (ADUs), are subject to specific size limits. While regulations can vary, typically a detached ADU has a maximum size of 1,200 square feet, and an attached ADU is limited to 50% of the existing primary dwelling's floor area or 1,200 square feet, whichever is less. There are also minimum size requirements, usually around 150-220 square feet to qualify as an independent living unit. Always confirm current regulations with the City of Escondido's Planning Department before starting design.",
+        "description": "In Escondido, foundation-based tiny homes (ADUs) typically have a maximum size of 1,200 sq ft and a minimum of 150-220 sq ft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

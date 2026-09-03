@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What financing options are available for building an ADU or home addition?",
+  "description": "Financing for ADUs or additions can include HELOCs, cash-out refinances, construction loans, or specialized ADU loans. Consult lenders for options.",
+  "url": "www.zentinyhomes.com/faq/what-financing-options-are-available-for-building-an-adu-or-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What financing options are available for building an ADU or home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several financing options are available for building an ADU or home addition. These commonly include home equity lines of credit (HELOCs), cash-out refinances, or construction loans. Some lenders offer specific ADU loans that can cover both construction costs and potentially increased property value. Government programs or local incentives may also exist to support ADU development, particularly for affordable housing. It's advisable to consult with a financial advisor and multiple lenders to determine the best option for your specific situation and credit profile.",
+        "description": "Financing for ADUs or additions can include HELOCs, cash-out refinances, construction loans, or specialized ADU loans. Consult lenders for options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

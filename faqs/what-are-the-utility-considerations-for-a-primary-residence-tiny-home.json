@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the utility considerations for a primary-residence tiny home?",
+  "description": "Primary tiny homes need full utility connections: water, sewer/septic, electricity, and potentially propane. Plan for hookups, trenching, and fees to meet local",
+  "url": "www.zentinyhomes.com/faq/what-are-the-utility-considerations-for-a-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the utility considerations for a primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Primary-residence tiny homes require full utility connections, similar to traditional homes. This includes access to municipal water and sewer lines or a well and septic system. Electricity typically comes from the grid, though some owners choose solar power as a supplementary or primary source. Propane is often used for cooking and heating in certain designs. Proper planning for utility hookups, including trenching and connection fees, is crucial and must comply with local building and health codes to ensure safe and functional living.",
+        "description": "Primary tiny homes need full utility connections: water, sewer/septic, electricity, and potentially propane. Plan for hookups, trenching, and fees to meet local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What finishes are required after receiving a tiny-home shell?",
+  "description": "You'll need to complete all interior work, including insulation, walls, flooring, kitchen, bathroom, plumbing, and electrical systems.",
+  "url": "www.zentinyhomes.com/faq/what-finishes-are-required-after-receiving-a-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What finishes are required after receiving a tiny-home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After receiving your tiny-home shell, you will be responsible for all interior finishing work. This typically includes insulation, installing interior wall and ceiling coverings, flooring, kitchen cabinets and appliances, bathroom fixtures, plumbing, electrical wiring, and any interior trim or painting. The shell provides the weather-tight exterior, leaving the entire interior customization to you or your chosen contractors.",
+        "description": "You'll need to complete all interior work, including insulation, walls, flooring, kitchen, bathroom, plumbing, and electrical systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

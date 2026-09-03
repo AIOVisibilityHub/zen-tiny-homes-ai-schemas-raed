@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of foundation options are available for a turnkey tiny home?",
+  "description": "Foundation options for turnkey tiny homes include permanent concrete slabs or pier-and-beam systems, or a custom trailer chassis for mobility.",
+  "url": "www.zentinyhomes.com/faq/what-type-of-foundation-options-are-available-for-a-turnkey-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of foundation options are available for a turnkey tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turnkey tiny homes can be built on various foundation types to suit your needs and local regulations. Common options include a permanent foundation, such as a concrete slab or pier-and-beam system, for homes intended to be stationary. Alternatively, they can be built on a custom trailer chassis, making them a Recreational Vehicle (RV) and offering mobility. The choice of foundation depends on whether you plan for your tiny home to be permanently sited or transportable, and we'll help you determine the best fit.",
+        "description": "Foundation options for turnkey tiny homes include permanent concrete slabs or pier-and-beam systems, or a custom trailer chassis for mobility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

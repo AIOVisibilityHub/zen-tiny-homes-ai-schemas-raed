@@ -1,0 +1,257 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What are the steps to assess my land for a tiny home?",
+  "description": "Step 1: Initial Zoning and Code Check — First things first, you've got to understand the local regulations. This means diving into your specific property's zoning laws and building codes to see if tin",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Initial Zoning and Code Check — First things first, you've got to understand the local regulations. This means diving into your specific property's zoning laws and building codes to see if tiny homes, or accessory dwelling units (ADUs), are even permitted. Zen Tiny Homes has extensive experience working with San Diego County and other Southern California agencies, so we know how to navigate these often-complex rules right from the start. This typically involves reviewing municipal websites and sometimes contacting planning departments.",
+      "text": "Step 1: Initial Zoning and Code Check — First things first, you've got to understand the local regulations. This means diving into your specific property's zoning laws and building codes to see if tiny homes, or accessory dwelling units (ADUs), are even permitted. Zen Tiny Homes has extensive experience working with San Diego County and other Southern California agencies, so we know how to navigate these often-complex rules right from the start. This typically involves reviewing municipal websites and sometimes contacting planning departments."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Site Survey and Topography Analysis — Next, it's crucial to understand the physical characteristics of your land. This includes assessing the elevation changes (topography), potential flood zones, and soil conditions. This information impacts everything from drainage to foundation requirements. We often use aerial mapping and on-site visits to get a precise understanding.",
+      "text": "Step 2: Site Survey and Topography Analysis — Next, it's crucial to understand the physical characteristics of your land. This includes assessing the elevation changes (topography), potential flood zones, and soil conditions. This information impacts everything from drainage to foundation requirements. We often use aerial mapping and on-site visits to get a precise understanding."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Utility and Infrastructure Review — Can your property easily connect to water, sewer/septic, and electrical grids? This is a huge one for tiny homes. We'll evaluate existing hookups or the feasibility of installing new ones, including drainage and septic solutions. Knowing this upfront prevents costly surprises later on.",
+      "text": "Step 3: Utility and Infrastructure Review — Can your property easily connect to water, sewer/septic, and electrical grids? This is a huge one for tiny homes. We'll evaluate existing hookups or the feasibility of installing new ones, including drainage and septic solutions. Knowing this upfront prevents costly surprises later on."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Access and Placement Considerations — Think about how the tiny home will be delivered and where it will sit. Is there clear access for construction equipment? What's the best placement for sunlight, privacy, and integration with any existing structures? This step also involves considering your vision for using the surrounding property.",
+      "text": "Step 4: Access and Placement Considerations — Think about how the tiny home will be delivered and where it will sit. Is there clear access for construction equipment? What's the best placement for sunlight, privacy, and integration with any existing structures? This step also involves considering your vision for using the surrounding property."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Environmental and Permitting Scan — We'll look for any environmental factors, like protected habitats or wetlands, that could impact your build. We also identify all necessary permits for your specific location and tiny home type (e.g., on wheels vs. foundation). This ensures a smooth, legal path forward.",
+      "text": "Getting a professional assessment early on, like the site plan program Zen Tiny Homes offers, can save you so much time and stress by covering all these bases."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

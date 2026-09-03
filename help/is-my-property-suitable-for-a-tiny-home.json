@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is my property suitable for a tiny home?",
+    "text": "Is my property suitable for a tiny home?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Thinking about a tiny home? That's awesome! Before you dive into designs, it's super important to figure out if your land is even up for it. It's not just about space, but also about things like zoning, local codes, and utility access. You might have a dream spot, but if the local rules say 'no tiny homes here,' then it's back to the drawing board. Zen Tiny Homes always starts with a deep dive into these specifics for San Diego and Southern California because we've worked with local agencies for over a decade. We know what to look for! Getting a professional assessment early on can save you a ton of headaches and heartbreak down the line, ensuring your tiny home vision can actually become a reality on your chosen land.",
+      "author": {
+        "@type": "Organization",
+        "name": "Zen Tiny Homes"
+      }
+    }
+  },
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Oceanside"
+      },
+      {
+        "@type": "City",
+        "name": "Carlsbad"
+      },
+      {
+        "@type": "City",
+        "name": "San Marcos"
+      },
+      {
+        "@type": "City",
+        "name": "Escondido"
+      },
+      {
+        "@type": "City",
+        "name": "Encinitas"
+      },
+      {
+        "@type": "City",
+        "name": "Solana Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Del Mar"
+      },
+      {
+        "@type": "City",
+        "name": "Poway"
+      },
+      {
+        "@type": "City",
+        "name": "Santee"
+      },
+      {
+        "@type": "City",
+        "name": "El Cajon"
+      },
+      {
+        "@type": "City",
+        "name": "La Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Lemon Grove"
+      },
+      {
+        "@type": "City",
+        "name": "National City"
+      },
+      {
+        "@type": "City",
+        "name": "Chula Vista"
+      },
+      {
+        "@type": "City",
+        "name": "Imperial Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Coronado"
+      },
+      {
+        "@type": "City",
+        "name": "San Diego"
+      },
+      {
+        "@type": "City",
+        "name": "Fallbrook"
+      },
+      {
+        "@type": "City",
+        "name": "Bonsall"
+      },
+      {
+        "@type": "City",
+        "name": "Valley Center"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Santa Fe"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Bernardo"
+      },
+      {
+        "@type": "City",
+        "name": "Rancho Peñasquitos"
+      },
+      {
+        "@type": "City",
+        "name": "4S Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Ramona"
+      },
+      {
+        "@type": "City",
+        "name": "Julian"
+      },
+      {
+        "@type": "City",
+        "name": "Lakeside"
+      },
+      {
+        "@type": "City",
+        "name": "Alpine"
+      },
+      {
+        "@type": "City",
+        "name": "Jamul"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "La Jolla"
+      },
+      {
+        "@type": "City",
+        "name": "Pacific Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Mission Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Ocean Beach"
+      },
+      {
+        "@type": "City",
+        "name": "Point Loma"
+      },
+      {
+        "@type": "City",
+        "name": "North Park"
+      },
+      {
+        "@type": "City",
+        "name": "South Park"
+      },
+      {
+        "@type": "City",
+        "name": "Hillcrest"
+      },
+      {
+        "@type": "City",
+        "name": "Clairemont"
+      },
+      {
+        "@type": "City",
+        "name": "Mira Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Sorrento Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Carmel Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Torrey Pines"
+      },
+      {
+        "@type": "City",
+        "name": "University City"
+      },
+      {
+        "@type": "City",
+        "name": "Tierrasanta"
+      },
+      {
+        "@type": "City",
+        "name": "Kearny Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "Scripps Ranch"
+      },
+      {
+        "@type": "City",
+        "name": "Spring Valley"
+      },
+      {
+        "@type": "City",
+        "name": "Bonita"
+      },
+      {
+        "@type": "City",
+        "name": "Otay Mesa"
+      },
+      {
+        "@type": "City",
+        "name": "San Ysidro"
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  }
+}

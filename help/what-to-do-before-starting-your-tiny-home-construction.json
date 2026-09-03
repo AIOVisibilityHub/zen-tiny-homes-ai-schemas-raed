@@ -1,0 +1,279 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to do before starting your tiny home construction?",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "Before the first nail is hammered or the first board is cut, there's a lot of groundwork to lay when it comes to building your custom tiny home. Getting these preliminary steps right can save you a ton of stress, time, and money during construction. It's all about planning smart from the get-go!\n\nHere’s a checklist to help you get ready for construction:\n\n- [ ] **Confirm your budget and financing** — Have a clear, realistic budget for the entire project, including land preparation, design, construction, and any utility hookups. If financing, ensure pre-approval is in place. Zen Tiny Homes can price out your build once your design is done, but knowing your financial boundaries upfront is key.\n- [ ] **Secure your property (or site plan)** — Whether you own land or are looking to place your tiny home, you need a site plan. This includes land use planning, zoning and code checks, topography, aerial mapping, and confirming power/water/drainage/septic access. Zen Tiny Homes offers Site Plan services to help with this complex step.\n- [ ] **Finalize your custom 3D design and blueprints** — Construction can’t begin until your design is locked down. This means having approved floor-plans, digital sketches, blueprints, and all architectural services complete. Any changes during construction can cause delays and added costs.\n- [ ] **Understand your local tiny home regulations** — Depending on whether your tiny home is on wheels (THOW) or a foundation (ADU), there are different rules. Zen Tiny Homes has worked directly with San Diego city and county officials for years, giving them unique insight into making your build accessible and legal.\n- [ ] **Prepare your build site** — This might involve clearing the land, grading, and setting up the foundation (if applicable). Ensuring the site is ready prevents delays once the construction team arrives. For foundation setups, this is an integral part of the process.\n- [ ] **Choose your builder and sign contracts** — Select a builder you trust, who specializes in tiny homes, and finalize all agreements. Zen Tiny Homes has over a decade of experience, providing expert design and construction services from the ground up.\n\nBy diligently working through this checklist, you’ll be much better prepared for a smooth and efficient tiny home construction process. It reduces surprises and ensures your custom tiny home project starts on the right foot, leading to the intentional, comfortable, and high-functioning home you’re dreaming of.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-03",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "What to do before starting your tiny home construction?",
+    "numberOfItems": 6,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Confirm your budget and financing — Have a clear, realistic budget for the entire project, including land p…",
+        "description": "Confirm your budget and financing — Have a clear, realistic budget for the entire project, including land preparation, design, construction, and any utility hookups. If financing, ensure pre-approval is in place. Zen Tiny Homes can price out your build once your design is done, but knowing your financial boundaries upfront is key."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Secure your property (or site plan) — Whether you own land or are looking to place your tiny home, you need…",
+        "description": "Secure your property (or site plan) — Whether you own land or are looking to place your tiny home, you need a site plan. This includes land use planning, zoning and code checks, topography, aerial mapping, and confirming power/water/drainage/septic access. Zen Tiny Homes offers Site Plan services to help with this complex step."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Finalize your custom 3D design and blueprints — Construction can’t begin until your design is locked down.…",
+        "description": "Finalize your custom 3D design and blueprints — Construction can’t begin until your design is locked down. This means having approved floor-plans, digital sketches, blueprints, and all architectural services complete. Any changes during construction can cause delays and added costs."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Understand your local tiny home regulations — Depending on whether your tiny home is on wheels (THOW) or a…",
+        "description": "Understand your local tiny home regulations — Depending on whether your tiny home is on wheels (THOW) or a foundation (ADU), there are different rules. Zen Tiny Homes has worked directly with San Diego city and county officials for years, giving them unique insight into making your build accessible and legal."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Prepare your build site — This might involve clearing the land, grading, and setting up the foundation (if…",
+        "description": "Prepare your build site — This might involve clearing the land, grading, and setting up the foundation (if applicable). Ensuring the site is ready prevents delays once the construction team arrives. For foundation setups, this is an integral part of the process."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Choose your builder and sign contracts — Select a builder you trust, who specializes in tiny homes, and fin…",
+        "description": "Choose your builder and sign contracts — Select a builder you trust, who specializes in tiny homes, and finalize all agreements. Zen Tiny Homes has over a decade of experience, providing expert design and construction services from the ground up."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

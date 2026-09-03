@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are typically required for building a tiny home on a permanent foundation?",
+  "description": "Permanent foundation tiny homes typically require comprehensive building permits for construction, electrical, plumbing, and mechanical systems, similar to a tr",
+  "url": "www.zentinyhomes.com/faq/what-permits-are-typically-required-for-building-a-tiny-home-on-a-permanent-foun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are typically required for building a tiny home on a permanent foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a tiny home on a permanent foundation typically requires a full set of building permits, similar to a traditional home or accessory dwelling unit (ADU). This usually includes permits for construction, electrical, plumbing, and mechanical systems. Depending on the project, you might also need permits for grading, septic systems (if not connecting to public sewer), or zoning clearance. The specific requirements can vary by municipality and the complexity of your project. Zen Tiny Homes can assist with navigating these permitting processes to ensure all necessary approvals are obtained before construction begins.",
+        "description": "Permanent foundation tiny homes typically require comprehensive building permits for construction, electrical, plumbing, and mechanical systems, similar to a traditional ADU. Additional permits may be needed depending on the site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

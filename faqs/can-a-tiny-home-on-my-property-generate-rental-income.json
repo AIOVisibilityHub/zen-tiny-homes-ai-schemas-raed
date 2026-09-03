@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a tiny home on my property generate rental income?",
+  "description": "Yes, a tiny home, particularly an ADU, can generate rental income. Confirm local zoning laws for rental types and occupancy. Zen Tiny Homes builds ADUs complian",
+  "url": "www.zentinyhomes.com/faq/can-a-tiny-home-on-my-property-generate-rental-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a tiny home on my property generate rental income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a tiny home on your property can generate rental income, especially if it qualifies as an Accessory Dwelling Unit (ADU). ADUs are increasingly popular for their potential to provide a steady income stream or house family members. Before building, it's essential to understand local zoning laws in your specific city (e.g., Escondido, Vista) regarding short-term vs. long-term rentals and any associated occupancy requirements. Zen Tiny Homes designs and builds ADUs that meet local code for safe and compliant rental use.",
+        "description": "Yes, a tiny home, particularly an ADU, can generate rental income. Confirm local zoning laws for rental types and occupancy. Zen Tiny Homes builds ADUs compliant for rental use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

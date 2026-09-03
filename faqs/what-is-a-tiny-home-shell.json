@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a tiny-home shell?",
+  "description": "A tiny-home shell is the structural, weather-tight exterior of a tiny house, providing a foundation for owner-completed interiors.",
+  "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a tiny-home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny-home shell provides the basic structure of a tiny house, typically including the exterior walls, roof, subfloor, and a trailer if it's on wheels. It’s essentially a weather-tight enclosure, offering a solid foundation for homeowners to complete the interior themselves. This option allows for significant customization and can be a cost-effective way to build a tiny home by saving on professional finishing labor. Zen Tiny Homes constructs these shells, providing a crucial starting point for your project.",
+        "description": "A tiny-home shell is the structural, weather-tight exterior of a tiny house, providing a foundation for owner-completed interiors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

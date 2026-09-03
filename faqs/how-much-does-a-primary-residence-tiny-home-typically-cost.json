@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a primary-residence tiny home typically cost?",
+  "description": "Costs for primary tiny homes vary based on size and features, typically ranging from $100,000 to $180,000 for a ready-to-live model, excluding land and site wor",
+  "url": "www.zentinyhomes.com/faq/how-much-does-a-primary-residence-tiny-home-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a primary-residence tiny home typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a primary-residence tiny home can range widely depending on size, materials, finishes, and custom features. Typically, a professionally built tiny home shell might start around $60,000 to $80,000, while a fully furnished and ready-to-live-in model can range from $100,000 to $180,000 or more. This usually includes construction but excludes land acquisition, site preparation, utility connections, and permits, which add significant costs. Custom designs and high-end amenities will increase the overall investment.",
+        "description": "Costs for primary tiny homes vary based on size and features, typically ranging from $100,000 to $180,000 for a ready-to-live model, excluding land and site work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

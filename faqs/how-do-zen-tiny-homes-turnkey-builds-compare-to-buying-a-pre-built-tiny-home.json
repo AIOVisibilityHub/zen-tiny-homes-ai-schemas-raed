@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do Zen Tiny Homes' turnkey builds compare to buying a pre-built tiny home?",
+  "description": "Zen Tiny Homes' turnkey builds offer full customization and professional project management, unlike pre-built options with limited choices.",
+  "url": "www.zentinyhomes.com/faq/how-do-zen-tiny-homes-turnkey-builds-compare-to-buying-a-pre-built-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Zen Tiny Homes' turnkey builds compare to buying a pre-built tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our turnkey builds offer a fully customized experience, allowing you to tailor every aspect of your tiny home to your unique preferences and needs, ensuring it's built to current codes and standards. While pre-built tiny homes offer quicker delivery, they often come with limited customization options and may not always meet specific local building or zoning requirements without modifications. With a turnkey build from Zen Tiny Homes, you get a personalized design, quality craftsmanship, and peace of mind knowing the entire project is managed professionally.",
+        "description": "Zen Tiny Homes' turnkey builds offer full customization and professional project management, unlike pre-built options with limited choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

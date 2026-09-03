@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utility connections are needed for a rental tiny home ADU?",
+  "description": "Rental tiny home ADUs need connections for water, sewer/septic, and electricity, plus gas/propane if desired. These utilities must be properly connected and cod",
+  "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-rental-tiny-home-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utility connections are needed for a rental tiny home ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A rental tiny home ADU requires standard utility connections for water, sewer (or septic), electricity, and often natural gas or propane. These units must be independently serviced or sub-metered from the main residence. Proper connection to municipal services or existing well/septic systems is crucial for habitability and code compliance. Our design and build process includes planning for all necessary utility infrastructure to ensure your tiny home ADU is fully functional and ready for tenants in locations like Vista and San Marcos.",
+        "description": "Rental tiny home ADUs need connections for water, sewer/septic, and electricity, plus gas/propane if desired. These utilities must be properly connected and code-compliant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

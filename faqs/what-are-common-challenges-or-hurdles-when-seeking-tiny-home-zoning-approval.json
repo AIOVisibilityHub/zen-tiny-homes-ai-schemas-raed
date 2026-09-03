@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common challenges or hurdles when seeking tiny home zoning approval?",
+  "description": "Challenges include unclear local ordinances, differing rules for foundation vs. wheeled homes, minimum size requirements, utility connections, and meeting lot c",
+  "url": "www.zentinyhomes.com/faq/what-are-common-challenges-or-hurdles-when-seeking-tiny-home-zoning-approval",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common challenges or hurdles when seeking tiny home zoning approval?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common challenges when seeking tiny home zoning approval include navigating complex local ordinances that may not explicitly define 'tiny homes,' differing regulations for foundation vs. wheeled units, and meeting minimum dwelling size requirements in older zoning codes. Additionally, connecting to utilities (water, sewer, electricity) can present site-specific hurdles. Lot coverage limits, setback requirements, and historic district restrictions (if applicable) can also impact feasibility. Understanding these potential issues early is key to a smoother approval process, and we recommend consulting with professionals familiar with local regulations.",
+        "description": "Challenges include unclear local ordinances, differing rules for foundation vs. wheeled homes, minimum size requirements, utility connections, and meeting lot coverage or setback rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

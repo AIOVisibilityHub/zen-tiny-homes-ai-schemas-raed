@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to place a tiny home on my property in Vista, CA?",
+  "description": "Yes, placing a tiny home on your property in Vista, CA, generally requires permits. The type of permit depends on if it's a permanent structure or an Accessory",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-place-a-tiny-home-on-my-property-in-vista-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to place a tiny home on my property in Vista, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, placing a tiny home on your property in Vista, CA, typically requires permits. The specific permits needed depend on whether the tiny home is considered a permanent structure, an Accessory Dwelling Unit (ADU), or a mobile structure. For ADUs, you will need building permits, and potentially zoning, plumbing, and electrical permits to ensure compliance with local codes. Even if on wheels, if intended for permanent residency, it likely falls under similar regulations to ensure safety and proper utility connections.",
+        "description": "Yes, placing a tiny home on your property in Vista, CA, generally requires permits. The type of permit depends on if it's a permanent structure or an Accessory Dwelling Unit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

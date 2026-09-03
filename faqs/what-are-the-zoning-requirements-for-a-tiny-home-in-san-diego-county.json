@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning requirements for a tiny home in San Diego County?",
+  "description": "Zoning for tiny homes in San Diego County varies by city. They typically need to comply with single-family residential zoning or ADU regulations, requiring spec",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-requirements-for-a-tiny-home-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning requirements for a tiny home in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning regulations for primary-residence tiny homes in San Diego County can vary significantly by jurisdiction. Generally, tiny homes must comply with single-family residential zoning, similar to traditional homes. This includes minimum lot sizes, setback requirements, and density limits. Some cities may classify tiny homes as Accessory Dwelling Units (ADUs), which have different regulations regarding primary residences on the same property. It's crucial to consult the specific zoning ordinances of your city (e.g., Vista, Oceanside, Carlsbad) and the County of San Diego for unincorporated areas.",
+        "description": "Zoning for tiny homes in San Diego County varies by city. They typically need to comply with single-family residential zoning or ADU regulations, requiring specific lot sizes and setbacks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

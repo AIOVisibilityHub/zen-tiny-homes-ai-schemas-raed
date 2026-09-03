@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a guest home be customized to my specific needs and design preferences?",
+  "description": "Yes, guest homes can be fully customized. We work with you to tailor layouts, finishes, fixtures, and design elements to match your unique needs and aesthetic p",
+  "url": "www.zentinyhomes.com/faq/can-a-guest-home-be-customized-to-my-specific-needs-and-design-preferences",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a guest home be customized to my specific needs and design preferences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Customization is a core part of our service. While we offer a range of efficient floor plans, we understand that every homeowner has unique needs and aesthetic preferences. We work closely with you to tailor the layout, select specific finishes, fixtures, and materials, and integrate design elements that reflect your style and functional requirements. Whether you envision a modern retreat, a cozy cottage, or a versatile office space, we strive to bring your personalized guest home vision to life.",
+        "description": "Yes, guest homes can be fully customized. We work with you to tailor layouts, finishes, fixtures, and design elements to match your unique needs and aesthetic preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

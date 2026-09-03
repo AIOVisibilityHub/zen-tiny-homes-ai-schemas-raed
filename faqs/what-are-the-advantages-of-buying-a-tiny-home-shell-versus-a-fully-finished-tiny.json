@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of buying a tiny-home shell versus a fully finished tiny home?",
+  "description": "Tiny-home shells offer cost savings and extensive personalization, allowing you to finish the interior at your own pace and budget.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-buying-a-tiny-home-shell-versus-a-fully-finished-tiny",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of buying a tiny-home shell versus a fully finished tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buying a tiny-home shell offers significant advantages in cost savings and personalization. Shells are more affordable upfront as you're not paying for professional interior finishing labor. This allows you to complete the interior at your own pace and budget, using your preferred materials and design choices. It's an ideal option for those with DIY skills or who wish to hire specific trades for interior work, providing greater control over the final product.",
+        "description": "Tiny-home shells offer cost savings and extensive personalization, allowing you to finish the interior at your own pace and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

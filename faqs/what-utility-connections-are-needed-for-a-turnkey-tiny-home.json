@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utility connections are needed for a turnkey tiny home?",
+  "description": "Turnkey tiny homes need connections for electricity, water, and waste management (sewer, septic, or composting), depending on your site.",
+  "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-turnkey-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utility connections are needed for a turnkey tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turnkey tiny homes require standard utility connections, similar to a traditional home, depending on your chosen site and whether it's on-grid or off-grid. This typically includes connections for electricity (either to the main grid or via solar/battery systems), fresh water, and waste management (sewer, septic, or composting toilet solutions). We design the home to accommodate your planned utility setup. Discussing your site's available utilities early in the design process is essential to integrate these systems correctly.",
+        "description": "Turnkey tiny homes need connections for electricity, water, and waste management (sewer, septic, or composting), depending on your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

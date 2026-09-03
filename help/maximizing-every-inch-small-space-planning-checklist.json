@@ -1,0 +1,285 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Maximizing Every Inch: Small-Space Planning Checklist",
+  "author": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zen Tiny Homes",
+    "url": "www.zentinyhomes.com"
+  },
+  "articleBody": "- [ ] Define your daily routines — Understanding how you actually live and move through your day (cooking, working, relaxing) helps determine essential zones and their optimal placement.\n- [ ] List your must-have items — Create a detailed inventory of furniture, appliances, and personal belongings that absolutely need to fit, guiding storage and layout decisions.\n- [ ] Consider multi-functional furniture — Look for pieces that serve more than one purpose, like an ottoman that’s also storage, or a dining table that folds away, to adapt to different needs.\n- [ ] Plan for vertical storage — Utilizing walls for shelves, cabinets, and hooks frees up valuable floor space and keeps your home clutter-free.\n- [ ] Think about natural light and views — Strategically placed windows and openings can make a small space feel much larger and more connected to the outdoors.\n- [ ] Prioritize flexible living areas — Design spaces that can transform from one function to another, like a living room that becomes a guest bedroom, to get the most out of your footprint.\n- [ ] Assess your property's surroundings — Understanding the sun's path, prevailing winds, and any unique views helps inform window placement and outdoor living integration.\n\nHow to use this checklist: Go through each item and really visualize how it applies to your potential tiny home. This isn't just about shrinking a big house; it's about re-imagining how space can work for you. Checking off these points will help you articulate your needs and wishes more clearly when discussing your vision with a tiny home specialist, ensuring your custom design is perfectly tailored.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Bonsall"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Center"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Bernardo"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Peñasquitos"
+    },
+    {
+      "@type": "City",
+      "name": "4S Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "Julian"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Ocean Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Point Loma"
+    },
+    {
+      "@type": "City",
+      "name": "North Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Park"
+    },
+    {
+      "@type": "City",
+      "name": "Hillcrest"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Mira Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Sorrento Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Carmel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Torrey Pines"
+    },
+    {
+      "@type": "City",
+      "name": "University City"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Kearny Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Scripps Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Otay Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "San Ysidro"
+    }
+  ],
+  "datePublished": "2026-09-03",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Maximizing Every Inch: Small-Space Planning Checklist",
+    "numberOfItems": 7,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Define your daily routines — Understanding how you actually live and move through your day (cooking, workin…",
+        "description": "Define your daily routines — Understanding how you actually live and move through your day (cooking, working, relaxing) helps determine essential zones and their optimal placement."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "List your must-have items — Create a detailed inventory of furniture, appliances, and personal belongings t…",
+        "description": "List your must-have items — Create a detailed inventory of furniture, appliances, and personal belongings that absolutely need to fit, guiding storage and layout decisions."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Consider multi-functional furniture — Look for pieces that serve more than one purpose, like an ottoman tha…",
+        "description": "Consider multi-functional furniture — Look for pieces that serve more than one purpose, like an ottoman that’s also storage, or a dining table that folds away, to adapt to different needs."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Plan for vertical storage — Utilizing walls for shelves, cabinets, and hooks frees up valuable floor space…",
+        "description": "Plan for vertical storage — Utilizing walls for shelves, cabinets, and hooks frees up valuable floor space and keeps your home clutter-free."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Think about natural light and views — Strategically placed windows and openings can make a small space feel…",
+        "description": "Think about natural light and views — Strategically placed windows and openings can make a small space feel much larger and more connected to the outdoors."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Prioritize flexible living areas — Design spaces that can transform from one function to another, like a li…",
+        "description": "Prioritize flexible living areas — Design spaces that can transform from one function to another, like a living room that becomes a guest bedroom, to get the most out of your footprint."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Assess your property's surroundings — Understanding the sun's path, prevailing winds, and any unique views…",
+        "description": "Assess your property's surroundings — Understanding the sun's path, prevailing winds, and any unique views helps inform window placement and outdoor living integration."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}
