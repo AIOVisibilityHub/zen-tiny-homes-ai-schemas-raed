@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:05:46.280Z",
+  "generatedAt": "2026-09-05T21:06:05.642Z",
   "client": {
     "name": "Zen Tiny Homes",
     "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
@@ -139,7 +139,7 @@
   },
   "package": {
     "totalFiles": 1347,
-    "totalBytes": 5539856,
+    "totalBytes": 5500604,
     "stats": {
       "qna": 0,
       "faqs": 1088,
@@ -6814,37 +6814,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 24407,
+        "bytes": 18651,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 31708,
+        "bytes": 26080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 36108,
+        "bytes": 30360,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18739,
+        "bytes": 13218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 817785,
+        "bytes": 812259,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 654071,
+        "bytes": 648614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 19864,
+        "bytes": 14248,
         "purpose": "LLM-optimized public page"
       }
     ],
