@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "My Tiny Home Feels Cramped – What Am I Doing Wrong?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's a common worry when you're dreaming of a tiny home: will it actually feel livable, or just small? The good news is, a cramped feeling often comes down to design choices, not just square footage. Zen Tiny Homes knows that making a compact space feel expansive is all about intentional planning from the get-go. We don't just shrink a big house; we rethink every corner to fit your life.\n\nFirst, think about your daily routines. Where do you cook, relax, work, and store things? If your layout doesn't flow naturally with these activities, you'll constantly feel like you're fighting the space. We prioritize how you actually live, not just putting rooms next to each other. Second, consider storage. Clutter is the enemy of small spaces, so integrated, smart storage solutions are a must. Think vertical, think hidden, think multi-functional. A bed that lifts to reveal storage, or stairs with built-in drawers, can make a huge difference. Third, natural light and views are critical. Large windows and thoughtful placement can dramatically open up a space, making it feel brighter and larger than it is. Finally, don't underestimate the power of flexible spaces. A dining area that doubles as a workspace or a living room that can transform into a guest sleeping area adds immense utility without needing more square footage.\n\nReady to transform your tiny home ideas into a truly functional, spacious reality? Let's chat about how small-space planning can make your compact living dreams feel incredibly big.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "My Tiny Home Feels Cramped – What Am I Doing Wrong?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common worry when you're dreaming of a tiny home: will it actually feel livable, or just small? The good news is, a cramped feeling often comes down to design choices, not just square footage. Zen Tiny Homes knows that making a compact space feel expansive is all about intentional planning from the get-go. We don't just shrink a big house; we rethink every corner to fit your life.\n\nFirst, think about your daily routines. Where do you cook, relax, work, and store things? If your layout doesn't flow naturally with these activities, you'll constantly feel like you're fighting the space. We prioritize how you actually live, not just putting rooms next to each other. Second, consider storage. Clutter is the enemy of small spaces, so integrated, smart storage solutions are a must. Think vertical, think hidden, think multi-functional. A bed that lifts to reveal storage, or stairs with built-in drawers, can make a huge difference. Third, natural light and views are critical. Large windows and thoughtful placement can dramatically open up a space, making it feel brighter and larger than it is. Finally, don't underestimate the power of flexible spaces. A dining area that doubles as a workspace or a living room that can transform into a guest sleeping area adds immense utility without needing more square footage.\n\nReady to transform your tiny home ideas into a truly functional, spacious reality? Let's chat about how small-space planning can make your compact living dreams feel incredibly big.",
+  "datePublished": "2026-09-03"
 }

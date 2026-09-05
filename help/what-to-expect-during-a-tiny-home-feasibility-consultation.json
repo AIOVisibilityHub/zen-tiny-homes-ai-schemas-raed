@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What to Expect During a Tiny Home Feasibility Consultation",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Thinking about a tiny home is exciting, but let’s be honest, figuring out if it can actually work on your specific property can feel a bit daunting. That’s where a site feasibility consultation comes in! At Zen Tiny Homes, we simplify this crucial first step, drawing on our decade of experience in San Diego and surrounding Southern California communities. We're here to give you a clear, realistic picture of what's possible, making sure you move beyond just dreaming to actually planning. So, what exactly happens during one of these consultations?\n\nFirst off, we kick things off with a detailed discussion about your vision. We want to know your goals: Is this a primary residence, an ADU, a rental unit, or a retreat? How do you envision living in your tiny home? Understanding your lifestyle and priorities helps us tailor our assessment to your unique needs. We believe in designing every square foot around how you actually live, not just scaling down a traditional floor plan. This personal approach is what sets us apart and ensures your tiny home truly supports the life happening inside it.\n\nNext, we dive deep into your property itself. This isn't just a casual drive-by; it's a comprehensive review. We'll look at critical factors like zoning and local ordinances that apply to your specific location – remember, rules differ between the City of San Diego and unincorporated County areas, especially for tiny homes on foundations versus wheels. We'll also assess topography, potential drainage issues, existing utility access (power, water, septic/sewer), and overall site accessibility for construction or delivery. Our experience at the intersection of design, construction, and tiny-home feasibility means we understand how to identify potential challenges and opportunities.\n\nAfter gathering all this information, we provide you with a clear, actionable report. This isn't just a list of problems; it’s a roadmap. We'll outline what permits you'll likely need, any necessary site preparation, estimated utility costs, and potential design considerations that arise from your property's specifics. We'll discuss the pros and cons of different approaches, always with an eye toward making your build accessible, affordable, and crafted with the quality you deserve. Our goal is to empower you with the knowledge to make informed decisions.\n\nFinally, we answer all your questions, big or small. We want you to leave our consultation feeling confident and excited about your next steps. We're committed to making high-quality, custom tiny living more accessible, and our consultations are a vital part of that commitment. We help you connect your property’s potential with your tiny home aspirations, laying the groundwork for a successful project. With Zen Tiny Homes, you get personalized guidance that moves you past the complexities and closer to your beautifully designed, practical home. Don't let uncertainty hold you back; let's talk about your property's potential!",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-02",
+  "@context": "https://schema.org",
+  "headline": "What to Expect During a Tiny Home Feasibility Consultation",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a tiny home is exciting, but let’s be honest, figuring out if it can actually work on your specific property can feel a bit daunting. That’s where a site feasibility consultation comes in! At Zen Tiny Homes, we simplify this crucial first step, drawing on our decade of experience in San Diego and surrounding Southern California communities. We're here to give you a clear, realistic picture of what's possible, making sure you move beyond just dreaming to actually planning. So, what exactly happens during one of these consultations?\n\nFirst off, we kick things off with a detailed discussion about your vision. We want to know your goals: Is this a primary residence, an ADU, a rental unit, or a retreat? How do you envision living in your tiny home? Understanding your lifestyle and priorities helps us tailor our assessment to your unique needs. We believe in designing every square foot around how you actually live, not just scaling down a traditional floor plan. This personal approach is what sets us apart and ensures your tiny home truly supports the life happening inside it.\n\nNext, we dive deep into your property itself. This isn't just a casual drive-by; it's a comprehensive review. We'll look at critical factors like zoning and local ordinances that apply to your specific location – remember, rules differ between the City of San Diego and unincorporated County areas, especially for tiny homes on foundations versus wheels. We'll also assess topography, potential drainage issues, existing utility access (power, water, septic/sewer), and overall site accessibility for construction or delivery. Our experience at the intersection of design, construction, and tiny-home feasibility means we understand how to identify potential challenges and opportunities.\n\nAfter gathering all this information, we provide you with a clear, actionable report. This isn't just a list of problems; it’s a roadmap. We'll outline what permits you'll likely need, any necessary site preparation, estimated utility costs, and potential design considerations that arise from your property's specifics. We'll discuss the pros and cons of different approaches, always with an eye toward making your build accessible, affordable, and crafted with the quality you deserve. Our goal is to empower you with the knowledge to make informed decisions.\n\nFinally, we answer all your questions, big or small. We want you to leave our consultation feeling confident and excited about your next steps. We're committed to making high-quality, custom tiny living more accessible, and our consultations are a vital part of that commitment. We help you connect your property’s potential with your tiny home aspirations, laying the groundwork for a successful project. With Zen Tiny Homes, you get personalized guidance that moves you past the complexities and closer to your beautifully designed, practical home. Don't let uncertainty hold you back; let's talk about your property's potential!",
+  "datePublished": "2026-09-02"
 }

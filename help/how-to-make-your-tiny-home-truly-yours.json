@@ -1,251 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Make Your Tiny Home Truly Yours",
-  "description": "Start by really thinking about your daily life. Do you work from home? Love to cook? Host friends often? Your tiny home should enhance these activities, not hinder them. At Zen Tiny Homes, we begin wi",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Define Your Lifestyle — What Makes You Tick?",
-      "text": "Start by really thinking about your daily life. Do you work from home? Love to cook? Host friends often? Your tiny home should enhance these activities, not hinder them. At Zen Tiny Homes, we begin with conversations about how you'll cook, sleep, work, store belongings, and entertain. We even consider how you’ll use the surrounding property. This clarity helps us understand your priorities and ensure the design truly fits you."
+      "text": "Start by really thinking about your daily life. Do you work from home? Love to cook? Host friends often? Your tiny home should enhance these activities, not hinder them. At Zen Tiny Homes, we begin with conversations about how you'll cook, sleep, work, store belongings, and entertain. We even consider how you’ll use the surrounding property. This clarity helps us understand your priorities and ensure the design truly fits you.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Map Out Your Must-Haves and Nice-to-Haves",
-      "text": "Once you have a clear picture of your lifestyle, list out the essential features your tiny home absolutely needs. This could be a specific appliance, a dedicated workspace, or a certain type of storage. Then, list your 'nice-to-haves' – things that would be great but aren’t critical. This helps us balance your budget and space, ensuring the most important elements are included without compromising functionality."
+      "text": "Once you have a clear picture of your lifestyle, list out the essential features your tiny home absolutely needs. This could be a specific appliance, a dedicated workspace, or a certain type of storage. Then, list your 'nice-to-haves' – things that would be great but aren’t critical. This helps us balance your budget and space, ensuring the most important elements are included without compromising functionality.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Dive into the Design Process — Bring Your Vision to Life",
-      "text": "This is where the magic happens! With your lifestyle and priorities in mind, our designers at Zen Tiny Homes create efficient layouts, meaningful storage solutions, and flexible living areas. We use 3D design to help you visualize your future home, making sure every detail, from the inviting interiors to the sense of openness, aligns with your vision. This stage ensures your smaller home feels personal, usable, and complete."
+      "text": "This is where the magic happens! With your lifestyle and priorities in mind, our designers at Zen Tiny Homes create efficient layouts, meaningful storage solutions, and flexible living areas. We use 3D design to help you visualize your future home, making sure every detail, from the inviting interiors to the sense of openness, aligns with your vision. This stage ensures your smaller home feels personal, usable, and complete.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Craft Your Home with Expert Builders",
-      "text": "Once the design is finalized, our experienced team constructs your tiny home with craftsmanship and attention to detail. We’ve been building tiny homes for over a decade, and our goal is to deliver a high-quality, custom home that makes compact living comfortable and truly unique to you. You’ll see your personal touches come to life, knowing it’s built to last."
+      "text": "Once the design is finalized, our experienced team constructs your tiny home with craftsmanship and attention to detail. We’ve been building tiny homes for over a decade, and our goal is to deliver a high-quality, custom home that makes compact living comfortable and truly unique to you. You’ll see your personal touches come to life, knowing it’s built to last.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Add Your Personal Touch with Upgrades",
-      "text": "Even after construction, there's always room for personal upgrades. This could be anything from smart home tech to unique fixtures that express your style. We can guide you on options that enhance both aesthetics and functionality, making your Zen Tiny Home even more special. Remember, the goal is a home that uses space intelligently and supports the life happening inside it."
+      "text": "Even after construction, there's always room for personal upgrades. This could be anything from smart home tech to unique fixtures that express your style. We can guide you on options that enhance both aesthetics and functionality, making your Zen Tiny Home even more special. Remember, the goal is a home that uses space intelligently and supports the life happening inside it.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -253,5 +41,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Start by really thinking about your daily life. Do you work from home? Love to cook? Host friends often? Your tiny home should enhance these activities, not hinder them. At Zen Tiny Homes, we begin wi"
 }

@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Why Do Tiny Home Site Assessments Matter So Much?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Ever wonder why getting a property assessment for your tiny home project isn't just a good idea, but absolutely essential? It's like building a house without checking the foundation – you wouldn't do it! At Zen Tiny Homes, we've been conceptualizing and building tiny homes for over a decade across San Diego County. We've seen firsthand how a thorough site assessment can be the difference between a smooth, successful build and a project fraught with delays and unexpected costs. It’s truly the cornerstone of making your tiny home dream a reality, and here’s why it’s so critical.\n\nFirst, a property assessment helps you navigate the often-tricky world of local regulations. Here in San Diego, the rules for tiny homes can vary significantly between the City and the County, and whether your home is on a foundation or wheels. We dive deep into zoning, code, and land-use planning specifically for your parcel. Without this crucial step, you could find yourself in a situation where your dream tiny home isn't legally permissible on your chosen spot, leading to costly changes or even having to scrap the project altogether. We ensure your build aligns with all local requirements from day one.\n\nSecondly, it gives you a realistic understanding of your site's physical attributes and challenges. We assess topography, drainage, soil conditions, and existing utility access – things like power, water, and septic/sewer. Imagine getting halfway through construction only to discover it’s incredibly difficult or expensive to get water to your site, or that the ground needs extensive grading. A comprehensive assessment identifies these potential roadblocks early, allowing us to factor them into the plan and budget, preventing unpleasant surprises down the line. It ensures your site is truly ready for what you envision.\n\nThirdly, a detailed assessment is fundamental for optimal design and placement. We're not just about building small homes; we're about designing smarter ways to live. Knowing the ins and outs of your property allows us to customize your tiny home's orientation to maximize natural light, views, and accessibility. It helps us integrate the home seamlessly into its environment, whether it's optimizing for an ADU-style living solution or a private retreat. This intentional approach ensures your tiny home feels personal, usable, and truly high-functioning, reflecting your lifestyle, land, priorities, and budget.\n\nFinally, it saves you money and time in the long run. By proactively identifying potential issues with zoning, utilities, or site conditions, you avoid expensive redesigns, permit rejections, and construction delays. Think of it as an investment that secures the efficiency and success of your entire tiny home journey. Our simplified process starts with property assessment precisely because it lays a solid foundation for everything else. It truly moves you beyond just dreaming to a realistic, tangible plan for your custom tiny home. Ready to get your tiny home project off to the best start possible? Contact Zen Tiny Homes for a property assessment today! We’re committed to making high-quality, custom tiny living more accessible.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-02",
+  "@context": "https://schema.org",
+  "headline": "Why Do Tiny Home Site Assessments Matter So Much?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever wonder why getting a property assessment for your tiny home project isn't just a good idea, but absolutely essential? It's like building a house without checking the foundation – you wouldn't do it! At Zen Tiny Homes, we've been conceptualizing and building tiny homes for over a decade across San Diego County. We've seen firsthand how a thorough site assessment can be the difference between a smooth, successful build and a project fraught with delays and unexpected costs. It’s truly the cornerstone of making your tiny home dream a reality, and here’s why it’s so critical.\n\nFirst, a property assessment helps you navigate the often-tricky world of local regulations. Here in San Diego, the rules for tiny homes can vary significantly between the City and the County, and whether your home is on a foundation or wheels. We dive deep into zoning, code, and land-use planning specifically for your parcel. Without this crucial step, you could find yourself in a situation where your dream tiny home isn't legally permissible on your chosen spot, leading to costly changes or even having to scrap the project altogether. We ensure your build aligns with all local requirements from day one.\n\nSecondly, it gives you a realistic understanding of your site's physical attributes and challenges. We assess topography, drainage, soil conditions, and existing utility access – things like power, water, and septic/sewer. Imagine getting halfway through construction only to discover it’s incredibly difficult or expensive to get water to your site, or that the ground needs extensive grading. A comprehensive assessment identifies these potential roadblocks early, allowing us to factor them into the plan and budget, preventing unpleasant surprises down the line. It ensures your site is truly ready for what you envision.\n\nThirdly, a detailed assessment is fundamental for optimal design and placement. We're not just about building small homes; we're about designing smarter ways to live. Knowing the ins and outs of your property allows us to customize your tiny home's orientation to maximize natural light, views, and accessibility. It helps us integrate the home seamlessly into its environment, whether it's optimizing for an ADU-style living solution or a private retreat. This intentional approach ensures your tiny home feels personal, usable, and truly high-functioning, reflecting your lifestyle, land, priorities, and budget.\n\nFinally, it saves you money and time in the long run. By proactively identifying potential issues with zoning, utilities, or site conditions, you avoid expensive redesigns, permit rejections, and construction delays. Think of it as an investment that secures the efficiency and success of your entire tiny home journey. Our simplified process starts with property assessment precisely because it lays a solid foundation for everything else. It truly moves you beyond just dreaming to a realistic, tangible plan for your custom tiny home. Ready to get your tiny home project off to the best start possible? Contact Zen Tiny Homes for a property assessment today! We’re committed to making high-quality, custom tiny living more accessible.",
+  "datePublished": "2026-09-02"
 }

@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Are Tiny Homes Really Liveable?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Absolutely, tiny homes are incredibly liveable—but there's a big difference between just a small house and a thoughtfully designed tiny home. At Zen Tiny Homes, we've spent over a decade perfecting this. Our goal isn't just to build smaller homes; it's to design smarter ways to live. We specialize in making compact footprints feel intentional, comfortable, and high-functioning, proving that livability isn't measured in square footage.\n\nHere’s the thing: many people imagine tiny living means constant compromises, but with the right design, it means intentional choices. We focus on how you genuinely live your day-to-day life. That means considering everything from how you'll cook and sleep to where you'll work, entertain, and store your belongings. We call this 'small-space-first design,' and it's fundamentally different from just scaling down a regular house plan.\n\nOne of the biggest game-changers for liveability is multifunctional design. Imagine a dining area that effortlessly transforms into a workspace, or a cozy lounge that becomes a comfortable guest bedroom when friends visit. This kind of flexibility means your home adapts to your needs, rather than you having to adapt to a rigid layout. It creates a dynamic environment that feels much larger and more versatile than its actual dimensions.\n\nAnother crucial element is efficient storage. Without it, even a large home can feel cramped. We integrate clever storage solutions throughout the design—think built-in cabinets, hidden compartments, and intelligent use of vertical space. This ensures everything has a place, reducing clutter and maintaining a sense of openness. It's about having what you need, neatly tucked away.\n\nWe also prioritize creating inviting interiors and a sense of openness through things like strategic window placement, lighting, and material choices. These aren’t just structural decisions; they’re aesthetic ones that contribute to the overall feeling of spaciousness and comfort. Our experience working with clients in San Diego and across Southern California has shown us that a tiny home designed around *your* lifestyle is not just liveable—it’s genuinely enriching. If you’re ready to explore how a custom tiny home can perfectly fit your life, let's connect.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "Are Tiny Homes Really Liveable?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Absolutely, tiny homes are incredibly liveable—but there's a big difference between just a small house and a thoughtfully designed tiny home. At Zen Tiny Homes, we've spent over a decade perfecting this. Our goal isn't just to build smaller homes; it's to design smarter ways to live. We specialize in making compact footprints feel intentional, comfortable, and high-functioning, proving that livability isn't measured in square footage.\n\nHere’s the thing: many people imagine tiny living means constant compromises, but with the right design, it means intentional choices. We focus on how you genuinely live your day-to-day life. That means considering everything from how you'll cook and sleep to where you'll work, entertain, and store your belongings. We call this 'small-space-first design,' and it's fundamentally different from just scaling down a regular house plan.\n\nOne of the biggest game-changers for liveability is multifunctional design. Imagine a dining area that effortlessly transforms into a workspace, or a cozy lounge that becomes a comfortable guest bedroom when friends visit. This kind of flexibility means your home adapts to your needs, rather than you having to adapt to a rigid layout. It creates a dynamic environment that feels much larger and more versatile than its actual dimensions.\n\nAnother crucial element is efficient storage. Without it, even a large home can feel cramped. We integrate clever storage solutions throughout the design—think built-in cabinets, hidden compartments, and intelligent use of vertical space. This ensures everything has a place, reducing clutter and maintaining a sense of openness. It's about having what you need, neatly tucked away.\n\nWe also prioritize creating inviting interiors and a sense of openness through things like strategic window placement, lighting, and material choices. These aren’t just structural decisions; they’re aesthetic ones that contribute to the overall feeling of spaciousness and comfort. Our experience working with clients in San Diego and across Southern California has shown us that a tiny home designed around *your* lifestyle is not just liveable—it’s genuinely enriching. If you’re ready to explore how a custom tiny home can perfectly fit your life, let's connect.",
+  "datePublished": "2026-09-03"
 }

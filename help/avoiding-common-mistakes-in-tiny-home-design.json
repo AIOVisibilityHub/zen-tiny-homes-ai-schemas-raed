@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Avoiding common mistakes in tiny home design?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Jumping into tiny home design can be super exciting, but there are some common pitfalls that can turn your dream into a cramped nightmare. Thinking small isn't just about reducing square footage; it's about maximizing every inch purposefully. Avoiding these mistakes early on will save you headaches (and space!) down the road.\n\nHere are some common mistakes and how to sidestep them:\n\n1. **Ignoring your actual daily routines.** Many people design for an idealized version of themselves. If you love to cook, a micro-kitchen will lead to frustration. If you work from home, a dedicated, quiet space is crucial. How to avoid: Spend a week meticulously noting how you use every space in your current home. This informs realistic design decisions.\n2. **Underestimating storage needs.** Even with decluttering, you'll still have belongings. Generic storage solutions often fall short. How to avoid: Create an inventory of your essential items, categorizing them. This helps designers create bespoke storage like built-ins, multi-functional furniture, and vertical solutions tailored to your stuff.\n3. **Forgetting about natural light and ventilation.** Tiny spaces can feel claustrophobic without adequate light and airflow. This impacts mood and air quality. How to avoid: Prioritize multiple windows, strategically placed to capture sunlight and cross-breezes. Consider skylights or transom windows for added brightness without sacrificing wall space.\n4. **Not considering the surrounding property or climate.** Your tiny home won't exist in a vacuum. Views, privacy, sun exposure, and local weather all impact the design. How to avoid: Conduct a thorough site assessment. Think about window placement for views, overhangs for sun protection, and insulation appropriate for San Diego's climate.\n5. **Skipping professional guidance on complex elements.** While DIY is tempting, structural integrity, code compliance, and efficient layouts are best handled by pros. How to avoid: Partner with experienced tiny home designers. Zen Tiny Homes specializes in custom designs that integrate code planning and architectural services, making sure your home is not only beautiful but also sound and legally compliant.\n\nDesigning a tiny home is an investment in your lifestyle. By avoiding these common missteps, you ensure your compact space is truly intentional, comfortable, and high-functioning.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "Avoiding common mistakes in tiny home design?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Jumping into tiny home design can be super exciting, but there are some common pitfalls that can turn your dream into a cramped nightmare. Thinking small isn't just about reducing square footage; it's about maximizing every inch purposefully. Avoiding these mistakes early on will save you headaches (and space!) down the road.\n\nHere are some common mistakes and how to sidestep them:\n\n1. **Ignoring your actual daily routines.** Many people design for an idealized version of themselves. If you love to cook, a micro-kitchen will lead to frustration. If you work from home, a dedicated, quiet space is crucial. How to avoid: Spend a week meticulously noting how you use every space in your current home. This informs realistic design decisions.\n2. **Underestimating storage needs.** Even with decluttering, you'll still have belongings. Generic storage solutions often fall short. How to avoid: Create an inventory of your essential items, categorizing them. This helps designers create bespoke storage like built-ins, multi-functional furniture, and vertical solutions tailored to your stuff.\n3. **Forgetting about natural light and ventilation.** Tiny spaces can feel claustrophobic without adequate light and airflow. This impacts mood and air quality. How to avoid: Prioritize multiple windows, strategically placed to capture sunlight and cross-breezes. Consider skylights or transom windows for added brightness without sacrificing wall space.\n4. **Not considering the surrounding property or climate.** Your tiny home won't exist in a vacuum. Views, privacy, sun exposure, and local weather all impact the design. How to avoid: Conduct a thorough site assessment. Think about window placement for views, overhangs for sun protection, and insulation appropriate for San Diego's climate.\n5. **Skipping professional guidance on complex elements.** While DIY is tempting, structural integrity, code compliance, and efficient layouts are best handled by pros. How to avoid: Partner with experienced tiny home designers. Zen Tiny Homes specializes in custom designs that integrate code planning and architectural services, making sure your home is not only beautiful but also sound and legally compliant.\n\nDesigning a tiny home is an investment in your lifestyle. By avoiding these common missteps, you ensure your compact space is truly intentional, comfortable, and high-functioning.",
+  "datePublished": "2026-09-03"
 }

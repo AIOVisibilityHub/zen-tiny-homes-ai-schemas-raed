@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What mistakes should I avoid when placing my tiny home?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Placing your tiny home isn't as simple as just finding an open spot on your property. There are a lot of nuances that, if overlooked, can turn your dream into a real headache. Zen Tiny Homes has seen it all over the past decade, helping folks across San Diego County and Southern California put their tiny homes in the right place, legally and practically. Avoiding these common missteps will save you a ton of time, money, and stress.\n\nHere are some common mistakes to steer clear of when planning your tiny home placement:\n\n1.  **Ignoring Local Zoning & Ordinances** — This is probably the biggest pitfall. Many people assume if a tiny home is legal generally, it's legal *anywhere*. But zoning rules differ significantly between cities and unincorporated county areas, like San Diego City vs. San Diego County. Failing to check specific setbacks, height restrictions, and whether your property allows an ADU (on-foundation) or a tiny house on wheels (THOW) can lead to serious legal issues, fines, or even having to move your home. Always confirm what's permissible in your exact location.\n2.  **Underestimating Utility Hookup Costs & Logistics** — Just because there's an open patch of land doesn't mean it's ready for a tiny home. Running water, sewer/septic, electricity, and internet lines can be incredibly expensive and complex, especially if they need to be extended far from existing connections. Not accounting for these utility connections in your initial planning and budget can be a costly surprise. Get a clear understanding of what infrastructure is needed and its associated costs early on.\n3.  **Forgetting About Site Accessibility & Preparation** — How will your tiny home actually get to its final resting place? Narrow access roads, steep inclines, or low-hanging branches can make delivery a nightmare or even impossible. Beyond delivery, the site itself might need grading, a proper foundation (for ADUs), or specific drainage solutions. Overlooking these practical site prep details can cause significant delays and added expenses.\n4.  **Neglecting Sun Exposure and Natural Elements** — Think beyond aesthetics. Where does the sun hit throughout the day and year? Optimal orientation can provide natural light, passive heating/cooling, and help with solar panel efficiency. Consider wind patterns, potential for flooding, or shade from large trees. Proper placement can dramatically improve your home's energy efficiency and overall comfort.\n5.  **Failing to Plan for Privacy and View** — Even on your own property, privacy can be a concern, especially if the tiny home is near a main residence or neighbors. Think about window placement and natural barriers to ensure comfort. Conversely, strategically placing your tiny home to maximize a beautiful view can greatly enhance the living experience. It's about finding the sweet spot between seclusion and openness.\n6.  **Not Differentiating Between ADU and THOW Placement Needs** — As Zen Tiny Homes explains, an ADU is a permanent real estate asset on a foundation, while a THOW is personal property like an RV. Their placement requirements are entirely different. An ADU needs building permits, inspections, and often adheres to stricter building codes, while a THOW might be subject to RV park rules or specific county ordinances for temporary dwelling. Mixing these up is a recipe for trouble.\n\nAvoiding these common missteps requires careful planning and a good understanding of both your property and local regulations. Partnering with a builder like Zen Tiny Homes, who has extensive experience with tiny home feasibility and placement across Southern California, can help you navigate these complexities smoothly and ensure your tiny home is placed perfectly and legally.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "What mistakes should I avoid when placing my tiny home?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Placing your tiny home isn't as simple as just finding an open spot on your property. There are a lot of nuances that, if overlooked, can turn your dream into a real headache. Zen Tiny Homes has seen it all over the past decade, helping folks across San Diego County and Southern California put their tiny homes in the right place, legally and practically. Avoiding these common missteps will save you a ton of time, money, and stress.\n\nHere are some common mistakes to steer clear of when planning your tiny home placement:\n\n1.  **Ignoring Local Zoning & Ordinances** — This is probably the biggest pitfall. Many people assume if a tiny home is legal generally, it's legal *anywhere*. But zoning rules differ significantly between cities and unincorporated county areas, like San Diego City vs. San Diego County. Failing to check specific setbacks, height restrictions, and whether your property allows an ADU (on-foundation) or a tiny house on wheels (THOW) can lead to serious legal issues, fines, or even having to move your home. Always confirm what's permissible in your exact location.\n2.  **Underestimating Utility Hookup Costs & Logistics** — Just because there's an open patch of land doesn't mean it's ready for a tiny home. Running water, sewer/septic, electricity, and internet lines can be incredibly expensive and complex, especially if they need to be extended far from existing connections. Not accounting for these utility connections in your initial planning and budget can be a costly surprise. Get a clear understanding of what infrastructure is needed and its associated costs early on.\n3.  **Forgetting About Site Accessibility & Preparation** — How will your tiny home actually get to its final resting place? Narrow access roads, steep inclines, or low-hanging branches can make delivery a nightmare or even impossible. Beyond delivery, the site itself might need grading, a proper foundation (for ADUs), or specific drainage solutions. Overlooking these practical site prep details can cause significant delays and added expenses.\n4.  **Neglecting Sun Exposure and Natural Elements** — Think beyond aesthetics. Where does the sun hit throughout the day and year? Optimal orientation can provide natural light, passive heating/cooling, and help with solar panel efficiency. Consider wind patterns, potential for flooding, or shade from large trees. Proper placement can dramatically improve your home's energy efficiency and overall comfort.\n5.  **Failing to Plan for Privacy and View** — Even on your own property, privacy can be a concern, especially if the tiny home is near a main residence or neighbors. Think about window placement and natural barriers to ensure comfort. Conversely, strategically placing your tiny home to maximize a beautiful view can greatly enhance the living experience. It's about finding the sweet spot between seclusion and openness.\n6.  **Not Differentiating Between ADU and THOW Placement Needs** — As Zen Tiny Homes explains, an ADU is a permanent real estate asset on a foundation, while a THOW is personal property like an RV. Their placement requirements are entirely different. An ADU needs building permits, inspections, and often adheres to stricter building codes, while a THOW might be subject to RV park rules or specific county ordinances for temporary dwelling. Mixing these up is a recipe for trouble.\n\nAvoiding these common missteps requires careful planning and a good understanding of both your property and local regulations. Partnering with a builder like Zen Tiny Homes, who has extensive experience with tiny home feasibility and placement across Southern California, can help you navigate these complexities smoothly and ensure your tiny home is placed perfectly and legally.",
+  "datePublished": "2026-09-03"
 }

@@ -1,233 +1,219 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Can a Tiny Home Really Feel Spacious?",
-    "text": "Can a Tiny Home Really Feel Spacious?",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Absolutely, a tiny home can feel incredibly spacious! It's one of the biggest misconceptions that small square footage automatically means cramped living. At Zen Tiny Homes, we challenge that idea by focusing on smart, intentional design. We don't just build smaller homes; we design smarter ways to live. This means creating efficient layouts where every inch has a purpose, integrating meaningful storage solutions that keep clutter at bay, and crafting flexible living areas that can adapt to different needs throughout your day. Think about features like multi-functional furniture, strategic window placement for natural light, and open floor plans that enhance a sense of flow. It's all about making your home personal, usable, and complete, ensuring that the space supports the life happening inside it. If you're curious how we can transform a compact footprint into a surprisingly open and comfortable primary residence, let’s talk about your vision.",
-      "author": {
-        "@type": "Organization",
-        "name": "Zen Tiny Homes"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Vista"
+        "name": "Vista",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Oceanside"
+        "name": "Oceanside",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Carlsbad"
+        "name": "Carlsbad",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Marcos"
+        "name": "San Marcos",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Escondido"
+        "name": "Escondido",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Encinitas"
+        "name": "Encinitas",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Solana Beach"
+        "name": "Solana Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Del Mar"
+        "name": "Del Mar",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Poway"
+        "name": "Poway",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Santee"
+        "name": "Santee",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "El Cajon"
+        "name": "El Cajon",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "La Mesa"
+        "name": "La Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Lemon Grove"
+        "name": "Lemon Grove",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "National City"
+        "name": "National City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Chula Vista"
+        "name": "Chula Vista",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Imperial Beach"
+        "name": "Imperial Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Coronado"
+        "name": "Coronado",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Diego"
+        "name": "San Diego",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Fallbrook"
+        "name": "Fallbrook",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bonsall"
+        "name": "Bonsall",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Valley Center"
+        "name": "Valley Center",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Santa Fe"
+        "name": "Rancho Santa Fe",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Bernardo"
+        "name": "Rancho Bernardo",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Peñasquitos"
+        "name": "Rancho Peñasquitos",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "4S Ranch"
+        "name": "4S Ranch",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Ramona"
+        "name": "Ramona",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Julian"
+        "name": "Julian",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Lakeside"
+        "name": "Lakeside",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Alpine"
+        "name": "Alpine",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Jamul"
+        "name": "Jamul",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Spring Valley"
+        "name": "Spring Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "La Jolla"
+        "name": "La Jolla",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Pacific Beach"
+        "name": "Pacific Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mission Beach"
+        "name": "Mission Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Ocean Beach"
+        "name": "Ocean Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Point Loma"
+        "name": "Point Loma",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "North Park"
+        "name": "North Park",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South Park"
+        "name": "South Park",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Hillcrest"
+        "name": "Hillcrest",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Clairemont"
+        "name": "Clairemont",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mira Mesa"
+        "name": "Mira Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sorrento Valley"
+        "name": "Sorrento Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Carmel Valley"
+        "name": "Carmel Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Torrey Pines"
+        "name": "Torrey Pines",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "University City"
+        "name": "University City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Tierrasanta"
+        "name": "Tierrasanta",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Kearny Mesa"
+        "name": "Kearny Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Scripps Ranch"
+        "name": "Scripps Ranch",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Spring Valley"
+        "name": "Spring Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bonita"
+        "name": "Bonita",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Otay Mesa"
+        "name": "Otay Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Ysidro"
+        "name": "San Ysidro",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -235,5 +221,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Can a Tiny Home Really Feel Spacious?",
+    "text": "Can a Tiny Home Really Feel Spacious?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Absolutely, a tiny home can feel incredibly spacious! It's one of the biggest misconceptions that small square footage automatically means cramped living. At Zen Tiny Homes, we challenge that idea by focusing on smart, intentional design. We don't just build smaller homes; we design smarter ways to live. This means creating efficient layouts where every inch has a purpose, integrating meaningful storage solutions that keep clutter at bay, and crafting flexible living areas that can adapt to different needs throughout your day. Think about features like multi-functional furniture, strategic window placement for natural light, and open floor plans that enhance a sense of flow. It's all about making your home personal, usable, and complete, ensuring that the space supports the life happening inside it. If you're curious how we can transform a compact footprint into a surprisingly open and comfortable primary residence, let’s talk about your vision.",
+      "@type": "Answer",
+      "author": {
+        "name": "Zen Tiny Homes",
+        "@type": "Organization"
+      }
+    }
   }
 }

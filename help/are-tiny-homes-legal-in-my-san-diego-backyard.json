@@ -1,233 +1,219 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Are tiny homes legal in my San Diego backyard?",
-    "text": "Are tiny homes legal in my San Diego backyard?",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "It's a fantastic question we hear all the time! The short answer is a resounding 'yes,' tiny homes are broadly legal in San Diego for backyard placement, but—and this is a big 'but'—the legality depends heavily on two main factors: *where* your property is located (City of San Diego vs. unincorporated County) and *how* your tiny home is built (on a permanent foundation or on wheels).\n\nThe biggest distinction you'll encounter is whether your tiny home is classified as an Accessory Dwelling Unit (ADU) or a mobile tiny house on wheels (THOW). An ADU is a permanent structure built on a foundation, legally tied to your property, and designed to build equity. These are generally well-supported by San Diego's regulations, which have embraced ADUs as a solution for housing needs. For these, the City of San Diego primarily treats them as ADUs, and you'll go through a specific permitting process.\n\nIf you're thinking about a tiny home on wheels, that's typically considered personal property, much like an RV. While they offer flexibility, their legal standing for permanent backyard residence can be trickier and is often restricted or regulated differently than foundation-built ADUs. Unincorporated San Diego County has its own specific ordinances that might allow for THOWs in certain contexts, but it's not a blanket approval. Zen Tiny Homes has spent years working directly with both the city and county of San Diego, gaining a unique perspective on these regulations to help clients navigate the path to legal tiny home living.\n\nThe key to a successful project really lies in understanding these nuances upfront. It’s not just 'if' tiny homes are legal, but 'where' and 'how' they can be legally situated on your specific property. This is where professional guidance becomes super important. A specialized builder like Zen Tiny Homes can assess your property, help you understand the local rules, and design a tiny home solution that is compliant, practical, and perfectly suited to your needs. We're here to help you move beyond the dream and into a realistic plan for your backyard tiny home.",
-      "author": {
-        "@type": "Organization",
-        "name": "Zen Tiny Homes"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Vista"
+        "name": "Vista",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Oceanside"
+        "name": "Oceanside",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Carlsbad"
+        "name": "Carlsbad",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Marcos"
+        "name": "San Marcos",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Escondido"
+        "name": "Escondido",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Encinitas"
+        "name": "Encinitas",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Solana Beach"
+        "name": "Solana Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Del Mar"
+        "name": "Del Mar",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Poway"
+        "name": "Poway",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Santee"
+        "name": "Santee",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "El Cajon"
+        "name": "El Cajon",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "La Mesa"
+        "name": "La Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Lemon Grove"
+        "name": "Lemon Grove",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "National City"
+        "name": "National City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Chula Vista"
+        "name": "Chula Vista",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Imperial Beach"
+        "name": "Imperial Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Coronado"
+        "name": "Coronado",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Diego"
+        "name": "San Diego",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Fallbrook"
+        "name": "Fallbrook",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bonsall"
+        "name": "Bonsall",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Valley Center"
+        "name": "Valley Center",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Santa Fe"
+        "name": "Rancho Santa Fe",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Bernardo"
+        "name": "Rancho Bernardo",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Peñasquitos"
+        "name": "Rancho Peñasquitos",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "4S Ranch"
+        "name": "4S Ranch",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Ramona"
+        "name": "Ramona",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Julian"
+        "name": "Julian",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Lakeside"
+        "name": "Lakeside",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Alpine"
+        "name": "Alpine",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Jamul"
+        "name": "Jamul",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Spring Valley"
+        "name": "Spring Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "La Jolla"
+        "name": "La Jolla",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Pacific Beach"
+        "name": "Pacific Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mission Beach"
+        "name": "Mission Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Ocean Beach"
+        "name": "Ocean Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Point Loma"
+        "name": "Point Loma",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "North Park"
+        "name": "North Park",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South Park"
+        "name": "South Park",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Hillcrest"
+        "name": "Hillcrest",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Clairemont"
+        "name": "Clairemont",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mira Mesa"
+        "name": "Mira Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sorrento Valley"
+        "name": "Sorrento Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Carmel Valley"
+        "name": "Carmel Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Torrey Pines"
+        "name": "Torrey Pines",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "University City"
+        "name": "University City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Tierrasanta"
+        "name": "Tierrasanta",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Kearny Mesa"
+        "name": "Kearny Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Scripps Ranch"
+        "name": "Scripps Ranch",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Spring Valley"
+        "name": "Spring Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bonita"
+        "name": "Bonita",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Otay Mesa"
+        "name": "Otay Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Ysidro"
+        "name": "San Ysidro",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -235,5 +221,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Are tiny homes legal in my San Diego backyard?",
+    "text": "Are tiny homes legal in my San Diego backyard?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's a fantastic question we hear all the time! The short answer is a resounding 'yes,' tiny homes are broadly legal in San Diego for backyard placement, but—and this is a big 'but'—the legality depends heavily on two main factors: *where* your property is located (City of San Diego vs. unincorporated County) and *how* your tiny home is built (on a permanent foundation or on wheels).\n\nThe biggest distinction you'll encounter is whether your tiny home is classified as an Accessory Dwelling Unit (ADU) or a mobile tiny house on wheels (THOW). An ADU is a permanent structure built on a foundation, legally tied to your property, and designed to build equity. These are generally well-supported by San Diego's regulations, which have embraced ADUs as a solution for housing needs. For these, the City of San Diego primarily treats them as ADUs, and you'll go through a specific permitting process.\n\nIf you're thinking about a tiny home on wheels, that's typically considered personal property, much like an RV. While they offer flexibility, their legal standing for permanent backyard residence can be trickier and is often restricted or regulated differently than foundation-built ADUs. Unincorporated San Diego County has its own specific ordinances that might allow for THOWs in certain contexts, but it's not a blanket approval. Zen Tiny Homes has spent years working directly with both the city and county of San Diego, gaining a unique perspective on these regulations to help clients navigate the path to legal tiny home living.\n\nThe key to a successful project really lies in understanding these nuances upfront. It’s not just 'if' tiny homes are legal, but 'where' and 'how' they can be legally situated on your specific property. This is where professional guidance becomes super important. A specialized builder like Zen Tiny Homes can assess your property, help you understand the local rules, and design a tiny home solution that is compliant, practical, and perfectly suited to your needs. We're here to help you move beyond the dream and into a realistic plan for your backyard tiny home.",
+      "@type": "Answer",
+      "author": {
+        "name": "Zen Tiny Homes",
+        "@type": "Organization"
+      }
+    }
   }
 }

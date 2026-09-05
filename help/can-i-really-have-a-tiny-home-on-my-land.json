@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Can I Really Have a Tiny Home on My Land?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's a fantastic question, and one we hear all the time at Zen Tiny Homes: \"Can I really put a tiny home on my land?\" You're probably picturing that perfect little dwelling, but the reality is that making it happen involves more than just picking a spot. We've been helping San Diegans navigate these waters for over a decade, and we know exactly what to look for to turn that dream into a practical, legal, and comfortable living space. Here's a quick checklist to get you thinking:\n\n- [ ] **Check your property's zoning designation** — This is step one, crucial for understanding what types of structures and uses are permitted on your specific parcel. Different zones have different rules, and knowing yours helps us determine what's possible from the start.\n- [ ] **Review local ADU (Accessory Dwelling Unit) ordinances** — Many tiny homes are successfully placed as ADUs, especially if they are built on a foundation. Understanding these rules, which vary between the City of San Diego and unincorporated county areas, is key to legal placement and avoiding headaches later on.\n- [ ] **Measure available space and setbacks** — Even for a tiny home, you need to ensure there's enough room while adhering to required distances from property lines, existing buildings, and easements. This ensures proper access and compliance with local codes.\n- [ ] **Assess access for construction and delivery** — Can a tiny home, whether modular or built on-site, actually get to its intended location on your property? This involves looking at road access, gates, and any obstacles that might hinder the process.\n- [ ] **Verify utility availability (water, sewer/septic, electricity)** — A tiny home needs power, water, and waste disposal. We'll identify if existing utilities are accessible and adequate, or if new connections and infrastructure will be needed, which impacts both cost and feasibility.\n- [ ] **Examine topography and drainage** — Slopes, soil conditions, and natural water flow all play a role in site preparation and the long-term stability of your tiny home. Proper drainage prevents future issues and ensures a solid foundation.\n- [ ] **Consider your intended use for the tiny home** — Is it for a family member, a rental, or your primary residence? The use can influence the specific regulations that apply and the best placement strategy for your goals.\n- [ ] **Look into environmental or historical restrictions** — Some properties might have unique environmental designations or be in historic districts, which could add additional layers of regulation to your project. It's important to uncover these early.\n\n**How to use this checklist:** Go through these items and jot down what you know or what questions come to mind. Don't worry if you don't have all the answers; that's exactly what our property assessment and site feasibility consultations are for! Zen Tiny Homes is here to walk you through each point, turning potential roadblocks into clear pathways for your custom tiny home. We work one-on-one with clients to make sure their home reflects their lifestyle, land, priorities, and budget.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-02",
+  "@context": "https://schema.org",
+  "headline": "Can I Really Have a Tiny Home on My Land?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a fantastic question, and one we hear all the time at Zen Tiny Homes: \"Can I really put a tiny home on my land?\" You're probably picturing that perfect little dwelling, but the reality is that making it happen involves more than just picking a spot. We've been helping San Diegans navigate these waters for over a decade, and we know exactly what to look for to turn that dream into a practical, legal, and comfortable living space. Here's a quick checklist to get you thinking:\n\n- [ ] **Check your property's zoning designation** — This is step one, crucial for understanding what types of structures and uses are permitted on your specific parcel. Different zones have different rules, and knowing yours helps us determine what's possible from the start.\n- [ ] **Review local ADU (Accessory Dwelling Unit) ordinances** — Many tiny homes are successfully placed as ADUs, especially if they are built on a foundation. Understanding these rules, which vary between the City of San Diego and unincorporated county areas, is key to legal placement and avoiding headaches later on.\n- [ ] **Measure available space and setbacks** — Even for a tiny home, you need to ensure there's enough room while adhering to required distances from property lines, existing buildings, and easements. This ensures proper access and compliance with local codes.\n- [ ] **Assess access for construction and delivery** — Can a tiny home, whether modular or built on-site, actually get to its intended location on your property? This involves looking at road access, gates, and any obstacles that might hinder the process.\n- [ ] **Verify utility availability (water, sewer/septic, electricity)** — A tiny home needs power, water, and waste disposal. We'll identify if existing utilities are accessible and adequate, or if new connections and infrastructure will be needed, which impacts both cost and feasibility.\n- [ ] **Examine topography and drainage** — Slopes, soil conditions, and natural water flow all play a role in site preparation and the long-term stability of your tiny home. Proper drainage prevents future issues and ensures a solid foundation.\n- [ ] **Consider your intended use for the tiny home** — Is it for a family member, a rental, or your primary residence? The use can influence the specific regulations that apply and the best placement strategy for your goals.\n- [ ] **Look into environmental or historical restrictions** — Some properties might have unique environmental designations or be in historic districts, which could add additional layers of regulation to your project. It's important to uncover these early.\n\n**How to use this checklist:** Go through these items and jot down what you know or what questions come to mind. Don't worry if you don't have all the answers; that's exactly what our property assessment and site feasibility consultations are for! Zen Tiny Homes is here to walk you through each point, turning potential roadblocks into clear pathways for your custom tiny home. We work one-on-one with clients to make sure their home reflects their lifestyle, land, priorities, and budget.",
+  "datePublished": "2026-09-02"
 }

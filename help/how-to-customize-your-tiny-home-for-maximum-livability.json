@@ -1,257 +1,45 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Customize Your Tiny Home for Maximum Livability",
-  "description": "Step 1: Define Your Lifestyle Essentials. Before sketching anything, list your absolute must-haves and daily routines. Do you love to cook? Need a dedicated hobby space? Work from home? This clarifies",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Define Your Lifestyle Essentials. Before sketching anything, list your absolute must-haves and daily routines. Do you love to cook? Need a dedicated hobby space? Work from home? This clarifies what functional zones are non-negotiable. For example, if you're a passionate chef, we'd prioritize a larger, custom kitchen layout with specific appliance integration, even in a compact footprint. This ensures your tiny home works *for* you, not against you.",
-      "text": "Step 1: Define Your Lifestyle Essentials. Before sketching anything, list your absolute must-haves and daily routines. Do you love to cook? Need a dedicated hobby space? Work from home? This clarifies what functional zones are non-negotiable. For example, if you're a passionate chef, we'd prioritize a larger, custom kitchen layout with specific appliance integration, even in a compact footprint. This ensures your tiny home works *for* you, not against you."
+      "text": "Step 1: Define Your Lifestyle Essentials. Before sketching anything, list your absolute must-haves and daily routines. Do you love to cook? Need a dedicated hobby space? Work from home? This clarifies what functional zones are non-negotiable. For example, if you're a passionate chef, we'd prioritize a larger, custom kitchen layout with specific appliance integration, even in a compact footprint. This ensures your tiny home works *for* you, not against you.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Embrace Multi-Functional Design. This is where tiny homes truly shine. Think beyond single-purpose items. A dining table that collapses into a desk, built-in seating with hidden storage, or a bed that lifts to reveal a massive closet. Our designs often incorporate clever built-ins that adapt to different needs throughout the day, ensuring your space can transform effortlessly.",
-      "text": "Step 2: Embrace Multi-Functional Design. This is where tiny homes truly shine. Think beyond single-purpose items. A dining table that collapses into a desk, built-in seating with hidden storage, or a bed that lifts to reveal a massive closet. Our designs often incorporate clever built-ins that adapt to different needs throughout the day, ensuring your space can transform effortlessly."
+      "text": "Step 2: Embrace Multi-Functional Design. This is where tiny homes truly shine. Think beyond single-purpose items. A dining table that collapses into a desk, built-in seating with hidden storage, or a bed that lifts to reveal a massive closet. Our designs often incorporate clever built-ins that adapt to different needs throughout the day, ensuring your space can transform effortlessly.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Optimize Vertical Space. Look up! Walls are prime real estate in a tiny home. Custom shelving, integrated storage ladders, and well-designed lofts (for sleeping or storage) are critical. We meticulously plan these elements to avoid clutter and create a sense of openness while still providing ample storage for all your belongings.",
-      "text": "Step 3: Optimize Vertical Space. Look up! Walls are prime real estate in a tiny home. Custom shelving, integrated storage ladders, and well-designed lofts (for sleeping or storage) are critical. We meticulously plan these elements to avoid clutter and create a sense of openness while still providing ample storage for all your belongings."
+      "text": "Step 3: Optimize Vertical Space. Look up! Walls are prime real estate in a tiny home. Custom shelving, integrated storage ladders, and well-designed lofts (for sleeping or storage) are critical. We meticulously plan these elements to avoid clutter and create a sense of openness while still providing ample storage for all your belongings.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Maximize Natural Light and Views. Light can dramatically alter the perception of space. Large windows, strategic skylights, and glass doors not only flood your home with natural light but also connect you with your surroundings, making the interior feel much larger. We consider your property's orientation and views to place windows perfectly, enhancing both aesthetics and livability.",
-      "text": "Step 4: Maximize Natural Light and Views. Light can dramatically alter the perception of space. Large windows, strategic skylights, and glass doors not only flood your home with natural light but also connect you with your surroundings, making the interior feel much larger. We consider your property's orientation and views to place windows perfectly, enhancing both aesthetics and livability."
+      "text": "Step 4: Maximize Natural Light and Views. Light can dramatically alter the perception of space. Large windows, strategic skylights, and glass doors not only flood your home with natural light but also connect you with your surroundings, making the interior feel much larger. We consider your property's orientation and views to place windows perfectly, enhancing both aesthetics and livability.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Select Materials and Finishes Thoughtfully. Lighter colors reflect light and make spaces feel more expansive. Durable, low-maintenance materials are also key for long-term comfort and ease of living in a compact space. Custom cabinetry and built-ins can be designed with specific materials that contribute to both functionality and your desired aesthetic.",
-      "text": "Step 5: Select Materials and Finishes Thoughtfully. Lighter colors reflect light and make spaces feel more expansive. Durable, low-maintenance materials are also key for long-term comfort and ease of living in a compact space. Custom cabinetry and built-ins can be designed with specific materials that contribute to both functionality and your desired aesthetic."
+      "text": "Step 5: Select Materials and Finishes Thoughtfully. Lighter colors reflect light and make spaces feel more expansive. Durable, low-maintenance materials are also key for long-term comfort and ease of living in a compact space. Custom cabinetry and built-ins can be designed with specific materials that contribute to both functionality and your desired aesthetic.",
+      "@type": "HowToStep",
+      "position": 5
     },
     {
-      "@type": "HowToStep",
-      "position": 6,
       "name": "Step 6: Plan for Future Flexibility. Your life changes, and your tiny home can too. Consider how elements might be adaptable. Perhaps a modular lounge area that can reconfigure for guests, or a plumbing rough-in for a future washing machine. Thinking ahead ensures your custom tiny home remains perfect for years to come. If you're ready to create a tiny home that's perfectly tailored to your life, Zen Tiny Homes can guide you through every custom design decision.",
-      "text": "Step 6: Plan for Future Flexibility. Your life changes, and your tiny home can too. Consider how elements might be adaptable. Perhaps a modular lounge area that can reconfigure for guests, or a plumbing rough-in for a future washing machine. Thinking ahead ensures your custom tiny home remains perfect for years to come. If you're ready to create a tiny home that's perfectly tailored to your life, Zen Tiny Homes can guide you through every custom design decision."
+      "text": "Step 6: Plan for Future Flexibility. Your life changes, and your tiny home can too. Consider how elements might be adaptable. Perhaps a modular lounge area that can reconfigure for guests, or a plumbing rough-in for a future washing machine. Thinking ahead ensures your custom tiny home remains perfect for years to come. If you're ready to create a tiny home that's perfectly tailored to your life, Zen Tiny Homes can guide you through every custom design decision.",
+      "@type": "HowToStep",
+      "position": 6
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -259,5 +47,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Lifestyle Essentials. Before sketching anything, list your absolute must-haves and daily routines. Do you love to cook? Need a dedicated hobby space? Work from home? This clarifies"
 }

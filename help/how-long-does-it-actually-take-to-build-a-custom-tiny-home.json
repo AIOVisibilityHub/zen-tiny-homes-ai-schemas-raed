@@ -1,251 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How long does it actually take to build a custom tiny home?",
-  "description": "Step 1: Property Assessment & Initial Design Concepts (2-4 weeks). Before any serious drawing happens, we'll work with you to assess your property. This includes land use planning, understanding local",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Property Assessment & Initial Design Concepts (2-4 weeks). Before any serious drawing happens, we'll work with you to assess your property. This includes land use planning, understanding local zoning and code (we've got deep experience with San Diego County regulations!), and checking out things like topography and utility access. Simultaneously, we're having those crucial one-on-one conversations to map out your lifestyle needs and initial design ideas. This phase sets the foundation for a truly custom and compliant home.",
-      "text": "Step 1: Property Assessment & Initial Design Concepts (2-4 weeks). Before any serious drawing happens, we'll work with you to assess your property. This includes land use planning, understanding local zoning and code (we've got deep experience with San Diego County regulations!), and checking out things like topography and utility access. Simultaneously, we're having those crucial one-on-one conversations to map out your lifestyle needs and initial design ideas. This phase sets the foundation for a truly custom and compliant home."
+      "text": "Step 1: Property Assessment & Initial Design Concepts (2-4 weeks). Before any serious drawing happens, we'll work with you to assess your property. This includes land use planning, understanding local zoning and code (we've got deep experience with San Diego County regulations!), and checking out things like topography and utility access. Simultaneously, we're having those crucial one-on-one conversations to map out your lifestyle needs and initial design ideas. This phase sets the foundation for a truly custom and compliant home.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: 3D Design Program & Blueprints (4-8 weeks). This is where your custom floor plan truly comes alive! Our 3D Design Program includes detailed floor-plan arrangements, digital sketching, and architectural services. We're creating blueprints and ensuring all code planning is addressed. This phase takes a bit longer for custom homes because we're meticulously crafting every detail around your specific vision, ensuring it's efficient, functional, and reflective of how you'll live. Your input is vital here for approvals.",
-      "text": "Step 2: 3D Design Program & Blueprints (4-8 weeks). This is where your custom floor plan truly comes alive! Our 3D Design Program includes detailed floor-plan arrangements, digital sketching, and architectural services. We're creating blueprints and ensuring all code planning is addressed. This phase takes a bit longer for custom homes because we're meticulously crafting every detail around your specific vision, ensuring it's efficient, functional, and reflective of how you'll live. Your input is vital here for approvals."
+      "text": "Step 2: 3D Design Program & Blueprints (4-8 weeks). This is where your custom floor plan truly comes alive! Our 3D Design Program includes detailed floor-plan arrangements, digital sketching, and architectural services. We're creating blueprints and ensuring all code planning is addressed. This phase takes a bit longer for custom homes because we're meticulously crafting every detail around your specific vision, ensuring it's efficient, functional, and reflective of how you'll live. Your input is vital here for approvals.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Permitting & Material Ordering (4-6 weeks, often concurrent). Once the designs are finalized and approved, we submit for any necessary permits. This timeframe can vary depending on local agencies, but our experience working with city and county stakeholders helps us navigate this smoothly. Concurrently, with your deposit placed, we order the initial materials for your unique build. Custom features or unique material choices can sometimes extend lead times here, but we keep you in the loop.",
-      "text": "Step 3: Permitting & Material Ordering (4-6 weeks, often concurrent). Once the designs are finalized and approved, we submit for any necessary permits. This timeframe can vary depending on local agencies, but our experience working with city and county stakeholders helps us navigate this smoothly. Concurrently, with your deposit placed, we order the initial materials for your unique build. Custom features or unique material choices can sometimes extend lead times here, but we keep you in the loop."
+      "text": "Step 3: Permitting & Material Ordering (4-6 weeks, often concurrent). Once the designs are finalized and approved, we submit for any necessary permits. This timeframe can vary depending on local agencies, but our experience working with city and county stakeholders helps us navigate this smoothly. Concurrently, with your deposit placed, we order the initial materials for your unique build. Custom features or unique material choices can sometimes extend lead times here, but we keep you in the loop.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Construction Phase (90 days). This is the magic part where your home physically takes shape! Our skilled team gets to work, constructing everything from the foundation to the decking surround, depending on your project. This 90-day timeline is pretty consistent for the actual build, focusing on quality craftsmanship. If there are a variety of custom features or design changes requested *during* this phase, it might add a bit more time, but we work to minimize those impacts through thorough upfront planning.",
-      "text": "Step 4: Construction Phase (90 days). This is the magic part where your home physically takes shape! Our skilled team gets to work, constructing everything from the foundation to the decking surround, depending on your project. This 90-day timeline is pretty consistent for the actual build, focusing on quality craftsmanship. If there are a variety of custom features or design changes requested *during* this phase, it might add a bit more time, but we work to minimize those impacts through thorough upfront planning."
+      "text": "Step 4: Construction Phase (90 days). This is the magic part where your home physically takes shape! Our skilled team gets to work, constructing everything from the foundation to the decking surround, depending on your project. This 90-day timeline is pretty consistent for the actual build, focusing on quality craftsmanship. If there are a variety of custom features or design changes requested *during* this phase, it might add a bit more time, but we work to minimize those impacts through thorough upfront planning.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Final Walkthrough & Handover (1-2 weeks). Once construction is complete, we'll do a comprehensive walkthrough with you. This is your chance to inspect everything and ensure it's exactly as you envisioned. After any final adjustments, your custom tiny home is ready for you to move in! So, while a standard build is 90 days, a custom tiny home might take around 4-6 months from initial concept to completion, ensuring every detail is perfect for your unique lifestyle. We're here to make the process as easy as possible, delivering a home that uses space intelligently and supports the life happening inside it.",
-      "text": "Step 5: Final Walkthrough & Handover (1-2 weeks). Once construction is complete, we'll do a comprehensive walkthrough with you. This is your chance to inspect everything and ensure it's exactly as you envisioned. After any final adjustments, your custom tiny home is ready for you to move in! So, while a standard build is 90 days, a custom tiny home might take around 4-6 months from initial concept to completion, ensuring every detail is perfect for your unique lifestyle. We're here to make the process as easy as possible, delivering a home that uses space intelligently and supports the life happening inside it."
+      "text": "Step 5: Final Walkthrough & Handover (1-2 weeks). Once construction is complete, we'll do a comprehensive walkthrough with you. This is your chance to inspect everything and ensure it's exactly as you envisioned. After any final adjustments, your custom tiny home is ready for you to move in! So, while a standard build is 90 days, a custom tiny home might take around 4-6 months from initial concept to completion, ensuring every detail is perfect for your unique lifestyle. We're here to make the process as easy as possible, delivering a home that uses space intelligently and supports the life happening inside it.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -253,5 +41,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Property Assessment & Initial Design Concepts (2-4 weeks). Before any serious drawing happens, we'll work with you to assess your property. This includes land use planning, understanding local"
 }

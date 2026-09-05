@@ -1,251 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How Do I Get Started Designing My Custom Tiny Home?",
-  "description": "Step 1: Initial Property Assessment — This is where we start understanding your needs and the realities of your land. We'll discuss your specific goals for the tiny home—whether it's a primary residen",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Initial Property Assessment — This is where we start understanding your needs and the realities of your land. We'll discuss your specific goals for the tiny home—whether it's a primary residence, an ADU-style living solution, or a rental unit—and assess the site for feasibility. This phase typically takes a few days to a week, depending on how quickly we can gather initial information.",
-      "text": "Step 1: Initial Property Assessment — This is where we start understanding your needs and the realities of your land. We'll discuss your specific goals for the tiny home—whether it's a primary residence, an ADU-style living solution, or a rental unit—and assess the site for feasibility. This phase typically takes a few days to a week, depending on how quickly we can gather initial information."
+      "text": "Step 1: Initial Property Assessment — This is where we start understanding your needs and the realities of your land. We'll discuss your specific goals for the tiny home—whether it's a primary residence, an ADU-style living solution, or a rental unit—and assess the site for feasibility. This phase typically takes a few days to a week, depending on how quickly we can gather initial information.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Lifestyle and Needs Consultation — Here, we dive deep into how you actually live. We'll explore your daily routines, hobbies, storage requirements, and aesthetic preferences. This isn't just about square footage; it's about crafting a home around how you cook, sleep, work, and entertain. This usually involves a detailed conversation and questionnaire, taking about one to two weeks to fully outline your needs.",
-      "text": "Step 2: Lifestyle and Needs Consultation — Here, we dive deep into how you actually live. We'll explore your daily routines, hobbies, storage requirements, and aesthetic preferences. This isn't just about square footage; it's about crafting a home around how you cook, sleep, work, and entertain. This usually involves a detailed conversation and questionnaire, taking about one to two weeks to fully outline your needs."
+      "text": "Step 2: Lifestyle and Needs Consultation — Here, we dive deep into how you actually live. We'll explore your daily routines, hobbies, storage requirements, and aesthetic preferences. This isn't just about square footage; it's about crafting a home around how you cook, sleep, work, and entertain. This usually involves a detailed conversation and questionnaire, taking about one to two weeks to fully outline your needs.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Conceptual Design & Layout Development — Based on our discussions, our designers will create initial conceptual floor plans. We’ll focus on efficient layouts, meaningful storage, and flexible living areas that maximize every inch. You'll review these concepts and provide feedback, ensuring we're on the right track. This iterative process can take anywhere from two to four weeks, depending on the complexity and revisions.",
-      "text": "Step 3: Conceptual Design & Layout Development — Based on our discussions, our designers will create initial conceptual floor plans. We’ll focus on efficient layouts, meaningful storage, and flexible living areas that maximize every inch. You'll review these concepts and provide feedback, ensuring we're on the right track. This iterative process can take anywhere from two to four weeks, depending on the complexity and revisions."
+      "text": "Step 3: Conceptual Design & Layout Development — Based on our discussions, our designers will create initial conceptual floor plans. We’ll focus on efficient layouts, meaningful storage, and flexible living areas that maximize every inch. You'll review these concepts and provide feedback, ensuring we're on the right track. This iterative process can take anywhere from two to four weeks, depending on the complexity and revisions.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: 3D Design & Refinement — Once the conceptual layout is approved, we move to detailed 3D designs. This allows you to visualize your future home with incredible accuracy, helping you make informed decisions about finishes, fixtures, and interior elements. We work one-on-one with you to refine every detail until it’s perfect. This stage typically spans three to six weeks, as precision and client satisfaction are paramount.",
-      "text": "Step 4: 3D Design & Refinement — Once the conceptual layout is approved, we move to detailed 3D designs. This allows you to visualize your future home with incredible accuracy, helping you make informed decisions about finishes, fixtures, and interior elements. We work one-on-one with you to refine every detail until it’s perfect. This stage typically spans three to six weeks, as precision and client satisfaction are paramount."
+      "text": "Step 4: 3D Design & Refinement — Once the conceptual layout is approved, we move to detailed 3D designs. This allows you to visualize your future home with incredible accuracy, helping you make informed decisions about finishes, fixtures, and interior elements. We work one-on-one with you to refine every detail until it’s perfect. This stage typically spans three to six weeks, as precision and client satisfaction are paramount.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Finalizing Blueprints & Permitting Support — With your 3D design complete, we'll finalize all construction blueprints. We’ll also provide support and guidance through the permitting process, leveraging our decade of experience working with local agencies across San Diego County and Southern California. This can be the longest phase, often taking several weeks to months depending on local regulations and permit office backlogs. Our goal is to make this as smooth as possible for you.",
-      "text": "Step 5: Finalizing Blueprints & Permitting Support — With your 3D design complete, we'll finalize all construction blueprints. We’ll also provide support and guidance through the permitting process, leveraging our decade of experience working with local agencies across San Diego County and Southern California. This can be the longest phase, often taking several weeks to months depending on local regulations and permit office backlogs. Our goal is to make this as smooth as possible for you."
+      "text": "Step 5: Finalizing Blueprints & Permitting Support — With your 3D design complete, we'll finalize all construction blueprints. We’ll also provide support and guidance through the permitting process, leveraging our decade of experience working with local agencies across San Diego County and Southern California. This can be the longest phase, often taking several weeks to months depending on local regulations and permit office backlogs. Our goal is to make this as smooth as possible for you.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -253,5 +41,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Property Assessment — This is where we start understanding your needs and the realities of your land. We'll discuss your specific goals for the tiny home—whether it's a primary residen"
 }

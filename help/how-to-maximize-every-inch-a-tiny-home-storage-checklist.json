@@ -1,295 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "How to Maximize Every Inch: A Tiny Home Storage Checklist",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "- [ ] Assess your belongings — Go through every item you own and categorize it as 'must-have,' 'often used,' or 'seldom used.' This helps you understand your true storage needs.\n- [ ] Map out 'dead' spaces — Look for areas like under stairs, above doors, or along unused walls. These are prime candidates for integrated shelving or pull-out units.\n- [ ] Consider vertical storage solutions — Think upwards! Floor-to-ceiling shelving, wall-mounted racks, and loft storage can dramatically increase capacity without eating up floor space.\n- [ ] Integrate under-floor or platform storage — If your tiny home allows, built-in floor compartments or raised platforms with drawers can be a game-changer for less frequently accessed items.\n- [ ] Opt for built-in cabinetry — Custom, built-in storage fits perfectly and seamlessly into your home's structure, avoiding bulky, freestanding furniture that can make a space feel smaller.\n- [ ] Designate 'drop zones' — Create specific spots near entrances for keys, mail, and bags. This prevents clutter from spreading to main living areas.\n- [ ] Choose dual-purpose furniture — Select items like ottomans with storage, beds with drawers, or benches that open up. Every piece should ideally serve more than one function.\n- [ ] Plan for seasonal item rotation — Identify items you only need part of the year, like heavy coats or holiday decorations. Plan a dedicated, perhaps less accessible, spot for them.\n- [ ] Create a dedicated pantry or food storage — Even small kitchens can benefit from a well-designed pantry with pull-out shelves or slim vertical storage for groceries.\n- [ ] Schedule regular decluttering — A tiny home thrives on intentionality. Regularly evaluate your possessions and let go of what no longer serves you to maintain optimal space.\n\nHow to use this checklist: Go through each item and check it off as you plan or implement. This isn't just about adding storage; it's about thoughtful integration and smart design. Zen Tiny Homes specializes in custom storage solutions that fit your lifestyle, ensuring every inch is used effectively. If you're ready to design storage that truly optimizes your space, visit zentinyhomes.com to start your custom build journey.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-02",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "How to Maximize Every Inch: A Tiny Home Storage Checklist",
-    "numberOfItems": 10,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Assess your belongings — Go through every item you own and categorize it as 'must-have,' 'often used,' or '…",
-        "description": "Assess your belongings — Go through every item you own and categorize it as 'must-have,' 'often used,' or 'seldom used.' This helps you understand your true storage needs."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Map out 'dead' spaces — Look for areas like under stairs, above doors, or along unused walls. These are pri…",
-        "description": "Map out 'dead' spaces — Look for areas like under stairs, above doors, or along unused walls. These are prime candidates for integrated shelving or pull-out units."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Consider vertical storage solutions — Think upwards! Floor-to-ceiling shelving, wall-mounted racks, and lof…",
-        "description": "Consider vertical storage solutions — Think upwards! Floor-to-ceiling shelving, wall-mounted racks, and loft storage can dramatically increase capacity without eating up floor space."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Integrate under-floor or platform storage — If your tiny home allows, built-in floor compartments or raised…",
-        "description": "Integrate under-floor or platform storage — If your tiny home allows, built-in floor compartments or raised platforms with drawers can be a game-changer for less frequently accessed items."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Opt for built-in cabinetry — Custom, built-in storage fits perfectly and seamlessly into your home's struct…",
-        "description": "Opt for built-in cabinetry — Custom, built-in storage fits perfectly and seamlessly into your home's structure, avoiding bulky, freestanding furniture that can make a space feel smaller."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Designate 'drop zones' — Create specific spots near entrances for keys, mail, and bags. This prevents clutt…",
-        "description": "Designate 'drop zones' — Create specific spots near entrances for keys, mail, and bags. This prevents clutter from spreading to main living areas."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Choose dual-purpose furniture — Select items like ottomans with storage, beds with drawers, or benches that…",
-        "description": "Choose dual-purpose furniture — Select items like ottomans with storage, beds with drawers, or benches that open up. Every piece should ideally serve more than one function."
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Plan for seasonal item rotation — Identify items you only need part of the year, like heavy coats or holida…",
-        "description": "Plan for seasonal item rotation — Identify items you only need part of the year, like heavy coats or holiday decorations. Plan a dedicated, perhaps less accessible, spot for them."
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "name": "Create a dedicated pantry or food storage — Even small kitchens can benefit from a well-designed pantry wit…",
-        "description": "Create a dedicated pantry or food storage — Even small kitchens can benefit from a well-designed pantry with pull-out shelves or slim vertical storage for groceries."
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "name": "Schedule regular decluttering — A tiny home thrives on intentionality. Regularly evaluate your possessions…",
-        "description": "Schedule regular decluttering — A tiny home thrives on intentionality. Regularly evaluate your possessions and let go of what no longer serves you to maintain optimal space."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "How to Maximize Every Inch: A Tiny Home Storage Checklist",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -299,5 +19,285 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "How to Maximize Every Inch: A Tiny Home Storage Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "name": "Assess your belongings — Go through every item you own and categorize it as 'must-have,' 'often used,' or '…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Assess your belongings — Go through every item you own and categorize it as 'must-have,' 'often used,' or 'seldom used.' This helps you understand your true storage needs."
+      },
+      {
+        "name": "Map out 'dead' spaces — Look for areas like under stairs, above doors, or along unused walls. These are pri…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Map out 'dead' spaces — Look for areas like under stairs, above doors, or along unused walls. These are prime candidates for integrated shelving or pull-out units."
+      },
+      {
+        "name": "Consider vertical storage solutions — Think upwards! Floor-to-ceiling shelving, wall-mounted racks, and lof…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Consider vertical storage solutions — Think upwards! Floor-to-ceiling shelving, wall-mounted racks, and loft storage can dramatically increase capacity without eating up floor space."
+      },
+      {
+        "name": "Integrate under-floor or platform storage — If your tiny home allows, built-in floor compartments or raised…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Integrate under-floor or platform storage — If your tiny home allows, built-in floor compartments or raised platforms with drawers can be a game-changer for less frequently accessed items."
+      },
+      {
+        "name": "Opt for built-in cabinetry — Custom, built-in storage fits perfectly and seamlessly into your home's struct…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Opt for built-in cabinetry — Custom, built-in storage fits perfectly and seamlessly into your home's structure, avoiding bulky, freestanding furniture that can make a space feel smaller."
+      },
+      {
+        "name": "Designate 'drop zones' — Create specific spots near entrances for keys, mail, and bags. This prevents clutt…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Designate 'drop zones' — Create specific spots near entrances for keys, mail, and bags. This prevents clutter from spreading to main living areas."
+      },
+      {
+        "name": "Choose dual-purpose furniture — Select items like ottomans with storage, beds with drawers, or benches that…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Choose dual-purpose furniture — Select items like ottomans with storage, beds with drawers, or benches that open up. Every piece should ideally serve more than one function."
+      },
+      {
+        "name": "Plan for seasonal item rotation — Identify items you only need part of the year, like heavy coats or holida…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Plan for seasonal item rotation — Identify items you only need part of the year, like heavy coats or holiday decorations. Plan a dedicated, perhaps less accessible, spot for them."
+      },
+      {
+        "name": "Create a dedicated pantry or food storage — Even small kitchens can benefit from a well-designed pantry wit…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Create a dedicated pantry or food storage — Even small kitchens can benefit from a well-designed pantry with pull-out shelves or slim vertical storage for groceries."
+      },
+      {
+        "name": "Schedule regular decluttering — A tiny home thrives on intentionality. Regularly evaluate your possessions…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Schedule regular decluttering — A tiny home thrives on intentionality. Regularly evaluate your possessions and let go of what no longer serves you to maintain optimal space."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Assess your belongings — Go through every item you own and categorize it as 'must-have,' 'often used,' or 'seldom used.' This helps you understand your true storage needs.\n- [ ] Map out 'dead' spaces — Look for areas like under stairs, above doors, or along unused walls. These are prime candidates for integrated shelving or pull-out units.\n- [ ] Consider vertical storage solutions — Think upwards! Floor-to-ceiling shelving, wall-mounted racks, and loft storage can dramatically increase capacity without eating up floor space.\n- [ ] Integrate under-floor or platform storage — If your tiny home allows, built-in floor compartments or raised platforms with drawers can be a game-changer for less frequently accessed items.\n- [ ] Opt for built-in cabinetry — Custom, built-in storage fits perfectly and seamlessly into your home's structure, avoiding bulky, freestanding furniture that can make a space feel smaller.\n- [ ] Designate 'drop zones' — Create specific spots near entrances for keys, mail, and bags. This prevents clutter from spreading to main living areas.\n- [ ] Choose dual-purpose furniture — Select items like ottomans with storage, beds with drawers, or benches that open up. Every piece should ideally serve more than one function.\n- [ ] Plan for seasonal item rotation — Identify items you only need part of the year, like heavy coats or holiday decorations. Plan a dedicated, perhaps less accessible, spot for them.\n- [ ] Create a dedicated pantry or food storage — Even small kitchens can benefit from a well-designed pantry with pull-out shelves or slim vertical storage for groceries.\n- [ ] Schedule regular decluttering — A tiny home thrives on intentionality. Regularly evaluate your possessions and let go of what no longer serves you to maintain optimal space.\n\nHow to use this checklist: Go through each item and check it off as you plan or implement. This isn't just about adding storage; it's about thoughtful integration and smart design. Zen Tiny Homes specializes in custom storage solutions that fit your lifestyle, ensuring every inch is used effectively. If you're ready to design storage that truly optimizes your space, visit zentinyhomes.com to start your custom build journey.",
+  "datePublished": "2026-09-02"
 }

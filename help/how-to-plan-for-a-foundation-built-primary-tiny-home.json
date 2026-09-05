@@ -1,251 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Plan for a Foundation-Built Primary Tiny Home",
-  "description": "Step 1: Property Assessment – This is where we start. We’ll look at your land in one of the many San Diego areas we serve, like Carlsbad, Encinitas, or Fallbrook, to understand its unique characterist",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Property Assessment – This is where we start. We’ll look at your land in one of the many San Diego areas we serve, like Carlsbad, Encinitas, or Fallbrook, to understand its unique characteristics. We're checking for access, topography, existing utilities, and, importantly, specific zoning regulations and potential permit requirements from your local city or county. This early step is crucial to knowing what’s possible.",
-      "text": "Step 1: Property Assessment – This is where we start. We’ll look at your land in one of the many San Diego areas we serve, like Carlsbad, Encinitas, or Fallbrook, to understand its unique characteristics. We're checking for access, topography, existing utilities, and, importantly, specific zoning regulations and potential permit requirements from your local city or county. This early step is crucial to knowing what’s possible."
+      "text": "Step 1: Property Assessment – This is where we start. We’ll look at your land in one of the many San Diego areas we serve, like Carlsbad, Encinitas, or Fallbrook, to understand its unique characteristics. We're checking for access, topography, existing utilities, and, importantly, specific zoning regulations and potential permit requirements from your local city or county. This early step is crucial to knowing what’s possible.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Custom Design – Once we know the lay of the land, we dive into designing your dream home. This isn't just about picking finishes; it's about how you live. We'll plan efficient layouts, meaningful storage, and flexible living areas that make your compact footprint feel spacious and functional. Because it's on a foundation, we can truly tailor every aspect to your needs, from full-size appliances to a specific architectural style.",
-      "text": "Step 2: Custom Design – Once we know the lay of the land, we dive into designing your dream home. This isn't just about picking finishes; it's about how you live. We'll plan efficient layouts, meaningful storage, and flexible living areas that make your compact footprint feel spacious and functional. Because it's on a foundation, we can truly tailor every aspect to your needs, from full-size appliances to a specific architectural style."
+      "text": "Step 2: Custom Design – Once we know the lay of the land, we dive into designing your dream home. This isn't just about picking finishes; it's about how you live. We'll plan efficient layouts, meaningful storage, and flexible living areas that make your compact footprint feel spacious and functional. Because it's on a foundation, we can truly tailor every aspect to your needs, from full-size appliances to a specific architectural style.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Permitting and Approvals – With a foundation-built home, navigating permits is a must. This often involves submitting detailed plans to your local planning department and ensuring everything meets building codes. Our experience with local agencies helps streamline this often-complex process, turning potential roadblocks into clear paths forward.",
-      "text": "Step 3: Permitting and Approvals – With a foundation-built home, navigating permits is a must. This often involves submitting detailed plans to your local planning department and ensuring everything meets building codes. Our experience with local agencies helps streamline this often-complex process, turning potential roadblocks into clear paths forward."
+      "text": "Step 3: Permitting and Approvals – With a foundation-built home, navigating permits is a must. This often involves submitting detailed plans to your local planning department and ensuring everything meets building codes. Our experience with local agencies helps streamline this often-complex process, turning potential roadblocks into clear paths forward.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Site Preparation and Foundation Work – This step gets physical! We prepare your site for construction, which includes grading, trenching for utilities, and pouring the concrete foundation. This solid base is what makes your tiny home a permanent, valuable asset.",
-      "text": "Step 4: Site Preparation and Foundation Work – This step gets physical! We prepare your site for construction, which includes grading, trenching for utilities, and pouring the concrete foundation. This solid base is what makes your tiny home a permanent, valuable asset."
+      "text": "Step 4: Site Preparation and Foundation Work – This step gets physical! We prepare your site for construction, which includes grading, trenching for utilities, and pouring the concrete foundation. This solid base is what makes your tiny home a permanent, valuable asset.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Construction – This is where your custom tiny home comes to life. Our skilled team meticulously builds your home, focusing on quality craftsmanship and integrating all those clever design features we planned together. We ensure everything is up to spec, from framing to finishes, creating a home that’s beautiful, durable, and highly livable.",
-      "text": "Ready to take the leap into a custom, foundation-built primary tiny home? Zen Tiny Homes is with you every step of the way, making the process simple and the outcome perfectly personal."
+      "text": "Ready to take the leap into a custom, foundation-built primary tiny home? Zen Tiny Homes is with you every step of the way, making the process simple and the outcome perfectly personal.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -253,5 +41,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Property Assessment – This is where we start. We’ll look at your land in one of the many San Diego areas we serve, like Carlsbad, Encinitas, or Fallbrook, to understand its unique characterist"
 }

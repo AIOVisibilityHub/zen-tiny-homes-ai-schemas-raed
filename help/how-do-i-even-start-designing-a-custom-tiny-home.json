@@ -1,251 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How do I even start designing a custom tiny home?",
-  "description": "Step 1: Define Your Lifestyle Needs — Why are you going tiny? Think about your daily routines. Do you work from home? Love to cook? Need space for hobbies? How do you entertain? This helps shape every",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Define Your Lifestyle Needs — Why are you going tiny? Think about your daily routines. Do you work from home? Love to cook? Need space for hobbies? How do you entertain? This helps shape everything from kitchen size to storage solutions. Zen Tiny Homes builds around *how you live*, not just what fits.",
-      "text": "Step 1: Define Your Lifestyle Needs — Why are you going tiny? Think about your daily routines. Do you work from home? Love to cook? Need space for hobbies? How do you entertain? This helps shape everything from kitchen size to storage solutions. Zen Tiny Homes builds around *how you live*, not just what fits."
+      "text": "Step 1: Define Your Lifestyle Needs — Why are you going tiny? Think about your daily routines. Do you work from home? Love to cook? Need space for hobbies? How do you entertain? This helps shape everything from kitchen size to storage solutions. Zen Tiny Homes builds around *how you live*, not just what fits.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Property Assessment — Before any sketches, you need to know where your tiny home will live. We're talking about land use planning, zoning, topography, and where your power and water will come from. This critical step ensures your design is practical and compliant. Zen Tiny Homes has extensive experience with local agencies across Southern California, making sure your tiny home is legal-minded.",
-      "text": "Step 2: Property Assessment — Before any sketches, you need to know where your tiny home will live. We're talking about land use planning, zoning, topography, and where your power and water will come from. This critical step ensures your design is practical and compliant. Zen Tiny Homes has extensive experience with local agencies across Southern California, making sure your tiny home is legal-minded."
+      "text": "Step 2: Property Assessment — Before any sketches, you need to know where your tiny home will live. We're talking about land use planning, zoning, topography, and where your power and water will come from. This critical step ensures your design is practical and compliant. Zen Tiny Homes has extensive experience with local agencies across Southern California, making sure your tiny home is legal-minded.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Sketch Out Your Desires — This is where the fun begins! Start thinking about your ideal layout, even if it's rough. Consider the flow between spaces, window placement for natural light, and essential features. Don't worry about perfection; just get your ideas down. Our 3D Design Program helps translate these ideas into concrete floor plans and blueprints.",
-      "text": "Step 3: Sketch Out Your Desires — This is where the fun begins! Start thinking about your ideal layout, even if it's rough. Consider the flow between spaces, window placement for natural light, and essential features. Don't worry about perfection; just get your ideas down. Our 3D Design Program helps translate these ideas into concrete floor plans and blueprints."
+      "text": "Step 3: Sketch Out Your Desires — This is where the fun begins! Start thinking about your ideal layout, even if it's rough. Consider the flow between spaces, window placement for natural light, and essential features. Don't worry about perfection; just get your ideas down. Our 3D Design Program helps translate these ideas into concrete floor plans and blueprints.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Consult with Tiny Home Specialists — Once you have some ideas and property info, connect with experts. They can bring your vision into reality, considering structural integrity, building codes, and material choices. Zen Tiny Homes works one-on-one with clients, offering digital sketching, architectural services, and code planning to ensure your unique floor plan is both beautiful and functional.",
-      "text": "Step 4: Consult with Tiny Home Specialists — Once you have some ideas and property info, connect with experts. They can bring your vision into reality, considering structural integrity, building codes, and material choices. Zen Tiny Homes works one-on-one with clients, offering digital sketching, architectural services, and code planning to ensure your unique floor plan is both beautiful and functional."
+      "text": "Step 4: Consult with Tiny Home Specialists — Once you have some ideas and property info, connect with experts. They can bring your vision into reality, considering structural integrity, building codes, and material choices. Zen Tiny Homes works one-on-one with clients, offering digital sketching, architectural services, and code planning to ensure your unique floor plan is both beautiful and functional.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Refine and Finalize — Work with your design team to refine your floor plan, review 3D renderings, and make any adjustments. This iterative process ensures every square foot is optimized for your comfort and needs. This careful planning avoids costly changes later and guarantees your custom tiny home is everything you dreamed of.",
-      "text": "Step 5: Refine and Finalize — Work with your design team to refine your floor plan, review 3D renderings, and make any adjustments. This iterative process ensures every square foot is optimized for your comfort and needs. This careful planning avoids costly changes later and guarantees your custom tiny home is everything you dreamed of."
+      "text": "Step 5: Refine and Finalize — Work with your design team to refine your floor plan, review 3D renderings, and make any adjustments. This iterative process ensures every square foot is optimized for your comfort and needs. This careful planning avoids costly changes later and guarantees your custom tiny home is everything you dreamed of.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -253,5 +41,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Lifestyle Needs — Why are you going tiny? Think about your daily routines. Do you work from home? Love to cook? Need space for hobbies? How do you entertain? This helps shape every"
 }

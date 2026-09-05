@@ -1,233 +1,219 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Is a Tiny Home Right for My Multifaceted Life?",
-    "text": "Is a Tiny Home Right for My Multifaceted Life?",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "It’s a great question many people ask when considering tiny living: can a compact home really accommodate all my needs, hobbies, and the dynamic flow of my daily life? The answer is a resounding yes, but it hinges entirely on 'multifunctional living-space design.' A tiny home isn't about giving things up; it's about living smarter and more intentionally. Zen Tiny Homes is built on this philosophy, ensuring your small home supports your big life.\n\nThe magic happens when spaces are designed with flexibility in mind. Think about a dining table that folds down from the wall, transforming into a work desk, or a sofa that doubles as a guest bed. It's about furniture and architectural elements that adapt to your immediate needs, allowing one area to fluidly serve multiple purposes throughout the day or week. Our design team excels at conceptualizing these adaptable environments, ensuring every square foot works hard for you.\n\nWe consider how you'll cook, sleep, work, entertain, and relax, crafting a layout that isn't just aesthetically pleasing but supremely practical. This could mean incorporating clever room dividers, utilizing sliding panels, or designing custom built-ins that conceal or reveal functions as needed. The goal is to create a dynamic environment where your home evolves with your activities, rather than restricting them.\n\nOur custom approach means we work one-on-one with you to understand your lifestyle, helping you move beyond the dream of a small home to a realistic plan for a highly personal, functional space. We’ve been designing high-functioning small spaces for over a decade, proving that square footage is not the same as livability. If you’re wondering how your multifaceted life can thrive in a tiny home, let’s explore the possibilities together. Visit zentinyhomes.com to learn more about our custom design process.",
-      "author": {
-        "@type": "Organization",
-        "name": "Zen Tiny Homes"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Vista"
+        "name": "Vista",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Oceanside"
+        "name": "Oceanside",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Carlsbad"
+        "name": "Carlsbad",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Marcos"
+        "name": "San Marcos",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Escondido"
+        "name": "Escondido",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Encinitas"
+        "name": "Encinitas",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Solana Beach"
+        "name": "Solana Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Del Mar"
+        "name": "Del Mar",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Poway"
+        "name": "Poway",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Santee"
+        "name": "Santee",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "El Cajon"
+        "name": "El Cajon",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "La Mesa"
+        "name": "La Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Lemon Grove"
+        "name": "Lemon Grove",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "National City"
+        "name": "National City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Chula Vista"
+        "name": "Chula Vista",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Imperial Beach"
+        "name": "Imperial Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Coronado"
+        "name": "Coronado",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Diego"
+        "name": "San Diego",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Fallbrook"
+        "name": "Fallbrook",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bonsall"
+        "name": "Bonsall",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Valley Center"
+        "name": "Valley Center",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Santa Fe"
+        "name": "Rancho Santa Fe",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Bernardo"
+        "name": "Rancho Bernardo",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Rancho Peñasquitos"
+        "name": "Rancho Peñasquitos",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "4S Ranch"
+        "name": "4S Ranch",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Ramona"
+        "name": "Ramona",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Julian"
+        "name": "Julian",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Lakeside"
+        "name": "Lakeside",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Alpine"
+        "name": "Alpine",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Jamul"
+        "name": "Jamul",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Spring Valley"
+        "name": "Spring Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "La Jolla"
+        "name": "La Jolla",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Pacific Beach"
+        "name": "Pacific Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mission Beach"
+        "name": "Mission Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Ocean Beach"
+        "name": "Ocean Beach",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Point Loma"
+        "name": "Point Loma",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "North Park"
+        "name": "North Park",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South Park"
+        "name": "South Park",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Hillcrest"
+        "name": "Hillcrest",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Clairemont"
+        "name": "Clairemont",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mira Mesa"
+        "name": "Mira Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sorrento Valley"
+        "name": "Sorrento Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Carmel Valley"
+        "name": "Carmel Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Torrey Pines"
+        "name": "Torrey Pines",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "University City"
+        "name": "University City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Tierrasanta"
+        "name": "Tierrasanta",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Kearny Mesa"
+        "name": "Kearny Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Scripps Ranch"
+        "name": "Scripps Ranch",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Spring Valley"
+        "name": "Spring Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Bonita"
+        "name": "Bonita",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Otay Mesa"
+        "name": "Otay Mesa",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Ysidro"
+        "name": "San Ysidro",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -235,5 +221,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Is a Tiny Home Right for My Multifaceted Life?",
+    "text": "Is a Tiny Home Right for My Multifaceted Life?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s a great question many people ask when considering tiny living: can a compact home really accommodate all my needs, hobbies, and the dynamic flow of my daily life? The answer is a resounding yes, but it hinges entirely on 'multifunctional living-space design.' A tiny home isn't about giving things up; it's about living smarter and more intentionally. Zen Tiny Homes is built on this philosophy, ensuring your small home supports your big life.\n\nThe magic happens when spaces are designed with flexibility in mind. Think about a dining table that folds down from the wall, transforming into a work desk, or a sofa that doubles as a guest bed. It's about furniture and architectural elements that adapt to your immediate needs, allowing one area to fluidly serve multiple purposes throughout the day or week. Our design team excels at conceptualizing these adaptable environments, ensuring every square foot works hard for you.\n\nWe consider how you'll cook, sleep, work, entertain, and relax, crafting a layout that isn't just aesthetically pleasing but supremely practical. This could mean incorporating clever room dividers, utilizing sliding panels, or designing custom built-ins that conceal or reveal functions as needed. The goal is to create a dynamic environment where your home evolves with your activities, rather than restricting them.\n\nOur custom approach means we work one-on-one with you to understand your lifestyle, helping you move beyond the dream of a small home to a realistic plan for a highly personal, functional space. We’ve been designing high-functioning small spaces for over a decade, proving that square footage is not the same as livability. If you’re wondering how your multifaceted life can thrive in a tiny home, let’s explore the possibilities together. Visit zentinyhomes.com to learn more about our custom design process.",
+      "@type": "Answer",
+      "author": {
+        "name": "Zen Tiny Homes",
+        "@type": "Organization"
+      }
+    }
   }
 }

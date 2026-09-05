@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Do I need a professional for my tiny home site assessment?",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Thinking about putting a tiny home on your property and wondering if you really need to bring in a pro for the site assessment? While it might seem like something you can tackle yourself, a professional site feasibility consultation is almost always a game-changer. Zen Tiny Homes brings over a decade of experience in tiny home design and construction, plus deep knowledge of local regulations across San Diego County and Southern California. This isn't just about spotting a good flat spot; it's about understanding the intricate dance between your land, local codes, and your vision.\n\nHere’s why calling in an expert like Zen Tiny Homes is super important: \n\n- [ ] **Decoding Zoning and Regulations** — Local rules for tiny homes, ADUs, and mobile units can be really complex and vary significantly. A professional knows how to interpret these codes, identify potential roadblocks, and ensure your project stays legal from day one. — This prevents costly surprises and project delays down the line.\n\n- [ ] **Utility Assessment** — Figuring out where and how to connect to water, sewer/septic, and electricity can be tricky. Experts can assess existing infrastructure, identify necessary upgrades, and plan for efficient utility hookups. — This ensures your tiny home has all the amenities you need without breaking the bank on utility extensions.\n\n- [ ] **Land Use and Topography Analysis** — Is your land perfectly flat, or are there slopes, drainage issues, or soil concerns? Professionals can evaluate the land’s characteristics, recommend the best placement for your home, and plan for proper grading and foundation. — This prevents structural issues and ensures the long-term stability and safety of your tiny home.\n\n- [ ] **Access and Logistics** — Can heavy equipment and construction materials easily access your site? Is there a clear path for a tiny home delivery if it's built off-site? A professional will consider all logistics to ensure a smooth build process. — This avoids unexpected costs and ensures your construction timeline stays on track.\n\n- [ ] **Long-Term Livability** — Beyond just the structure, a professional assessment considers how your tiny home will integrate with your existing property and lifestyle. They can advise on optimal orientation for natural light, privacy, and outdoor living spaces. — This ensures your tiny home is not just functional but also enhances your quality of life.\n\nHow to use this checklist: Go through each item and consider if you have a clear, confident answer for your property. If any item feels uncertain, it’s a strong signal that a professional site feasibility consultation would be incredibly valuable. Zen Tiny Homes is here to help you navigate these complexities and turn your tiny home dream into a practical reality.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "Do I need a professional for my tiny home site assessment?",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about putting a tiny home on your property and wondering if you really need to bring in a pro for the site assessment? While it might seem like something you can tackle yourself, a professional site feasibility consultation is almost always a game-changer. Zen Tiny Homes brings over a decade of experience in tiny home design and construction, plus deep knowledge of local regulations across San Diego County and Southern California. This isn't just about spotting a good flat spot; it's about understanding the intricate dance between your land, local codes, and your vision.\n\nHere’s why calling in an expert like Zen Tiny Homes is super important: \n\n- [ ] **Decoding Zoning and Regulations** — Local rules for tiny homes, ADUs, and mobile units can be really complex and vary significantly. A professional knows how to interpret these codes, identify potential roadblocks, and ensure your project stays legal from day one. — This prevents costly surprises and project delays down the line.\n\n- [ ] **Utility Assessment** — Figuring out where and how to connect to water, sewer/septic, and electricity can be tricky. Experts can assess existing infrastructure, identify necessary upgrades, and plan for efficient utility hookups. — This ensures your tiny home has all the amenities you need without breaking the bank on utility extensions.\n\n- [ ] **Land Use and Topography Analysis** — Is your land perfectly flat, or are there slopes, drainage issues, or soil concerns? Professionals can evaluate the land’s characteristics, recommend the best placement for your home, and plan for proper grading and foundation. — This prevents structural issues and ensures the long-term stability and safety of your tiny home.\n\n- [ ] **Access and Logistics** — Can heavy equipment and construction materials easily access your site? Is there a clear path for a tiny home delivery if it's built off-site? A professional will consider all logistics to ensure a smooth build process. — This avoids unexpected costs and ensures your construction timeline stays on track.\n\n- [ ] **Long-Term Livability** — Beyond just the structure, a professional assessment considers how your tiny home will integrate with your existing property and lifestyle. They can advise on optimal orientation for natural light, privacy, and outdoor living spaces. — This ensures your tiny home is not just functional but also enhances your quality of life.\n\nHow to use this checklist: Go through each item and consider if you have a clear, confident answer for your property. If any item feels uncertain, it’s a strong signal that a professional site feasibility consultation would be incredibly valuable. Zen Tiny Homes is here to help you navigate these complexities and turn your tiny home dream into a practical reality.",
+  "datePublished": "2026-09-03"
 }

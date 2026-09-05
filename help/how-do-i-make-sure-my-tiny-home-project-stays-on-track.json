@@ -1,257 +1,45 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How Do I Make Sure My Tiny Home Project Stays on Track?",
-  "description": "Step 1: Define Your Vision and Needs. Clearly outline how you'll use the tiny home—is it a primary residence, an ADU, or a rental? Consider your lifestyle, storage needs, and essential amenities. This",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Define Your Vision and Needs. Clearly outline how you'll use the tiny home—is it a primary residence, an ADU, or a rental? Consider your lifestyle, storage needs, and essential amenities. This helps narrow down design choices and ensures the home truly serves its purpose.",
-      "text": "Step 1: Define Your Vision and Needs. Clearly outline how you'll use the tiny home—is it a primary residence, an ADU, or a rental? Consider your lifestyle, storage needs, and essential amenities. This helps narrow down design choices and ensures the home truly serves its purpose."
+      "text": "Step 1: Define Your Vision and Needs. Clearly outline how you'll use the tiny home—is it a primary residence, an ADU, or a rental? Consider your lifestyle, storage needs, and essential amenities. This helps narrow down design choices and ensures the home truly serves its purpose.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Property Assessment. Before any design work begins, understand your property. This involves assessing its size, access, utilities, and crucially, any local zoning or building restrictions that might impact your tiny home's placement or type. This is a critical early step.",
-      "text": "Step 2: Property Assessment. Before any design work begins, understand your property. This involves assessing its size, access, utilities, and crucially, any local zoning or building restrictions that might impact your tiny home's placement or type. This is a critical early step."
+      "text": "Step 2: Property Assessment. Before any design work begins, understand your property. This involves assessing its size, access, utilities, and crucially, any local zoning or building restrictions that might impact your tiny home's placement or type. This is a critical early step.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Custom Design. Work with a designer to translate your vision and property assessment into a detailed 3D design. This stage is about optimizing every square foot, integrating smart storage, flexible living areas, and ensuring the layout supports your daily life. It's not just a small house; it's a smart space.",
-      "text": "Step 3: Custom Design. Work with a designer to translate your vision and property assessment into a detailed 3D design. This stage is about optimizing every square foot, integrating smart storage, flexible living areas, and ensuring the layout supports your daily life. It's not just a small house; it's a smart space."
+      "text": "Step 3: Custom Design. Work with a designer to translate your vision and property assessment into a detailed 3D design. This stage is about optimizing every square foot, integrating smart storage, flexible living areas, and ensuring the layout supports your daily life. It's not just a small house; it's a smart space.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Permitting and Approvals. Navigate the necessary local regulations and obtain permits. This can be complex, especially with tiny homes, and often involves understanding whether your home is considered an ADU, a mobile unit, or something else based on its foundation and local ordinances. Getting this right prevents future headaches.",
-      "text": "Step 4: Permitting and Approvals. Navigate the necessary local regulations and obtain permits. This can be complex, especially with tiny homes, and often involves understanding whether your home is considered an ADU, a mobile unit, or something else based on its foundation and local ordinances. Getting this right prevents future headaches."
+      "text": "Step 4: Permitting and Approvals. Navigate the necessary local regulations and obtain permits. This can be complex, especially with tiny homes, and often involves understanding whether your home is considered an ADU, a mobile unit, or something else based on its foundation and local ordinances. Getting this right prevents future headaches.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Construction and Build. Once designs are finalized and permits secured, the construction phase begins. This involves building the home to your custom specifications, ensuring quality craftsmanship and adherence to all plans. Regular communication with your builder is key here.",
-      "text": "Step 5: Construction and Build. Once designs are finalized and permits secured, the construction phase begins. This involves building the home to your custom specifications, ensuring quality craftsmanship and adherence to all plans. Regular communication with your builder is key here."
+      "text": "Step 5: Construction and Build. Once designs are finalized and permits secured, the construction phase begins. This involves building the home to your custom specifications, ensuring quality craftsmanship and adherence to all plans. Regular communication with your builder is key here.",
+      "@type": "HowToStep",
+      "position": 5
     },
     {
-      "@type": "HowToStep",
-      "position": 6,
       "name": "Step 6: Final Walkthrough and Placement. After construction, inspect your new tiny home to ensure everything meets your expectations. Then, coordinate its placement on your property, ensuring all utility connections are properly made and the home is ready for occupancy. This last step brings your dream to life.",
-      "text": "Step 6: Final Walkthrough and Placement. After construction, inspect your new tiny home to ensure everything meets your expectations. Then, coordinate its placement on your property, ensuring all utility connections are properly made and the home is ready for occupancy. This last step brings your dream to life."
+      "text": "Step 6: Final Walkthrough and Placement. After construction, inspect your new tiny home to ensure everything meets your expectations. Then, coordinate its placement on your property, ensuring all utility connections are properly made and the home is ready for occupancy. This last step brings your dream to life.",
+      "@type": "HowToStep",
+      "position": 6
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -259,5 +47,217 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Vision and Needs. Clearly outline how you'll use the tiny home—is it a primary residence, an ADU, or a rental? Consider your lifestyle, storage needs, and essential amenities. This"
 }

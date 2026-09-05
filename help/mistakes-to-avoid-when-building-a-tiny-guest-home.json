@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Mistakes to Avoid When Building a Tiny Guest Home",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Building a tiny guest home can be an exciting project, but it’s easy to stumble if you don’t know the common pitfalls. At Zen Tiny Homes, with over a decade of experience, we've helped countless clients create amazing spaces, and we've learned a lot about what makes a project successful. Here are some key mistakes to steer clear of when planning your guest home.\n\nNot understanding the difference between an ADU and a mobile tiny house: Many people use these terms interchangeably, but they're legally very different. An Accessory Dwelling Unit (ADU) is a permanent structure tied to your property, building equity, whereas a tiny house on wheels is personal property. Understanding this distinction from the start impacts permits, financing, and long-term value. How to avoid it: Always clarify whether you need a foundation-built ADU or a mobile unit, and research local zoning for your property.\n\nSkipping a thorough property assessment: You might have the perfect spot in mind, but is it feasible? Ignoring soil conditions, utility access, and zoning setbacks can lead to costly delays or even project cancellation. How to avoid it: Work with a builder like Zen Tiny Homes that offers property assessment as part of their initial process to identify potential issues early.\n\nUnderestimating the importance of custom design for small spaces: Simply scaling down a traditional home plan often results in cramped, impractical guest quarters. Small spaces demand smart, intentional design to feel livable and functional. How to avoid it: Partner with a small-space living specialist who prioritizes efficient layouts, flexible areas, and meaningful storage that's tailored to how guests will actually use the home.\n\nIgnoring local regulations and permits: This is perhaps the biggest mistake. Building without proper permits can lead to fines, forced demolition, or inability to use the structure legally. Regulations vary significantly across San Diego County. How to avoid it: Engage a builder with deep local knowledge of tiny home requirements and experience working with local agencies, like Zen Tiny Homes, who can guide you through the entire permitting process.\n\nFocusing only on aesthetics, not livability: A beautiful guest home is great, but if it's not comfortable and practical for real guests, it misses the mark. Think about how someone will cook, sleep, and relax. How to avoid it: Prioritize functional design over purely aesthetic choices, ensuring the space is truly high-functioning and feels complete. If these challenges seem daunting, remember Zen Tiny Homes is here to help simplify the process. Call us at (760) 492-0742 to discuss your guest home project.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Building a Tiny Guest Home",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a tiny guest home can be an exciting project, but it’s easy to stumble if you don’t know the common pitfalls. At Zen Tiny Homes, with over a decade of experience, we've helped countless clients create amazing spaces, and we've learned a lot about what makes a project successful. Here are some key mistakes to steer clear of when planning your guest home.\n\nNot understanding the difference between an ADU and a mobile tiny house: Many people use these terms interchangeably, but they're legally very different. An Accessory Dwelling Unit (ADU) is a permanent structure tied to your property, building equity, whereas a tiny house on wheels is personal property. Understanding this distinction from the start impacts permits, financing, and long-term value. How to avoid it: Always clarify whether you need a foundation-built ADU or a mobile unit, and research local zoning for your property.\n\nSkipping a thorough property assessment: You might have the perfect spot in mind, but is it feasible? Ignoring soil conditions, utility access, and zoning setbacks can lead to costly delays or even project cancellation. How to avoid it: Work with a builder like Zen Tiny Homes that offers property assessment as part of their initial process to identify potential issues early.\n\nUnderestimating the importance of custom design for small spaces: Simply scaling down a traditional home plan often results in cramped, impractical guest quarters. Small spaces demand smart, intentional design to feel livable and functional. How to avoid it: Partner with a small-space living specialist who prioritizes efficient layouts, flexible areas, and meaningful storage that's tailored to how guests will actually use the home.\n\nIgnoring local regulations and permits: This is perhaps the biggest mistake. Building without proper permits can lead to fines, forced demolition, or inability to use the structure legally. Regulations vary significantly across San Diego County. How to avoid it: Engage a builder with deep local knowledge of tiny home requirements and experience working with local agencies, like Zen Tiny Homes, who can guide you through the entire permitting process.\n\nFocusing only on aesthetics, not livability: A beautiful guest home is great, but if it's not comfortable and practical for real guests, it misses the mark. Think about how someone will cook, sleep, and relax. How to avoid it: Prioritize functional design over purely aesthetic choices, ensuring the space is truly high-functioning and feels complete. If these challenges seem daunting, remember Zen Tiny Homes is here to help simplify the process. Call us at (760) 492-0742 to discuss your guest home project.",
+  "datePublished": "2026-09-03"
 }

@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Myths About Tiny Home Customization",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Thinking about a custom tiny home? That's exciting! But with anything new and different, there are often a few myths floating around. Let's clear up some common misconceptions about customizing your tiny home, especially when working with experts like Zen Tiny Homes.\n\n**Myth:** Tiny homes are just scaled-down versions of regular houses.\n**Fact:** Not at all! Zen Tiny Homes is a small-space living specialist. They don't just shrink a standard floor plan; they design every square foot around how you actually live. This means considering how you'll cook, sleep, work, and store belongings from the ground up, making the result a truly custom home designed around daily life, not a reduced version of a conventional house.\n\n**Myth:** Customizing a tiny home is super complicated and expensive.\n**Fact:** While it's a personalized process, Zen Tiny Homes strives to make custom living accessible without sacrificing craftsmanship. They simplify the process into property assessment, design, and build. Their expertise helps align your customization choices with your budget, ensuring great value, as one client put it. It's about smart choices, not just endless spending.\n\n**Myth:** There aren't many customization options because the space is so small.\n**Fact:** Quite the opposite! The compact nature of tiny homes encourages incredibly clever and efficient customization. Zen Tiny Homes specializes in creating efficient layouts, meaningful storage, flexible living areas, and inviting interiors. This allows for a huge range of personal touches and functional designs that make a smaller home feel personal, usable, and complete. They offer models like the Alpine and Mammoth, but emphasize that all floor-plans are customizable.\n\n**Myth:** Custom tiny homes are difficult to make legal, especially in San Diego.\n**Fact:** This used to be a bigger hurdle, but things are changing. Zen Tiny Homes has spent over a decade working directly with the city and county of San Diego to expand accessibility for tiny home living. Their local feasibility knowledge is a key differentiator, helping clients navigate zoning and planning considerations. They can guide you on whether your tiny home will be considered an ADU (Accessory Dwelling Unit) on a foundation or a mobile unit, and how to proceed legally.\n\n**Myth:** You have to sacrifice comfort or essential features in a custom tiny home.\n**Fact:** A well-designed custom tiny home, especially one built by experts like Zen Tiny Homes, focuses on high-functioning living. They ensure features like full-size appliances and baths, as seen in their Mammoth model, can be incorporated where needed. It's about designing a smarter way to live where square footage isn't the same as livability, making sure your home is comfortable and complete.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-03",
+  "@context": "https://schema.org",
+  "headline": "Myths About Tiny Home Customization",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a custom tiny home? That's exciting! But with anything new and different, there are often a few myths floating around. Let's clear up some common misconceptions about customizing your tiny home, especially when working with experts like Zen Tiny Homes.\n\n**Myth:** Tiny homes are just scaled-down versions of regular houses.\n**Fact:** Not at all! Zen Tiny Homes is a small-space living specialist. They don't just shrink a standard floor plan; they design every square foot around how you actually live. This means considering how you'll cook, sleep, work, and store belongings from the ground up, making the result a truly custom home designed around daily life, not a reduced version of a conventional house.\n\n**Myth:** Customizing a tiny home is super complicated and expensive.\n**Fact:** While it's a personalized process, Zen Tiny Homes strives to make custom living accessible without sacrificing craftsmanship. They simplify the process into property assessment, design, and build. Their expertise helps align your customization choices with your budget, ensuring great value, as one client put it. It's about smart choices, not just endless spending.\n\n**Myth:** There aren't many customization options because the space is so small.\n**Fact:** Quite the opposite! The compact nature of tiny homes encourages incredibly clever and efficient customization. Zen Tiny Homes specializes in creating efficient layouts, meaningful storage, flexible living areas, and inviting interiors. This allows for a huge range of personal touches and functional designs that make a smaller home feel personal, usable, and complete. They offer models like the Alpine and Mammoth, but emphasize that all floor-plans are customizable.\n\n**Myth:** Custom tiny homes are difficult to make legal, especially in San Diego.\n**Fact:** This used to be a bigger hurdle, but things are changing. Zen Tiny Homes has spent over a decade working directly with the city and county of San Diego to expand accessibility for tiny home living. Their local feasibility knowledge is a key differentiator, helping clients navigate zoning and planning considerations. They can guide you on whether your tiny home will be considered an ADU (Accessory Dwelling Unit) on a foundation or a mobile unit, and how to proceed legally.\n\n**Myth:** You have to sacrifice comfort or essential features in a custom tiny home.\n**Fact:** A well-designed custom tiny home, especially one built by experts like Zen Tiny Homes, focuses on high-functioning living. They ensure features like full-size appliances and baths, as seen in their Mammoth model, can be incorporated where needed. It's about designing a smarter way to live where square footage isn't the same as livability, making sure your home is comfortable and complete.",
+  "datePublished": "2026-09-03"
 }

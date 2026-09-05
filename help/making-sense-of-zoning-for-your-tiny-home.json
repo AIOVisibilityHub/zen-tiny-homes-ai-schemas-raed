@@ -1,228 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Making Sense of Zoning for Your Tiny Home",
   "author": {
-    "@type": "Organization",
-    "name": "Zen Tiny Homes"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Zen Tiny Homes",
-    "url": "www.zentinyhomes.com"
+    "@type": "Organization"
   },
-  "articleBody": "Understanding zoning and local regulations for tiny homes can feel like trying to solve a puzzle without all the pieces. But it's totally essential to making your tiny home dream a reality, especially here in San Diego! Don't let it intimidate you; at Zen Tiny Homes, we've become experts in navigating these complex waters, working directly with city and county officials for over a decade. We're here to help you unlock the potential of your property and ensure your tiny home is placed legally and successfully.\n\n**Myth 1: All tiny homes are treated the same by zoning laws.**\nFact: Absolutely not! The biggest misconception we see is people thinking a tiny house on wheels (THOW) has the same legal standing as an Accessory Dwelling Unit (ADU) built on a foundation. An ADU is a permanent real estate asset tied to your property, designed to build equity, with a legal land-use classification. A THOW, however, is often considered personal property, like an RV, and typically offers a flexible lifestyle but might depreciate. Zoning laws treat these very differently, impacting where and how you can place them.\n\n**Myth 2: If a property has space, I can put a tiny home there.**\nFact: While space is important, it's only one piece of the puzzle. Zoning laws dictate much more than just physical space. They determine allowed uses (residential, commercial, agricultural), density, setbacks from property lines, maximum height, and even how many structures can be on one parcel. Your property's specific zoning designation will be the primary factor in determining if a tiny home is permissible, and under what conditions.\n\n**Myth 3: San Diego has banned tiny homes.**\nFact: This is a common worry, but it's not true! Tiny homes are broadly legal in San Diego. The catch is that their legality is \"highly dependent on where your property is located and how the home is built.\" The City of San Diego often treats them as ADUs, while unincorporated San Diego County has its own ordinances. Our expertise lies in understanding these nuances and guiding you through the specific requirements for your location.\n\n**Myth 4: I can just park a tiny home on wheels anywhere on my land.**\nFact: Not quite. While THOWs offer flexibility, even they are subject to regulations. In many areas, they might be considered recreational vehicles and have limitations on long-term occupancy or where they can be parked. If you're looking for a permanent living solution, a foundation-built tiny home, often classified as an ADU, is usually the more straightforward and legal-minded path, offering greater permanence and value.\n\n**Myth 5: Getting permits for a tiny home is impossible.**\nFact: It can certainly feel daunting, but it's far from impossible! With the right guidance and understanding of the process, permits are completely achievable. Our site feasibility consultations specifically address code planning and permit navigation. We work directly with you to understand your property’s unique situation and develop a realistic plan for assessing it, designing the right build, and navigating those unique considerations that come with tiny-home placement. We simplify the process so you can move beyond the dream and toward a tangible, legal home.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Bonsall"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Center"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Bernardo"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Peñasquitos"
-    },
-    {
-      "@type": "City",
-      "name": "4S Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "Julian"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Ocean Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Point Loma"
-    },
-    {
-      "@type": "City",
-      "name": "North Park"
-    },
-    {
-      "@type": "City",
-      "name": "South Park"
-    },
-    {
-      "@type": "City",
-      "name": "Hillcrest"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Mira Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Sorrento Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Carmel Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Torrey Pines"
-    },
-    {
-      "@type": "City",
-      "name": "University City"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Kearny Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Scripps Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Otay Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "San Ysidro"
-    }
-  ],
-  "datePublished": "2026-09-02",
+  "@context": "https://schema.org",
+  "headline": "Making Sense of Zoning for Your Tiny Home",
+  "publisher": {
+    "url": "www.zentinyhomes.com",
+    "name": "Zen Tiny Homes",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -230,5 +18,217 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Peñasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Ocean Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Point Loma",
+      "@type": "City"
+    },
+    {
+      "name": "North Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Park",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Mira Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Sorrento Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Carmel Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Torrey Pines",
+      "@type": "City"
+    },
+    {
+      "name": "University City",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Kearny Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Scripps Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Otay Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "San Ysidro",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Understanding zoning and local regulations for tiny homes can feel like trying to solve a puzzle without all the pieces. But it's totally essential to making your tiny home dream a reality, especially here in San Diego! Don't let it intimidate you; at Zen Tiny Homes, we've become experts in navigating these complex waters, working directly with city and county officials for over a decade. We're here to help you unlock the potential of your property and ensure your tiny home is placed legally and successfully.\n\n**Myth 1: All tiny homes are treated the same by zoning laws.**\nFact: Absolutely not! The biggest misconception we see is people thinking a tiny house on wheels (THOW) has the same legal standing as an Accessory Dwelling Unit (ADU) built on a foundation. An ADU is a permanent real estate asset tied to your property, designed to build equity, with a legal land-use classification. A THOW, however, is often considered personal property, like an RV, and typically offers a flexible lifestyle but might depreciate. Zoning laws treat these very differently, impacting where and how you can place them.\n\n**Myth 2: If a property has space, I can put a tiny home there.**\nFact: While space is important, it's only one piece of the puzzle. Zoning laws dictate much more than just physical space. They determine allowed uses (residential, commercial, agricultural), density, setbacks from property lines, maximum height, and even how many structures can be on one parcel. Your property's specific zoning designation will be the primary factor in determining if a tiny home is permissible, and under what conditions.\n\n**Myth 3: San Diego has banned tiny homes.**\nFact: This is a common worry, but it's not true! Tiny homes are broadly legal in San Diego. The catch is that their legality is \"highly dependent on where your property is located and how the home is built.\" The City of San Diego often treats them as ADUs, while unincorporated San Diego County has its own ordinances. Our expertise lies in understanding these nuances and guiding you through the specific requirements for your location.\n\n**Myth 4: I can just park a tiny home on wheels anywhere on my land.**\nFact: Not quite. While THOWs offer flexibility, even they are subject to regulations. In many areas, they might be considered recreational vehicles and have limitations on long-term occupancy or where they can be parked. If you're looking for a permanent living solution, a foundation-built tiny home, often classified as an ADU, is usually the more straightforward and legal-minded path, offering greater permanence and value.\n\n**Myth 5: Getting permits for a tiny home is impossible.**\nFact: It can certainly feel daunting, but it's far from impossible! With the right guidance and understanding of the process, permits are completely achievable. Our site feasibility consultations specifically address code planning and permit navigation. We work directly with you to understand your property’s unique situation and develop a realistic plan for assessing it, designing the right build, and navigating those unique considerations that come with tiny-home placement. We simplify the process so you can move beyond the dream and toward a tangible, legal home.",
+  "datePublished": "2026-09-02"
 }
