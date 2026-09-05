@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design a multifunctional living space for a tiny home?",
+  "description": "Design time varies from a few weeks for basic layouts to several months for complex custom solutions, depending on the features and customization.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-a-multifunctional-living-space-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design a multifunctional living space for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for designing a multifunctional living space depends on the complexity of the desired features and the customization involved. A basic design incorporating standard adaptable furniture might be completed in a few weeks. However, projects requiring custom-built cabinetry, integrated transforming systems, or extensive spatial planning could take several months. This includes initial consultations, concept development, detailed architectural drawings, material selection, and revisions. Zen Tiny Homes works with clients to establish realistic timelines based on their specific needs and the scope of their project.",
+        "description": "Design time varies from a few weeks for basic layouts to several months for complex custom solutions, depending on the features and customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

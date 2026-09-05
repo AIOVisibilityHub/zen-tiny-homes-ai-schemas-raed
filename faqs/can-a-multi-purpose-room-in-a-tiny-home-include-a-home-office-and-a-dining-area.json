@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a multi-purpose room in a tiny home include a home office and a dining area?",
+  "description": "Yes, a multi-purpose room can combine a home office and dining area using convertible tables, fold-away chairs, and strategic placement of outlets and lighting.",
+  "url": "www.zentinyhomes.com/faq/can-a-multi-purpose-room-in-a-tiny-home-include-a-home-office-and-a-dining-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a multi-purpose room in a tiny home include a home office and a dining area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, absolutely. Designing a tiny home multi-purpose room to include both a home office and a dining area is a popular and achievable goal. This often involves using a convertible table that can serve as both a desk and a dining surface, or a drop-leaf table that expands when needed. Ergonomic, fold-away chairs are also key. Sufficient power outlets for office equipment are crucial, as is adaptable lighting. Strategic placement near a window can benefit both functions. The goal is to create distinct zones or easy transitions so neither function compromises the other.",
+        "description": "Yes, a multi-purpose room can combine a home office and dining area using convertible tables, fold-away chairs, and strategic placement of outlets and lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize the interior design of a rent-ready tiny home?",
+  "description": "Yes, you can customize the interior design of our rent-ready tiny homes, including flooring, cabinets, countertops, and fixtures.",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-the-interior-design-of-a-rent-ready-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize the interior design of a rent-ready tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customization options are available for our rent-ready tiny homes to match your preferences and potential renters' needs. While our base models offer efficient layouts and standard finishes, you can choose from various flooring materials, cabinet styles, countertop selections, and fixture upgrades. We work with you to select interior elements that enhance both aesthetic appeal and durability, ensuring the home is attractive and resilient for rental use.",
+        "description": "Yes, you can customize the interior design of our rent-ready tiny homes, including flooring, cabinets, countertops, and fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build and deliver a rent-ready tiny home?",
+  "description": "Building and delivering a rent-ready tiny home typically takes 8-12 weeks, plus time for site preparation and utility connections.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-and-deliver-a-rent-ready-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build and deliver a rent-ready tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction and delivery timeline for a rent-ready tiny home usually spans 8 to 12 weeks from the agreement date. This period includes design finalization, material sourcing, fabrication in our facility, and initial quality checks. Site preparation, foundation work, and utility connections at your property are separate but critical steps. We coordinate closely with you throughout the process to ensure timely progress and efficient delivery to your location in Vista, Oceanside, Carlsbad, San Marcos, or Escondido.",
+        "description": "Building and delivering a rent-ready tiny home typically takes 8-12 weeks, plus time for site preparation and utility connections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

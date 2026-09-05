@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits do I need to place a tiny home on my property?",
+  "description": "Permits vary based on whether your tiny home is on a foundation or wheels, and its intended use (e.g., ADU). You'll typically need building, electrical, and plu",
+  "url": "www.zentinyhomes.com/faq/what-permits-do-i-need-to-place-a-tiny-home-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits do I need to place a tiny home on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permits required for a tiny home depend on its classification and location. If it's a tiny home on a permanent foundation or being used as an ADU, you'll likely need building permits, electrical permits, plumbing permits, and potentially grading permits. If it's a tiny home on wheels intended as an ADU, you'll still need ADU permits from your local jurisdiction, ensuring utility hookups and safety standards are met. Always consult your city's planning and building departments early in the process to understand all necessary permits.",
+        "description": "Permits vary based on whether your tiny home is on a foundation or wheels, and its intended use (e.g., ADU). You'll typically need building, electrical, and plumbing permits, plus specific ADU permits from your city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

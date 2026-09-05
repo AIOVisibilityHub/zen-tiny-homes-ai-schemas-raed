@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I place a tiny home on my property in Carlsbad?",
+  "description": "Carlsbad generally allows tiny homes as ADUs, with specific regulations for lot size, setbacks, and utility connections. Check with the city's planning departme",
+  "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-my-property-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I place a tiny home on my property in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Carlsbad, tiny homes are generally permitted as Accessory Dwelling Units (ADUs), subject to specific city regulations. These regulations include requirements for lot size, setbacks from property lines, and connection to utilities. The tiny home typically needs to be built to California Building Standards Code. It's recommended to consult with the City of Carlsbad's planning department to confirm specific requirements for your property and project, as rules can vary.",
+        "description": "Carlsbad generally allows tiny homes as ADUs, with specific regulations for lot size, setbacks, and utility connections. Check with the city's planning department for exact requirements for your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

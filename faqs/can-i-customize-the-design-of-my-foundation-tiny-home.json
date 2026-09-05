@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize the design of my foundation tiny home?",
+  "description": "Yes, you can fully customize the design of your foundation tiny home, including layout, finishes, and fixtures, to match your personal preferences and needs.",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-foundation-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize the design of my foundation tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Customization is a key advantage of building a foundation tiny home with us. While we offer various floor plans and design inspirations, clients have significant flexibility to tailor the layout, finishes, fixtures, and overall aesthetic to their personal preferences and lifestyle needs. This includes choosing specific materials for flooring, countertops, cabinetry, and exterior siding, as well as optimizing the use of space. Our design team works closely with you to create a unique home that perfectly suits your vision and maximizes functionality within the compact footprint.",
+        "description": "Yes, you can fully customize the design of your foundation tiny home, including layout, finishes, and fixtures, to match your personal preferences and needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

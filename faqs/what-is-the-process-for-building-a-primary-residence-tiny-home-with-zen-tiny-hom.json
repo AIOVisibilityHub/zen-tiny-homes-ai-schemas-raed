@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building a primary-residence tiny home with Zen Tiny Homes?",
+  "description": "Our process involves consultation, design, permitting, construction, and final inspections. We manage each step to build your tiny home to code.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-building-a-primary-residence-tiny-home-with-zen-tiny-hom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building a primary-residence tiny home with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your needs and vision. We then proceed with design and planning, ensuring compliance with local zoning and building codes. Once designs are finalized, we handle all necessary permitting applications. Construction then commences, followed by final inspections. We guide you through each stage, providing updates and ensuring your tiny home is built to the highest standards. The timeline can range from several months to a year depending on project complexity and permitting processes.",
+        "description": "Our process involves consultation, design, permitting, construction, and final inspections. We manage each step to build your tiny home to code."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

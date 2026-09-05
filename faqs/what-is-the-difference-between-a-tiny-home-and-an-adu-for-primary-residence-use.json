@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a tiny home and an ADU for primary residence use?",
+  "description": "An ADU is a secondary dwelling unit on a property, while a tiny home is defined by its small size. A tiny home can be an ADU if it meets local ADU requirements;",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-and-an-adu-for-primary-residence-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a tiny home and an ADU for primary residence use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a tiny home can function as an Accessory Dwelling Unit (ADU), not all ADUs are tiny homes, and not all tiny homes are ADUs. An ADU is a secondary residential unit on a single-family lot, regulated by specific local ordinances for size, setback, and occupancy, often intended to provide additional housing. A tiny home refers more to the physical size and design philosophy of a dwelling, typically under 400 square feet. A tiny home placed on a property as a secondary residence, meeting all ADU requirements, would be considered an ADU. If it's the sole dwelling on a lot, it's just a tiny home, subject to primary residence zoning.",
+        "description": "An ADU is a secondary dwelling unit on a property, while a tiny home is defined by its small size. A tiny home can be an ADU if it meets local ADU requirements; otherwise, it's just a small primary residence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

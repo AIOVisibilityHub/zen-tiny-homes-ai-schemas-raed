@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common options for creating multigenerational living spaces?",
+  "description": "Options include accessory dwelling units (ADUs), converting existing spaces like garages, or renovating a home for separate suites.",
+  "url": "www.zentinyhomes.com/faq/what-are-common-options-for-creating-multigenerational-living-spaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common options for creating multigenerational living spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common solutions include adding an accessory dwelling unit (ADU) on the property, converting existing spaces like a garage or basement into a separate living area, or renovating a larger home to include distinct suites with their own entrances, kitchens, or bathrooms. The best option depends on property size, local zoning regulations, and the family's specific needs for privacy and shared spaces. Each approach aims to provide both communal areas and individual autonomy.",
+        "description": "Options include accessory dwelling units (ADUs), converting existing spaces like garages, or renovating a home for separate suites."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

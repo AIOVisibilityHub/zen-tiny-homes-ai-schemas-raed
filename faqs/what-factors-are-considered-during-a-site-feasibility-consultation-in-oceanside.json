@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors are considered during a site feasibility consultation in Oceanside?",
+  "description": "In Oceanside, we assess specific zoning for tiny homes, coastal permits, local building codes, and utility availability like Oceanside Water Department.",
+  "url": "www.zentinyhomes.com/faq/what-factors-are-considered-during-a-site-feasibility-consultation-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors are considered during a site feasibility consultation in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Oceanside, a site feasibility consultation specifically examines the city's unique zoning ordinances for tiny homes, coastal development permits if applicable, and adherence to local building and safety codes. We also assess utility availability from Oceanside Water Department and SDG&E, and consider environmental factors specific to the area. Understanding these local nuances is crucial for a compliant and successful project.",
+        "description": "In Oceanside, we assess specific zoning for tiny homes, coastal permits, local building codes, and utility availability like Oceanside Water Department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

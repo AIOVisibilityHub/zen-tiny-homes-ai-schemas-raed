@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a tiny home shell and what does it include?",
+  "description": "A tiny home shell is a weather-tight structure including the trailer, subfloor, exterior walls, roof, windows, and door, ready for interior customization.",
+  "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-shell-and-what-does-it-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a tiny home shell and what does it include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny home shell is the initial, weather-tight structure of a tiny house, providing the fundamental framework for your build. Typically, it includes the trailer base, subfloor, exterior walls, roof, windows, and an entry door. This allows you to secure the structure against the elements before you begin interior customization. It provides a solid foundation, saving you significant construction time and effort on the most critical structural components. Zen Tiny Homes builds shells to your specifications, ready for your personalized finishing touches.",
+        "description": "A tiny home shell is a weather-tight structure including the trailer, subfloor, exterior walls, roof, windows, and door, ready for interior customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

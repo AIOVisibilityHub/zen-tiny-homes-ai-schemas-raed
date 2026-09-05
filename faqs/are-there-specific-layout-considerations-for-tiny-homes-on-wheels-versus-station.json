@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific layout considerations for tiny homes on wheels versus stationary tiny homes?",
+  "description": "Tiny homes on wheels require layouts that account for weight, road dimensions, and secure fixtures for travel. Stationary tiny homes offer more flexibility in s",
+  "url": "www.zentinyhomes.com/faq/are-there-specific-layout-considerations-for-tiny-homes-on-wheels-versus-station",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific layout considerations for tiny homes on wheels versus stationary tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are distinct layout considerations for tiny homes on wheels (THOWs) versus stationary tiny homes. THOWs must adhere to weight distribution limits and road legality dimensions, impacting material choices and overall footprint. Furniture and fixtures need to be securely fastened for travel. Stationary tiny homes, while still compact, often have more flexibility in dimensions and can incorporate heavier materials or built-in elements without mobility concerns. Both prioritize efficient use of space, but THOWs demand an extra layer of structural and practical planning for transit.",
+        "description": "Tiny homes on wheels require layouts that account for weight, road dimensions, and secure fixtures for travel. Stationary tiny homes offer more flexibility in size and materials without mobility constraints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right interior designer for my tiny home project in San Diego County?",
+  "description": "Choose a tiny home interior designer in San Diego County by reviewing portfolios, assessing experience with small spaces, and ensuring their style and process a",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-interior-designer-for-my-tiny-home-project-in-san-dieg",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right interior designer for my tiny home project in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an interior designer for your tiny home in San Diego County, look for professionals with experience in small spaces or tiny homes. Review their portfolio for relevant projects and ensure their aesthetic aligns with yours. Consider their process, communication style, and fee structure. It's advisable to interview a few designers to find someone who understands the unique challenges and opportunities of tiny living and can work within local regulations.",
+        "description": "Choose a tiny home interior designer in San Diego County by reviewing portfolios, assessing experience with small spaces, and ensuring their style and process align with your needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

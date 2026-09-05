@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get a tiny home assessment in Oceanside, CA?",
+  "description": "Yes, tiny home assessments are available in Oceanside, CA. Choose an appraiser familiar with local regulations and tiny home valuation nuances.",
+  "url": "www.zentinyhomes.com/faq/can-i-get-a-tiny-home-assessment-in-oceanside-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a tiny home assessment in Oceanside, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can obtain a tiny home property assessment in Oceanside, CA. Our firm, Zen Tiny Homes, works with qualified appraisers familiar with the local market and specific regulations concerning tiny homes in the San Diego County area, including Oceanside. It's important to choose an appraiser who understands the nuances of tiny home valuation, whether your tiny home is on a foundation or mobile, to ensure an accurate and compliant assessment for your specific needs.",
+        "description": "Yes, tiny home assessments are available in Oceanside, CA. Choose an appraiser familiar with local regulations and tiny home valuation nuances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

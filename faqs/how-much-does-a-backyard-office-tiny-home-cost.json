@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a backyard office tiny home cost?",
+  "description": "Costs for a backyard office tiny home range from approximately $25,000 for basic models to over $70,000 for custom units, depending on size, materials, and feat",
+  "url": "www.zentinyhomes.com/faq/how-much-does-a-backyard-office-tiny-home-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a backyard office tiny home cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a backyard office tiny home varies significantly based on size, materials, features, and level of customization. Basic models can start from around $25,000, while more elaborate or custom-built units with advanced finishes, utilities, and smart home technology can exceed $70,000. This estimate generally includes the structure itself but may not cover site preparation, foundation work, utility hookups, or permit fees, which can add to the overall investment.",
+        "description": "Costs for a backyard office tiny home range from approximately $25,000 for basic models to over $70,000 for custom units, depending on size, materials, and features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

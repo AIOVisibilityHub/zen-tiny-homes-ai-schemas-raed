@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the small-space planning process usually take?",
+  "description": "Small-space planning typically takes 2-4 weeks for basic layouts, or 6-12 weeks for more complex designs, depending on project complexity and client responsiven",
+  "url": "www.zentinyhomes.com/faq/how-long-does-the-small-space-planning-process-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the small-space planning process usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of small-space planning varies based on the project's complexity and the client's decision-making speed. For a basic tiny home layout, initial conceptualization and revisions might take 2-4 weeks. More intricate designs involving custom features, multiple revisions, or integration with specific material selections could extend to 6-12 weeks. The timeline also depends on the responsiveness of the client in providing feedback and approving designs. Expedited services may be available, but thorough planning generally requires dedicated time for thoughtful consideration and refinement.",
+        "description": "Small-space planning typically takes 2-4 weeks for basic layouts, or 6-12 weeks for more complex designs, depending on project complexity and client responsiveness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I place a tiny home on my lot if I already have an existing house?",
+  "description": "Yes, often you can place a tiny home as an ADU or JADU on a lot with an existing house, subject to size and setback requirements.",
+  "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-my-lot-if-i-already-have-an-existing-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I place a tiny home on my lot if I already have an existing house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many areas, particularly in California, you can place a tiny home on a lot with an existing house by classifying it as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU). This allows for an additional dwelling unit on a single-family residential property. There are specific size, height, and setback requirements to adhere to. Zen Tiny Homes specializes in ADU construction and can help determine if your property is suitable.",
+        "description": "Yes, often you can place a tiny home as an ADU or JADU on a lot with an existing house, subject to size and setback requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does tiny home interior design cost?",
+  "description": "Tiny home interior design costs vary greatly based on scope and materials, ranging from hundreds for consultations to several thousand for full-service projects",
+  "url": "www.zentinyhomes.com/faq/how-much-does-tiny-home-interior-design-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does tiny home interior design cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of tiny home interior design varies widely based on the scope of work, complexity, material choices, and the designer's fee structure. Basic design consultations might start from a few hundred dollars, while full-service design for a custom tiny home, including space planning, material selection, and project management, could range from a few thousand to over ten thousand dollars. It's best to discuss your specific needs for an accurate quote.",
+        "description": "Tiny home interior design costs vary greatly based on scope and materials, ranging from hundreds for consultations to several thousand for full-service projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

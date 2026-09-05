@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of furniture is best for a multi-purpose room in a tiny home?",
+  "description": "Versatile, convertible, and space-saving furniture like sofa beds, murphy beds, expandable tables, and storage ottomans are ideal.",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-furniture-is-best-for-a-multi-purpose-room-in-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of furniture is best for a multi-purpose room in a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best furniture for a multi-purpose room in a tiny home is highly versatile, convertible, and space-saving. Look for sofa beds, murphy beds, expandable dining tables, nesting tables, and ottomans with hidden storage. Modular furniture pieces that can be reconfigured to suit different needs are also excellent. Lightweight, foldable chairs or stools that can be easily stored away are advisable. When selecting pieces, prioritize durability, ease of transformation, and how well they integrate with the overall design aesthetic of your tiny home.",
+        "description": "Versatile, convertible, and space-saving furniture like sofa beds, murphy beds, expandable tables, and storage ottomans are ideal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

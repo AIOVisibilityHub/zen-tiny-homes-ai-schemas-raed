@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I live in a tiny home full-time on undeveloped land in San Diego County?",
+  "description": "No, generally you cannot live full-time in a tiny home on undeveloped land in San Diego County. Properties need proper zoning, infrastructure, and utility conne",
+  "url": "www.zentinyhomes.com/faq/can-i-live-in-a-tiny-home-full-time-on-undeveloped-land-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I live in a tiny home full-time on undeveloped land in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, living full-time in a tiny home on undeveloped land in San Diego County is not permitted. Most zoning ordinances require properties to have established infrastructure, such as utility connections and access to public roads, for permanent residential use. Tiny homes, especially those on wheels, are often classified as recreational vehicles and are not intended for long-term primary residency on unzoned or undeveloped parcels. Property must be zoned for residential use and meet all building and safety codes to host a permanent dwelling.",
+        "description": "No, generally you cannot live full-time in a tiny home on undeveloped land in San Diego County. Properties need proper zoning, infrastructure, and utility connections for permanent residential use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

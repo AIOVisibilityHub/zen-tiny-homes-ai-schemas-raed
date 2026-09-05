@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site preparations are needed for a primary-residence tiny home?",
+  "description": "Site preparation involves land clearing, grading, utility installation (water, sewer, electricity), and laying a permanent foundation.",
+  "url": "www.zentinyhomes.com/faq/what-site-preparations-are-needed-for-a-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site preparations are needed for a primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site preparation for a primary-residence tiny home is similar to that for a traditional house. It includes clearing the land, grading for proper drainage, and installing utilities such as water, sewer/septic, and electrical connections. A sturdy foundation, typically a concrete slab or pier-and-beam, is also essential. The extent of site work depends on the existing conditions of your property and local regulations. Zen Tiny Homes can assess your site and advise on the necessary preparations.",
+        "description": "Site preparation involves land clearing, grading, utility installation (water, sewer, electricity), and laying a permanent foundation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

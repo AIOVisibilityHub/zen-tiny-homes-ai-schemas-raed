@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a multigenerational tiny home and a traditional accessory dwelling unit (ADU)?",
+  "description": "A multigenerational tiny home is specifically designed for multiple generations, prioritizing shared yet private spaces, whereas an ADU is a general secondary d",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-multigenerational-tiny-home-and-a-traditional-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a multigenerational tiny home and a traditional accessory dwelling unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a multigenerational tiny home can function as an ADU, the key difference lies in its specific design intent. A multigenerational tiny home is purpose-built to accommodate the distinct needs of multiple generations cohabiting, often featuring specialized layouts for shared yet private spaces. A traditional ADU is simply a secondary dwelling unit on a property, which may or may not be designed with multigenerational living in mind. Our multigenerational designs prioritize family dynamics and flexible living arrangements.",
+        "description": "A multigenerational tiny home is specifically designed for multiple generations, prioritizing shared yet private spaces, whereas an ADU is a general secondary dwelling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

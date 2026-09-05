@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the permitting process take for a tiny home in the San Diego area?",
+  "description": "Permitting for tiny homes in San Diego varies widely, from weeks to several months, depending on the city and project complexity. Factors like plan checks and d",
+  "url": "www.zentinyhomes.com/faq/how-long-does-the-permitting-process-take-for-a-tiny-home-in-the-san-diego-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the permitting process take for a tiny home in the San Diego area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permitting process for a tiny home in the San Diego area can vary significantly depending on the specific city, the complexity of your project (e.g., whether it's an ADU, new construction, or a simple placement), and the completeness of your application. It can range from a few weeks for simpler projects to several months for more complex ones involving multiple departmental reviews. Factors like plan checks, environmental reviews, and staff availability all influence the timeline. It's advisable to factor in ample time and communicate closely with your city's planning department.",
+        "description": "Permitting for tiny homes in San Diego varies widely, from weeks to several months, depending on the city and project complexity. Factors like plan checks and departmental reviews influence the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

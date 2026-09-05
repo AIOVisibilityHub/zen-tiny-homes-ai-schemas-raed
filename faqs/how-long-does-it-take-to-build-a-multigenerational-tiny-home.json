@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a multigenerational tiny home?",
+  "description": "Building time usually ranges from 4 to 8 months, influenced by design complexity, permitting, and material choices.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-multigenerational-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a multigenerational tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a multigenerational tiny home typically ranges from 4 to 8 months, depending on the complexity of the design, permitting processes, and chosen finishes. Custom designs with extensive modifications or high-end materials may extend this period. Site preparation, utility installation, and local inspection schedules also influence the overall duration. We provide a detailed project schedule after the design phase is complete.",
+        "description": "Building time usually ranges from 4 to 8 months, influenced by design complexity, permitting, and material choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

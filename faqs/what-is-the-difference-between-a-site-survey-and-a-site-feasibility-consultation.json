@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a site survey and a site feasibility consultation?",
+  "description": "A site survey maps property features, while a feasibility consultation evaluates building viability based on regulations, utilities, and site challenges.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-site-survey-and-a-site-feasibility-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a site survey and a site feasibility consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site survey is a technical document prepared by a licensed surveyor that precisely maps property boundaries, existing structures, topographical features, and easements. A site feasibility consultation, while utilizing survey data if available, goes beyond mapping to evaluate the practical and regulatory aspects of building a tiny home on that specific site. It assesses zoning compliance, utility connections, and potential construction challenges, offering a holistic view of the project's viability.",
+        "description": "A site survey maps property features, while a feasibility consultation evaluates building viability based on regulations, utilities, and site challenges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

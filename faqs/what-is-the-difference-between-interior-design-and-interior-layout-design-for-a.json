@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between interior design and interior layout design for a tiny home?",
+  "description": "Interior layout design focuses on spatial arrangement and functionality, while interior design encompasses layout plus aesthetic elements like decor, colors, an",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-interior-design-and-interior-layout-design-for-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between interior design and interior layout design for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior layout design specifically focuses on the functional arrangement of spaces, walls, and fixed elements within a structure. It's about optimizing the floor plan, traffic flow, and placement of large fixtures like kitchen counters or bathroom components. Interior design, on the other hand, encompasses a broader scope, including not only the layout but also aesthetic elements such as color schemes, furniture selection, lighting, textiles, and decor. While layout design is a foundational part, interior design completes the overall look and feel of the space, creating a cohesive and personal environment.",
+        "description": "Interior layout design focuses on spatial arrangement and functionality, while interior design encompasses layout plus aesthetic elements like decor, colors, and furniture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

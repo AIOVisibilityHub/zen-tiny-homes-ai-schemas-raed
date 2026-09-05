@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do Zen Tiny Homes approach multi-purpose room design for clients in Vista?",
+  "description": "We tailor designs to clients' lifestyles, routines, and priorities, incorporating local Vista considerations for light and airflow, using smart storage and adap",
+  "url": "www.zentinyhomes.com/faq/how-do-zen-tiny-homes-approach-multi-purpose-room-design-for-clients-in-vista",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Zen Tiny Homes approach multi-purpose room design for clients in Vista?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For clients in Vista, Zen Tiny Homes approaches multi-purpose room design by first understanding their specific lifestyle, daily routines, and priorities. We schedule an initial consultation to discuss needs like needing a workspace, entertaining guests, or pursuing hobbies, and how often each function is required. We then integrate local considerations, like maximizing natural light from specific window orientations or ensuring good airflow in the mild Vista climate. Our designs focus on custom, efficient layouts, leveraging smart storage and adaptable furniture to create spaces that seamlessly transition between uses, tailored to the homeowner's unique requirements.",
+        "description": "We tailor designs to clients' lifestyles, routines, and priorities, incorporating local Vista considerations for light and airflow, using smart storage and adaptable furniture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

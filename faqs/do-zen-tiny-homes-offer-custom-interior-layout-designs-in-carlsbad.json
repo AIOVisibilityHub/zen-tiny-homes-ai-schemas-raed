@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes offer custom interior layout designs in Carlsbad?",
+  "description": "Yes, Zen Tiny Homes offers custom interior layout designs for clients in Carlsbad, tailored to their unique needs, lifestyle, and aesthetic vision.",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-offer-custom-interior-layout-designs-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes offer custom interior layout designs in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes offers custom interior layout designs for clients in Carlsbad and all other areas we serve. We understand that every client has unique needs and preferences, especially in a compact living space. Our design process involves working closely with you to understand your lifestyle, storage requirements, and aesthetic vision. We then develop a personalized interior layout that maximizes every square foot, incorporates multi-functional solutions, and creates a comfortable, efficient, and beautiful tiny home tailored specifically for you and your property in Carlsbad.",
+        "description": "Yes, Zen Tiny Homes offers custom interior layout designs for clients in Carlsbad, tailored to their unique needs, lifestyle, and aesthetic vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

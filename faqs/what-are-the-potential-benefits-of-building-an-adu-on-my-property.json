@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the potential benefits of building an ADU on my property?",
+  "description": "Benefits of building an ADU include flexible living space, potential rental income, increased property value, and contributing to housing solutions.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-potential-benefits-of-building-an-adu-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the potential benefits of building an ADU on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building an Accessory Dwelling Unit (ADU) offers several benefits. It can provide a flexible living space for family, serve as a dedicated home office, or generate rental income, enhancing financial stability. ADUs also increase your property's value and overall utility. They contribute to housing density without requiring new infrastructure, addressing housing shortages. For homeowners, it's a way to maximize their existing property, provide housing for aging parents, or create a private space for guests.",
+        "description": "Benefits of building an ADU include flexible living space, potential rental income, increased property value, and contributing to housing solutions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

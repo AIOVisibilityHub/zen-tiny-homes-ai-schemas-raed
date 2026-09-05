@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of foundation is required for a tiny home shell?",
+  "description": "Tiny home shells from Zen Tiny Homes are built on a certified trailer chassis, serving as their foundation. Check local regulations for fixed placement requirem",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-foundation-is-required-for-a-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of foundation is required for a tiny home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny home shells built by Zen Tiny Homes are primarily designed as tiny homes on wheels (THOWs), meaning the foundation is an integrated, certified trailer chassis. This allows for mobility and typically classifies them differently than permanent structures. If you plan to place your tiny home shell in a fixed location, it's crucial to understand local regulations regarding permanent foundations. While the trailer acts as its own foundation, some areas might require additional skirting or tie-downs. Always check with your local planning department in areas like Carlsbad or Escondido for specific requirements.",
+        "description": "Tiny home shells from Zen Tiny Homes are built on a certified trailer chassis, serving as their foundation. Check local regulations for fixed placement requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

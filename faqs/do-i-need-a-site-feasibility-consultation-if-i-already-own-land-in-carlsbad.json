@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a site feasibility consultation if I already own land in Carlsbad?",
+  "description": "Yes, even if you own land in Carlsbad, a consultation ensures it's suitable for a tiny home, considering local zoning and environmental factors.",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-site-feasibility-consultation-if-i-already-own-land-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a site feasibility consultation if I already own land in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, even if you already own land in Carlsbad, a site feasibility consultation is highly recommended. Property ownership doesn't guarantee suitability for a tiny home due to Carlsbad's specific zoning bylaws, setback requirements, and utility infrastructure. A consultation ensures your land is permissible for your desired tiny home type and identifies any local environmental or access challenges unique to Carlsbad, preventing costly delays or non-compliance issues.",
+        "description": "Yes, even if you own land in Carlsbad, a consultation ensures it's suitable for a tiny home, considering local zoning and environmental factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

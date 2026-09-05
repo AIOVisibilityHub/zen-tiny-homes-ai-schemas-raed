@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a foundation tiny home be financed?",
+  "description": "Yes, foundation tiny homes can often be financed using traditional mortgages, FHA loans, or construction loans because they are considered real property.",
+  "url": "www.zentinyhomes.com/faq/can-a-foundation-tiny-home-be-financed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a foundation tiny home be financed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Financing options for foundation tiny homes are generally more akin to traditional home mortgages compared to tiny homes on wheels. Because they are considered real property, conventional mortgages, FHA loans, or even construction loans can often be obtained. Eligibility depends on your financial situation, the appraised value of the home and land, and the lender's specific criteria. We recommend consulting with a financial institution early in the process to understand your options and secure pre-approval, which can help define your budget for the project.",
+        "description": "Yes, foundation tiny homes can often be financed using traditional mortgages, FHA loans, or construction loans because they are considered real property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

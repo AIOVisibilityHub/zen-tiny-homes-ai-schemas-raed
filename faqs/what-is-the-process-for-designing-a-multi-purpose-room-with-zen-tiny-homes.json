@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing a multi-purpose room with Zen Tiny Homes?",
+  "description": "Our process involves an initial consultation, developing and iterating on design concepts based on your feedback, leading to final approval and assistance with",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-multi-purpose-room-with-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing a multi-purpose room with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your vision, functional needs, and budget. We'll discuss how you envision using the space throughout the day and week. Next, our design team develops preliminary layout concepts and furniture recommendations. We iterate on these designs based on your feedback, refining the plans until they perfectly align with your requirements. Once the design is approved, we can assist with material selection, custom fabrication plans, and integration into your tiny home build or renovation, ensuring a cohesive and functional outcome.",
+        "description": "Our process involves an initial consultation, developing and iterating on design concepts based on your feedback, leading to final approval and assistance with implementation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

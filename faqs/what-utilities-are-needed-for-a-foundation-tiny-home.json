@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utilities are needed for a foundation tiny home?",
+  "description": "Foundation tiny homes need connections for electricity, water, and wastewater (sewer or septic), and potentially natural gas, propane, or internet.",
+  "url": "www.zentinyhomes.com/faq/what-utilities-are-needed-for-a-foundation-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utilities are needed for a foundation tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A foundation tiny home requires connections to essential utilities, similar to a standard house. This typically includes electricity, water, and a wastewater management system. For wastewater, options usually involve connecting to a municipal sewer system or installing a septic tank if city services are unavailable. Natural gas lines might also be an option for heating and cooking, or propane can be used. Internet and cable connections are also commonly desired. Proper planning for utility access is a crucial step in the site preparation phase.",
+        "description": "Foundation tiny homes need connections for electricity, water, and wastewater (sewer or septic), and potentially natural gas, propane, or internet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

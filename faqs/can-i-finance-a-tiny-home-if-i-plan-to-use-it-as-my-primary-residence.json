@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance a tiny home if I plan to use it as my primary residence?",
+  "description": "Financing for tiny homes as primary residences varies; foundation models may get specialized mortgages, while tiny homes on wheels often use RV or personal loan",
+  "url": "www.zentinyhomes.com/faq/can-i-finance-a-tiny-home-if-i-plan-to-use-it-as-my-primary-residence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance a tiny home if I plan to use it as my primary residence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Financing a tiny home as a primary residence can be different from traditional mortgages. For tiny homes on foundations, some lenders offer specific tiny home mortgages or construction loans, often similar to conventional housing loans but with smaller amounts. For tiny homes on wheels, financing options are more limited and may include RV loans, personal loans, or secured loans. Eligibility often depends on factors like credit score, down payment, and the specific property where the tiny home will be located. It's advisable to research lenders specializing in tiny home financing.",
+        "description": "Financing for tiny homes as primary residences varies; foundation models may get specialized mortgages, while tiny homes on wheels often use RV or personal loans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

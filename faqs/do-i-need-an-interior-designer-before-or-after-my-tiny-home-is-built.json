@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an interior designer before or after my tiny home is built?",
+  "description": "It is best to engage an interior designer during the planning and construction phases of your tiny home for optimal space utilization and integration.",
+  "url": "www.zentinyhomes.com/faq/do-i-need-an-interior-designer-before-or-after-my-tiny-home-is-built",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an interior designer before or after my tiny home is built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Engaging an interior designer during the planning and construction phases of your tiny home is highly recommended. This allows for optimal space utilization, integration of custom storage, and thoughtful material selections that can be incorporated into the build. While a designer can assist with furnishing a completed home, early involvement ensures the structure itself supports the desired interior functionality and aesthetic.",
+        "description": "It is best to engage an interior designer during the planning and construction phases of your tiny home for optimal space utilization and integration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

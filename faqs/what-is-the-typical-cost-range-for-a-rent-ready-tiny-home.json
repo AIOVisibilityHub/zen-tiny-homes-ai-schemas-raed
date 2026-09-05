@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a rent-ready tiny home?",
+  "description": "Rent-ready tiny homes typically cost between $70,000 and $150,000, varying with size, customization, and features.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-a-rent-ready-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a rent-ready tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a rent-ready tiny home varies significantly based on size, customization, and chosen features. Our standard models typically range from $70,000 to $150,000. Factors influencing the final price include premium finishes, smart home technology integrations, specific appliance upgrades, and specialized layouts. We provide transparent pricing and detailed quotes after understanding your specific needs and desired amenities, ensuring there are no surprises.",
+        "description": "Rent-ready tiny homes typically cost between $70,000 and $150,000, varying with size, customization, and features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

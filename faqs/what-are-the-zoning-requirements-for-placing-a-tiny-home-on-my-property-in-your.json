@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning requirements for placing a tiny home on my property in your service areas?",
+  "description": "Zoning rules for tiny homes vary by city. Permanent tiny homes follow residential codes, while tiny homes on wheels have different regulations, often as ADUs. C",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-requirements-for-placing-a-tiny-home-on-my-property-in-your",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning requirements for placing a tiny home on my property in your service areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning requirements for tiny homes vary significantly by location, even within our service areas of Vista, Oceanside, Carlsbad, and San Marcos. Generally, tiny homes on a permanent foundation are subject to residential zoning laws, which may include minimum lot sizes, setbacks, and utility hookup requirements. Tiny homes on wheels may face additional restrictions, sometimes categorized as recreational vehicles or accessory dwelling units (ADUs) with specific parking rules. We recommend consulting with the planning department of your specific city to understand the exact regulations applicable to your property and tiny home type.",
+        "description": "Zoning rules for tiny homes vary by city. Permanent tiny homes follow residential codes, while tiny homes on wheels have different regulations, often as ADUs. Check with your local city's planning department for specific requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a qualified appraiser for my tiny home?",
+  "description": "Choose an appraiser with experience in non-traditional homes, verify their credentials, and ensure they understand local tiny home regulations and market trends",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-a-qualified-appraiser-for-my-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a qualified appraiser for my tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an appraiser for your tiny home, look for professionals with experience in appraising non-traditional or unique properties. Inquire if they have specific experience with tiny homes, manufactured homes, or other alternative dwellings. Verify their licensing and credentials. It's also beneficial to select an appraiser who is familiar with local zoning laws, building codes, and market trends for tiny homes in your specific area. Request a consultation to discuss their approach and confirm they understand your assessment needs.",
+        "description": "Choose an appraiser with experience in non-traditional homes, verify their credentials, and ensure they understand local tiny home regulations and market trends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

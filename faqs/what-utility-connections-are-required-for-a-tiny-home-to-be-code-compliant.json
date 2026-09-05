@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utility connections are required for a tiny home to be code compliant?",
+  "description": "Code-compliant tiny homes, especially permanent ones, require connections to electricity, water, and sewer/septic systems. Off-grid solutions may have specific",
+  "url": "www.zentinyhomes.com/faq/what-utility-connections-are-required-for-a-tiny-home-to-be-code-compliant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utility connections are required for a tiny home to be code compliant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a tiny home to be code compliant, especially if it's a permanent dwelling or ADU, it typically requires connections to essential utilities. This includes electricity, water, and a sewer or septic system. Natural gas might also be an option if available. These connections must meet local building and health codes to ensure safety and functionality. Off-grid options may be possible but often require specific approvals and might not be permitted for primary residences in all areas. Zen Tiny Homes ensures all utility connections meet local standards.",
+        "description": "Code-compliant tiny homes, especially permanent ones, require connections to electricity, water, and sewer/septic systems. Off-grid solutions may have specific approval requirements. All connections must meet local building and health codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

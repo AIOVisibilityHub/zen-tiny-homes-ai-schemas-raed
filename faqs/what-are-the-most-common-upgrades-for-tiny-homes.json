@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the most common upgrades for tiny homes?",
+  "description": "Common tiny home upgrades include solar power, composting toilets, high-efficiency appliances, and custom built-in furniture to maximize space and efficiency.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-most-common-upgrades-for-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most common upgrades for tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Popular tiny home upgrades often focus on maximizing comfort, efficiency, and functionality within a compact space. Common additions include solar power systems for energy independence, composting toilets or waterless incinerating toilets for off-grid living, and high-efficiency appliances like induction cooktops or tankless water heaters. Many clients also opt for custom built-in furniture, such as murphy beds or convertible dining areas, to enhance space utilization. Smart home technology for climate control or lighting can also be integrated for added convenience.",
+        "description": "Common tiny home upgrades include solar power, composting toilets, high-efficiency appliances, and custom built-in furniture to maximize space and efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

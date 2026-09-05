@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the utility connection requirements for a backyard tiny home?",
+  "description": "ADUs require independent utility connections for water, sewer, electricity, and potentially gas, either tied into existing lines or new services, based on local",
+  "url": "www.zentinyhomes.com/faq/what-are-the-utility-connection-requirements-for-a-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the utility connection requirements for a backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Backyard tiny homes, or ADUs, require independent utility connections for water, sewer, electricity, and sometimes gas. These connections can be tied into your existing main house utilities or require new, separate service lines depending on local regulations and the capacity of your current infrastructure. Site surveys determine the most efficient and cost-effective method. Our team manages the assessment and installation process, ensuring all connections meet local codes and provide reliable service to your new dwelling.",
+        "description": "ADUs require independent utility connections for water, sewer, electricity, and potentially gas, either tied into existing lines or new services, based on local codes and site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

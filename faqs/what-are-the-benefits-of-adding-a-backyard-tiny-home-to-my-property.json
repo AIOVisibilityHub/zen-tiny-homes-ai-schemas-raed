@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of adding a backyard tiny home to my property?",
+  "description": "Benefits include increased property value, rental income potential, flexible living space for family, and efficient property use, making it a sound investment.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-adding-a-backyard-tiny-home-to-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of adding a backyard tiny home to my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a backyard tiny home offers multiple benefits, including increased property value and potential for rental income, which can help offset mortgage payments or generate a new revenue stream. It also provides flexible living space for aging parents, adult children, or a dedicated home office. For some, it's an opportunity to downsize without relocating, utilizing their existing property more efficiently. These homes can enhance family living arrangements while remaining a financially sound investment due to their growing popularity and demand.",
+        "description": "Benefits include increased property value, rental income potential, flexible living space for family, and efficient property use, making it a sound investment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

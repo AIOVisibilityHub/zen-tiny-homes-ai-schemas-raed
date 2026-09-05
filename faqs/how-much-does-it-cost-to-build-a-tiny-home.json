@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a tiny home?",
+  "description": "Tiny home costs range from $60,000 to over $150,000, influenced by size, materials, design, and features like off-grid systems.",
+  "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building a tiny home depends heavily on its size, materials, design features, and whether it's built on a foundation or wheels. Generally, a professionally built tiny home can range from $60,000 to over $150,000. This estimate usually includes the shell, interior finishes, and basic systems. Factors like custom cabinetry, off-grid systems (solar, water harvesting), and high-end appliances will increase the overall investment. We provide detailed estimates after an initial consultation to understand your specific requirements and budget.",
+        "description": "Tiny home costs range from $60,000 to over $150,000, influenced by size, materials, design, and features like off-grid systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

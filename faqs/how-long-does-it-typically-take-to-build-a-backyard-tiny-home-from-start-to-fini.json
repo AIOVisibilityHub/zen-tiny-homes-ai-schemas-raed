@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to build a backyard tiny home from start to finish?",
+  "description": "Building a backyard tiny home typically takes 6-12 months, including 2-4 months for design/permitting and 3-8 months for construction, varying by project specif",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-typically-take-to-build-a-backyard-tiny-home-from-start-to-fini",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to build a backyard tiny home from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a backyard tiny home can vary based on several factors, including design complexity, local permitting review times, and site-specific conditions. Generally, the entire process, from initial design to final completion, can take anywhere from 6 to 12 months. This includes approximately 2-4 months for design and permitting and 3-8 months for construction. We work to streamline each phase and keep you informed of progress, aiming to deliver your tiny home efficiently while maintaining our high standards of quality.",
+        "description": "Building a backyard tiny home typically takes 6-12 months, including 2-4 months for design/permitting and 3-8 months for construction, varying by project specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of buying a tiny home shell instead of a fully built tiny home?",
+  "description": "Buying a tiny home shell saves money and allows for full interior customization, making it ideal for DIY enthusiasts or those on a budget.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-buying-a-tiny-home-shell-instead-of-a-fully-built-tiny",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of buying a tiny home shell instead of a fully built tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opting for a tiny home shell offers several advantages, primarily cost savings and personalization. Purchasing a shell is significantly less expensive than a complete tiny home, allowing you to manage your budget more effectively. It provides a blank canvas, giving you complete control over interior design, materials, and finishes to perfectly match your aesthetic and functional needs. This approach is ideal for those who enjoy DIY projects or wish to spread out their investment over time, ensuring every detail reflects their vision.",
+        "description": "Buying a tiny home shell saves money and allows for full interior customization, making it ideal for DIY enthusiasts or those on a budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for small-space planning services?",
+  "description": "Small-space planning costs vary from a few hundred for basic consultations to several thousand dollars for comprehensive design, depending on project scope and",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-small-space-planning-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for small-space planning services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for small-space planning services can vary widely based on the scope of work, the complexity of the design, and the level of detail required. For conceptual layouts or basic consultations, prices might range from a few hundred dollars. For comprehensive design services, including detailed floor plans, 3D renderings, and material recommendations for a tiny home, costs could be several thousand dollars. Factors like the designer's experience, location, and whether the service includes project management also influence the final price. It's best to discuss your specific needs with a designer for an accurate quote.",
+        "description": "Small-space planning costs vary from a few hundred for basic consultations to several thousand dollars for comprehensive design, depending on project scope and detail."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

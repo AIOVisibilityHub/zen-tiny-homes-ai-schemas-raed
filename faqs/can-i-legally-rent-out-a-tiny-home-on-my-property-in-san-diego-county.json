@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I legally rent out a tiny home on my property in San Diego County?",
+  "description": "Legality depends on local zoning and ADU regulations in your specific San Diego County city. Check with your local planning department for details.",
+  "url": "www.zentinyhomes.com/faq/can-i-legally-rent-out-a-tiny-home-on-my-property-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I legally rent out a tiny home on my property in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Renting out a tiny home in San Diego County depends on local zoning ordinances and the specific type of tiny home. Many jurisdictions consider tiny homes as Accessory Dwelling Units (ADUs). Regulations vary, but generally, ADUs can be rented out for long-term stays. Short-term rentals (less than 30 days) have additional restrictions. It's crucial to consult your city or county's planning department to confirm specific rules for your property, including setback requirements, utility connections, and parking. Zen Tiny Homes can assist with understanding these requirements for areas like Vista and Oceanside.",
+        "description": "Legality depends on local zoning and ADU regulations in your specific San Diego County city. Check with your local planning department for details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

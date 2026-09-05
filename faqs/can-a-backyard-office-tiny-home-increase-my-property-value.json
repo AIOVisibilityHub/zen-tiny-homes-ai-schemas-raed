@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a backyard office tiny home increase my property value?",
+  "description": "Yes, a well-designed backyard office tiny home can increase property value by adding functional space and a desirable amenity, attracting more buyers.",
+  "url": "www.zentinyhomes.com/faq/can-a-backyard-office-tiny-home-increase-my-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a backyard office tiny home increase my property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a well-designed and properly constructed backyard office tiny home can potentially increase your property value. It adds functional living space and a highly sought-after amenity for remote work, appealing to a wider range of potential buyers. The extent of value increase depends on factors like the quality of the build, integration with the existing property, local market demand, and compliance with all permits and zoning regulations. It's viewed as a valuable asset that enhances lifestyle and productivity.",
+        "description": "Yes, a well-designed backyard office tiny home can increase property value by adding functional space and a desirable amenity, attracting more buyers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

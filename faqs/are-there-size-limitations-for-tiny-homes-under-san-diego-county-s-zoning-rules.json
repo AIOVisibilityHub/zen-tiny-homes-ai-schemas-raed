@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there size limitations for tiny homes under San Diego County's zoning rules?",
+  "description": "Yes, size limits exist, especially for tiny homes acting as ADUs. California allows up to 1,200 sq ft, but local San Diego County cities might have stricter rul",
+  "url": "www.zentinyhomes.com/faq/are-there-size-limitations-for-tiny-homes-under-san-diego-county-s-zoning-rules",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there size limitations for tiny homes under San Diego County's zoning rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are typically size limitations for tiny homes, especially when permitted as Accessory Dwelling Units (ADUs). While the state of California generally sets a maximum of 1,200 square feet for ADUs, many local jurisdictions in San Diego County may have more specific minimum and maximum size requirements, particularly for detached units. For tiny homes on wheels, if they are considered recreational vehicles, their dimensions are often governed by vehicle codes rather than housing codes. Always check with your specific city's planning department for precise square footage requirements.",
+        "description": "Yes, size limits exist, especially for tiny homes acting as ADUs. California allows up to 1,200 sq ft, but local San Diego County cities might have stricter rules. Check with your specific city's planning department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

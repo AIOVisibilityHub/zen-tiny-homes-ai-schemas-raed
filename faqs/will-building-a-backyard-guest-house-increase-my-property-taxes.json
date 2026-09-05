@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will building a backyard guest house increase my property taxes?",
+  "description": "Building a backyard guest house usually increases property taxes due to added value, but the reassessment often applies only to the new construction.",
+  "url": "www.zentinyhomes.com/faq/will-building-a-backyard-guest-house-increase-my-property-taxes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will building a backyard guest house increase my property taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a backyard guest house typically increases your property taxes because it adds taxable value to your property. The exact increase will depend on the assessed value of the new structure and the local property tax rate. In California, property tax reassessments for ADUs are generally limited to the value of the new construction, not the entire property, as per Proposition 13. It's recommended to consult with your local assessor's office for an estimate specific to your project and property.",
+        "description": "Building a backyard guest house usually increases property taxes due to added value, but the reassessment often applies only to the new construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

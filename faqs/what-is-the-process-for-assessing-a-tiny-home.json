@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for assessing a tiny home?",
+  "description": "The process includes property review, physical inspection, research of comparable sales, and a final report detailing market value.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-assessing-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for assessing a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The assessment process for a tiny home involves several steps. First, a qualified appraiser will review property details and verify ownership. Next, they conduct a physical inspection of the tiny home's interior and exterior, noting construction quality, features, and condition. The appraiser then researches comparable sales of similar tiny homes in the local market, adjusting for differences. Finally, they compile their findings into a detailed report, providing an estimated market value based on their analysis.",
+        "description": "The process includes property review, physical inspection, research of comparable sales, and a final report detailing market value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

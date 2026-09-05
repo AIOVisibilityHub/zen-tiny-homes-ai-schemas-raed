@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What defines a 'rent-ready' tiny home from Zen Tiny Homes?",
+  "description": "A 'rent-ready' tiny home includes all utilities, appliances, and finishes for immediate habitation and rental, meeting ADU requirements.",
+  "url": "www.zentinyhomes.com/faq/what-defines-a-rent-ready-tiny-home-from-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What defines a 'rent-ready' tiny home from Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 'rent-ready' tiny home from Zen Tiny Homes is designed and constructed with all necessary utilities, appliances, and finishes to be immediately habitable and suitable for rental purposes. This includes full plumbing, electrical systems, kitchenettes, bathrooms, and often basic furnishings, eliminating the need for extensive setup once delivered. Our homes meet all applicable building codes and zoning requirements for ADUs (Accessory Dwelling Units) in our service areas, ensuring a smooth process for owners looking to generate rental income.",
+        "description": "A 'rent-ready' tiny home includes all utilities, appliances, and finishes for immediate habitation and rental, meeting ADU requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

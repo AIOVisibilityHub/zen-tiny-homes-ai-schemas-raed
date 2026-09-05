@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I rent out my guest home for passive income?",
+  "description": "Yes, guest homes can be rented for passive income through long-term or short-term leases, depending on local regulations. This can help offset costs and increas",
+  "url": "www.zentinyhomes.com/faq/can-i-rent-out-my-guest-home-for-passive-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I rent out my guest home for passive income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many areas, including those served by Zen Tiny Homes, you can rent out your guest home. Guest homes are increasingly popular for generating passive income, whether through long-term rentals or short-term vacation rentals, depending on local regulations. Renting out your guest home can help offset construction costs and increase property value. It's important to research specific short-term rental ordinances in your city, as rules can vary regarding length of stay, permits, and transient occupancy taxes.",
+        "description": "Yes, guest homes can be rented for passive income through long-term or short-term leases, depending on local regulations. This can help offset costs and increase property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common costs associated with tiny home zoning and permits?",
+  "description": "Common costs include city/county application fees for zoning and permits, which vary by project. Additional expenses may arise from architectural plans, enginee",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-costs-associated-with-tiny-home-zoning-and-permits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common costs associated with tiny home zoning and permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs associated with tiny home zoning and permits typically include application fees charged by the city or county planning and building departments. These fees can vary widely depending on the project scope, the size of the tiny home, and whether it's classified as an ADU or another dwelling type. Additional costs might arise from architectural plans, engineering reports, or impact fees if new utility connections are required. We provide transparent estimates for these potential costs as part of our project planning.",
+        "description": "Common costs include city/county application fees for zoning and permits, which vary by project. Additional expenses may arise from architectural plans, engineering reports, or utility impact fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

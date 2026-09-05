@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a backyard office tiny home?",
+  "description": "Construction of a backyard office tiny home can take 4-8 weeks for pre-fabricated units or 2-4 months for custom builds, depending on design and approvals.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-backyard-office-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a backyard office tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a backyard office tiny home can range from a few weeks to several months, depending on various factors. Pre-fabricated or modular units typically have a shorter build time, often 4-8 weeks from order to installation. Custom-built units, which involve more detailed design, material sourcing, and on-site construction, can take 2-4 months or even longer. This also depends on permit approval times, site preparation, and utility hookup schedules.",
+        "description": "Construction of a backyard office tiny home can take 4-8 weeks for pre-fabricated units or 2-4 months for custom builds, depending on design and approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

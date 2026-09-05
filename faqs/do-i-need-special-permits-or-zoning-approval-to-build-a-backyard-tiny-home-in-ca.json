@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special permits or zoning approval to build a backyard tiny home in Carlsbad?",
+  "description": "Yes, building an ADU in Carlsbad requires specific permits and adherence to city zoning regulations, including setbacks, size, and design. We assist with all ap",
+  "url": "www.zentinyhomes.com/faq/do-i-need-special-permits-or-zoning-approval-to-build-a-backyard-tiny-home-in-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special permits or zoning approval to build a backyard tiny home in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a backyard tiny home, or Accessory Dwelling Unit (ADU), in Carlsbad requires specific permits and compliance with city zoning regulations. The City of Carlsbad, like other municipalities, has adopted state ADU laws but also maintains its own local ordinances regarding setbacks, size limits, parking, and design standards. Zen Tiny Homes specializes in navigating these local requirements, assisting with architectural plans and permit applications to ensure your project meets all necessary approvals before construction begins. It's crucial to verify current regulations, as they can change.",
+        "description": "Yes, building an ADU in Carlsbad requires specific permits and adherence to city zoning regulations, including setbacks, size, and design. We assist with all approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

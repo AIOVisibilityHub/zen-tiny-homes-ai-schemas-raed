@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add smart home features to my Zen Tiny Home?",
+  "description": "Yes, we offer smart home features including smart lighting, thermostat control, security cameras, smart locks, and integrated entertainment systems.",
+  "url": "www.zentinyhomes.com/faq/can-i-add-smart-home-features-to-my-zen-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add smart home features to my Zen Tiny Home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes offers a variety of smart home integration options. You can choose from features like smart lighting systems, thermostat control, security cameras, smart locks, and integrated entertainment systems. These upgrades can be designed to enhance convenience, energy efficiency, and security within your tiny home. Our team can discuss the available technologies and help you select the best solutions that integrate seamlessly into your living space and budget.",
+        "description": "Yes, we offer smart home features including smart lighting, thermostat control, security cameras, smart locks, and integrated entertainment systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

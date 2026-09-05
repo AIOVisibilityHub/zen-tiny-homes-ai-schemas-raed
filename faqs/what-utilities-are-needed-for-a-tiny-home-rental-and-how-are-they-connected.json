@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utilities are needed for a tiny home rental and how are they connected?",
+  "description": "Tiny homes need water, sewer, and electricity. They can connect to your main home's lines or separate meters. We ensure code-compliant utility hookups.",
+  "url": "www.zentinyhomes.com/faq/what-utilities-are-needed-for-a-tiny-home-rental-and-how-are-they-connected",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utilities are needed for a tiny home rental and how are they connected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny home for rent typically requires connections to water, sewer/septic, and electricity, similar to a traditional home. These can be connected as extensions from your main home's existing utility lines, or in some cases, with separate meters, depending on local regulations and your preference. Propane may be used for heating or cooking. Proper installation by licensed professionals is critical for safety and compliance. Zen Tiny Homes ensures all utility hookups are planned and executed to meet local codes and standards.",
+        "description": "Tiny homes need water, sewer, and electricity. They can connect to your main home's lines or separate meters. We ensure code-compliant utility hookups."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

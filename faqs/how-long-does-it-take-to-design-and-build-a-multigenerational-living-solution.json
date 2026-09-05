@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design and build a multigenerational living solution?",
+  "description": "Design and permitting can take 3-6 months, while construction typically ranges from 4-12 months, for a total of 8-18 months.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-and-build-a-multigenerational-living-solution",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design and build a multigenerational living solution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for designing and building a multigenerational living solution varies based on the project's scope, from renovating an existing space to new ADU construction. Design and permitting can take several months, often 3-6 months, depending on city review times. Construction itself typically ranges from 4 to 12 months, influenced by factors like material availability, weather, and project complexity. A realistic total timeframe usually spans from 8 to 18 months from initial design to completion.",
+        "description": "Design and permitting can take 3-6 months, while construction typically ranges from 4-12 months, for a total of 8-18 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right design for my primary-residence tiny home?",
+  "description": "Choose a design by considering your lifestyle, space needs, and aesthetic preferences, ensuring it maximizes functionality and meets local building codes.",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-design-for-my-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right design for my primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right design involves evaluating your lifestyle, space needs, and aesthetic preferences. Consider the number of occupants, daily routines, storage requirements, and any specific features you desire, such as a dedicated workspace or a larger kitchen. Reviewing floor plans, material options, and exterior styles can help narrow down choices. Our design team works with you to customize a plan that maximizes functionality and comfort within the tiny home footprint, while also ensuring it meets local building codes.",
+        "description": "Choose a design by considering your lifestyle, space needs, and aesthetic preferences, ensuring it maximizes functionality and meets local building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

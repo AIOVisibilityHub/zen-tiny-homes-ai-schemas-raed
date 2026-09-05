@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the general zoning requirements for tiny homes in San Diego County?",
+  "description": "Tiny homes on wheels are often permitted as accessory dwelling units (ADUs) on properties with an existing primary residence in San Diego County. They must meet",
+  "url": "www.zentinyhomes.com/faq/what-are-the-general-zoning-requirements-for-tiny-homes-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the general zoning requirements for tiny homes in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego County, tiny homes on wheels (THOWs) are generally considered recreational vehicles and cannot be used as permanent primary residences on their own lots. However, they can often be permitted as accessory dwelling units (ADUs) or junior accessory dwelling units (JADUs) on properties that already have a primary residence. This allows them to serve as secondary living spaces, guest houses, or rental units. Specific requirements vary by city, but typically involve hookups for utilities like water, sewer, and electricity, and adherence to setback and size limitations.",
+        "description": "Tiny homes on wheels are often permitted as accessory dwelling units (ADUs) on properties with an existing primary residence in San Diego County. They must meet utility hookup and setback requirements, which vary by city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

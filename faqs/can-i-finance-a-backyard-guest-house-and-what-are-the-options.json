@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance a backyard guest house, and what are the options?",
+  "description": "Financing options for backyard guest houses include home equity loans, HELOCs, construction loans, and specialized ADU loans. Consult a lender.",
+  "url": "www.zentinyhomes.com/faq/can-i-finance-a-backyard-guest-house-and-what-are-the-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance a backyard guest house, and what are the options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, several financing options are available for building a backyard guest house. Common methods include home equity loans, home equity lines of credit (HELOCs), construction loans, or cash-out refinancing. Some lenders also offer specialized ADU loans designed for these projects. The best option often depends on your current home equity, credit score, and financial situation. It's advisable to consult with a financial advisor or lender to explore which financing solution best fits your needs and project budget.",
+        "description": "Financing options for backyard guest houses include home equity loans, HELOCs, construction loans, and specialized ADU loans. Consult a lender."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

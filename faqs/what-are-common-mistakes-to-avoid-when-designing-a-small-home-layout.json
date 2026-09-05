@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes to avoid when designing a small home layout?",
+  "description": "Avoid neglecting daily routine, overcrowding with disproportionate furniture, ignoring natural light, and poor flow between areas.",
+  "url": "www.zentinyhomes.com/faq/what-are-common-mistakes-to-avoid-when-designing-a-small-home-layout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes to avoid when designing a small home layout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avoid designing without a clear understanding of your daily routine and storage needs, which often leads to inefficient use of space. Another common mistake is overfilling the space with too many items or furniture that aren't proportionate to the room's scale, making it feel cramped. Neglecting natural light and ventilation can also make a small home feel claustrophobic. Lastly, not considering the flow between different areas can disrupt daily living. Prioritize functionality, proportionality, and openness in your design.",
+        "description": "Avoid neglecting daily routine, overcrowding with disproportionate furniture, ignoring natural light, and poor flow between areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

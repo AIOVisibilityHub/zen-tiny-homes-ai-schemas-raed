@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a tiny home be considered a primary residence?",
+  "description": "Yes, a tiny home can be a primary residence, but its legal classification depends on local zoning and building codes, especially if it's on wheels.",
+  "url": "www.zentinyhomes.com/faq/can-a-tiny-home-be-considered-a-primary-residence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a tiny home be considered a primary residence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a tiny home can function as a primary residence. However, its classification and legal use depend heavily on local zoning ordinances and building codes. In many areas, a tiny home on a foundation may be treated similarly to a traditional dwelling, while a tiny home on wheels (THOW) might be considered an RV, which can have different regulations regarding long-term occupancy. It's crucial to check with local planning departments to understand specific requirements for primary residency in a tiny home.",
+        "description": "Yes, a tiny home can be a primary residence, but its legal classification depends on local zoning and building codes, especially if it's on wheels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

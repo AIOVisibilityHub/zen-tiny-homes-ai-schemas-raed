@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a special permit to build a tiny home rental unit?",
+  "description": "Yes, you almost always need permits for a tiny home rental unit, including building, zoning, and utility permits, which vary by local codes and the home's class",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-special-permit-to-build-a-tiny-home-rental-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a special permit to build a tiny home rental unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a tiny home rental unit almost always requires permits. These typically include building permits, zoning permits, and potentially specific permits for utility connections (electrical, plumbing, sewer/septic). The exact permits needed depend on local municipal codes, the classification of the tiny home (e.g., ADU, manufactured home), and whether it's on a foundation or wheels. It is crucial to consult your local planning and building departments early in the process to understand all necessary requirements and avoid potential legal issues.",
+        "description": "Yes, you almost always need permits for a tiny home rental unit, including building, zoning, and utility permits, which vary by local codes and the home's classification."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

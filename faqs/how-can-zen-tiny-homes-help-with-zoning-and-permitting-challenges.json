@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can Zen Tiny Homes help with zoning and permitting challenges?",
+  "description": "Zen Tiny Homes helps with zoning and permitting by offering site assessments, preparing applications, and liaising with local planning departments. We streamlin",
+  "url": "www.zentinyhomes.com/faq/how-can-zen-tiny-homes-help-with-zoning-and-permitting-challenges",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can Zen Tiny Homes help with zoning and permitting challenges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes provides comprehensive assistance with navigating the complexities of tiny home zoning and permitting. We help clients understand the specific regulations in areas like Vista, Oceanside, Carlsbad, San Marcos, and Escondido. Our services include initial site assessments, preparing and submitting necessary permit applications, and communicating with local planning departments on your behalf. We aim to streamline the approval process, ensuring your tiny home project meets all local codes and ordinances, saving you time and reducing potential hurdles.",
+        "description": "Zen Tiny Homes helps with zoning and permitting by offering site assessments, preparing applications, and liaising with local planning departments. We streamline the approval process in our service areas to ensure code compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical return on investment (ROI) for renting out a tiny home?",
+  "description": "ROI varies by location, demand, and costs, but tiny homes often provide a strong return due to lower investment and high rental demand.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-return-on-investment-roi-for-renting-out-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical return on investment (ROI) for renting out a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ROI for renting out a tiny home can vary significantly based on location, rental market demand, initial construction costs, and rental rates. Many owners find tiny homes offer a strong ROI due to lower construction costs compared to traditional homes and high demand for affordable, unique rental options. Factors like utility costs, property taxes, and maintenance also impact profitability. Researching comparable rental rates in your specific area, such as Carlsbad or San Marcos, will help estimate potential income. We can provide cost estimates for tiny home construction.",
+        "description": "ROI varies by location, demand, and costs, but tiny homes often provide a strong return due to lower investment and high rental demand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

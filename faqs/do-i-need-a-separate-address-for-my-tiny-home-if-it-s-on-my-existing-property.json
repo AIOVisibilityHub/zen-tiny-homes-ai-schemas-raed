@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a separate address for my tiny home if it's on my existing property?",
+  "description": "A separate address for your tiny home depends on local regulations and its classification. If approved as an ADU for rental, it may require one; otherwise, it m",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-separate-address-for-my-tiny-home-if-it-s-on-my-existing-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a separate address for my tiny home if it's on my existing property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need a separate address for your tiny home depends on local regulations and how the tiny home is classified. If your tiny home is approved as an Accessory Dwelling Unit (ADU) and is intended for long-term rental or a separate living space, some jurisdictions may allow or even require a separate address. This can simplify mail delivery, emergency services, and utility billing. However, if it's considered an accessory structure or simply a secondary living space without separate billing, a separate address may not be necessary or permitted. It's best to check with your local planning department.",
+        "description": "A separate address for your tiny home depends on local regulations and its classification. If approved as an ADU for rental, it may require one; otherwise, it might not be necessary. Check with your local planning department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

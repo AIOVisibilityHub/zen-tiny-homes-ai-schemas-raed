@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning requirements for foundation tiny homes in San Marcos?",
+  "description": "San Marcos zoning for foundation tiny homes (often ADUs) includes requirements for lot size, setbacks, height, and lot coverage, which must be verified with the",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-requirements-for-foundation-tiny-homes-in-san-marcos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning requirements for foundation tiny homes in San Marcos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Marcos, foundation tiny homes, especially if intended as Accessory Dwelling Units (ADUs), must adhere to specific zoning requirements. These typically dictate minimum lot size, setback distances from property lines, maximum height, and lot coverage limits. The property must also have existing primary residence or be zoned appropriately for a standalone dwelling. It's crucial to verify these requirements with the City of San Marcos Planning Department, as they can change. We can help assess your property's eligibility and design a home that complies with local San Marcos zoning laws.",
+        "description": "San Marcos zoning for foundation tiny homes (often ADUs) includes requirements for lot size, setbacks, height, and lot coverage, which must be verified with the city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

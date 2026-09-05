@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the minimum lot size requirements for placing a tiny home as an ADU?",
+  "description": "California state law generally has no minimum lot size for ADUs, but local rules on lot coverage and setbacks may apply.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-minimum-lot-size-requirements-for-placing-a-tiny-home-as-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the minimum lot size requirements for placing a tiny home as an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State law in California generally does not impose a minimum lot size for the construction of an ADU. However, local jurisdictions may still have some dimensional standards or specific requirements related to lot coverage, setbacks, and available open space that implicitly affect where an ADU can be placed. It's best to consult the specific zoning ordinances of your city or county to confirm any local limitations. Zen Tiny Homes can assist in reviewing your property's eligibility.",
+        "description": "California state law generally has no minimum lot size for ADUs, but local rules on lot coverage and setbacks may apply."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

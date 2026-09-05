@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I see examples of tiny home interior layouts designed by Zen Tiny Homes?",
+  "description": "Yes, Zen Tiny Homes' portfolio of completed tiny home interior layouts is available on our website or during consultations, showcasing our design capabilities.",
+  "url": "www.zentinyhomes.com/faq/can-i-see-examples-of-tiny-home-interior-layouts-designed-by-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I see examples of tiny home interior layouts designed by Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes maintains a portfolio of our completed tiny home interior layouts that showcase our design capabilities and the variety of styles we can achieve. These examples illustrate how we approach space optimization, integrate multi-functional furniture, and create cohesive living environments within compact footprints. You can typically view these examples on our website or during an initial consultation. Reviewing past projects can help you visualize possibilities for your own tiny home and understand our design philosophy before commencing your project.",
+        "description": "Yes, Zen Tiny Homes' portfolio of completed tiny home interior layouts is available on our website or during consultations, showcasing our design capabilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

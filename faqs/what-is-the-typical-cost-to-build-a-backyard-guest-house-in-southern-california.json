@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost to build a backyard guest house in Southern California?",
+  "description": "Costs for building a backyard guest house in Southern California range from $150,000 to over $350,000, depending on size, design, and finishes.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-to-build-a-backyard-guest-house-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost to build a backyard guest house in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build a backyard guest house in Southern California can vary significantly based on factors like size, design complexity, finishes, and site preparation. Generally, homeowners can expect costs ranging from $150,000 to over $350,000. This includes architectural plans, permits, construction, and utility hookups. A custom-built unit with high-end finishes will naturally be more expensive than a smaller, more basic design. It's advisable to get a detailed quote tailored to your specific project needs and location.",
+        "description": "Costs for building a backyard guest house in Southern California range from $150,000 to over $350,000, depending on size, design, and finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

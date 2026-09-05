@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right design and features for my backyard tiny home?",
+  "description": "Consider intended use, number of occupants, desired amenities, and existing property aesthetics. We offer customizable plans to match your needs, style, and bud",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-design-and-features-for-my-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right design and features for my backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right design involves considering your specific needs, the intended use of the tiny home, and the aesthetics of your existing property. Think about the number of occupants, desired amenities (e.g., full kitchen vs. kitchenette, laundry facilities), and accessibility requirements. We offer a range of customizable floor plans and material options to match your style and budget. Our design team collaborates with you to create a functional and appealing space that complements your main residence and maximizes your backyard's potential.",
+        "description": "Consider intended use, number of occupants, desired amenities, and existing property aesthetics. We offer customizable plans to match your needs, style, and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

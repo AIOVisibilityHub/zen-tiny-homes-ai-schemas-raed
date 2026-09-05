@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when designing a backyard guest house?",
+  "description": "Consider intended use, size, local regulations, aesthetics, and site conditions when designing a backyard guest house to maximize functionality and value.",
+  "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-designing-a-backyard-guest-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when designing a backyard guest house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When designing a backyard guest house, consider its intended use, desired size, local zoning regulations, and aesthetic compatibility with your existing home. Think about the number of bedrooms, bathrooms, and kitchen facilities needed. Natural light, ventilation, and energy efficiency are also important design elements. Additionally, assess your lot's topography, utility access points, and privacy requirements for both the main house and the ADU. A well-planned design maximizes functionality and enhances property value.",
+        "description": "Consider intended use, size, local regulations, aesthetics, and site conditions when designing a backyard guest house to maximize functionality and value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

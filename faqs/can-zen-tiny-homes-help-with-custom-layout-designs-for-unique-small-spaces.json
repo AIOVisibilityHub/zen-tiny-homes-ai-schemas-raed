@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes help with custom layout designs for unique small spaces?",
+  "description": "Zen Tiny Homes offers custom layout design services, collaborating with clients to create functional, efficient, and personalized tiny home plans tailored to th",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-help-with-custom-layout-designs-for-unique-small-spaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes help with custom layout designs for unique small spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes specializes in custom layout designs tailored to individual needs and unique small spaces. Our process begins with understanding your vision, lifestyle, and the specific dimensions and constraints of your project. We work collaboratively to develop a functional and aesthetically pleasing design that maximizes every square foot. Our expertise ensures that your tiny home layout is optimized for comfort, efficiency, and personal style, providing a truly bespoke living solution.",
+        "description": "Zen Tiny Homes offers custom layout design services, collaborating with clients to create functional, efficient, and personalized tiny home plans tailored to their unique needs and space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

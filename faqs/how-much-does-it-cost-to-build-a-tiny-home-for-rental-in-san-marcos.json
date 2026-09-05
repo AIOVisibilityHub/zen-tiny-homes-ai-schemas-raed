@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a tiny home for rental in San Marcos?",
+  "description": "Costs for a rental tiny home in San Marcos can range from $80,000 to over $150,000, depending on size, materials, and finishes, excluding land and site developm",
+  "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-tiny-home-for-rental-in-san-marcos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a tiny home for rental in San Marcos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build a tiny home for rental in San Marcos varies significantly based on factors such as size, materials, finishes, and necessary site preparations. A basic unit might start around $80,000, while a custom-designed, higher-end model with premium features could exceed $150,000. These figures generally include construction but exclude land, utility connections, permits, and specific site development costs which can add substantially to the overall investment. Consulting with a local builder can provide a more precise estimate.",
+        "description": "Costs for a rental tiny home in San Marcos can range from $80,000 to over $150,000, depending on size, materials, and finishes, excluding land and site development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

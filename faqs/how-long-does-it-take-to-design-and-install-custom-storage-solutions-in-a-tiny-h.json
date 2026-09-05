@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design and install custom storage solutions in a tiny home?",
+  "description": "Design and installation of custom tiny home storage can take weeks for design, 2-4 weeks for fabrication, and a few days to over a week for installation, depend",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-and-install-custom-storage-solutions-in-a-tiny-h",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design and install custom storage solutions in a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for designing and installing custom tiny home storage depends on the scope and complexity. Initial design consultations and revisions can take several weeks, aligning with the overall tiny home design phase. Once designs are finalized, fabrication of custom elements like cabinetry or built-in furniture can take 2-4 weeks, depending on the builder's schedule and material availability. Installation typically occurs during the later stages of construction and can add an extra few days to a week or more to the build timeline, depending on the number and type of custom pieces.",
+        "description": "Design and installation of custom tiny home storage can take weeks for design, 2-4 weeks for fabrication, and a few days to over a week for installation, depending on complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

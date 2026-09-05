@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a tiny home suitable for rental purposes?",
+  "description": "Building a rental-ready tiny home usually takes 3-6 months. This excludes permitting and site prep, which can add more time.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-tiny-home-suitable-for-rental-purposes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a tiny home suitable for rental purposes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a tiny home depends on its size, complexity, and whether it's a custom build or a pre-designed model. Typically, the build process for a high-quality tiny home, suitable for rental, can range from 3 to 6 months from initial design to completion. This does not include the time required for permitting and site preparation, which can add several weeks or even a few months. Zen Tiny Homes works efficiently to deliver homes within reasonable timeframes, coordinating with our clients throughout the process.",
+        "description": "Building a rental-ready tiny home usually takes 3-6 months. This excludes permitting and site prep, which can add more time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

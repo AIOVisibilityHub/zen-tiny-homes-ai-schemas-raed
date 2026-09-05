@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design styles work best for tiny homes?",
+  "description": "Minimalist, Scandinavian, and modern design styles work best for tiny homes due to their focus on clean lines, functionality, and brightness.",
+  "url": "www.zentinyhomes.com/faq/what-design-styles-work-best-for-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design styles work best for tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design styles that emphasize minimalism, functionality, and brightness tend to work best for tiny homes. Popular choices include modern, Scandinavian, and minimalist styles, which focus on clean lines, natural light, light color palettes, and uncluttered spaces. Industrial and bohemian styles can also be adapted with careful curation to avoid visual clutter. The goal is to create an open, airy feel while reflecting the homeowner's personal taste.",
+        "description": "Minimalist, Scandinavian, and modern design styles work best for tiny homes due to their focus on clean lines, functionality, and brightness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

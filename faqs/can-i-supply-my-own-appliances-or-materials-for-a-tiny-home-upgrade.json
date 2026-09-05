@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I supply my own appliances or materials for a tiny home upgrade?",
+  "description": "While we prefer to source materials, we may accommodate client-supplied items if they meet quality standards and do not disrupt the build schedule.",
+  "url": "www.zentinyhomes.com/faq/can-i-supply-my-own-appliances-or-materials-for-a-tiny-home-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I supply my own appliances or materials for a tiny home upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes generally prefers to source materials and appliances through our trusted suppliers to ensure quality, warranty coverage, and compatibility with our construction methods. However, we understand clients may have specific preferences. In some cases, we may accommodate client-supplied items, provided they meet our quality and safety standards and are delivered on a schedule that doesn't disrupt the build. Any client-supplied items would not be covered under our standard warranties, and installation fees would still apply.",
+        "description": "While we prefer to source materials, we may accommodate client-supplied items if they meet quality standards and do not disrupt the build schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

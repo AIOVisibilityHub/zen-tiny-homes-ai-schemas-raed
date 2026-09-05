@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I finalize my tiny home customization choices?",
+  "description": "Finalize all customization choices during the initial design and planning phase, before construction begins, to avoid delays and extra costs.",
+  "url": "www.zentinyhomes.com/faq/when-should-i-finalize-my-tiny-home-customization-choices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I finalize my tiny home customization choices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is crucial to finalize all tiny home customization choices during the initial design and planning phase, before construction commences. This ensures that all materials are ordered correctly, the layout accommodates your selections, and the build timeline remains on track. Making changes once construction has started can lead to delays, additional costs for change orders, and potential rework. Our design team will guide you through all options and help you make informed decisions during this critical pre-construction period.",
+        "description": "Finalize all customization choices during the initial design and planning phase, before construction begins, to avoid delays and extra costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

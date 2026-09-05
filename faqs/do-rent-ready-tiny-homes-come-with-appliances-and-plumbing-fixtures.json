@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do rent-ready tiny homes come with appliances and plumbing fixtures?",
+  "description": "Yes, rent-ready tiny homes come with essential appliances like a refrigerator, range, microwave, and complete plumbing fixtures.",
+  "url": "www.zentinyhomes.com/faq/do-rent-ready-tiny-homes-come-with-appliances-and-plumbing-fixtures",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do rent-ready tiny homes come with appliances and plumbing fixtures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, our rent-ready tiny homes are equipped with essential appliances and complete plumbing fixtures, making them immediately functional. This typically includes a refrigerator, cooking range, microwave, sink, toilet, shower, and water heater. All appliances are selected for efficiency and durability, ensuring they withstand rental use. Specific brands and models can be discussed during the customization phase to meet your aesthetic and functional requirements.",
+        "description": "Yes, rent-ready tiny homes come with essential appliances like a refrigerator, range, microwave, and complete plumbing fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

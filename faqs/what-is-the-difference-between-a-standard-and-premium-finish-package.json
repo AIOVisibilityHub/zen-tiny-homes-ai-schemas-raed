@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a standard and premium finish package?",
+  "description": "Standard packages offer quality, durable materials within a set budget, while premium packages provide high-end materials, custom options, and designer choices.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-standard-and-premium-finish-package",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a standard and premium finish package?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard finish package includes quality, durable materials chosen for their aesthetic appeal and functionality within a set budget. This typically involves popular options for flooring, cabinetry, countertops, and fixtures. A premium finish package offers a wider selection of high-end materials, custom options, and designer choices. This can include hardwood flooring, quartz or granite countertops, custom-built cabinetry, and luxury bathroom fixtures, providing a more refined and personalized aesthetic. The premium package allows for greater customization and higher material quality.",
+        "description": "Standard packages offer quality, durable materials within a set budget, while premium packages provide high-end materials, custom options, and designer choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
