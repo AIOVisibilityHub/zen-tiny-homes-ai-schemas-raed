@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a tiny home designer?",
-  "description": "Consider a designer's portfolio, experience in tiny homes, knowledge of local codes, and client testimonials.",
   "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-tiny-home-designer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a tiny home designer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a tiny home designer, evaluate their portfolio to ensure their aesthetic aligns with your vision. Look for experience in tiny home construction and knowledge of local building codes relevant to tiny structures. Client testimonials and references can provide insight into their communication and project management skills. A designer who listens attentively to your needs, offers creative solutions, and provides transparent cost estimates will be a valuable partner in bringing your custom tiny home to life.",
-        "description": "Consider a designer's portfolio, experience in tiny homes, knowledge of local codes, and client testimonials."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a tiny home designer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a tiny home designer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a tiny home designer, evaluate their portfolio to ensure their aesthetic aligns with your vision. Look for experience in tiny home construction and knowledge of local building codes relevant to tiny structures. Client testimonials and references can provide insight into their communication and project management skills. A designer who listens attentively to your needs, offers creative solutions, and provides transparent cost estimates will be a valuable partner in bringing your custom tiny home to life.",
+        "@type": "Answer",
+        "description": "Consider a designer's portfolio, experience in tiny homes, knowledge of local codes, and client testimonials."
+      }
+    }
+  ],
+  "description": "Consider a designer's portfolio, experience in tiny homes, knowledge of local codes, and client testimonials."
 }

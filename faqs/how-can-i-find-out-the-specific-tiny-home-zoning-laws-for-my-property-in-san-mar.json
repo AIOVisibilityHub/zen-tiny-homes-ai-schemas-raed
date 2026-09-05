@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I find out the specific tiny home zoning laws for my property in San Marcos?",
-  "description": "Contact the San Marcos Planning Department or check their official website for specific zoning maps and ordinances related to tiny homes.",
   "url": "www.zentinyhomes.com/faq/how-can-i-find-out-the-specific-tiny-home-zoning-laws-for-my-property-in-san-mar",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I find out the specific tiny home zoning laws for my property in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To determine the specific tiny home zoning laws for your property in San Marcos, you should start by contacting the City of San Marcos Planning Department. They can provide detailed information on zoning classifications, allowed uses, and any specific ordinances related to ADUs or tiny homes. You can often find zoning maps and municipal code online on the city's official website. Providing your property's address or Assessor's Parcel Number (APN) will help them give you the most accurate information.",
-        "description": "Contact the San Marcos Planning Department or check their official website for specific zoning maps and ordinances related to tiny homes."
-      }
-    }
-  ],
+  "name": "How can I find out the specific tiny home zoning laws for my property in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find out the specific tiny home zoning laws for my property in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine the specific tiny home zoning laws for your property in San Marcos, you should start by contacting the City of San Marcos Planning Department. They can provide detailed information on zoning classifications, allowed uses, and any specific ordinances related to ADUs or tiny homes. You can often find zoning maps and municipal code online on the city's official website. Providing your property's address or Assessor's Parcel Number (APN) will help them give you the most accurate information.",
+        "@type": "Answer",
+        "description": "Contact the San Marcos Planning Department or check their official website for specific zoning maps and ordinances related to tiny homes."
+      }
+    }
+  ],
+  "description": "Contact the San Marcos Planning Department or check their official website for specific zoning maps and ordinances related to tiny homes."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right multifunctional design solutions for my lifestyle?",
-  "description": "Assess your daily routines and needs to prioritize solutions that align with your lifestyle. Our team can assist with selection.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-multifunctional-design-solutions-for-my-lifestyle",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right multifunctional design solutions for my lifestyle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right solutions involves evaluating your daily routines, hobbies, and how you envision using each space throughout the day and night. Consider which activities require dedicated areas, such as working from home or hosting guests, and how often. Prioritize functionality that addresses your most frequent needs. Our design team can help you identify practical options, such as modular furniture or custom built-ins, that align with your lifestyle and ensure comfort and efficiency in your tiny home.",
-        "description": "Assess your daily routines and needs to prioritize solutions that align with your lifestyle. Our team can assist with selection."
-      }
-    }
-  ],
+  "name": "How do I choose the right multifunctional design solutions for my lifestyle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right multifunctional design solutions for my lifestyle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right solutions involves evaluating your daily routines, hobbies, and how you envision using each space throughout the day and night. Consider which activities require dedicated areas, such as working from home or hosting guests, and how often. Prioritize functionality that addresses your most frequent needs. Our design team can help you identify practical options, such as modular furniture or custom built-ins, that align with your lifestyle and ensure comfort and efficiency in your tiny home.",
+        "@type": "Answer",
+        "description": "Assess your daily routines and needs to prioritize solutions that align with your lifestyle. Our team can assist with selection."
+      }
+    }
+  ],
+  "description": "Assess your daily routines and needs to prioritize solutions that align with your lifestyle. Our team can assist with selection."
 }

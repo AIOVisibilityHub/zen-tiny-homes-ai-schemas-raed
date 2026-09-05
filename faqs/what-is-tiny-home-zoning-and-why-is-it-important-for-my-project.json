@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is tiny home zoning and why is it important for my project?",
-  "description": "Tiny home zoning defines where and how tiny homes can be used, and understanding it is essential for legal placement and permitting.",
   "url": "www.zentinyhomes.com/faq/what-is-tiny-home-zoning-and-why-is-it-important-for-my-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is tiny home zoning and why is it important for my project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home zoning refers to local regulations that dictate where tiny homes can be placed, their size, and how they can be used. These regulations vary significantly by city and county. Understanding zoning is crucial because it determines the legality of your tiny home placement, whether it can be a primary residence, an Accessory Dwelling Unit (ADU), or if it needs to be on wheels. Ignoring zoning can lead to fines, forced removal, or an inability to obtain necessary permits.",
-        "description": "Tiny home zoning defines where and how tiny homes can be used, and understanding it is essential for legal placement and permitting."
-      }
-    }
-  ],
+  "name": "What is tiny home zoning and why is it important for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is tiny home zoning and why is it important for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home zoning refers to local regulations that dictate where tiny homes can be placed, their size, and how they can be used. These regulations vary significantly by city and county. Understanding zoning is crucial because it determines the legality of your tiny home placement, whether it can be a primary residence, an Accessory Dwelling Unit (ADU), or if it needs to be on wheels. Ignoring zoning can lead to fines, forced removal, or an inability to obtain necessary permits.",
+        "@type": "Answer",
+        "description": "Tiny home zoning defines where and how tiny homes can be used, and understanding it is essential for legal placement and permitting."
+      }
+    }
+  ],
+  "description": "Tiny home zoning defines where and how tiny homes can be used, and understanding it is essential for legal placement and permitting."
 }

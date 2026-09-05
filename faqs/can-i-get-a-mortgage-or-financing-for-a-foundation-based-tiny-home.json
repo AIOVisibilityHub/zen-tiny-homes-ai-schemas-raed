@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get a mortgage or financing for a foundation-based tiny home?",
-  "description": "Yes, foundation-based tiny homes are typically eligible for traditional mortgages because they are permanent structures on real property. Lender criteria will a",
   "url": "www.zentinyhomes.com/faq/can-i-get-a-mortgage-or-financing-for-a-foundation-based-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get a mortgage or financing for a foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, foundation-based tiny homes are generally eligible for traditional mortgages and home loans, unlike tiny homes on wheels. Because they are permanently affixed to real property and built to local building codes, lenders typically view them similarly to conventional houses. Eligibility will depend on factors like your credit history, the home's appraisal value, and the land's ownership. We recommend consulting with lenders specializing in construction loans or smaller home mortgages.",
-        "description": "Yes, foundation-based tiny homes are typically eligible for traditional mortgages because they are permanent structures on real property. Lender criteria will apply."
-      }
-    }
-  ],
+  "name": "Can I get a mortgage or financing for a foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a mortgage or financing for a foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foundation-based tiny homes are generally eligible for traditional mortgages and home loans, unlike tiny homes on wheels. Because they are permanently affixed to real property and built to local building codes, lenders typically view them similarly to conventional houses. Eligibility will depend on factors like your credit history, the home's appraisal value, and the land's ownership. We recommend consulting with lenders specializing in construction loans or smaller home mortgages.",
+        "@type": "Answer",
+        "description": "Yes, foundation-based tiny homes are typically eligible for traditional mortgages because they are permanent structures on real property. Lender criteria will apply."
+      }
+    }
+  ],
+  "description": "Yes, foundation-based tiny homes are typically eligible for traditional mortgages because they are permanent structures on real property. Lender criteria will a"
 }

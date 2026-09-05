@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for professional interior layout design services for a tiny home?",
-  "description": "Professional interior layout design for a tiny home can range from hundreds to several thousands of dollars, depending on design complexity and services include",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-professional-interior-layout-design-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for professional interior layout design services for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for professional interior layout design services for a tiny home can vary based on the level of detail, customization, and the designer's experience. Generally, you can expect costs to range from a few hundred dollars for basic consultations and conceptual sketches to several thousand dollars for comprehensive packages that include detailed 3D renderings, material specifications, and multiple revision rounds. Some firms may offer packages or charge an hourly rate.",
-        "description": "Professional interior layout design for a tiny home can range from hundreds to several thousands of dollars, depending on design complexity and services included."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for professional interior layout design services for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for professional interior layout design services for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for professional interior layout design services for a tiny home can vary based on the level of detail, customization, and the designer's experience. Generally, you can expect costs to range from a few hundred dollars for basic consultations and conceptual sketches to several thousand dollars for comprehensive packages that include detailed 3D renderings, material specifications, and multiple revision rounds. Some firms may offer packages or charge an hourly rate.",
+        "@type": "Answer",
+        "description": "Professional interior layout design for a tiny home can range from hundreds to several thousands of dollars, depending on design complexity and services included."
+      }
+    }
+  ],
+  "description": "Professional interior layout design for a tiny home can range from hundreds to several thousands of dollars, depending on design complexity and services include"
 }

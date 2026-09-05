@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I place a tiny home in my backyard as an Accessory Dwelling Unit (ADU)?",
-  "description": "Yes, many areas permit tiny homes as ADUs in backyards, but you must meet local regulations for lot size, setbacks, height, parking, and building codes. Check y",
   "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-in-my-backyard-as-an-accessory-dwelling-unit-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I place a tiny home in my backyard as an Accessory Dwelling Unit (ADU)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In many areas, including parts of San Diego County, placing a tiny home as an Accessory Dwelling Unit (ADU) in your backyard is permissible, provided it meets specific local regulations. These regulations typically include minimum lot size requirements, setback distances from property lines, maximum height limits, and specific parking provisions. The tiny home, when used as an ADU, must also comply with building codes and often requires its own utility connections. It's essential to check the specific ADU ordinances for your city or unincorporated county area, as rules can differ significantly.",
-        "description": "Yes, many areas permit tiny homes as ADUs in backyards, but you must meet local regulations for lot size, setbacks, height, parking, and building codes. Check your specific city or county ordinances."
-      }
-    }
-  ],
+  "name": "Can I place a tiny home in my backyard as an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I place a tiny home in my backyard as an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including parts of San Diego County, placing a tiny home as an Accessory Dwelling Unit (ADU) in your backyard is permissible, provided it meets specific local regulations. These regulations typically include minimum lot size requirements, setback distances from property lines, maximum height limits, and specific parking provisions. The tiny home, when used as an ADU, must also comply with building codes and often requires its own utility connections. It's essential to check the specific ADU ordinances for your city or unincorporated county area, as rules can differ significantly.",
+        "@type": "Answer",
+        "description": "Yes, many areas permit tiny homes as ADUs in backyards, but you must meet local regulations for lot size, setbacks, height, parking, and building codes. Check your specific city or county ordinances."
+      }
+    }
+  ],
+  "description": "Yes, many areas permit tiny homes as ADUs in backyards, but you must meet local regulations for lot size, setbacks, height, parking, and building codes. Check y"
 }

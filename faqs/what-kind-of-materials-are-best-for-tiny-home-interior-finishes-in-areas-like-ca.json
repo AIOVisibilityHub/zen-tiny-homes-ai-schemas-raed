@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of materials are best for tiny home interior finishes in areas like Carlsbad?",
-  "description": "Durable, moisture-resistant, and low-maintenance materials like marine-grade plywood or bamboo are best for tiny home interior finishes in coastal areas like Ca",
   "url": "www.zentinyhomes.com/faq/what-kind-of-materials-are-best-for-tiny-home-interior-finishes-in-areas-like-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of materials are best for tiny home interior finishes in areas like Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For tiny home interior finishes in coastal areas like Carlsbad, it's beneficial to choose durable, moisture-resistant, and low-maintenance materials. Light-colored finishes can also help expand the perception of space. Options like marine-grade plywood, sustainable bamboo, or composite materials for flooring and cabinetry offer longevity and stand up well to humidity. Consider finishes that are easy to clean and resist wear to keep your tiny home looking new longer.",
-        "description": "Durable, moisture-resistant, and low-maintenance materials like marine-grade plywood or bamboo are best for tiny home interior finishes in coastal areas like Carlsbad."
-      }
-    }
-  ],
+  "name": "What kind of materials are best for tiny home interior finishes in areas like Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are best for tiny home interior finishes in areas like Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For tiny home interior finishes in coastal areas like Carlsbad, it's beneficial to choose durable, moisture-resistant, and low-maintenance materials. Light-colored finishes can also help expand the perception of space. Options like marine-grade plywood, sustainable bamboo, or composite materials for flooring and cabinetry offer longevity and stand up well to humidity. Consider finishes that are easy to clean and resist wear to keep your tiny home looking new longer.",
+        "@type": "Answer",
+        "description": "Durable, moisture-resistant, and low-maintenance materials like marine-grade plywood or bamboo are best for tiny home interior finishes in coastal areas like Carlsbad."
+      }
+    }
+  ],
+  "description": "Durable, moisture-resistant, and low-maintenance materials like marine-grade plywood or bamboo are best for tiny home interior finishes in coastal areas like Ca"
 }

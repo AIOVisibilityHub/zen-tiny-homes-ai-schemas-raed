@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize the design of my tiny home shell?",
-  "description": "Yes, you can customize your tiny home shell's dimensions, roof style, window/door placement, and exterior finishes to match your vision.",
   "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-tiny-home-shell",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize the design of my tiny home shell?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, customization is a core part of the Zen Tiny Homes experience. We work closely with you to design a shell that perfectly fits your vision. You can specify dimensions, roof style, window and door placements, and exterior finishes. While the shell focuses on the structural and exterior elements, these foundational choices significantly impact the final look and feel of your tiny home. Our team helps translate your ideas into a buildable plan, ensuring the shell is optimized for your interior layout and aesthetic preferences.",
-        "description": "Yes, you can customize your tiny home shell's dimensions, roof style, window/door placement, and exterior finishes to match your vision."
-      }
-    }
-  ],
+  "name": "Can I customize the design of my tiny home shell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my tiny home shell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization is a core part of the Zen Tiny Homes experience. We work closely with you to design a shell that perfectly fits your vision. You can specify dimensions, roof style, window and door placements, and exterior finishes. While the shell focuses on the structural and exterior elements, these foundational choices significantly impact the final look and feel of your tiny home. Our team helps translate your ideas into a buildable plan, ensuring the shell is optimized for your interior layout and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Yes, you can customize your tiny home shell's dimensions, roof style, window/door placement, and exterior finishes to match your vision."
+      }
+    }
+  ],
+  "description": "Yes, you can customize your tiny home shell's dimensions, roof style, window/door placement, and exterior finishes to match your vision."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What zoning laws affect tiny home placement in Carlsbad?",
-  "description": "Carlsbad zoning laws for tiny homes cover lot size, setbacks, height, and parking. Always check with the city's planning department.",
   "url": "www.zentinyhomes.com/faq/what-zoning-laws-affect-tiny-home-placement-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What zoning laws affect tiny home placement in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Carlsbad, tiny home placement is subject to specific zoning ordinances that dictate where accessory dwelling units (ADUs) or other small structures can be located. These laws often cover minimum lot sizes, setback requirements from property lines, maximum height, and parking provisions. It's essential to consult Carlsbad's planning department directly or work with a local expert to ensure your proposed tiny home location complies with all municipal codes before starting any work.",
-        "description": "Carlsbad zoning laws for tiny homes cover lot size, setbacks, height, and parking. Always check with the city's planning department."
-      }
-    }
-  ],
+  "name": "What zoning laws affect tiny home placement in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What zoning laws affect tiny home placement in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Carlsbad, tiny home placement is subject to specific zoning ordinances that dictate where accessory dwelling units (ADUs) or other small structures can be located. These laws often cover minimum lot sizes, setback requirements from property lines, maximum height, and parking provisions. It's essential to consult Carlsbad's planning department directly or work with a local expert to ensure your proposed tiny home location complies with all municipal codes before starting any work.",
+        "@type": "Answer",
+        "description": "Carlsbad zoning laws for tiny homes cover lot size, setbacks, height, and parking. Always check with the city's planning department."
+      }
+    }
+  ],
+  "description": "Carlsbad zoning laws for tiny homes cover lot size, setbacks, height, and parking. Always check with the city's planning department."
 }

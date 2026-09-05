@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do small-space planning services differ from traditional interior design?",
-  "description": "Small-space planning prioritizes extreme efficiency and multi-functionality in limited spaces, unlike traditional interior design which has more spatial flexibi",
   "url": "www.zentinyhomes.com/faq/how-do-small-space-planning-services-differ-from-traditional-interior-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do small-space planning services differ from traditional interior design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small-space planning services are hyper-focused on maximizing efficiency and multi-functionality within extremely limited square footage, a primary concern for tiny homes. Traditional interior design, while also focusing on aesthetics and function, often has more flexibility with space and can prioritize decorative elements more heavily. Small-space planning emphasizes innovative storage solutions, convertible furniture, and strategic layouts to ensure every inch is utilized effectively, whereas traditional design might have fewer constraints in these areas.",
-        "description": "Small-space planning prioritizes extreme efficiency and multi-functionality in limited spaces, unlike traditional interior design which has more spatial flexibility."
-      }
-    }
-  ],
+  "name": "How do small-space planning services differ from traditional interior design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do small-space planning services differ from traditional interior design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small-space planning services are hyper-focused on maximizing efficiency and multi-functionality within extremely limited square footage, a primary concern for tiny homes. Traditional interior design, while also focusing on aesthetics and function, often has more flexibility with space and can prioritize decorative elements more heavily. Small-space planning emphasizes innovative storage solutions, convertible furniture, and strategic layouts to ensure every inch is utilized effectively, whereas traditional design might have fewer constraints in these areas.",
+        "@type": "Answer",
+        "description": "Small-space planning prioritizes extreme efficiency and multi-functionality in limited spaces, unlike traditional interior design which has more spatial flexibility."
+      }
+    }
+  ],
+  "description": "Small-space planning prioritizes extreme efficiency and multi-functionality in limited spaces, unlike traditional interior design which has more spatial flexibi"
 }

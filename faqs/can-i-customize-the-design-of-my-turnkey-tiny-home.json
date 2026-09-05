@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize the design of my turnkey tiny home?",
-  "description": "Yes, you can extensively customize your tiny home's design, floor plan, finishes, and features. Our team works with you to bring your vision to life.",
   "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-turnkey-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize the design of my turnkey tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. While we offer a range of pre-designed models, customization is a core part of our service. You can work with our design team to modify floor plans, choose specific interior finishes, select appliances, and incorporate features that align with your lifestyle and preferences. Whether it's a unique layout, specific material choices, or integrating smart home technology, we aim to build a tiny home that truly reflects your vision and needs. Customization levels impact cost and timeline.",
-        "description": "Yes, you can extensively customize your tiny home's design, floor plan, finishes, and features. Our team works with you to bring your vision to life."
-      }
-    }
-  ],
+  "name": "Can I customize the design of my turnkey tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my turnkey tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. While we offer a range of pre-designed models, customization is a core part of our service. You can work with our design team to modify floor plans, choose specific interior finishes, select appliances, and incorporate features that align with your lifestyle and preferences. Whether it's a unique layout, specific material choices, or integrating smart home technology, we aim to build a tiny home that truly reflects your vision and needs. Customization levels impact cost and timeline.",
+        "@type": "Answer",
+        "description": "Yes, you can extensively customize your tiny home's design, floor plan, finishes, and features. Our team works with you to bring your vision to life."
+      }
+    }
+  ],
+  "description": "Yes, you can extensively customize your tiny home's design, floor plan, finishes, and features. Our team works with you to bring your vision to life."
 }

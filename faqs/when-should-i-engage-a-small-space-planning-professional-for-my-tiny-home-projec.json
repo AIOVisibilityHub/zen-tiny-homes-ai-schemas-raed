@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I engage a small-space planning professional for my tiny home project?",
-  "description": "Engage a small-space planning professional early in your tiny home project, preferably during architectural design, to integrate spatial strategies effectively.",
   "url": "www.zentinyhomes.com/faq/when-should-i-engage-a-small-space-planning-professional-for-my-tiny-home-projec",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I engage a small-space planning professional for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is most beneficial to engage a small-space planning professional during the very early stages of your tiny home project, ideally before or during the architectural design phase. This allows for seamless integration of spatial strategies directly into the home's blueprint, preventing costly revisions later. Involving a planner early ensures that structural elements, utilities, and built-ins are considered from the outset, leading to a more cohesive, functional, and aesthetically pleasing tiny home.",
-        "description": "Engage a small-space planning professional early in your tiny home project, preferably during architectural design, to integrate spatial strategies effectively."
-      }
-    }
-  ],
+  "name": "When should I engage a small-space planning professional for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a small-space planning professional for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is most beneficial to engage a small-space planning professional during the very early stages of your tiny home project, ideally before or during the architectural design phase. This allows for seamless integration of spatial strategies directly into the home's blueprint, preventing costly revisions later. Involving a planner early ensures that structural elements, utilities, and built-ins are considered from the outset, leading to a more cohesive, functional, and aesthetically pleasing tiny home.",
+        "@type": "Answer",
+        "description": "Engage a small-space planning professional early in your tiny home project, preferably during architectural design, to integrate spatial strategies effectively."
+      }
+    }
+  ],
+  "description": "Engage a small-space planning professional early in your tiny home project, preferably during architectural design, to integrate spatial strategies effectively."
 }

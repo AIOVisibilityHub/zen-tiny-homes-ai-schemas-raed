@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed to build a tiny home ADU for multigenerational family use?",
-  "description": "Building a tiny home ADU requires building, plumbing, electrical, mechanical, and zoning permits from your local city or county. We handle the permit acquisitio",
   "url": "www.zentinyhomes.com/faq/what-permits-are-needed-to-build-a-tiny-home-adu-for-multigenerational-family-us",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed to build a tiny home ADU for multigenerational family use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a tiny home ADU for multigenerational family use requires obtaining several permits from your local jurisdiction. These typically include a building permit, which ensures the structure meets safety and construction codes. Depending on the project, you may also need permits for plumbing, electrical work, and mechanical systems. Additionally, zoning permits or planning approvals are necessary to ensure the ADU complies with local land use regulations. Our process includes managing and securing all necessary permits on your behalf.",
-        "description": "Building a tiny home ADU requires building, plumbing, electrical, mechanical, and zoning permits from your local city or county. We handle the permit acquisition process."
-      }
-    }
-  ],
+  "name": "What permits are needed to build a tiny home ADU for multigenerational family use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed to build a tiny home ADU for multigenerational family use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a tiny home ADU for multigenerational family use requires obtaining several permits from your local jurisdiction. These typically include a building permit, which ensures the structure meets safety and construction codes. Depending on the project, you may also need permits for plumbing, electrical work, and mechanical systems. Additionally, zoning permits or planning approvals are necessary to ensure the ADU complies with local land use regulations. Our process includes managing and securing all necessary permits on your behalf.",
+        "@type": "Answer",
+        "description": "Building a tiny home ADU requires building, plumbing, electrical, mechanical, and zoning permits from your local city or county. We handle the permit acquisition process."
+      }
+    }
+  ],
+  "description": "Building a tiny home ADU requires building, plumbing, electrical, mechanical, and zoning permits from your local city or county. We handle the permit acquisitio"
 }

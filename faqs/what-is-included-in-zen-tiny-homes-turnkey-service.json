@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in Zen Tiny Homes' turnkey service?",
-  "description": "Zen Tiny Homes' turnkey service covers everything from design, permitting, and construction to all interior/exterior finishes and utility connections, deliverin",
   "url": "www.zentinyhomes.com/faq/what-is-included-in-zen-tiny-homes-turnkey-service",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in Zen Tiny Homes' turnkey service?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our turnkey service includes comprehensive project management from concept to completion. This covers initial design consultation, architectural plans, assistance with local permitting requirements, site preparation and foundation work, full construction of the tiny home, all interior and exterior finishes (e.g., flooring, cabinetry, appliances, siding), and connection to essential utilities like water, sewer/septic, and electricity. We aim to deliver a ready-to-live-in home without additional client effort.",
-        "description": "Zen Tiny Homes' turnkey service covers everything from design, permitting, and construction to all interior/exterior finishes and utility connections, delivering a move-in ready home."
-      }
-    }
-  ],
+  "name": "What is included in Zen Tiny Homes' turnkey service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in Zen Tiny Homes' turnkey service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our turnkey service includes comprehensive project management from concept to completion. This covers initial design consultation, architectural plans, assistance with local permitting requirements, site preparation and foundation work, full construction of the tiny home, all interior and exterior finishes (e.g., flooring, cabinetry, appliances, siding), and connection to essential utilities like water, sewer/septic, and electricity. We aim to deliver a ready-to-live-in home without additional client effort.",
+        "@type": "Answer",
+        "description": "Zen Tiny Homes' turnkey service covers everything from design, permitting, and construction to all interior/exterior finishes and utility connections, delivering a move-in ready home."
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes' turnkey service covers everything from design, permitting, and construction to all interior/exterior finishes and utility connections, deliverin"
 }

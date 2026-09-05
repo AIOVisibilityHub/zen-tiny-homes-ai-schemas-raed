@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you handle custom tiny home designs in San Marcos?",
-  "description": "Yes, we handle custom tiny home designs in San Marcos, including local zoning and permitting requirements.",
   "url": "www.zentinyhomes.com/faq/do-you-handle-custom-tiny-home-designs-in-san-marcos",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you handle custom tiny home designs in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes provides custom tiny home design services for clients in San Marcos. We are familiar with the local zoning regulations and permitting requirements in the area, which is crucial for ensuring a smooth design and build process. Our team can guide you through the specific guidelines applicable to tiny homes in San Marcos, from initial design concepts to final construction. We aim to create a home that complies with all local standards while fulfilling your unique vision.",
-        "description": "Yes, we handle custom tiny home designs in San Marcos, including local zoning and permitting requirements."
-      }
-    }
-  ],
+  "name": "Do you handle custom tiny home designs in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle custom tiny home designs in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes provides custom tiny home design services for clients in San Marcos. We are familiar with the local zoning regulations and permitting requirements in the area, which is crucial for ensuring a smooth design and build process. Our team can guide you through the specific guidelines applicable to tiny homes in San Marcos, from initial design concepts to final construction. We aim to create a home that complies with all local standards while fulfilling your unique vision.",
+        "@type": "Answer",
+        "description": "Yes, we handle custom tiny home designs in San Marcos, including local zoning and permitting requirements."
+      }
+    }
+  ],
+  "description": "Yes, we handle custom tiny home designs in San Marcos, including local zoning and permitting requirements."
 }

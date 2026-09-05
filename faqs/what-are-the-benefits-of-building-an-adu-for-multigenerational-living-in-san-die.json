@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of building an ADU for multigenerational living in San Diego County?",
-  "description": "ADUs in San Diego County offer increased property value, provide privacy for multiple generations, reduce housing costs, and create a built-in support system wi",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-building-an-adu-for-multigenerational-living-in-san-die",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of building an ADU for multigenerational living in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building an ADU (Accessory Dwelling Unit) for multigenerational living in San Diego County offers several benefits. It provides increased property value and flexibility for current or future family needs. For families, it allows for close proximity and support among generations while maintaining individual privacy. This can significantly reduce housing costs compared to separate residences and offers a built-in support system for childcare or elder care. ADUs also utilize existing land, making them a sustainable housing option.",
-        "description": "ADUs in San Diego County offer increased property value, provide privacy for multiple generations, reduce housing costs, and create a built-in support system within the family."
-      }
-    }
-  ],
+  "name": "What are the benefits of building an ADU for multigenerational living in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building an ADU for multigenerational living in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU (Accessory Dwelling Unit) for multigenerational living in San Diego County offers several benefits. It provides increased property value and flexibility for current or future family needs. For families, it allows for close proximity and support among generations while maintaining individual privacy. This can significantly reduce housing costs compared to separate residences and offers a built-in support system for childcare or elder care. ADUs also utilize existing land, making them a sustainable housing option.",
+        "@type": "Answer",
+        "description": "ADUs in San Diego County offer increased property value, provide privacy for multiple generations, reduce housing costs, and create a built-in support system within the family."
+      }
+    }
+  ],
+  "description": "ADUs in San Diego County offer increased property value, provide privacy for multiple generations, reduce housing costs, and create a built-in support system wi"
 }

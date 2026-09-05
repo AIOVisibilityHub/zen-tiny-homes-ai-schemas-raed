@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to place a tiny home in Escondido?",
-  "description": "Yes, placing a tiny home in Escondido generally requires permits, especially for permanent residence or as an ADU. Consult the city's departments.",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-place-a-tiny-home-in-escondido",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to place a tiny home in Escondido?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, placing a tiny home in Escondido typically requires permits, especially if it's intended for permanent residence or as an Accessory Dwelling Unit (ADU). The specific permits needed will depend on whether it's on a foundation or wheels, its size, and the proposed use. This usually involves building permits, zoning clearance, and possibly utility connection permits. It's crucial to consult with the City of Escondido's planning and building departments to understand all requirements.",
-        "description": "Yes, placing a tiny home in Escondido generally requires permits, especially for permanent residence or as an ADU. Consult the city's departments."
-      }
-    }
-  ],
+  "name": "Do I need a permit to place a tiny home in Escondido?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to place a tiny home in Escondido?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, placing a tiny home in Escondido typically requires permits, especially if it's intended for permanent residence or as an Accessory Dwelling Unit (ADU). The specific permits needed will depend on whether it's on a foundation or wheels, its size, and the proposed use. This usually involves building permits, zoning clearance, and possibly utility connection permits. It's crucial to consult with the City of Escondido's planning and building departments to understand all requirements.",
+        "@type": "Answer",
+        "description": "Yes, placing a tiny home in Escondido generally requires permits, especially for permanent residence or as an ADU. Consult the city's departments."
+      }
+    }
+  ],
+  "description": "Yes, placing a tiny home in Escondido generally requires permits, especially for permanent residence or as an ADU. Consult the city's departments."
 }

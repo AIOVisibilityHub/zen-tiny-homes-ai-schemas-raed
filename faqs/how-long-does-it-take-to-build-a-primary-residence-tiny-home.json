@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to build a primary-residence tiny home?",
-  "description": "Building a primary-residence tiny home typically takes 3 to 6 months, depending on design complexity, material availability, and permit processes.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to build a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a primary-residence tiny home can vary, typically ranging from 3 to 6 months from groundbreaking to completion. This estimate depends on factors such as the complexity of the design, material availability, the efficiency of the construction team, and the time required for inspections and permit approvals. Site preparation, utility connections, and weather conditions can also influence the overall schedule. We work to establish a realistic timeline for each project based on its unique specifications.",
-        "description": "Building a primary-residence tiny home typically takes 3 to 6 months, depending on design complexity, material availability, and permit processes."
-      }
-    }
-  ],
+  "name": "How long does it take to build a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a primary-residence tiny home can vary, typically ranging from 3 to 6 months from groundbreaking to completion. This estimate depends on factors such as the complexity of the design, material availability, the efficiency of the construction team, and the time required for inspections and permit approvals. Site preparation, utility connections, and weather conditions can also influence the overall schedule. We work to establish a realistic timeline for each project based on its unique specifications.",
+        "@type": "Answer",
+        "description": "Building a primary-residence tiny home typically takes 3 to 6 months, depending on design complexity, material availability, and permit processes."
+      }
+    }
+  ],
+  "description": "Building a primary-residence tiny home typically takes 3 to 6 months, depending on design complexity, material availability, and permit processes."
 }

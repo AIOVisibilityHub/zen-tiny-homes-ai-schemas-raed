@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is tiny home placement planning?",
-  "description": "Tiny home placement planning evaluates a property for zoning, utilities, and environmental factors to find the best site for your home.",
   "url": "www.zentinyhomes.com/faq/what-is-tiny-home-placement-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is tiny home placement planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home placement planning involves assessing a property's suitability for a tiny home, considering factors like zoning regulations, utility access, and environmental conditions. It determines the best spot for the home to ensure compliance with local ordinances, maximize natural light, and optimize functionality. This planning phase is crucial before any site preparation or construction begins to avoid costly issues down the line.",
-        "description": "Tiny home placement planning evaluates a property for zoning, utilities, and environmental factors to find the best site for your home."
-      }
-    }
-  ],
+  "name": "What is tiny home placement planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is tiny home placement planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home placement planning involves assessing a property's suitability for a tiny home, considering factors like zoning regulations, utility access, and environmental conditions. It determines the best spot for the home to ensure compliance with local ordinances, maximize natural light, and optimize functionality. This planning phase is crucial before any site preparation or construction begins to avoid costly issues down the line.",
+        "@type": "Answer",
+        "description": "Tiny home placement planning evaluates a property for zoning, utilities, and environmental factors to find the best site for your home."
+      }
+    }
+  ],
+  "description": "Tiny home placement planning evaluates a property for zoning, utilities, and environmental factors to find the best site for your home."
 }

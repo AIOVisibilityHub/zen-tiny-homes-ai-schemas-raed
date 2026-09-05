@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can multifunctional design benefit a tiny home?",
-  "description": "It maximizes utility and comfort in tiny homes by making limited space adaptable for various functions.",
   "url": "www.zentinyhomes.com/faq/how-can-multifunctional-design-benefit-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can multifunctional design benefit a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional design significantly benefits tiny homes by transforming limited square footage into highly adaptable and efficient environments. It allows owners to enjoy the amenities of a larger home, such as a dedicated workspace, guest area, or ample storage, all within a compact footprint. This approach prevents clutter, enhances organization, and creates a sense of spaciousness, making the living experience more comfortable and sustainable. Ultimately, it optimizes every inch to meet diverse daily needs.",
-        "description": "It maximizes utility and comfort in tiny homes by making limited space adaptable for various functions."
-      }
-    }
-  ],
+  "name": "How can multifunctional design benefit a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can multifunctional design benefit a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional design significantly benefits tiny homes by transforming limited square footage into highly adaptable and efficient environments. It allows owners to enjoy the amenities of a larger home, such as a dedicated workspace, guest area, or ample storage, all within a compact footprint. This approach prevents clutter, enhances organization, and creates a sense of spaciousness, making the living experience more comfortable and sustainable. Ultimately, it optimizes every inch to meet diverse daily needs.",
+        "@type": "Answer",
+        "description": "It maximizes utility and comfort in tiny homes by making limited space adaptable for various functions."
+      }
+    }
+  ],
+  "description": "It maximizes utility and comfort in tiny homes by making limited space adaptable for various functions."
 }

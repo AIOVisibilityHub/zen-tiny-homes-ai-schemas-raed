@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need land before starting a turnkey tiny home project?",
-  "description": "Yes, you need to secure suitable land before starting a turnkey tiny home project, as zoning and site characteristics impact feasibility and design.",
   "url": "www.zentinyhomes.com/faq/do-i-need-land-before-starting-a-turnkey-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need land before starting a turnkey tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, having a suitable piece of land is a crucial first step before beginning a turnkey tiny home project. The land's characteristics, such as zoning regulations, accessibility, and utility availability, will significantly influence the design and feasibility of your tiny home. Zen Tiny Homes can assist with understanding local zoning in areas like Vista and Oceanside, but securing the land is the homeowner's responsibility prior to construction.",
-        "description": "Yes, you need to secure suitable land before starting a turnkey tiny home project, as zoning and site characteristics impact feasibility and design."
-      }
-    }
-  ],
+  "name": "Do I need land before starting a turnkey tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need land before starting a turnkey tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, having a suitable piece of land is a crucial first step before beginning a turnkey tiny home project. The land's characteristics, such as zoning regulations, accessibility, and utility availability, will significantly influence the design and feasibility of your tiny home. Zen Tiny Homes can assist with understanding local zoning in areas like Vista and Oceanside, but securing the land is the homeowner's responsibility prior to construction.",
+        "@type": "Answer",
+        "description": "Yes, you need to secure suitable land before starting a turnkey tiny home project, as zoning and site characteristics impact feasibility and design."
+      }
+    }
+  ],
+  "description": "Yes, you need to secure suitable land before starting a turnkey tiny home project, as zoning and site characteristics impact feasibility and design."
 }

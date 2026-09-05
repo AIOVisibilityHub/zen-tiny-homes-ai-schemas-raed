@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common design considerations for maximizing space in a tiny home?",
-  "description": "Maximizing tiny home space involves using vertical areas with lofts, multi-functional furniture, built-in storage, compact appliances, and open layouts to enhan",
   "url": "www.zentinyhomes.com/faq/what-are-common-design-considerations-for-maximizing-space-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common design considerations for maximizing space in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maximizing space in a tiny home involves clever design strategies. Vertical space is often utilized with lofts for sleeping or storage, and multi-functional furniture like murphy beds, collapsible tables, and storage-integrated seating. Built-in storage solutions, such as under-floor compartments or shelving integrated into walls, are essential. Smart appliance choices, like compact or combination units, save valuable counter space. Open-concept layouts and abundant natural light can also make a small space feel larger and more inviting. Every design decision aims for efficiency and dual purpose.",
-        "description": "Maximizing tiny home space involves using vertical areas with lofts, multi-functional furniture, built-in storage, compact appliances, and open layouts to enhance spaciousness."
-      }
-    }
-  ],
+  "name": "What are common design considerations for maximizing space in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for maximizing space in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maximizing space in a tiny home involves clever design strategies. Vertical space is often utilized with lofts for sleeping or storage, and multi-functional furniture like murphy beds, collapsible tables, and storage-integrated seating. Built-in storage solutions, such as under-floor compartments or shelving integrated into walls, are essential. Smart appliance choices, like compact or combination units, save valuable counter space. Open-concept layouts and abundant natural light can also make a small space feel larger and more inviting. Every design decision aims for efficiency and dual purpose.",
+        "@type": "Answer",
+        "description": "Maximizing tiny home space involves using vertical areas with lofts, multi-functional furniture, built-in storage, compact appliances, and open layouts to enhance spaciousness."
+      }
+    }
+  ],
+  "description": "Maximizing tiny home space involves using vertical areas with lofts, multi-functional furniture, built-in storage, compact appliances, and open layouts to enhan"
 }

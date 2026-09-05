@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges of living in a multifunctional tiny home?",
-  "description": "Challenges include maintaining organization and managing space transitions, which can lead to clutter without mindful habits.",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-of-living-in-a-multifunctional-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges of living in a multifunctional tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Living in a multifunctional tiny home presents unique challenges, primarily related to maintaining organization and managing transitions between different space functions. Without careful planning and consistent habits, spaces can quickly feel cluttered if items aren't put away immediately after use. It also requires a mindful approach to belongings, as excessive items can undermine the efficiency of flexible spaces. Our designs aim to mitigate these challenges with ample, integrated storage solutions.",
-        "description": "Challenges include maintaining organization and managing space transitions, which can lead to clutter without mindful habits."
-      }
-    }
-  ],
+  "name": "What are the common challenges of living in a multifunctional tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges of living in a multifunctional tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in a multifunctional tiny home presents unique challenges, primarily related to maintaining organization and managing transitions between different space functions. Without careful planning and consistent habits, spaces can quickly feel cluttered if items aren't put away immediately after use. It also requires a mindful approach to belongings, as excessive items can undermine the efficiency of flexible spaces. Our designs aim to mitigate these challenges with ample, integrated storage solutions.",
+        "@type": "Answer",
+        "description": "Challenges include maintaining organization and managing space transitions, which can lead to clutter without mindful habits."
+      }
+    }
+  ],
+  "description": "Challenges include maintaining organization and managing space transitions, which can lead to clutter without mindful habits."
 }

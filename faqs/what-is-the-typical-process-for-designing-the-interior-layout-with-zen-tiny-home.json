@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for designing the interior layout with Zen Tiny Homes?",
-  "description": "Our process involves initial consultation, conceptual design and renderings, client feedback and revisions, followed by final detailed plan approval for constru",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-process-for-designing-the-interior-layout-with-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for designing the interior layout with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our interior layout design process at Zen Tiny Homes starts with an initial consultation to understand your vision, needs, and budget. Next, our designers develop conceptual sketches and 2D/3D renderings for your review. We then incorporate your feedback through revision rounds, refining the layout, material selections, and specific features. Once the design is approved, we finalize the detailed plans, ensuring everything is ready for the construction phase.",
-        "description": "Our process involves initial consultation, conceptual design and renderings, client feedback and revisions, followed by final detailed plan approval for construction."
-      }
-    }
-  ],
+  "name": "What is the typical process for designing the interior layout with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing the interior layout with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior layout design process at Zen Tiny Homes starts with an initial consultation to understand your vision, needs, and budget. Next, our designers develop conceptual sketches and 2D/3D renderings for your review. We then incorporate your feedback through revision rounds, refining the layout, material selections, and specific features. Once the design is approved, we finalize the detailed plans, ensuring everything is ready for the construction phase.",
+        "@type": "Answer",
+        "description": "Our process involves initial consultation, conceptual design and renderings, client feedback and revisions, followed by final detailed plan approval for construction."
+      }
+    }
+  ],
+  "description": "Our process involves initial consultation, conceptual design and renderings, client feedback and revisions, followed by final detailed plan approval for constru"
 }

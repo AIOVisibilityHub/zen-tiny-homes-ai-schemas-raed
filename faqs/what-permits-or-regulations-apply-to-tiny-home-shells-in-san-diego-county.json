@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits or regulations apply to tiny-home shells in San Diego County?",
-  "description": "Permits and regulations for tiny-home shells in San Diego County vary by specific city or jurisdiction; check with local planning departments for guidance on pl",
   "url": "www.zentinyhomes.com/faq/what-permits-or-regulations-apply-to-tiny-home-shells-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits or regulations apply to tiny-home shells in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regulations for tiny homes, even shells, vary within San Diego County's diverse jurisdictions. While a shell itself isn't typically occupied, its eventual use as a dwelling may fall under local zoning ordinances, building codes, and ADU (Accessory Dwelling Unit) regulations. It's crucial to research the specific rules for your intended placement location. Zen Tiny Homes recommends consulting with your local city's planning department or San Diego County Planning & Development Services to understand the applicable requirements before purchasing.",
-        "description": "Permits and regulations for tiny-home shells in San Diego County vary by specific city or jurisdiction; check with local planning departments for guidance on placement and use."
-      }
-    }
-  ],
+  "name": "What permits or regulations apply to tiny-home shells in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits or regulations apply to tiny-home shells in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regulations for tiny homes, even shells, vary within San Diego County's diverse jurisdictions. While a shell itself isn't typically occupied, its eventual use as a dwelling may fall under local zoning ordinances, building codes, and ADU (Accessory Dwelling Unit) regulations. It's crucial to research the specific rules for your intended placement location. Zen Tiny Homes recommends consulting with your local city's planning department or San Diego County Planning & Development Services to understand the applicable requirements before purchasing.",
+        "@type": "Answer",
+        "description": "Permits and regulations for tiny-home shells in San Diego County vary by specific city or jurisdiction; check with local planning departments for guidance on placement and use."
+      }
+    }
+  ],
+  "description": "Permits and regulations for tiny-home shells in San Diego County vary by specific city or jurisdiction; check with local planning departments for guidance on pl"
 }

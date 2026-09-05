@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What financing options are available for turnkey tiny homes?",
-  "description": "Financing for turnkey tiny homes often includes personal loans, RV loans, or specialized tiny home financing programs, as traditional mortgages may not apply.",
   "url": "www.zentinyhomes.com/faq/what-financing-options-are-available-for-turnkey-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What financing options are available for turnkey tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financing options for turnkey tiny homes can vary compared to traditional mortgages due to their size and classification. Some common options include personal loans, RV loans (if the tiny home is on wheels and certified as such), or specialized tiny home financing programs offered by credit unions or lenders. In some cases, a construction loan might be an option if the home is permanently affixed to a foundation. We recommend consulting with financial institutions experienced in alternative housing financing.",
-        "description": "Financing for turnkey tiny homes often includes personal loans, RV loans, or specialized tiny home financing programs, as traditional mortgages may not apply."
-      }
-    }
-  ],
+  "name": "What financing options are available for turnkey tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for turnkey tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for turnkey tiny homes can vary compared to traditional mortgages due to their size and classification. Some common options include personal loans, RV loans (if the tiny home is on wheels and certified as such), or specialized tiny home financing programs offered by credit unions or lenders. In some cases, a construction loan might be an option if the home is permanently affixed to a foundation. We recommend consulting with financial institutions experienced in alternative housing financing.",
+        "@type": "Answer",
+        "description": "Financing for turnkey tiny homes often includes personal loans, RV loans, or specialized tiny home financing programs, as traditional mortgages may not apply."
+      }
+    }
+  ],
+  "description": "Financing for turnkey tiny homes often includes personal loans, RV loans, or specialized tiny home financing programs, as traditional mortgages may not apply."
 }

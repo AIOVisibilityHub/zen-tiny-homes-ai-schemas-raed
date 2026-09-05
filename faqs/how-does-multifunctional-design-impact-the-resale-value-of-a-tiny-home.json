@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does multifunctional design impact the resale value of a tiny home?",
-  "description": "It can increase resale value by showcasing versatility and efficiency, appealing to buyers seeking adaptable living in compact spaces.",
   "url": "www.zentinyhomes.com/faq/how-does-multifunctional-design-impact-the-resale-value-of-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does multifunctional design impact the resale value of a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional design can positively impact the resale value of a tiny home by making it more appealing to a wider range of potential buyers. The ability to transform a compact space to serve various needs, such as a bedroom into an office or a living room into a dining area, highlights its versatility and efficiency. This perceived adaptability and intelligent use of space can command a higher value compared to homes with less flexible layouts, as it offers enhanced utility and comfort within a smaller footprint.",
-        "description": "It can increase resale value by showcasing versatility and efficiency, appealing to buyers seeking adaptable living in compact spaces."
-      }
-    }
-  ],
+  "name": "How does multifunctional design impact the resale value of a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does multifunctional design impact the resale value of a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional design can positively impact the resale value of a tiny home by making it more appealing to a wider range of potential buyers. The ability to transform a compact space to serve various needs, such as a bedroom into an office or a living room into a dining area, highlights its versatility and efficiency. This perceived adaptability and intelligent use of space can command a higher value compared to homes with less flexible layouts, as it offers enhanced utility and comfort within a smaller footprint.",
+        "@type": "Answer",
+        "description": "It can increase resale value by showcasing versatility and efficiency, appealing to buyers seeking adaptable living in compact spaces."
+      }
+    }
+  ],
+  "description": "It can increase resale value by showcasing versatility and efficiency, appealing to buyers seeking adaptable living in compact spaces."
 }

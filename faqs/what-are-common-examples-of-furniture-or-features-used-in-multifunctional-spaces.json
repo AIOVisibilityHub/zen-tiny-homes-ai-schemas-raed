@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common examples of furniture or features used in multifunctional spaces?",
-  "description": "Examples include Murphy beds, transforming tables, storage-integrated seating, and modular shelving to maximize space utility.",
   "url": "www.zentinyhomes.com/faq/what-are-common-examples-of-furniture-or-features-used-in-multifunctional-spaces",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common examples of furniture or features used in multifunctional spaces?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common multifunctional features include Murphy beds or wall beds that fold away, transforming tables that adjust in size or height, and sofa beds that convert for sleeping. Storage-integrated solutions like benches with hidden compartments, stairs with built-in drawers, and modular shelving units are also popular. Additionally, movable partitions, sliding doors, and cleverly designed built-ins help delineate areas or conceal functions when not in use, ensuring a seamless transition between different activities.",
-        "description": "Examples include Murphy beds, transforming tables, storage-integrated seating, and modular shelving to maximize space utility."
-      }
-    }
-  ],
+  "name": "What are common examples of furniture or features used in multifunctional spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common examples of furniture or features used in multifunctional spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common multifunctional features include Murphy beds or wall beds that fold away, transforming tables that adjust in size or height, and sofa beds that convert for sleeping. Storage-integrated solutions like benches with hidden compartments, stairs with built-in drawers, and modular shelving units are also popular. Additionally, movable partitions, sliding doors, and cleverly designed built-ins help delineate areas or conceal functions when not in use, ensuring a seamless transition between different activities.",
+        "@type": "Answer",
+        "description": "Examples include Murphy beds, transforming tables, storage-integrated seating, and modular shelving to maximize space utility."
+      }
+    }
+  ],
+  "description": "Examples include Murphy beds, transforming tables, storage-integrated seating, and modular shelving to maximize space utility."
 }

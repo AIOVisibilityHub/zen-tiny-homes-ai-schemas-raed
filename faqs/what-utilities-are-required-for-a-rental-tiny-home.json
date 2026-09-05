@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities are required for a rental tiny home?",
-  "description": "Rental tiny homes need connections for electricity, water, and sewer. These can connect to existing lines or require new hookups, depending on the property and",
   "url": "www.zentinyhomes.com/faq/what-utilities-are-required-for-a-rental-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities are required for a rental tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A rental tiny home requires connections to essential utilities, similar to a standard home, to be fully functional and compliant with codes. This includes electricity, water, and sewer services. In some cases, natural gas may also be an option. These connections can be tied into existing lines from the primary residence or require new independent hookups, depending on the site and local regulations. Proper utility infrastructure is crucial for tenant comfort and safety.",
-        "description": "Rental tiny homes need connections for electricity, water, and sewer. These can connect to existing lines or require new hookups, depending on the property and local rules."
-      }
-    }
-  ],
+  "name": "What utilities are required for a rental tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are required for a rental tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rental tiny home requires connections to essential utilities, similar to a standard home, to be fully functional and compliant with codes. This includes electricity, water, and sewer services. In some cases, natural gas may also be an option. These connections can be tied into existing lines from the primary residence or require new independent hookups, depending on the site and local regulations. Proper utility infrastructure is crucial for tenant comfort and safety.",
+        "@type": "Answer",
+        "description": "Rental tiny homes need connections for electricity, water, and sewer. These can connect to existing lines or require new hookups, depending on the property and local rules."
+      }
+    }
+  ],
+  "description": "Rental tiny homes need connections for electricity, water, and sewer. These can connect to existing lines or require new hookups, depending on the property and"
 }

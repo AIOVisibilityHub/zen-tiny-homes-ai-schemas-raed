@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a building permit for a tiny home used as a rental unit?",
-  "description": "Yes, a building permit is nearly always required for a rental tiny home to ensure it meets local building and safety codes. We assist with the permitting proces",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-building-permit-for-a-tiny-home-used-as-a-rental-unit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a building permit for a tiny home used as a rental unit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a building permit is almost always required for a tiny home intended for use as a rental unit, especially if it's considered an Accessory Dwelling Unit (ADU) or a permanent structure. Permits ensure the structure meets local building codes, safety standards, and zoning regulations. The permitting process typically involves submitting detailed plans for review and undergoing inspections during construction. Failing to obtain necessary permits can lead to fines or mandated removal of the structure.",
-        "description": "Yes, a building permit is nearly always required for a rental tiny home to ensure it meets local building and safety codes. We assist with the permitting process."
-      }
-    }
-  ],
+  "name": "Do I need a building permit for a tiny home used as a rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a tiny home used as a rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a building permit is almost always required for a tiny home intended for use as a rental unit, especially if it's considered an Accessory Dwelling Unit (ADU) or a permanent structure. Permits ensure the structure meets local building codes, safety standards, and zoning regulations. The permitting process typically involves submitting detailed plans for review and undergoing inspections during construction. Failing to obtain necessary permits can lead to fines or mandated removal of the structure.",
+        "@type": "Answer",
+        "description": "Yes, a building permit is nearly always required for a rental tiny home to ensure it meets local building and safety codes. We assist with the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, a building permit is nearly always required for a rental tiny home to ensure it meets local building and safety codes. We assist with the permitting proces"
 }

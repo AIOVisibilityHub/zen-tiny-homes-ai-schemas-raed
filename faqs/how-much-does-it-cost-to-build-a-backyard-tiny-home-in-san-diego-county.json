@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to build a backyard tiny home in San Diego County?",
-  "description": "Costs for a backyard tiny home in San Diego County vary based on size, design, finishes, and site work. A custom quote provides an accurate estimate.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-backyard-tiny-home-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to build a backyard tiny home in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost to build a backyard tiny home in San Diego County varies widely based on size, design complexity, finishes, and site preparation needs. Factors such as utility hookups, foundation type, and interior selections significantly impact the final price. While specific figures depend on individual project details, a custom quote from a local builder can provide a precise estimate tailored to your property and desired specifications.",
-        "description": "Costs for a backyard tiny home in San Diego County vary based on size, design, finishes, and site work. A custom quote provides an accurate estimate."
-      }
-    }
-  ],
+  "name": "How much does it cost to build a backyard tiny home in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a backyard tiny home in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a backyard tiny home in San Diego County varies widely based on size, design complexity, finishes, and site preparation needs. Factors such as utility hookups, foundation type, and interior selections significantly impact the final price. While specific figures depend on individual project details, a custom quote from a local builder can provide a precise estimate tailored to your property and desired specifications.",
+        "@type": "Answer",
+        "description": "Costs for a backyard tiny home in San Diego County vary based on size, design, finishes, and site work. A custom quote provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs for a backyard tiny home in San Diego County vary based on size, design, finishes, and site work. A custom quote provides an accurate estimate."
 }

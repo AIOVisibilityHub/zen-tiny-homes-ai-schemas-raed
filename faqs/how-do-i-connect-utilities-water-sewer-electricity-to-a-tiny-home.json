@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I connect utilities (water, sewer, electricity) to a tiny home?",
-  "description": "Utility connections vary; permanent tiny homes connect to municipal grids or use wells/septic. Tiny homes on wheels use RV-style hookups or off-grid solutions l",
   "url": "www.zentinyhomes.com/faq/how-do-i-connect-utilities-water-sewer-electricity-to-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I connect utilities (water, sewer, electricity) to a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Utility connections for a tiny home depend on its type and location. For a permanent foundation tiny home or ADU, connections are similar to traditional houses, involving tying into municipal water, sewer, and electrical grids, or installing septic and well systems for rural sites. This requires proper permits and professional installation. For tiny homes on wheels, options include hookups similar to RVs at designated parks, or off-grid solutions like composting toilets, rainwater harvesting, and solar panels. Proper planning ensures safe and compliant utility access.",
-        "description": "Utility connections vary; permanent tiny homes connect to municipal grids or use wells/septic. Tiny homes on wheels use RV-style hookups or off-grid solutions like solar and composting toilets."
-      }
-    }
-  ],
+  "name": "How do I connect utilities (water, sewer, electricity) to a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I connect utilities (water, sewer, electricity) to a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Utility connections for a tiny home depend on its type and location. For a permanent foundation tiny home or ADU, connections are similar to traditional houses, involving tying into municipal water, sewer, and electrical grids, or installing septic and well systems for rural sites. This requires proper permits and professional installation. For tiny homes on wheels, options include hookups similar to RVs at designated parks, or off-grid solutions like composting toilets, rainwater harvesting, and solar panels. Proper planning ensures safe and compliant utility access.",
+        "@type": "Answer",
+        "description": "Utility connections vary; permanent tiny homes connect to municipal grids or use wells/septic. Tiny homes on wheels use RV-style hookups or off-grid solutions like solar and composting toilets."
+      }
+    }
+  ],
+  "description": "Utility connections vary; permanent tiny homes connect to municipal grids or use wells/septic. Tiny homes on wheels use RV-style hookups or off-grid solutions l"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are tiny homes energy efficient?",
-  "description": "Yes, tiny homes are generally energy efficient due to their smaller size and potential for high-efficiency insulation and appliances.",
   "url": "www.zentinyhomes.com/faq/are-tiny-homes-energy-efficient",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are tiny homes energy efficient?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, tiny homes are often designed with energy efficiency in mind due to their smaller footprint. Less space means less energy is required for heating and cooling. We incorporate features like high-efficiency insulation, energy-star rated windows and appliances, and tight building envelopes to minimize energy consumption. Options for solar panels and other sustainable technologies can further enhance energy independence and reduce utility costs, making tiny homes an environmentally conscious choice.",
-        "description": "Yes, tiny homes are generally energy efficient due to their smaller size and potential for high-efficiency insulation and appliances."
-      }
-    }
-  ],
+  "name": "Are tiny homes energy efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are tiny homes energy efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tiny homes are often designed with energy efficiency in mind due to their smaller footprint. Less space means less energy is required for heating and cooling. We incorporate features like high-efficiency insulation, energy-star rated windows and appliances, and tight building envelopes to minimize energy consumption. Options for solar panels and other sustainable technologies can further enhance energy independence and reduce utility costs, making tiny homes an environmentally conscious choice.",
+        "@type": "Answer",
+        "description": "Yes, tiny homes are generally energy efficient due to their smaller size and potential for high-efficiency insulation and appliances."
+      }
+    }
+  ],
+  "description": "Yes, tiny homes are generally energy efficient due to their smaller size and potential for high-efficiency insulation and appliances."
 }

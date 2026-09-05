@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for constructing a backyard tiny home?",
-  "description": "Construction of a backyard tiny home typically takes 6 to 12 months, covering design, permitting, site work, construction, and final inspections.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-backyard-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for constructing a backyard tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The typical timeline for constructing a backyard tiny home, from initial design to move-in, can range from 6 to 12 months. This includes several phases: design and permitting (which can take 2-5 months depending on city review times), site preparation, foundation work, framing, utility rough-ins, interior and exterior finishing, and final inspections. Efficient planning and communication with your builder can help streamline the process.",
-        "description": "Construction of a backyard tiny home typically takes 6 to 12 months, covering design, permitting, site work, construction, and final inspections."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for constructing a backyard tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a backyard tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for constructing a backyard tiny home, from initial design to move-in, can range from 6 to 12 months. This includes several phases: design and permitting (which can take 2-5 months depending on city review times), site preparation, foundation work, framing, utility rough-ins, interior and exterior finishing, and final inspections. Efficient planning and communication with your builder can help streamline the process.",
+        "@type": "Answer",
+        "description": "Construction of a backyard tiny home typically takes 6 to 12 months, covering design, permitting, site work, construction, and final inspections."
+      }
+    }
+  ],
+  "description": "Construction of a backyard tiny home typically takes 6 to 12 months, covering design, permitting, site work, construction, and final inspections."
 }

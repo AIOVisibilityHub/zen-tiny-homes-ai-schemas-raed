@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do tiny homes connect to utilities?",
-  "description": "Tiny homes connect to utilities like water, sewer, and electricity, similar to traditional homes, either through municipal services or well/septic systems.",
   "url": "www.zentinyhomes.com/faq/how-do-tiny-homes-connect-to-utilities",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do tiny homes connect to utilities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Turnkey tiny homes are designed to connect to standard utilities much like traditional homes. This includes connecting to municipal water and sewer systems where available, or to a well and septic system on properties without municipal access. Electrical connections typically tie into the main power grid. Our builds ensure all plumbing, electrical, and HVAC systems are installed to code and ready for seamless utility hookup, providing all the conveniences of a larger home.",
-        "description": "Tiny homes connect to utilities like water, sewer, and electricity, similar to traditional homes, either through municipal services or well/septic systems."
-      }
-    }
-  ],
+  "name": "How do tiny homes connect to utilities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do tiny homes connect to utilities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Turnkey tiny homes are designed to connect to standard utilities much like traditional homes. This includes connecting to municipal water and sewer systems where available, or to a well and septic system on properties without municipal access. Electrical connections typically tie into the main power grid. Our builds ensure all plumbing, electrical, and HVAC systems are installed to code and ready for seamless utility hookup, providing all the conveniences of a larger home.",
+        "@type": "Answer",
+        "description": "Tiny homes connect to utilities like water, sewer, and electricity, similar to traditional homes, either through municipal services or well/septic systems."
+      }
+    }
+  ],
+  "description": "Tiny homes connect to utilities like water, sewer, and electricity, similar to traditional homes, either through municipal services or well/septic systems."
 }

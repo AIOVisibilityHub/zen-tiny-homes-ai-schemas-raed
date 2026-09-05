@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if I build a tiny home without proper zoning approval?",
-  "description": "Building without zoning approval can result in fines, stop-work orders, forced removal, and issues with insurance or future property sales.",
   "url": "www.zentinyhomes.com/faq/what-happens-if-i-build-a-tiny-home-without-proper-zoning-approval",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens if I build a tiny home without proper zoning approval?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a tiny home without proper zoning approval can lead to serious consequences. You may face stop-work orders, significant fines, and even legal action from the city or county. Authorities can compel you to remove the structure at your expense, or modify it to meet code, which can be very costly. Additionally, you may have difficulty obtaining homeowner's insurance, connecting to utilities, or selling your property in the future due to unpermitted construction.",
-        "description": "Building without zoning approval can result in fines, stop-work orders, forced removal, and issues with insurance or future property sales."
-      }
-    }
-  ],
+  "name": "What happens if I build a tiny home without proper zoning approval?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I build a tiny home without proper zoning approval?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a tiny home without proper zoning approval can lead to serious consequences. You may face stop-work orders, significant fines, and even legal action from the city or county. Authorities can compel you to remove the structure at your expense, or modify it to meet code, which can be very costly. Additionally, you may have difficulty obtaining homeowner's insurance, connecting to utilities, or selling your property in the future due to unpermitted construction.",
+        "@type": "Answer",
+        "description": "Building without zoning approval can result in fines, stop-work orders, forced removal, and issues with insurance or future property sales."
+      }
+    }
+  ],
+  "description": "Building without zoning approval can result in fines, stop-work orders, forced removal, and issues with insurance or future property sales."
 }

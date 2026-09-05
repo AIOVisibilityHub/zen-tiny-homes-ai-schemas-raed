@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed for a tiny home with multifunctional design in Carlsbad?",
-  "description": "Permits for tiny homes in Carlsbad involve zoning, building, electrical, plumbing, and mechanical approvals, often as an ADU.",
   "url": "www.zentinyhomes.com/faq/what-permits-are-needed-for-a-tiny-home-with-multifunctional-design-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed for a tiny home with multifunctional design in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a tiny home, whether multifunctional or not, in Carlsbad typically requires compliance with local zoning ordinances and building codes. This includes obtaining necessary permits for construction, electrical, plumbing, and mechanical systems, as well as adherence to setback requirements and occupancy standards. The specific permits can depend on whether the tiny home is considered an accessory dwelling unit (ADU) or a primary residence. We assist clients in navigating the local permitting process for Carlsbad.",
-        "description": "Permits for tiny homes in Carlsbad involve zoning, building, electrical, plumbing, and mechanical approvals, often as an ADU."
-      }
-    }
-  ],
+  "name": "What permits are needed for a tiny home with multifunctional design in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a tiny home with multifunctional design in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a tiny home, whether multifunctional or not, in Carlsbad typically requires compliance with local zoning ordinances and building codes. This includes obtaining necessary permits for construction, electrical, plumbing, and mechanical systems, as well as adherence to setback requirements and occupancy standards. The specific permits can depend on whether the tiny home is considered an accessory dwelling unit (ADU) or a primary residence. We assist clients in navigating the local permitting process for Carlsbad.",
+        "@type": "Answer",
+        "description": "Permits for tiny homes in Carlsbad involve zoning, building, electrical, plumbing, and mechanical approvals, often as an ADU."
+      }
+    }
+  ],
+  "description": "Permits for tiny homes in Carlsbad involve zoning, building, electrical, plumbing, and mechanical approvals, often as an ADU."
 }

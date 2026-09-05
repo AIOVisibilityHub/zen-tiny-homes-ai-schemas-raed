@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the tiny home placement planning and permitting process take?",
-  "description": "The process can take weeks to several months, depending on local zoning, required permits, planning department efficiency, and preparedness of documentation.",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-tiny-home-placement-planning-and-permitting-process-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the tiny home placement planning and permitting process take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of tiny home placement planning and permitting can vary significantly, often taking anywhere from a few weeks to several months. Key factors influencing the timeline include the complexity of local zoning ordinances, the type of permits required (e.g., building, planning, utility), the responsiveness of local planning departments, and how quickly all necessary documentation and site plans can be prepared. Areas with higher populations or stricter regulations, like parts of San Diego County, might experience longer processing times. Early engagement with professionals and thorough preparation can help expedite the process.",
-        "description": "The process can take weeks to several months, depending on local zoning, required permits, planning department efficiency, and preparedness of documentation."
-      }
-    }
-  ],
+  "name": "How long does the tiny home placement planning and permitting process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the tiny home placement planning and permitting process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of tiny home placement planning and permitting can vary significantly, often taking anywhere from a few weeks to several months. Key factors influencing the timeline include the complexity of local zoning ordinances, the type of permits required (e.g., building, planning, utility), the responsiveness of local planning departments, and how quickly all necessary documentation and site plans can be prepared. Areas with higher populations or stricter regulations, like parts of San Diego County, might experience longer processing times. Early engagement with professionals and thorough preparation can help expedite the process.",
+        "@type": "Answer",
+        "description": "The process can take weeks to several months, depending on local zoning, required permits, planning department efficiency, and preparedness of documentation."
+      }
+    }
+  ],
+  "description": "The process can take weeks to several months, depending on local zoning, required permits, planning department efficiency, and preparedness of documentation."
 }

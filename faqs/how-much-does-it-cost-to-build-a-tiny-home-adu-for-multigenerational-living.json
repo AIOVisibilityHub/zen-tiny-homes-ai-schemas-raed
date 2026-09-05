@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to build a tiny home ADU for multigenerational living?",
-  "description": "The cost of a tiny home ADU for multigenerational living varies depending on size, materials, finishes, and site work. We provide detailed, tailored estimates.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-tiny-home-adu-for-multigenerational-living",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to build a tiny home ADU for multigenerational living?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of building a tiny home ADU for multigenerational living varies based on size, chosen materials, finishes, and site preparation needs. Factors such as utility hookups, foundation type, and interior features (e.g., custom cabinetry, accessibility modifications) significantly impact the overall budget. While generally more affordable than a traditional home addition, it's essential to get a detailed quote tailored to your specific project requirements. We provide transparent estimates after assessing your property and design preferences.",
-        "description": "The cost of a tiny home ADU for multigenerational living varies depending on size, materials, finishes, and site work. We provide detailed, tailored estimates."
-      }
-    }
-  ],
+  "name": "How much does it cost to build a tiny home ADU for multigenerational living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a tiny home ADU for multigenerational living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a tiny home ADU for multigenerational living varies based on size, chosen materials, finishes, and site preparation needs. Factors such as utility hookups, foundation type, and interior features (e.g., custom cabinetry, accessibility modifications) significantly impact the overall budget. While generally more affordable than a traditional home addition, it's essential to get a detailed quote tailored to your specific project requirements. We provide transparent estimates after assessing your property and design preferences.",
+        "@type": "Answer",
+        "description": "The cost of a tiny home ADU for multigenerational living varies depending on size, materials, finishes, and site work. We provide detailed, tailored estimates."
+      }
+    }
+  ],
+  "description": "The cost of a tiny home ADU for multigenerational living varies depending on size, materials, finishes, and site work. We provide detailed, tailored estimates."
 }

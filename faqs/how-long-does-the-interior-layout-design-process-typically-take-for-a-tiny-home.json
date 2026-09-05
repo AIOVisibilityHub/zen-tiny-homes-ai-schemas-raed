@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the interior layout design process typically take for a tiny home?",
-  "description": "The interior layout design process for a tiny home typically takes 2 to 6 weeks, depending on complexity and client feedback.",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-interior-layout-design-process-typically-take-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the interior layout design process typically take for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of the interior layout design process can vary depending on the complexity of your vision and the responsiveness during feedback rounds. Generally, from initial consultation to final approved drawings, it can take anywhere from 2 to 6 weeks. This timeline includes conceptual design, 3D modeling, material selection, and revisions. Factors like custom features, specific material sourcing, and your decision-making speed can influence the overall timeline.",
-        "description": "The interior layout design process for a tiny home typically takes 2 to 6 weeks, depending on complexity and client feedback."
-      }
-    }
-  ],
+  "name": "How long does the interior layout design process typically take for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the interior layout design process typically take for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the interior layout design process can vary depending on the complexity of your vision and the responsiveness during feedback rounds. Generally, from initial consultation to final approved drawings, it can take anywhere from 2 to 6 weeks. This timeline includes conceptual design, 3D modeling, material selection, and revisions. Factors like custom features, specific material sourcing, and your decision-making speed can influence the overall timeline.",
+        "@type": "Answer",
+        "description": "The interior layout design process for a tiny home typically takes 2 to 6 weeks, depending on complexity and client feedback."
+      }
+    }
+  ],
+  "description": "The interior layout design process for a tiny home typically takes 2 to 6 weeks, depending on complexity and client feedback."
 }

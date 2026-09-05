@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to build a tiny home for rental purposes?",
-  "description": "Costs for a rental tiny home range from $75,000 to over $200,000, depending on size, design, materials, and site work. We provide detailed estimates after consu",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-tiny-home-for-rental-purposes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to build a tiny home for rental purposes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of building a rental tiny home varies significantly based on size, design complexity, materials chosen, and site preparation needs. Generally, costs can range from $75,000 to $200,000 or more. This estimate typically includes design, permitting, construction, and utility hookups. Factors like foundation type, interior finishes, and specific features for a rental market, such as durable surfaces, will influence the final budget. We provide detailed estimates after an initial consultation.",
-        "description": "Costs for a rental tiny home range from $75,000 to over $200,000, depending on size, design, materials, and site work. We provide detailed estimates after consultation."
-      }
-    }
-  ],
+  "name": "How much does it cost to build a tiny home for rental purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a tiny home for rental purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a rental tiny home varies significantly based on size, design complexity, materials chosen, and site preparation needs. Generally, costs can range from $75,000 to $200,000 or more. This estimate typically includes design, permitting, construction, and utility hookups. Factors like foundation type, interior finishes, and specific features for a rental market, such as durable surfaces, will influence the final budget. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs for a rental tiny home range from $75,000 to over $200,000, depending on size, design, materials, and site work. We provide detailed estimates after consultation."
+      }
+    }
+  ],
+  "description": "Costs for a rental tiny home range from $75,000 to over $200,000, depending on size, design, materials, and site work. We provide detailed estimates after consu"
 }

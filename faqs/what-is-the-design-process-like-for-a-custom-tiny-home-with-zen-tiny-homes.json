@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the design process like for a custom tiny home with Zen Tiny Homes?",
-  "description": "The design process involves initial consultation, conceptual designs, revisions, and final architectural drawings, with client involvement at every stage.",
   "url": "www.zentinyhomes.com/faq/what-is-the-design-process-like-for-a-custom-tiny-home-with-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the design process like for a custom tiny home with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our custom tiny home design process begins with an in-depth consultation to understand your vision, needs, and budget. We then create preliminary conceptual designs and floor plans, incorporating your preferences for layout, materials, and features. After review and revisions, we finalize the architectural drawings and material specifications. Throughout this process, we ensure the design complies with local building codes and optimizes space and functionality. You are actively involved in every step.",
-        "description": "The design process involves initial consultation, conceptual designs, revisions, and final architectural drawings, with client involvement at every stage."
-      }
-    }
-  ],
+  "name": "What is the design process like for a custom tiny home with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design process like for a custom tiny home with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our custom tiny home design process begins with an in-depth consultation to understand your vision, needs, and budget. We then create preliminary conceptual designs and floor plans, incorporating your preferences for layout, materials, and features. After review and revisions, we finalize the architectural drawings and material specifications. Throughout this process, we ensure the design complies with local building codes and optimizes space and functionality. You are actively involved in every step.",
+        "@type": "Answer",
+        "description": "The design process involves initial consultation, conceptual designs, revisions, and final architectural drawings, with client involvement at every stage."
+      }
+    }
+  ],
+  "description": "The design process involves initial consultation, conceptual designs, revisions, and final architectural drawings, with client involvement at every stage."
 }

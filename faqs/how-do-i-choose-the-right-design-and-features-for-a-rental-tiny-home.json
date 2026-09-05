@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right design and features for a rental tiny home?",
-  "description": "Select durable materials, maximize light, and include efficient kitchens and bathrooms for tenant appeal. We help optimize designs for rental value and complian",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-design-and-features-for-a-rental-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right design and features for a rental tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right design involves balancing functionality, tenant appeal, and your budget. Consider durable, low-maintenance materials for longevity in a rental setting. Maximize natural light and incorporate smart storage solutions to make the small space feel larger. Common features renters appreciate include efficient kitchenettes, comfortable bathrooms, dedicated sleeping areas, and perhaps a small private outdoor space. Our design team can help you select features that attract tenants and comply with local regulations while optimizing your investment.",
-        "description": "Select durable materials, maximize light, and include efficient kitchens and bathrooms for tenant appeal. We help optimize designs for rental value and compliance."
-      }
-    }
-  ],
+  "name": "How do I choose the right design and features for a rental tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right design and features for a rental tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right design involves balancing functionality, tenant appeal, and your budget. Consider durable, low-maintenance materials for longevity in a rental setting. Maximize natural light and incorporate smart storage solutions to make the small space feel larger. Common features renters appreciate include efficient kitchenettes, comfortable bathrooms, dedicated sleeping areas, and perhaps a small private outdoor space. Our design team can help you select features that attract tenants and comply with local regulations while optimizing your investment.",
+        "@type": "Answer",
+        "description": "Select durable materials, maximize light, and include efficient kitchens and bathrooms for tenant appeal. We help optimize designs for rental value and compliance."
+      }
+    }
+  ],
+  "description": "Select durable materials, maximize light, and include efficient kitchens and bathrooms for tenant appeal. We help optimize designs for rental value and complian"
 }

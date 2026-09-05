@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does tiny home interior design differ from traditional home interior design?",
-  "description": "Tiny home interior design focuses heavily on multi-functionality and space optimization, unlike traditional homes which have more room for single-purpose elemen",
   "url": "www.zentinyhomes.com/faq/how-does-tiny-home-interior-design-differ-from-traditional-home-interior-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does tiny home interior design differ from traditional home interior design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home interior design places a much stronger emphasis on multi-functionality, space optimization, and integrated storage solutions compared to traditional home design. Every element must serve a purpose or multiple purposes due to limited square footage. Designers focus on vertical space, convertible furniture, and efficient layouts to avoid clutter and maximize livability, whereas traditional homes have more flexibility for single-purpose rooms and larger furnishings.",
-        "description": "Tiny home interior design focuses heavily on multi-functionality and space optimization, unlike traditional homes which have more room for single-purpose elements."
-      }
-    }
-  ],
+  "name": "How does tiny home interior design differ from traditional home interior design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does tiny home interior design differ from traditional home interior design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home interior design places a much stronger emphasis on multi-functionality, space optimization, and integrated storage solutions compared to traditional home design. Every element must serve a purpose or multiple purposes due to limited square footage. Designers focus on vertical space, convertible furniture, and efficient layouts to avoid clutter and maximize livability, whereas traditional homes have more flexibility for single-purpose rooms and larger furnishings.",
+        "@type": "Answer",
+        "description": "Tiny home interior design focuses heavily on multi-functionality and space optimization, unlike traditional homes which have more room for single-purpose elements."
+      }
+    }
+  ],
+  "description": "Tiny home interior design focuses heavily on multi-functionality and space optimization, unlike traditional homes which have more room for single-purpose elemen"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I start the process of building a guest home?",
-  "description": "Start by consulting with us to discuss your vision and property. The process involves feasibility study, design, permitting, construction, and final inspections",
   "url": "www.zentinyhomes.com/faq/how-do-i-start-the-process-of-building-a-guest-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I start the process of building a guest home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to discuss your vision, budget, and property's potential. Next, a feasibility study assesses zoning regulations and site-specific challenges. This leads to preliminary design and architectural drawings, which are then refined and submitted for permitting. Once permits are approved, construction can commence, followed by final inspections and occupancy. We guide you through each step, from concept to completion.",
-        "description": "Start by consulting with us to discuss your vision and property. The process involves feasibility study, design, permitting, construction, and final inspections."
-      }
-    }
-  ],
+  "name": "How do I start the process of building a guest home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the process of building a guest home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, budget, and property's potential. Next, a feasibility study assesses zoning regulations and site-specific challenges. This leads to preliminary design and architectural drawings, which are then refined and submitted for permitting. Once permits are approved, construction can commence, followed by final inspections and occupancy. We guide you through each step, from concept to completion.",
+        "@type": "Answer",
+        "description": "Start by consulting with us to discuss your vision and property. The process involves feasibility study, design, permitting, construction, and final inspections."
+      }
+    }
+  ],
+  "description": "Start by consulting with us to discuss your vision and property. The process involves feasibility study, design, permitting, construction, and final inspections"
 }

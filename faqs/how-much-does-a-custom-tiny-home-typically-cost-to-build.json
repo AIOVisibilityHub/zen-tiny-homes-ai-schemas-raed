@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a custom tiny home typically cost to build?",
-  "description": "Custom tiny home costs range from $70,000 to $150,000+, depending on size, materials, and design complexity, plus site work and permits.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-custom-tiny-home-typically-cost-to-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a custom tiny home typically cost to build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom tiny home varies significantly based on factors like size, materials, design complexity, and chosen features. Generally, prices can range from $70,000 to over $150,000 for a turn-key custom build. This includes design, construction, and basic finishes. Additional costs may involve site preparation, utility hookups, and permits. Zen Tiny Homes provides detailed quotes after an initial consultation to understand your specific needs and budget.",
-        "description": "Custom tiny home costs range from $70,000 to $150,000+, depending on size, materials, and design complexity, plus site work and permits."
-      }
-    }
-  ],
+  "name": "How much does a custom tiny home typically cost to build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom tiny home typically cost to build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom tiny home varies significantly based on factors like size, materials, design complexity, and chosen features. Generally, prices can range from $70,000 to over $150,000 for a turn-key custom build. This includes design, construction, and basic finishes. Additional costs may involve site preparation, utility hookups, and permits. Zen Tiny Homes provides detailed quotes after an initial consultation to understand your specific needs and budget.",
+        "@type": "Answer",
+        "description": "Custom tiny home costs range from $70,000 to $150,000+, depending on size, materials, and design complexity, plus site work and permits."
+      }
+    }
+  ],
+  "description": "Custom tiny home costs range from $70,000 to $150,000+, depending on size, materials, and design complexity, plus site work and permits."
 }

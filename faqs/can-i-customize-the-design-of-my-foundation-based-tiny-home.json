@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize the design of my foundation-based tiny home?",
-  "description": "Yes, foundation-based tiny homes offer extensive customization for floor plans, materials, and features, tailored to your preferences while adhering to local bu",
   "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-foundation-based-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize the design of my foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, customization is a significant advantage of building a foundation-based tiny home. Zen Tiny Homes works with clients to design floor plans, select materials, and incorporate features that align with their specific preferences and lifestyle. From interior layouts and finishes to exterior aesthetics and energy-efficient solutions, your tiny home can be tailored to meet your needs, provided the design complies with local building codes and structural requirements. This ensures a personalized and functional living space.",
-        "description": "Yes, foundation-based tiny homes offer extensive customization for floor plans, materials, and features, tailored to your preferences while adhering to local building codes."
-      }
-    }
-  ],
+  "name": "Can I customize the design of my foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization is a significant advantage of building a foundation-based tiny home. Zen Tiny Homes works with clients to design floor plans, select materials, and incorporate features that align with their specific preferences and lifestyle. From interior layouts and finishes to exterior aesthetics and energy-efficient solutions, your tiny home can be tailored to meet your needs, provided the design complies with local building codes and structural requirements. This ensures a personalized and functional living space.",
+        "@type": "Answer",
+        "description": "Yes, foundation-based tiny homes offer extensive customization for floor plans, materials, and features, tailored to your preferences while adhering to local building codes."
+      }
+    }
+  ],
+  "description": "Yes, foundation-based tiny homes offer extensive customization for floor plans, materials, and features, tailored to your preferences while adhering to local bu"
 }

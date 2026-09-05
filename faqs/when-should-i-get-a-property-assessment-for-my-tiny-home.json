@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I get a property assessment for my tiny home?",
-  "description": "Get a property assessment before purchasing land or finalizing tiny home plans to ensure the site is viable and avoid future issues.",
   "url": "www.zentinyhomes.com/faq/when-should-i-get-a-property-assessment-for-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I get a property assessment for my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should get a property assessment before purchasing land or finalizing plans to place a tiny home on an existing property. This upfront step is crucial to confirm the land is legally and practically viable for your tiny home project. Waiting until after land purchase or construction planning can lead to costly delays, unexpected permit issues, or discovering the site is unsuitable. An early assessment provides peace of mind and helps streamline the entire process.",
-        "description": "Get a property assessment before purchasing land or finalizing tiny home plans to ensure the site is viable and avoid future issues."
-      }
-    }
-  ],
+  "name": "When should I get a property assessment for my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a property assessment for my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a property assessment before purchasing land or finalizing plans to place a tiny home on an existing property. This upfront step is crucial to confirm the land is legally and practically viable for your tiny home project. Waiting until after land purchase or construction planning can lead to costly delays, unexpected permit issues, or discovering the site is unsuitable. An early assessment provides peace of mind and helps streamline the entire process.",
+        "@type": "Answer",
+        "description": "Get a property assessment before purchasing land or finalizing tiny home plans to ensure the site is viable and avoid future issues."
+      }
+    }
+  ],
+  "description": "Get a property assessment before purchasing land or finalizing tiny home plans to ensure the site is viable and avoid future issues."
 }

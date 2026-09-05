@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities and infrastructure are needed for a custom tiny home?",
-  "description": "Tiny homes need connections for electricity, fresh water, and wastewater (septic/sewer), with options for off-grid power or gas.",
   "url": "www.zentinyhomes.com/faq/what-utilities-and-infrastructure-are-needed-for-a-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities and infrastructure are needed for a custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A custom tiny home requires connections to essential utilities, similar to a traditional house. This typically includes electricity (grid-tied or off-grid solutions like solar), fresh water supply, and wastewater management (septic system or connection to municipal sewer). Depending on the design, propane or natural gas might also be needed for cooking or heating. Site preparation often involves grading and creating utility trenches. Zen Tiny Homes helps plan and integrate these essential services into your tiny home project.",
-        "description": "Tiny homes need connections for electricity, fresh water, and wastewater (septic/sewer), with options for off-grid power or gas."
-      }
-    }
-  ],
+  "name": "What utilities and infrastructure are needed for a custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities and infrastructure are needed for a custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom tiny home requires connections to essential utilities, similar to a traditional house. This typically includes electricity (grid-tied or off-grid solutions like solar), fresh water supply, and wastewater management (septic system or connection to municipal sewer). Depending on the design, propane or natural gas might also be needed for cooking or heating. Site preparation often involves grading and creating utility trenches. Zen Tiny Homes helps plan and integrate these essential services into your tiny home project.",
+        "@type": "Answer",
+        "description": "Tiny homes need connections for electricity, fresh water, and wastewater (septic/sewer), with options for off-grid power or gas."
+      }
+    }
+  ],
+  "description": "Tiny homes need connections for electricity, fresh water, and wastewater (septic/sewer), with options for off-grid power or gas."
 }

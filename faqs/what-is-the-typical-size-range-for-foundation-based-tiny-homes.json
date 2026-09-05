@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical size range for foundation-based tiny homes?",
-  "description": "Foundation-based tiny homes generally range from 200 to 800 square feet. Exact sizes depend on local zoning, building codes, and individual needs.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-size-range-for-foundation-based-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical size range for foundation-based tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Foundation-based tiny homes typically range from 200 to 800 square feet, though specific dimensions are often dictated by local zoning ordinances and building codes, which may set minimum square footage requirements for permanent dwellings. While the 'tiny' aspect emphasizes minimalist living, the exact size allows for flexibility in design and functionality. The optimal size depends on individual needs, desired amenities, and local regulations that govern what is permitted on a specific property.",
-        "description": "Foundation-based tiny homes generally range from 200 to 800 square feet. Exact sizes depend on local zoning, building codes, and individual needs."
-      }
-    }
-  ],
+  "name": "What is the typical size range for foundation-based tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical size range for foundation-based tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation-based tiny homes typically range from 200 to 800 square feet, though specific dimensions are often dictated by local zoning ordinances and building codes, which may set minimum square footage requirements for permanent dwellings. While the 'tiny' aspect emphasizes minimalist living, the exact size allows for flexibility in design and functionality. The optimal size depends on individual needs, desired amenities, and local regulations that govern what is permitted on a specific property.",
+        "@type": "Answer",
+        "description": "Foundation-based tiny homes generally range from 200 to 800 square feet. Exact sizes depend on local zoning, building codes, and individual needs."
+      }
+    }
+  ],
+  "description": "Foundation-based tiny homes generally range from 200 to 800 square feet. Exact sizes depend on local zoning, building codes, and individual needs."
 }

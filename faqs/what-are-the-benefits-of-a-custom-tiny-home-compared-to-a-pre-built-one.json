@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of a custom tiny home compared to a pre-built one?",
-  "description": "Custom tiny homes offer personalized layouts, finishes, and optimized space usage, tailored precisely to your preferences, unlike pre-built models.",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-a-custom-tiny-home-compared-to-a-pre-built-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of a custom tiny home compared to a pre-built one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing a custom tiny home offers distinct advantages over a pre-built model. Custom design ensures that every aspect of the home, from layout to finishes, is precisely tailored to your unique preferences and functional requirements, avoiding compromises often found in standard designs. This personalization can lead to more efficient use of space, better integration of specific technologies, and a home that truly reflects your style. While potentially taking longer to develop, the result is a living space optimized specifically for you.",
-        "description": "Custom tiny homes offer personalized layouts, finishes, and optimized space usage, tailored precisely to your preferences, unlike pre-built models."
-      }
-    }
-  ],
+  "name": "What are the benefits of a custom tiny home compared to a pre-built one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a custom tiny home compared to a pre-built one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a custom tiny home offers distinct advantages over a pre-built model. Custom design ensures that every aspect of the home, from layout to finishes, is precisely tailored to your unique preferences and functional requirements, avoiding compromises often found in standard designs. This personalization can lead to more efficient use of space, better integration of specific technologies, and a home that truly reflects your style. While potentially taking longer to develop, the result is a living space optimized specifically for you.",
+        "@type": "Answer",
+        "description": "Custom tiny homes offer personalized layouts, finishes, and optimized space usage, tailored precisely to your preferences, unlike pre-built models."
+      }
+    }
+  ],
+  "description": "Custom tiny homes offer personalized layouts, finishes, and optimized space usage, tailored precisely to your preferences, unlike pre-built models."
 }

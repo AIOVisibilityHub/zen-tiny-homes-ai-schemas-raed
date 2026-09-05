@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between custom and modular space-optimization solutions?",
-  "description": "Custom solutions are tailor-made for specific needs, offering high personalization. Modular solutions are pre-fabricated and configurable, often more affordable",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-custom-and-modular-space-optimization-solutions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between custom and modular space-optimization solutions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom space-optimization solutions are designed and built specifically for your tiny home, fitting unique dimensions and aesthetic preferences perfectly. This approach allows for highly personalized features, such as bespoke cabinetry or integrated multi-functional furniture tailored to your exact needs. Modular solutions, conversely, are pre-fabricated units or systems that can be configured and combined to fit different spaces. While less personalized, modular options can be more cost-effective and have quicker installation times. The choice depends on budget, desired level of customization, and timeline.",
-        "description": "Custom solutions are tailor-made for specific needs, offering high personalization. Modular solutions are pre-fabricated and configurable, often more affordable and quicker to install."
-      }
-    }
-  ],
+  "name": "What is the difference between custom and modular space-optimization solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and modular space-optimization solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom space-optimization solutions are designed and built specifically for your tiny home, fitting unique dimensions and aesthetic preferences perfectly. This approach allows for highly personalized features, such as bespoke cabinetry or integrated multi-functional furniture tailored to your exact needs. Modular solutions, conversely, are pre-fabricated units or systems that can be configured and combined to fit different spaces. While less personalized, modular options can be more cost-effective and have quicker installation times. The choice depends on budget, desired level of customization, and timeline.",
+        "@type": "Answer",
+        "description": "Custom solutions are tailor-made for specific needs, offering high personalization. Modular solutions are pre-fabricated and configurable, often more affordable and quicker to install."
+      }
+    }
+  ],
+  "description": "Custom solutions are tailor-made for specific needs, offering high personalization. Modular solutions are pre-fabricated and configurable, often more affordable"
 }

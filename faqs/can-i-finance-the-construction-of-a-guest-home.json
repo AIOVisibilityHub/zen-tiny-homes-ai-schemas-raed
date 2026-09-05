@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance the construction of a guest home?",
-  "description": "Guest home construction can be financed through options like construction loans, home equity loans, or lines of credit (HELOCs), utilizing your property's exist",
   "url": "www.zentinyhomes.com/faq/can-i-finance-the-construction-of-a-guest-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance the construction of a guest home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, there are several financing options available for building a guest home. Common methods include construction loans, which are specifically designed for new builds and released in stages as construction progresses. Home equity loans or lines of credit (HELOCs) can also be used, leveraging the existing equity in your primary home. Some conventional mortgages also offer options for ADU construction. It's advisable to consult with lenders to determine the best financing solution for your specific situation.",
-        "description": "Guest home construction can be financed through options like construction loans, home equity loans, or lines of credit (HELOCs), utilizing your property's existing equity."
-      }
-    }
-  ],
+  "name": "Can I finance the construction of a guest home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance the construction of a guest home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several financing options available for building a guest home. Common methods include construction loans, which are specifically designed for new builds and released in stages as construction progresses. Home equity loans or lines of credit (HELOCs) can also be used, leveraging the existing equity in your primary home. Some conventional mortgages also offer options for ADU construction. It's advisable to consult with lenders to determine the best financing solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Guest home construction can be financed through options like construction loans, home equity loans, or lines of credit (HELOCs), utilizing your property's existing equity."
+      }
+    }
+  ],
+  "description": "Guest home construction can be financed through options like construction loans, home equity loans, or lines of credit (HELOCs), utilizing your property's exist"
 }

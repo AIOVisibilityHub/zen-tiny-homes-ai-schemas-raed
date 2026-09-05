@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right size tiny home ADU for my multigenerational family?",
-  "description": "Choose the right ADU size by considering occupant needs, daily routines, necessary furniture, and local zoning regulations. We assist in balancing these factors",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-size-tiny-home-adu-for-my-multigenerational-family",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right size tiny home ADU for my multigenerational family?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right size tiny home ADU involves considering the needs of the occupants, necessary functions, and available property space. Evaluate how many people will live there, their daily routines, and specific requirements like accessible features or dedicated workspaces. Consider what furniture and belongings they need to accommodate comfortably. Also, local zoning regulations will dictate the maximum allowable size for an ADU on your property. We can help you balance these factors to design an efficient and comfortable living space.",
-        "description": "Choose the right ADU size by considering occupant needs, daily routines, necessary furniture, and local zoning regulations. We assist in balancing these factors for an efficient design."
-      }
-    }
-  ],
+  "name": "How do I choose the right size tiny home ADU for my multigenerational family?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size tiny home ADU for my multigenerational family?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size tiny home ADU involves considering the needs of the occupants, necessary functions, and available property space. Evaluate how many people will live there, their daily routines, and specific requirements like accessible features or dedicated workspaces. Consider what furniture and belongings they need to accommodate comfortably. Also, local zoning regulations will dictate the maximum allowable size for an ADU on your property. We can help you balance these factors to design an efficient and comfortable living space.",
+        "@type": "Answer",
+        "description": "Choose the right ADU size by considering occupant needs, daily routines, necessary furniture, and local zoning regulations. We assist in balancing these factors for an efficient design."
+      }
+    }
+  ],
+  "description": "Choose the right ADU size by considering occupant needs, daily routines, necessary furniture, and local zoning regulations. We assist in balancing these factors"
 }

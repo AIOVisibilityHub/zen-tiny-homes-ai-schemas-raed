@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of buying a tiny-home shell instead of a finished tiny home?",
-  "description": "A tiny-home shell is more affordable and allows complete interior customization, appealing to DIY enthusiasts and those with specific design preferences.",
   "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-buying-a-tiny-home-shell-instead-of-a-finished-tiny-h",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of buying a tiny-home shell instead of a finished tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Buying a tiny-home shell offers several key advantages. Primarily, it significantly reduces the initial purchase cost, making tiny home ownership more accessible. It also provides unparalleled flexibility to customize the interior layout, finishes, and features exactly to your preferences and budget. This option is ideal for those who enjoy DIY projects, have specific design visions, or wish to spread out their construction costs over time. You gain creative control over your living space.",
-        "description": "A tiny-home shell is more affordable and allows complete interior customization, appealing to DIY enthusiasts and those with specific design preferences."
-      }
-    }
-  ],
+  "name": "What are the advantages of buying a tiny-home shell instead of a finished tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of buying a tiny-home shell instead of a finished tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying a tiny-home shell offers several key advantages. Primarily, it significantly reduces the initial purchase cost, making tiny home ownership more accessible. It also provides unparalleled flexibility to customize the interior layout, finishes, and features exactly to your preferences and budget. This option is ideal for those who enjoy DIY projects, have specific design visions, or wish to spread out their construction costs over time. You gain creative control over your living space.",
+        "@type": "Answer",
+        "description": "A tiny-home shell is more affordable and allows complete interior customization, appealing to DIY enthusiasts and those with specific design preferences."
+      }
+    }
+  ],
+  "description": "A tiny-home shell is more affordable and allows complete interior customization, appealing to DIY enthusiasts and those with specific design preferences."
 }

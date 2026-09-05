@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right builder for my custom tiny home project?",
-  "description": "Choose a tiny home builder based on experience, portfolio, customer reviews, local code knowledge, transparent pricing, and licensing.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-builder-for-my-custom-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right builder for my custom tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right builder involves evaluating their experience, portfolio of completed tiny homes, customer testimonials, and understanding of local zoning and building codes. Look for a builder with transparent pricing, clear communication, and a comprehensive design-build process. Ensure they are licensed and insured. Zen Tiny Homes emphasizes its expertise in custom tiny home construction across San Diego County, offering transparent processes and local regulatory knowledge.",
-        "description": "Choose a tiny home builder based on experience, portfolio, customer reviews, local code knowledge, transparent pricing, and licensing."
-      }
-    }
-  ],
+  "name": "How do I choose the right builder for my custom tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right builder for my custom tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right builder involves evaluating their experience, portfolio of completed tiny homes, customer testimonials, and understanding of local zoning and building codes. Look for a builder with transparent pricing, clear communication, and a comprehensive design-build process. Ensure they are licensed and insured. Zen Tiny Homes emphasizes its expertise in custom tiny home construction across San Diego County, offering transparent processes and local regulatory knowledge.",
+        "@type": "Answer",
+        "description": "Choose a tiny home builder based on experience, portfolio, customer reviews, local code knowledge, transparent pricing, and licensing."
+      }
+    }
+  ],
+  "description": "Choose a tiny home builder based on experience, portfolio, customer reviews, local code knowledge, transparent pricing, and licensing."
 }

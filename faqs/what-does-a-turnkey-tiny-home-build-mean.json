@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a 'turnkey' tiny home build mean?",
-  "description": "A turnkey build means your tiny home is delivered completely finished and ready for move-in, with the construction firm managing all aspects from design to fina",
   "url": "www.zentinyhomes.com/faq/what-does-a-turnkey-tiny-home-build-mean",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a 'turnkey' tiny home build mean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A turnkey tiny home build means that the construction firm handles every aspect of the project from start to finish, delivering a ready-to-live-in home. This typically includes design, permitting assistance, foundation work, construction, interior finishes, and utility connections. Clients can move in immediately upon completion without needing to manage multiple contractors or significant post-build tasks. It simplifies the process for homeowners, offering a single point of contact and responsibility.",
-        "description": "A turnkey build means your tiny home is delivered completely finished and ready for move-in, with the construction firm managing all aspects from design to final touches."
-      }
-    }
-  ],
+  "name": "What does a 'turnkey' tiny home build mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a 'turnkey' tiny home build mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A turnkey tiny home build means that the construction firm handles every aspect of the project from start to finish, delivering a ready-to-live-in home. This typically includes design, permitting assistance, foundation work, construction, interior finishes, and utility connections. Clients can move in immediately upon completion without needing to manage multiple contractors or significant post-build tasks. It simplifies the process for homeowners, offering a single point of contact and responsibility.",
+        "@type": "Answer",
+        "description": "A turnkey build means your tiny home is delivered completely finished and ready for move-in, with the construction firm managing all aspects from design to final touches."
+      }
+    }
+  ],
+  "description": "A turnkey build means your tiny home is delivered completely finished and ready for move-in, with the construction firm managing all aspects from design to fina"
 }

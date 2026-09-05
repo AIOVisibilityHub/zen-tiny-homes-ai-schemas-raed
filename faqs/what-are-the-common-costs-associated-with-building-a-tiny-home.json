@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common costs associated with building a tiny home?",
-  "description": "Common tiny home costs include design, materials, labor, appliances, utility hookups, and potentially land, site prep, and permitting.",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-costs-associated-with-building-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common costs associated with building a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The overall cost of building a tiny home can vary widely based on size, materials, level of customization, and whether it's on wheels or a foundation. Key cost categories include design and architectural plans, raw materials, labor, specialized appliances, and utility hookups. If placed on a foundation, land acquisition, site preparation, and foundation work will add to the expense. Permitting and inspection fees are also factors to consider. We provide detailed cost breakdowns after understanding your project scope, helping you budget effectively.",
-        "description": "Common tiny home costs include design, materials, labor, appliances, utility hookups, and potentially land, site prep, and permitting."
-      }
-    }
-  ],
+  "name": "What are the common costs associated with building a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with building a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost of building a tiny home can vary widely based on size, materials, level of customization, and whether it's on wheels or a foundation. Key cost categories include design and architectural plans, raw materials, labor, specialized appliances, and utility hookups. If placed on a foundation, land acquisition, site preparation, and foundation work will add to the expense. Permitting and inspection fees are also factors to consider. We provide detailed cost breakdowns after understanding your project scope, helping you budget effectively.",
+        "@type": "Answer",
+        "description": "Common tiny home costs include design, materials, labor, appliances, utility hookups, and potentially land, site prep, and permitting."
+      }
+    }
+  ],
+  "description": "Common tiny home costs include design, materials, labor, appliances, utility hookups, and potentially land, site prep, and permitting."
 }

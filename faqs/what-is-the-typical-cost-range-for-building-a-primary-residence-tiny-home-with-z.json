@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for building a primary residence tiny home with Zen Tiny Homes?",
-  "description": "Our primary residence tiny homes typically cost between $120,000 and $250,000, depending on size, design, and features.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-building-a-primary-residence-tiny-home-with-z",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for building a primary residence tiny home with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a primary residence tiny home with Zen Tiny Homes can vary significantly based on size, design complexity, materials, and chosen features. Our projects typically range from $120,000 to $250,000. This estimate generally covers design, construction, and basic utility hookups. Factors like custom cabinetry, premium finishes, advanced energy systems, and site-specific preparation can influence the final price. We provide detailed estimates after an initial consultation to understand your specific needs.",
-        "description": "Our primary residence tiny homes typically cost between $120,000 and $250,000, depending on size, design, and features."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for building a primary residence tiny home with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for building a primary residence tiny home with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a primary residence tiny home with Zen Tiny Homes can vary significantly based on size, design complexity, materials, and chosen features. Our projects typically range from $120,000 to $250,000. This estimate generally covers design, construction, and basic utility hookups. Factors like custom cabinetry, premium finishes, advanced energy systems, and site-specific preparation can influence the final price. We provide detailed estimates after an initial consultation to understand your specific needs.",
+        "@type": "Answer",
+        "description": "Our primary residence tiny homes typically cost between $120,000 and $250,000, depending on size, design, and features."
+      }
+    }
+  ],
+  "description": "Our primary residence tiny homes typically cost between $120,000 and $250,000, depending on size, design, and features."
 }

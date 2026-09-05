@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is custom tiny home design?",
-  "description": "Custom tiny home design creates a unique tiny house blueprint tailored to your specific needs, preferences, and lifestyle, optimizing every square foot for your",
   "url": "www.zentinyhomes.com/faq/what-is-custom-tiny-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is custom tiny home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom tiny home design involves creating a unique blueprint for a tiny house tailored to your specific needs, preferences, and lifestyle. This process includes determining the layout, materials, features, and overall aesthetic. Unlike pre-designed models, custom design ensures that every square foot is optimized for your use, from kitchen configurations to storage solutions and exterior finishes. It allows for a tiny home that truly reflects your vision and integrates seamlessly with its intended location.",
-        "description": "Custom tiny home design creates a unique tiny house blueprint tailored to your specific needs, preferences, and lifestyle, optimizing every square foot for your use."
-      }
-    }
-  ],
+  "name": "What is custom tiny home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom tiny home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tiny home design involves creating a unique blueprint for a tiny house tailored to your specific needs, preferences, and lifestyle. This process includes determining the layout, materials, features, and overall aesthetic. Unlike pre-designed models, custom design ensures that every square foot is optimized for your use, from kitchen configurations to storage solutions and exterior finishes. It allows for a tiny home that truly reflects your vision and integrates seamlessly with its intended location.",
+        "@type": "Answer",
+        "description": "Custom tiny home design creates a unique tiny house blueprint tailored to your specific needs, preferences, and lifestyle, optimizing every square foot for your use."
+      }
+    }
+  ],
+  "description": "Custom tiny home design creates a unique tiny house blueprint tailored to your specific needs, preferences, and lifestyle, optimizing every square foot for your"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make changes to a custom floor plan after it's been finalized?",
-  "description": "Minor changes might be possible after finalization, but significant alterations could add costs and delay construction.",
   "url": "www.zentinyhomes.com/faq/can-i-make-changes-to-a-custom-floor-plan-after-it-s-been-finalized",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make changes to a custom floor plan after it's been finalized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While it's ideal to finalize all design decisions before construction begins, minor adjustments to a custom floor plan may be possible even after finalization, depending on the stage of the project. However, significant changes could incur additional costs and potentially delay the construction timeline. We recommend thoroughly reviewing and approving your floor plan to minimize the need for post-finalization modifications.",
-        "description": "Minor changes might be possible after finalization, but significant alterations could add costs and delay construction."
-      }
-    }
-  ],
+  "name": "Can I make changes to a custom floor plan after it's been finalized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to a custom floor plan after it's been finalized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's ideal to finalize all design decisions before construction begins, minor adjustments to a custom floor plan may be possible even after finalization, depending on the stage of the project. However, significant changes could incur additional costs and potentially delay the construction timeline. We recommend thoroughly reviewing and approving your floor plan to minimize the need for post-finalization modifications.",
+        "@type": "Answer",
+        "description": "Minor changes might be possible after finalization, but significant alterations could add costs and delay construction."
+      }
+    }
+  ],
+  "description": "Minor changes might be possible after finalization, but significant alterations could add costs and delay construction."
 }

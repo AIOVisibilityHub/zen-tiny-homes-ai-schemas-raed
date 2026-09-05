@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance a custom tiny home, and what options are available?",
-  "description": "Financing options include ADU, construction, or home equity loans for foundation tiny homes, and RV or personal loans for tiny homes on wheels.",
   "url": "www.zentinyhomes.com/faq/can-i-finance-a-custom-tiny-home-and-what-options-are-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance a custom tiny home, and what options are available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financing a custom tiny home can be different from traditional mortgages, depending on whether it's on a foundation or on wheels. For foundation tiny homes, an ADU loan, construction loan, or home equity loan on your existing property might be options. For tiny homes on wheels, RV loans or personal loans are commonly used. Zen Tiny Homes can provide general information and may recommend lenders specializing in tiny home financing, but does not offer direct financing.",
-        "description": "Financing options include ADU, construction, or home equity loans for foundation tiny homes, and RV or personal loans for tiny homes on wheels."
-      }
-    }
-  ],
+  "name": "Can I finance a custom tiny home, and what options are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a custom tiny home, and what options are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing a custom tiny home can be different from traditional mortgages, depending on whether it's on a foundation or on wheels. For foundation tiny homes, an ADU loan, construction loan, or home equity loan on your existing property might be options. For tiny homes on wheels, RV loans or personal loans are commonly used. Zen Tiny Homes can provide general information and may recommend lenders specializing in tiny home financing, but does not offer direct financing.",
+        "@type": "Answer",
+        "description": "Financing options include ADU, construction, or home equity loans for foundation tiny homes, and RV or personal loans for tiny homes on wheels."
+      }
+    }
+  ],
+  "description": "Financing options include ADU, construction, or home equity loans for foundation tiny homes, and RV or personal loans for tiny homes on wheels."
 }

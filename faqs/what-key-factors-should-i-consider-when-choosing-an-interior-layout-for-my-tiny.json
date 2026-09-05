@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What key factors should I consider when choosing an interior layout for my tiny home?",
-  "description": "Key factors for choosing a tiny home layout include daily routines, lifestyle needs, number of occupants, storage requirements, and functional priorities.",
   "url": "www.zentinyhomes.com/faq/what-key-factors-should-i-consider-when-choosing-an-interior-layout-for-my-tiny",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What key factors should I consider when choosing an interior layout for my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an interior layout, consider your daily routines, lifestyle, and specific needs. Think about how many people will live in the home, your hobbies, and essential items you need to store. Prioritize functionality – what are your non-negotiables? Also, consider natural light, ventilation, and the flow between different zones like living, cooking, and sleeping. Matching the layout to your lifestyle ensures comfort and efficiency.",
-        "description": "Key factors for choosing a tiny home layout include daily routines, lifestyle needs, number of occupants, storage requirements, and functional priorities."
-      }
-    }
-  ],
+  "name": "What key factors should I consider when choosing an interior layout for my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What key factors should I consider when choosing an interior layout for my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an interior layout, consider your daily routines, lifestyle, and specific needs. Think about how many people will live in the home, your hobbies, and essential items you need to store. Prioritize functionality – what are your non-negotiables? Also, consider natural light, ventilation, and the flow between different zones like living, cooking, and sleeping. Matching the layout to your lifestyle ensures comfort and efficiency.",
+        "@type": "Answer",
+        "description": "Key factors for choosing a tiny home layout include daily routines, lifestyle needs, number of occupants, storage requirements, and functional priorities."
+      }
+    }
+  ],
+  "description": "Key factors for choosing a tiny home layout include daily routines, lifestyle needs, number of occupants, storage requirements, and functional priorities."
 }

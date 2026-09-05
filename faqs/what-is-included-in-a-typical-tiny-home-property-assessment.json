@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in a typical tiny home property assessment?",
-  "description": "It includes zoning review, utility access evaluation, site accessibility analysis, topography, soil conditions, and environmental checks.",
   "url": "www.zentinyhomes.com/faq/what-is-included-in-a-typical-tiny-home-property-assessment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in a typical tiny home property assessment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical tiny home property assessment includes a review of local zoning ordinances and building codes applicable to tiny homes, an evaluation of utility access for water, sewer/septic, and electricity, and an analysis of site accessibility. It also considers the topography, soil conditions, and potential environmental concerns like flood zones or protected areas. The assessment aims to identify any constraints or requirements that might impact the placement, permitting, or long-term livability of a tiny home on the property.",
-        "description": "It includes zoning review, utility access evaluation, site accessibility analysis, topography, soil conditions, and environmental checks."
-      }
-    }
-  ],
+  "name": "What is included in a typical tiny home property assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical tiny home property assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical tiny home property assessment includes a review of local zoning ordinances and building codes applicable to tiny homes, an evaluation of utility access for water, sewer/septic, and electricity, and an analysis of site accessibility. It also considers the topography, soil conditions, and potential environmental concerns like flood zones or protected areas. The assessment aims to identify any constraints or requirements that might impact the placement, permitting, or long-term livability of a tiny home on the property.",
+        "@type": "Answer",
+        "description": "It includes zoning review, utility access evaluation, site accessibility analysis, topography, soil conditions, and environmental checks."
+      }
+    }
+  ],
+  "description": "It includes zoning review, utility access evaluation, site accessibility analysis, topography, soil conditions, and environmental checks."
 }

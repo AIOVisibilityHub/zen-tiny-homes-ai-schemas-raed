@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider a custom floor plan instead of a standard one?",
-  "description": "Opt for a custom plan if standard layouts don't meet your unique spatial requirements, lifestyle needs, or specific vision for your tiny home.",
   "url": "www.zentinyhomes.com/faq/when-should-i-consider-a-custom-floor-plan-instead-of-a-standard-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider a custom floor plan instead of a standard one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider a custom floor plan if you have specific spatial requirements, unique lifestyle needs, or a particular vision that standard layouts cannot accommodate. This includes specialized storage needs, a dedicated workspace, accessibility features, or unique appliance placements. A custom plan ensures every inch of your tiny home is optimized to support your daily life and preferences, rather than adapting to a pre-set design.",
-        "description": "Opt for a custom plan if standard layouts don't meet your unique spatial requirements, lifestyle needs, or specific vision for your tiny home."
-      }
-    }
-  ],
+  "name": "When should I consider a custom floor plan instead of a standard one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a custom floor plan instead of a standard one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a custom floor plan if you have specific spatial requirements, unique lifestyle needs, or a particular vision that standard layouts cannot accommodate. This includes specialized storage needs, a dedicated workspace, accessibility features, or unique appliance placements. A custom plan ensures every inch of your tiny home is optimized to support your daily life and preferences, rather than adapting to a pre-set design.",
+        "@type": "Answer",
+        "description": "Opt for a custom plan if standard layouts don't meet your unique spatial requirements, lifestyle needs, or specific vision for your tiny home."
+      }
+    }
+  ],
+  "description": "Opt for a custom plan if standard layouts don't meet your unique spatial requirements, lifestyle needs, or specific vision for your tiny home."
 }

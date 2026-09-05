@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for building a backyard tiny home in Carlsbad?",
-  "description": "Building an ADU in Carlsbad requires building permits, along with approved architectural and structural plans. Additional permits may be needed for utilities.",
   "url": "www.zentinyhomes.com/faq/what-permits-are-required-for-building-a-backyard-tiny-home-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for building a backyard tiny home in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a backyard tiny home in Carlsbad requires obtaining various permits from the City of Carlsbad Planning and Building Departments. This typically includes a building permit, which necessitates approved architectural plans, structural engineering, and site plans. Depending on the specifics of your property and project, additional permits for grading, electrical, plumbing, or mechanical work may also be required. It's advisable to consult with a local builder or the city's planning department early in the process.",
-        "description": "Building an ADU in Carlsbad requires building permits, along with approved architectural and structural plans. Additional permits may be needed for utilities."
-      }
-    }
-  ],
+  "name": "What permits are required for building a backyard tiny home in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for building a backyard tiny home in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a backyard tiny home in Carlsbad requires obtaining various permits from the City of Carlsbad Planning and Building Departments. This typically includes a building permit, which necessitates approved architectural plans, structural engineering, and site plans. Depending on the specifics of your property and project, additional permits for grading, electrical, plumbing, or mechanical work may also be required. It's advisable to consult with a local builder or the city's planning department early in the process.",
+        "@type": "Answer",
+        "description": "Building an ADU in Carlsbad requires building permits, along with approved architectural and structural plans. Additional permits may be needed for utilities."
+      }
+    }
+  ],
+  "description": "Building an ADU in Carlsbad requires building permits, along with approved architectural and structural plans. Additional permits may be needed for utilities."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I use a backyard tiny home for short-term rentals?",
-  "description": "Rules for using backyard tiny homes for short-term rentals depend on local city and county ordinances. Check regulations in your specific area.",
   "url": "www.zentinyhomes.com/faq/can-i-use-a-backyard-tiny-home-for-short-term-rentals",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I use a backyard tiny home for short-term rentals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regulations regarding short-term rentals for backyard tiny homes, or ADUs, vary significantly by city and county. While some jurisdictions allow it with specific permits and restrictions, others prohibit it entirely or have strict limits on rental duration. It is crucial to check the current short-term rental ordinances in your specific municipality within San Diego County before planning to use your ADU for this purpose.",
-        "description": "Rules for using backyard tiny homes for short-term rentals depend on local city and county ordinances. Check regulations in your specific area."
-      }
-    }
-  ],
+  "name": "Can I use a backyard tiny home for short-term rentals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a backyard tiny home for short-term rentals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regulations regarding short-term rentals for backyard tiny homes, or ADUs, vary significantly by city and county. While some jurisdictions allow it with specific permits and restrictions, others prohibit it entirely or have strict limits on rental duration. It is crucial to check the current short-term rental ordinances in your specific municipality within San Diego County before planning to use your ADU for this purpose.",
+        "@type": "Answer",
+        "description": "Rules for using backyard tiny homes for short-term rentals depend on local city and county ordinances. Check regulations in your specific area."
+      }
+    }
+  ],
+  "description": "Rules for using backyard tiny homes for short-term rentals depend on local city and county ordinances. Check regulations in your specific area."
 }

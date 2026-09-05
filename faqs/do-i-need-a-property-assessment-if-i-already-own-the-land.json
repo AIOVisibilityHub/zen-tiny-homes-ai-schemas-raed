@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a property assessment if I already own the land?",
-  "description": "Yes, even if you own the land, an assessment confirms suitability, zoning compliance, and utility access for your tiny home.",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-property-assessment-if-i-already-own-the-land",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a property assessment if I already own the land?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, even if you already own the land, a property assessment is highly recommended for a tiny home project. Owning the land doesn't automatically mean it's suitable or legally compliant for a tiny home. The assessment will confirm if your specific property meets zoning requirements, has adequate utility access, and can support the type of tiny home you plan to build or place. It ensures you avoid unexpected issues during permitting or construction.",
-        "description": "Yes, even if you own the land, an assessment confirms suitability, zoning compliance, and utility access for your tiny home."
-      }
-    }
-  ],
+  "name": "Do I need a property assessment if I already own the land?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a property assessment if I already own the land?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even if you already own the land, a property assessment is highly recommended for a tiny home project. Owning the land doesn't automatically mean it's suitable or legally compliant for a tiny home. The assessment will confirm if your specific property meets zoning requirements, has adequate utility access, and can support the type of tiny home you plan to build or place. It ensures you avoid unexpected issues during permitting or construction.",
+        "@type": "Answer",
+        "description": "Yes, even if you own the land, an assessment confirms suitability, zoning compliance, and utility access for your tiny home."
+      }
+    }
+  ],
+  "description": "Yes, even if you own the land, an assessment confirms suitability, zoning compliance, and utility access for your tiny home."
 }

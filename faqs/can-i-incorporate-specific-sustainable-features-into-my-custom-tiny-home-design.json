@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I incorporate specific sustainable features into my custom tiny home design?",
-  "description": "Yes, sustainable features like solar panels, rainwater harvesting, composting toilets, and eco-friendly materials can be integrated into your design.",
   "url": "www.zentinyhomes.com/faq/can-i-incorporate-specific-sustainable-features-into-my-custom-tiny-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I incorporate specific sustainable features into my custom tiny home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, incorporating sustainable features is a common request in custom tiny home design. We can integrate elements such as solar panels for energy generation, rainwater harvesting systems for water conservation, composting toilets, and high-efficiency insulation. Material choices like reclaimed wood, recycled steel, and non-toxic finishes also contribute to environmental friendliness. Our design process allows for the careful planning and integration of these features to minimize your home's ecological footprint and reduce utility costs.",
-        "description": "Yes, sustainable features like solar panels, rainwater harvesting, composting toilets, and eco-friendly materials can be integrated into your design."
-      }
-    }
-  ],
+  "name": "Can I incorporate specific sustainable features into my custom tiny home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate specific sustainable features into my custom tiny home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, incorporating sustainable features is a common request in custom tiny home design. We can integrate elements such as solar panels for energy generation, rainwater harvesting systems for water conservation, composting toilets, and high-efficiency insulation. Material choices like reclaimed wood, recycled steel, and non-toxic finishes also contribute to environmental friendliness. Our design process allows for the careful planning and integration of these features to minimize your home's ecological footprint and reduce utility costs.",
+        "@type": "Answer",
+        "description": "Yes, sustainable features like solar panels, rainwater harvesting, composting toilets, and eco-friendly materials can be integrated into your design."
+      }
+    }
+  ],
+  "description": "Yes, sustainable features like solar panels, rainwater harvesting, composting toilets, and eco-friendly materials can be integrated into your design."
 }

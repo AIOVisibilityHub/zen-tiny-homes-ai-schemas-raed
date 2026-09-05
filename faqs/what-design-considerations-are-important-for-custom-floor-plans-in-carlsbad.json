@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design considerations are important for custom floor plans in Carlsbad?",
-  "description": "Carlsbad custom floor plans consider local zoning, coastal climate impacts on materials, maximizing natural light, and aesthetic preferences.",
   "url": "www.zentinyhomes.com/faq/what-design-considerations-are-important-for-custom-floor-plans-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design considerations are important for custom floor plans in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When developing custom floor plans for tiny homes in Carlsbad, important considerations include local zoning regulations regarding tiny homes, potential coastal climate impacts like humidity and salt air on material choices, and maximizing natural light and ocean breezes. We also factor in aesthetic preferences common to the area, ensuring the design complements the local environment while adhering to all municipal guidelines for placement and utility connections specific to Carlsbad.",
-        "description": "Carlsbad custom floor plans consider local zoning, coastal climate impacts on materials, maximizing natural light, and aesthetic preferences."
-      }
-    }
-  ],
+  "name": "What design considerations are important for custom floor plans in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for custom floor plans in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When developing custom floor plans for tiny homes in Carlsbad, important considerations include local zoning regulations regarding tiny homes, potential coastal climate impacts like humidity and salt air on material choices, and maximizing natural light and ocean breezes. We also factor in aesthetic preferences common to the area, ensuring the design complements the local environment while adhering to all municipal guidelines for placement and utility connections specific to Carlsbad.",
+        "@type": "Answer",
+        "description": "Carlsbad custom floor plans consider local zoning, coastal climate impacts on materials, maximizing natural light, and aesthetic preferences."
+      }
+    }
+  ],
+  "description": "Carlsbad custom floor plans consider local zoning, coastal climate impacts on materials, maximizing natural light, and aesthetic preferences."
 }

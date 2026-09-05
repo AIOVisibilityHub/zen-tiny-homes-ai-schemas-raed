@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What storage solutions are most effective in a small kitchen within a tiny home?",
-  "description": "Effective tiny home kitchen storage utilizes vertical space with wall-mounted shelves and tall cabinets. Pull-out drawers, corner solutions, and multi-functiona",
   "url": "www.zentinyhomes.com/faq/what-storage-solutions-are-most-effective-in-a-small-kitchen-within-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What storage solutions are most effective in a small kitchen within a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a small tiny home kitchen, effective storage solutions focus on maximizing every inch. Vertical storage is crucial, utilizing wall-mounted shelving, pot racks, and ceiling-height cabinets. Pull-out pantry drawers, toe-kick drawers at the base of cabinets, and magnetic knife strips optimize hidden spaces. Corner drawers, tiered organizers, and pegboards for utensils can keep items accessible yet out of sight. Multi-functional appliances, like a convection microwave that bakes and microwaves, also reduce the number of items needed, further optimizing space.",
-        "description": "Effective tiny home kitchen storage utilizes vertical space with wall-mounted shelves and tall cabinets. Pull-out drawers, corner solutions, and multi-functional appliances maximize utility."
-      }
-    }
-  ],
+  "name": "What storage solutions are most effective in a small kitchen within a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What storage solutions are most effective in a small kitchen within a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a small tiny home kitchen, effective storage solutions focus on maximizing every inch. Vertical storage is crucial, utilizing wall-mounted shelving, pot racks, and ceiling-height cabinets. Pull-out pantry drawers, toe-kick drawers at the base of cabinets, and magnetic knife strips optimize hidden spaces. Corner drawers, tiered organizers, and pegboards for utensils can keep items accessible yet out of sight. Multi-functional appliances, like a convection microwave that bakes and microwaves, also reduce the number of items needed, further optimizing space.",
+        "@type": "Answer",
+        "description": "Effective tiny home kitchen storage utilizes vertical space with wall-mounted shelves and tall cabinets. Pull-out drawers, corner solutions, and multi-functional appliances maximize utility."
+      }
+    }
+  ],
+  "description": "Effective tiny home kitchen storage utilizes vertical space with wall-mounted shelves and tall cabinets. Pull-out drawers, corner solutions, and multi-functiona"
 }

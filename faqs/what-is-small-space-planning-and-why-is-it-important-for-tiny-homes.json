@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is small-space planning and why is it important for tiny homes?",
-  "description": "Small-space planning optimizes compact living areas for maximum functionality and comfort, which is essential for tiny homes where every square foot counts.",
   "url": "www.zentinyhomes.com/faq/what-is-small-space-planning-and-why-is-it-important-for-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is small-space planning and why is it important for tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small-space planning is the strategic design and organization of compact living areas to maximize functionality, comfort, and efficiency. For tiny homes, it's crucial because every square foot serves multiple purposes. Effective planning ensures that essential living areas—sleeping, cooking, bathing, and storage—are integrated seamlessly without feeling cramped. This approach helps to avoid wasted space, improves daily flow, and makes the most of a limited footprint, transforming a small house into a highly livable home tailored to the owner's needs and lifestyle.",
-        "description": "Small-space planning optimizes compact living areas for maximum functionality and comfort, which is essential for tiny homes where every square foot counts."
-      }
-    }
-  ],
+  "name": "What is small-space planning and why is it important for tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is small-space planning and why is it important for tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small-space planning is the strategic design and organization of compact living areas to maximize functionality, comfort, and efficiency. For tiny homes, it's crucial because every square foot serves multiple purposes. Effective planning ensures that essential living areas—sleeping, cooking, bathing, and storage—are integrated seamlessly without feeling cramped. This approach helps to avoid wasted space, improves daily flow, and makes the most of a limited footprint, transforming a small house into a highly livable home tailored to the owner's needs and lifestyle.",
+        "@type": "Answer",
+        "description": "Small-space planning optimizes compact living areas for maximum functionality and comfort, which is essential for tiny homes where every square foot counts."
+      }
+    }
+  ],
+  "description": "Small-space planning optimizes compact living areas for maximum functionality and comfort, which is essential for tiny homes where every square foot counts."
 }

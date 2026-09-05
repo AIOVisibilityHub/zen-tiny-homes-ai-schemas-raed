@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do foundation-based tiny homes compare to tiny homes on wheels?",
-  "description": "Foundation-based tiny homes are permanent structures built to code, treated as real estate. Tiny homes on wheels are mobile RVs with different zoning and financ",
   "url": "www.zentinyhomes.com/faq/how-do-foundation-based-tiny-homes-compare-to-tiny-homes-on-wheels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do foundation-based tiny homes compare to tiny homes on wheels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Foundation-based tiny homes are permanently affixed to the ground, adhering to local building codes for conventional homes. They are treated as real estate, allowing for traditional mortgages and increasing in property value. Tiny homes on wheels, conversely, are classified as recreational vehicles (RVs) and typically offer mobility but face different zoning restrictions regarding where they can be parked or lived in long-term. Foundation-based homes generally offer greater structural permanence and integration into municipal infrastructure.",
-        "description": "Foundation-based tiny homes are permanent structures built to code, treated as real estate. Tiny homes on wheels are mobile RVs with different zoning and financing implications."
-      }
-    }
-  ],
+  "name": "How do foundation-based tiny homes compare to tiny homes on wheels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do foundation-based tiny homes compare to tiny homes on wheels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation-based tiny homes are permanently affixed to the ground, adhering to local building codes for conventional homes. They are treated as real estate, allowing for traditional mortgages and increasing in property value. Tiny homes on wheels, conversely, are classified as recreational vehicles (RVs) and typically offer mobility but face different zoning restrictions regarding where they can be parked or lived in long-term. Foundation-based homes generally offer greater structural permanence and integration into municipal infrastructure.",
+        "@type": "Answer",
+        "description": "Foundation-based tiny homes are permanent structures built to code, treated as real estate. Tiny homes on wheels are mobile RVs with different zoning and financing implications."
+      }
+    }
+  ],
+  "description": "Foundation-based tiny homes are permanent structures built to code, treated as real estate. Tiny homes on wheels are mobile RVs with different zoning and financ"
 }

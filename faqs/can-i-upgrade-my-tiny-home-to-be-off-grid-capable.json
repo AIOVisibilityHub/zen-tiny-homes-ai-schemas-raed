@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I upgrade my tiny home to be off-grid capable?",
-  "description": "Yes, off-grid upgrades can be integrated, including solar power, battery storage, composting toilets, rainwater harvesting, and highly efficient appliances.",
   "url": "www.zentinyhomes.com/faq/can-i-upgrade-my-tiny-home-to-be-off-grid-capable",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I upgrade my tiny home to be off-grid capable?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes can integrate off-grid capabilities into your tiny home design. This typically involves installing a solar power system with battery storage, composting toilet systems, and rainwater harvesting or alternative water storage solutions. We can also incorporate highly efficient appliances and insulation to minimize energy consumption. Our team will assess your specific needs and location to design a robust off-grid system that meets your sustainability goals and provides reliable utility independence.",
-        "description": "Yes, off-grid upgrades can be integrated, including solar power, battery storage, composting toilets, rainwater harvesting, and highly efficient appliances."
-      }
-    }
-  ],
+  "name": "Can I upgrade my tiny home to be off-grid capable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my tiny home to be off-grid capable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes can integrate off-grid capabilities into your tiny home design. This typically involves installing a solar power system with battery storage, composting toilet systems, and rainwater harvesting or alternative water storage solutions. We can also incorporate highly efficient appliances and insulation to minimize energy consumption. Our team will assess your specific needs and location to design a robust off-grid system that meets your sustainability goals and provides reliable utility independence.",
+        "@type": "Answer",
+        "description": "Yes, off-grid upgrades can be integrated, including solar power, battery storage, composting toilets, rainwater harvesting, and highly efficient appliances."
+      }
+    }
+  ],
+  "description": "Yes, off-grid upgrades can be integrated, including solar power, battery storage, composting toilets, rainwater harvesting, and highly efficient appliances."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is custom floor-plan development for a tiny home?",
-  "description": "Custom floor-plan development creates a unique, personalized layout for your tiny home based on your specific needs and lifestyle.",
   "url": "www.zentinyhomes.com/faq/what-is-custom-floor-plan-development-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is custom floor-plan development for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom floor-plan development involves designing a unique layout for your tiny home that is tailored to your specific needs, lifestyle, and preferences. Instead of choosing from pre-designed options, you work with our designers to create a blueprint that maximizes space efficiency, incorporates desired features, and aligns with your aesthetic vision. This process ensures your tiny home is truly personalized, reflecting your functional requirements for living, working, and storage within a compact footprint.",
-        "description": "Custom floor-plan development creates a unique, personalized layout for your tiny home based on your specific needs and lifestyle."
-      }
-    }
-  ],
+  "name": "What is custom floor-plan development for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom floor-plan development for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom floor-plan development involves designing a unique layout for your tiny home that is tailored to your specific needs, lifestyle, and preferences. Instead of choosing from pre-designed options, you work with our designers to create a blueprint that maximizes space efficiency, incorporates desired features, and aligns with your aesthetic vision. This process ensures your tiny home is truly personalized, reflecting your functional requirements for living, working, and storage within a compact footprint.",
+        "@type": "Answer",
+        "description": "Custom floor-plan development creates a unique, personalized layout for your tiny home based on your specific needs and lifestyle."
+      }
+    }
+  ],
+  "description": "Custom floor-plan development creates a unique, personalized layout for your tiny home based on your specific needs and lifestyle."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits and regulations apply to foundation-based tiny homes in your service areas?",
-  "description": "Foundation-based tiny homes in our service areas must comply with local building codes, zoning, and permitting, similar to traditional homes. Specific regulatio",
   "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-apply-to-foundation-based-tiny-homes-in-your-servic",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits and regulations apply to foundation-based tiny homes in your service areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In our service areas, including Vista, Oceanside, Carlsbad, San Marcos, and Escondido, foundation-based tiny homes are subject to local building codes, zoning ordinances, and permitting requirements. These can include minimum square footage requirements, setback rules, and utility connection standards. As these homes are permanent structures, they must comply with the same regulations as any traditional home. It's crucial to verify specific requirements with the local planning and building departments for your intended location, as regulations can vary.",
-        "description": "Foundation-based tiny homes in our service areas must comply with local building codes, zoning, and permitting, similar to traditional homes. Specific regulations vary by municipality."
-      }
-    }
-  ],
+  "name": "What permits and regulations apply to foundation-based tiny homes in your service areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations apply to foundation-based tiny homes in your service areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In our service areas, including Vista, Oceanside, Carlsbad, San Marcos, and Escondido, foundation-based tiny homes are subject to local building codes, zoning ordinances, and permitting requirements. These can include minimum square footage requirements, setback rules, and utility connection standards. As these homes are permanent structures, they must comply with the same regulations as any traditional home. It's crucial to verify specific requirements with the local planning and building departments for your intended location, as regulations can vary.",
+        "@type": "Answer",
+        "description": "Foundation-based tiny homes in our service areas must comply with local building codes, zoning, and permitting, similar to traditional homes. Specific regulations vary by municipality."
+      }
+    }
+  ],
+  "description": "Foundation-based tiny homes in our service areas must comply with local building codes, zoning, and permitting, similar to traditional homes. Specific regulatio"
 }

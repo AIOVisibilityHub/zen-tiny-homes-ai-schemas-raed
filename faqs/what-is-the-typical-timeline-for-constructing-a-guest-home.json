@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for constructing a guest home?",
-  "description": "Construction of a guest home typically takes 8 to 12 months, covering design, permitting, and physical build. The timeline depends on design complexity, permit",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-guest-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for constructing a guest home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a guest home generally ranges from 8 to 12 months, though this can vary. The process includes several phases: initial consultation and design (1-2 months), permit application and approval (2-4 months, depending on the city and complexity), and physical construction (3-6 months). Factors like custom design elements, material availability, weather conditions, and timely homeowner decisions can influence the overall schedule. We work to streamline each phase for efficiency.",
-        "description": "Construction of a guest home typically takes 8 to 12 months, covering design, permitting, and physical build. The timeline depends on design complexity, permit approval speed, and site conditions."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for constructing a guest home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a guest home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a guest home generally ranges from 8 to 12 months, though this can vary. The process includes several phases: initial consultation and design (1-2 months), permit application and approval (2-4 months, depending on the city and complexity), and physical construction (3-6 months). Factors like custom design elements, material availability, weather conditions, and timely homeowner decisions can influence the overall schedule. We work to streamline each phase for efficiency.",
+        "@type": "Answer",
+        "description": "Construction of a guest home typically takes 8 to 12 months, covering design, permitting, and physical build. The timeline depends on design complexity, permit approval speed, and site conditions."
+      }
+    }
+  ],
+  "description": "Construction of a guest home typically takes 8 to 12 months, covering design, permitting, and physical build. The timeline depends on design complexity, permit"
 }

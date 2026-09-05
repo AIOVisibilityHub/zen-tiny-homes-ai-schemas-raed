@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What site considerations are important for maximizing natural light and energy efficiency?",
-  "description": "Orienting your tiny home to the south maximizes natural light and passive solar gain; consider tree shade and window placement for energy efficiency.",
   "url": "www.zentinyhomes.com/faq/what-site-considerations-are-important-for-maximizing-natural-light-and-energy-e",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What site considerations are important for maximizing natural light and energy efficiency?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For natural light and energy efficiency, consider the tiny home's orientation on the lot. Positioning the longest side of the home to face south can maximize passive solar gain in winter and natural light year-round. Analyze the path of the sun and existing shade from trees or other structures. Strategic window placement, proper insulation, and considering prevailing winds for ventilation also contribute to energy efficiency and comfort.",
-        "description": "Orienting your tiny home to the south maximizes natural light and passive solar gain; consider tree shade and window placement for energy efficiency."
-      }
-    }
-  ],
+  "name": "What site considerations are important for maximizing natural light and energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What site considerations are important for maximizing natural light and energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For natural light and energy efficiency, consider the tiny home's orientation on the lot. Positioning the longest side of the home to face south can maximize passive solar gain in winter and natural light year-round. Analyze the path of the sun and existing shade from trees or other structures. Strategic window placement, proper insulation, and considering prevailing winds for ventilation also contribute to energy efficiency and comfort.",
+        "@type": "Answer",
+        "description": "Orienting your tiny home to the south maximizes natural light and passive solar gain; consider tree shade and window placement for energy efficiency."
+      }
+    }
+  ],
+  "description": "Orienting your tiny home to the south maximizes natural light and passive solar gain; consider tree shade and window placement for energy efficiency."
 }

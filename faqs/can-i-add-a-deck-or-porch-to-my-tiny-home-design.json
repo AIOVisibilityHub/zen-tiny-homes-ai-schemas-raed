@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I add a deck or porch to my tiny home design?",
-  "description": "Yes, decks or porches can be added as attached, foldable, or detachable structures to expand outdoor living space. Design options are tailored to your home and",
   "url": "www.zentinyhomes.com/faq/can-i-add-a-deck-or-porch-to-my-tiny-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I add a deck or porch to my tiny home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, adding a deck or porch is a common customization for tiny homes to expand outdoor living space. These can be designed as attached, foldable, or detachable structures depending on your tiny home's mobility requirements and local regulations. We can integrate various materials and designs to complement your home's exterior and provide a seamless transition from indoor to outdoor living. Our team will discuss the best options for your specific tiny home model and intended use, ensuring structural integrity and compliance.",
-        "description": "Yes, decks or porches can be added as attached, foldable, or detachable structures to expand outdoor living space. Design options are tailored to your home and mobility needs."
-      }
-    }
-  ],
+  "name": "Can I add a deck or porch to my tiny home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a deck or porch to my tiny home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a deck or porch is a common customization for tiny homes to expand outdoor living space. These can be designed as attached, foldable, or detachable structures depending on your tiny home's mobility requirements and local regulations. We can integrate various materials and designs to complement your home's exterior and provide a seamless transition from indoor to outdoor living. Our team will discuss the best options for your specific tiny home model and intended use, ensuring structural integrity and compliance.",
+        "@type": "Answer",
+        "description": "Yes, decks or porches can be added as attached, foldable, or detachable structures to expand outdoor living space. Design options are tailored to your home and mobility needs."
+      }
+    }
+  ],
+  "description": "Yes, decks or porches can be added as attached, foldable, or detachable structures to expand outdoor living space. Design options are tailored to your home and"
 }

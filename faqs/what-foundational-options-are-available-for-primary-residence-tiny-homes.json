@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What foundational options are available for primary residence tiny homes?",
-  "description": "Primary residence tiny homes can use permanent foundations like concrete slabs or pier and beam, chosen based on site, codes, and budget.",
   "url": "www.zentinyhomes.com/faq/what-foundational-options-are-available-for-primary-residence-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What foundational options are available for primary residence tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For primary residence tiny homes, common foundational options include permanent foundations like concrete slabs or pier and beam foundations. A concrete slab provides a solid, durable base, often with integrated radiant heating options. Pier and beam foundations lift the home off the ground, allowing for easier access to plumbing and electrical systems and better airflow underneath. The best choice depends on your specific site conditions, local building codes, and budget, as well as aesthetic preferences. Our team can advise on the most suitable option for your project.",
-        "description": "Primary residence tiny homes can use permanent foundations like concrete slabs or pier and beam, chosen based on site, codes, and budget."
-      }
-    }
-  ],
+  "name": "What foundational options are available for primary residence tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What foundational options are available for primary residence tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For primary residence tiny homes, common foundational options include permanent foundations like concrete slabs or pier and beam foundations. A concrete slab provides a solid, durable base, often with integrated radiant heating options. Pier and beam foundations lift the home off the ground, allowing for easier access to plumbing and electrical systems and better airflow underneath. The best choice depends on your specific site conditions, local building codes, and budget, as well as aesthetic preferences. Our team can advise on the most suitable option for your project.",
+        "@type": "Answer",
+        "description": "Primary residence tiny homes can use permanent foundations like concrete slabs or pier and beam, chosen based on site, codes, and budget."
+      }
+    }
+  ],
+  "description": "Primary residence tiny homes can use permanent foundations like concrete slabs or pier and beam, chosen based on site, codes, and budget."
 }

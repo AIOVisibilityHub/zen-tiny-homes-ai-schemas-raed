@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need to provide for a custom floor plan consultation?",
-  "description": "Prepare your ideas, inspiration, essential features, lifestyle needs, occupants, storage requirements, and approximate budget for the consultation.",
   "url": "www.zentinyhomes.com/faq/what-information-do-i-need-to-provide-for-a-custom-floor-plan-consultation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need to provide for a custom floor plan consultation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prepare for your custom floor plan consultation, it's helpful to gather your ideas, inspiration photos, and a list of essential features and amenities. Consider your lifestyle, how many occupants will live in the tiny home, your storage needs, and any specific appliances you plan to use. Knowing your approximate budget and any site-specific considerations (like utility hookups) will also be beneficial for an effective discussion.",
-        "description": "Prepare your ideas, inspiration, essential features, lifestyle needs, occupants, storage requirements, and approximate budget for the consultation."
-      }
-    }
-  ],
+  "name": "What information do I need to provide for a custom floor plan consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a custom floor plan consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your custom floor plan consultation, it's helpful to gather your ideas, inspiration photos, and a list of essential features and amenities. Consider your lifestyle, how many occupants will live in the tiny home, your storage needs, and any specific appliances you plan to use. Knowing your approximate budget and any site-specific considerations (like utility hookups) will also be beneficial for an effective discussion.",
+        "@type": "Answer",
+        "description": "Prepare your ideas, inspiration, essential features, lifestyle needs, occupants, storage requirements, and approximate budget for the consultation."
+      }
+    }
+  ],
+  "description": "Prepare your ideas, inspiration, essential features, lifestyle needs, occupants, storage requirements, and approximate budget for the consultation."
 }

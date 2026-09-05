@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to design a custom tiny home?",
-  "description": "Design time varies from weeks to months, depending on complexity, decision-making speed, and revision cycles.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-a-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to design a custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for designing a custom tiny home can range from a few weeks to several months, depending on the complexity of your vision and the speed of decision-making. Simple designs with clear requirements can move quickly, while more intricate or unique projects that involve multiple revisions or specialized features may take longer. Factors like client availability for feedback and the scope of requested changes also influence the duration. We aim to keep you informed and involved throughout the process to ensure efficient progress.",
-        "description": "Design time varies from weeks to months, depending on complexity, decision-making speed, and revision cycles."
-      }
-    }
-  ],
+  "name": "How long does it take to design a custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design a custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing a custom tiny home can range from a few weeks to several months, depending on the complexity of your vision and the speed of decision-making. Simple designs with clear requirements can move quickly, while more intricate or unique projects that involve multiple revisions or specialized features may take longer. Factors like client availability for feedback and the scope of requested changes also influence the duration. We aim to keep you informed and involved throughout the process to ensure efficient progress.",
+        "@type": "Answer",
+        "description": "Design time varies from weeks to months, depending on complexity, decision-making speed, and revision cycles."
+      }
+    }
+  ],
+  "description": "Design time varies from weeks to months, depending on complexity, decision-making speed, and revision cycles."
 }

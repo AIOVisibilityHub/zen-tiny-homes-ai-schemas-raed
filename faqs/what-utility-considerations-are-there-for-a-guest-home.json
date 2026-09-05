@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility considerations are there for a guest home?",
-  "description": "Guest homes need connections for water, sewer/septic, and electricity. They may share or require separate utility meters, impacting project scope and cost.",
   "url": "www.zentinyhomes.com/faq/what-utility-considerations-are-there-for-a-guest-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility considerations are there for a guest home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guest homes require connections to essential utilities including water, sewer or septic, electricity, and potentially natural gas. Depending on local regulations and existing infrastructure, you might be able to share utility lines with the primary residence or be required to install separate meters. Upgrading existing service lines or connecting to new ones can be a significant part of the project's scope and cost. We assess your property's specific utility needs and coordinate with utility providers.",
-        "description": "Guest homes need connections for water, sewer/septic, and electricity. They may share or require separate utility meters, impacting project scope and cost."
-      }
-    }
-  ],
+  "name": "What utility considerations are there for a guest home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility considerations are there for a guest home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Guest homes require connections to essential utilities including water, sewer or septic, electricity, and potentially natural gas. Depending on local regulations and existing infrastructure, you might be able to share utility lines with the primary residence or be required to install separate meters. Upgrading existing service lines or connecting to new ones can be a significant part of the project's scope and cost. We assess your property's specific utility needs and coordinate with utility providers.",
+        "@type": "Answer",
+        "description": "Guest homes need connections for water, sewer/septic, and electricity. They may share or require separate utility meters, impacting project scope and cost."
+      }
+    }
+  ],
+  "description": "Guest homes need connections for water, sewer/septic, and electricity. They may share or require separate utility meters, impacting project scope and cost."
 }

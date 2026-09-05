@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a property assessment and a home inspection for a tiny home?",
-  "description": "A property assessment evaluates land suitability before building, while a home inspection assesses the condition of an already built tiny home.",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-property-assessment-and-a-home-inspection-for-a",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a property assessment and a home inspection for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A property assessment focuses on the land itself, evaluating its suitability for building, zoning compliance, utility access, and environmental factors *before* any construction begins. It ensures the site can legally and practically accommodate a tiny home. In contrast, a home inspection examines the structural integrity, systems (plumbing, electrical, HVAC), and overall condition of an *already built* tiny home. It typically happens before purchase or after construction to ensure the home is safe and functional. Both are crucial but occur at different stages of the tiny home journey.",
-        "description": "A property assessment evaluates land suitability before building, while a home inspection assesses the condition of an already built tiny home."
-      }
-    }
-  ],
+  "name": "What is the difference between a property assessment and a home inspection for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a property assessment and a home inspection for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A property assessment focuses on the land itself, evaluating its suitability for building, zoning compliance, utility access, and environmental factors *before* any construction begins. It ensures the site can legally and practically accommodate a tiny home. In contrast, a home inspection examines the structural integrity, systems (plumbing, electrical, HVAC), and overall condition of an *already built* tiny home. It typically happens before purchase or after construction to ensure the home is safe and functional. Both are crucial but occur at different stages of the tiny home journey.",
+        "@type": "Answer",
+        "description": "A property assessment evaluates land suitability before building, while a home inspection assesses the condition of an already built tiny home."
+      }
+    }
+  ],
+  "description": "A property assessment evaluates land suitability before building, while a home inspection assesses the condition of an already built tiny home."
 }

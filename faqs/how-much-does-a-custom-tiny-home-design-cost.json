@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a custom tiny home design cost?",
-  "description": "Custom tiny home design costs vary based on complexity, materials, size, and features. A personalized estimate is recommended.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-custom-tiny-home-design-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a custom tiny home design cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom tiny home design varies significantly based on factors such as the complexity of the design, chosen materials, square footage, and specific features. A basic design might start at a certain price, while more elaborate plans with custom cabinetry, advanced smart home technology, or unique architectural elements will increase the overall investment. These costs typically cover architectural drawings, engineering, and detailed specifications. It's best to discuss your vision with us to receive a personalized estimate that accurately reflects your project's scope.",
-        "description": "Custom tiny home design costs vary based on complexity, materials, size, and features. A personalized estimate is recommended."
-      }
-    }
-  ],
+  "name": "How much does a custom tiny home design cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom tiny home design cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom tiny home design varies significantly based on factors such as the complexity of the design, chosen materials, square footage, and specific features. A basic design might start at a certain price, while more elaborate plans with custom cabinetry, advanced smart home technology, or unique architectural elements will increase the overall investment. These costs typically cover architectural drawings, engineering, and detailed specifications. It's best to discuss your vision with us to receive a personalized estimate that accurately reflects your project's scope.",
+        "@type": "Answer",
+        "description": "Custom tiny home design costs vary based on complexity, materials, size, and features. A personalized estimate is recommended."
+      }
+    }
+  ],
+  "description": "Custom tiny home design costs vary based on complexity, materials, size, and features. A personalized estimate is recommended."
 }

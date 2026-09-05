@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost of a turnkey tiny home in the San Diego area?",
-  "description": "In the San Diego area, turnkey tiny homes typically cost between $100,000 and $250,000, varying based on size, customization, and materials.",
   "url": "www.zentinyhomes.com/faq/what-is-the-average-cost-of-a-turnkey-tiny-home-in-the-san-diego-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost of a turnkey tiny home in the San Diego area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a turnkey tiny home varies significantly based on size, customization, material choices, and site-specific requirements. While exact figures depend on your specific project, clients can generally expect an investment ranging from $100,000 to $250,000 or more for a fully finished, ready-to-occupy tiny home in the San Diego area, including foundation, utility connections, and premium finishes. We provide a detailed quote after understanding your design and feature preferences.",
-        "description": "In the San Diego area, turnkey tiny homes typically cost between $100,000 and $250,000, varying based on size, customization, and materials."
-      }
-    }
-  ],
+  "name": "What is the average cost of a turnkey tiny home in the San Diego area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a turnkey tiny home in the San Diego area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a turnkey tiny home varies significantly based on size, customization, material choices, and site-specific requirements. While exact figures depend on your specific project, clients can generally expect an investment ranging from $100,000 to $250,000 or more for a fully finished, ready-to-occupy tiny home in the San Diego area, including foundation, utility connections, and premium finishes. We provide a detailed quote after understanding your design and feature preferences.",
+        "@type": "Answer",
+        "description": "In the San Diego area, turnkey tiny homes typically cost between $100,000 and $250,000, varying based on size, customization, and materials."
+      }
+    }
+  ],
+  "description": "In the San Diego area, turnkey tiny homes typically cost between $100,000 and $250,000, varying based on size, customization, and materials."
 }

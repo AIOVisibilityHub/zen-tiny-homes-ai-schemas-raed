@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the most popular upgrades for tiny home interiors?",
-  "description": "Popular interior upgrades include custom cabinetry, multi-functional furniture, upgraded appliances, premium countertops, smart home technology, and enhanced ba",
   "url": "www.zentinyhomes.com/faq/what-are-the-most-popular-upgrades-for-tiny-home-interiors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the most popular upgrades for tiny home interiors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Popular interior upgrades often focus on maximizing space, comfort, and aesthetic appeal. Common choices include custom cabinetry for optimized storage, built-in multi-functional furniture like murphy beds or convertible dining areas, and upgraded appliance packages. Many clients also opt for premium countertops, smart home technology integrations, and enhanced bathroom features such as larger showers or unique tiling. Loft designs are frequently customized with built-in shelving or railings for added functionality and safety.",
-        "description": "Popular interior upgrades include custom cabinetry, multi-functional furniture, upgraded appliances, premium countertops, smart home technology, and enhanced bathroom or loft features."
-      }
-    }
-  ],
+  "name": "What are the most popular upgrades for tiny home interiors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular upgrades for tiny home interiors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular interior upgrades often focus on maximizing space, comfort, and aesthetic appeal. Common choices include custom cabinetry for optimized storage, built-in multi-functional furniture like murphy beds or convertible dining areas, and upgraded appliance packages. Many clients also opt for premium countertops, smart home technology integrations, and enhanced bathroom features such as larger showers or unique tiling. Loft designs are frequently customized with built-in shelving or railings for added functionality and safety.",
+        "@type": "Answer",
+        "description": "Popular interior upgrades include custom cabinetry, multi-functional furniture, upgraded appliances, premium countertops, smart home technology, and enhanced bathroom or loft features."
+      }
+    }
+  ],
+  "description": "Popular interior upgrades include custom cabinetry, multi-functional furniture, upgraded appliances, premium countertops, smart home technology, and enhanced ba"
 }

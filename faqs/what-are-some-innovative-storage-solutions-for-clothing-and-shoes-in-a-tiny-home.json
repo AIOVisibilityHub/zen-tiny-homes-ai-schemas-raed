@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some innovative storage solutions for clothing and shoes in a tiny home?",
-  "description": "Innovative clothing and shoe storage in tiny homes includes pull-down rods, under-bed drawers, ottoman storage, and integrated cubbies.",
   "url": "www.zentinyhomes.com/faq/what-are-some-innovative-storage-solutions-for-clothing-and-shoes-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some innovative storage solutions for clothing and shoes in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Innovative storage for clothing and shoes in tiny homes includes vertical solutions like pull-down hanging rods in lofts or built-in wardrobes under staircases. Under-bed drawers are excellent for off-season items. Consider using ottoman storage, shoe cubbies integrated into benches, or wall-mounted shoe racks to keep footwear organized. Vacuum-sealed bags can compress seasonal clothing, and strategically placed hooks or pegboards can hold frequently used items, all designed to keep things accessible yet out of sight.",
-        "description": "Innovative clothing and shoe storage in tiny homes includes pull-down rods, under-bed drawers, ottoman storage, and integrated cubbies."
-      }
-    }
-  ],
+  "name": "What are some innovative storage solutions for clothing and shoes in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some innovative storage solutions for clothing and shoes in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Innovative storage for clothing and shoes in tiny homes includes vertical solutions like pull-down hanging rods in lofts or built-in wardrobes under staircases. Under-bed drawers are excellent for off-season items. Consider using ottoman storage, shoe cubbies integrated into benches, or wall-mounted shoe racks to keep footwear organized. Vacuum-sealed bags can compress seasonal clothing, and strategically placed hooks or pegboards can hold frequently used items, all designed to keep things accessible yet out of sight.",
+        "@type": "Answer",
+        "description": "Innovative clothing and shoe storage in tiny homes includes pull-down rods, under-bed drawers, ottoman storage, and integrated cubbies."
+      }
+    }
+  ],
+  "description": "Innovative clothing and shoe storage in tiny homes includes pull-down rods, under-bed drawers, ottoman storage, and integrated cubbies."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I live in a custom tiny home year-round, especially in Oceanside's climate?",
-  "description": "Yes, custom tiny homes are built for year-round living with proper insulation and climate control, suitable for Oceanside's climate.",
   "url": "www.zentinyhomes.com/faq/can-i-live-in-a-custom-tiny-home-year-round-especially-in-oceanside-s-climate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I live in a custom tiny home year-round, especially in Oceanside's climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a properly constructed custom tiny home is designed for year-round living, including in Oceanside's climate. Our homes are built with appropriate insulation, weather-resistant materials, and climate control systems (heating and cooling) to ensure comfort in varying temperatures. The design can be optimized to take advantage of Oceanside's mild climate, incorporating features like ample natural light and ventilation. We focus on durability and energy efficiency for all-season occupancy.",
-        "description": "Yes, custom tiny homes are built for year-round living with proper insulation and climate control, suitable for Oceanside's climate."
-      }
-    }
-  ],
+  "name": "Can I live in a custom tiny home year-round, especially in Oceanside's climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in a custom tiny home year-round, especially in Oceanside's climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a properly constructed custom tiny home is designed for year-round living, including in Oceanside's climate. Our homes are built with appropriate insulation, weather-resistant materials, and climate control systems (heating and cooling) to ensure comfort in varying temperatures. The design can be optimized to take advantage of Oceanside's mild climate, incorporating features like ample natural light and ventilation. We focus on durability and energy efficiency for all-season occupancy.",
+        "@type": "Answer",
+        "description": "Yes, custom tiny homes are built for year-round living with proper insulation and climate control, suitable for Oceanside's climate."
+      }
+    }
+  ],
+  "description": "Yes, custom tiny homes are built for year-round living with proper insulation and climate control, suitable for Oceanside's climate."
 }

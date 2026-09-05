@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical costs associated with building a foundation-based tiny home?",
-  "description": "Costs for foundation-based tiny homes vary widely, typically $150-$400 per square foot, excluding land. Factors include size, materials, site prep, utilities, a",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-costs-associated-with-building-a-foundation-based-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical costs associated with building a foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a foundation-based tiny home varies significantly based on size, materials, finishes, and the complexity of the design. Generally, costs can range from $150 to $400 per square foot, not including land. Factors like site preparation, utility connections (water, sewer, electricity), foundation type, and permits will also impact the total investment. Custom features and high-end materials will increase the overall price. It's advisable to get a detailed quote for your specific project.",
-        "description": "Costs for foundation-based tiny homes vary widely, typically $150-$400 per square foot, excluding land. Factors include size, materials, site prep, utilities, and permits."
-      }
-    }
-  ],
+  "name": "What are the typical costs associated with building a foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with building a foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a foundation-based tiny home varies significantly based on size, materials, finishes, and the complexity of the design. Generally, costs can range from $150 to $400 per square foot, not including land. Factors like site preparation, utility connections (water, sewer, electricity), foundation type, and permits will also impact the total investment. Custom features and high-end materials will increase the overall price. It's advisable to get a detailed quote for your specific project.",
+        "@type": "Answer",
+        "description": "Costs for foundation-based tiny homes vary widely, typically $150-$400 per square foot, excluding land. Factors include size, materials, site prep, utilities, and permits."
+      }
+    }
+  ],
+  "description": "Costs for foundation-based tiny homes vary widely, typically $150-$400 per square foot, excluding land. Factors include size, materials, site prep, utilities, a"
 }

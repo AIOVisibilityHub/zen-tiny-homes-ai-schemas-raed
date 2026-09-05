@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time to consider storage optimization during the tiny home building process?",
-  "description": "The best time to plan storage optimization is during the initial design phase of your tiny home to ensure seamless and efficient integration.",
   "url": "www.zentinyhomes.com/faq/when-is-the-best-time-to-consider-storage-optimization-during-the-tiny-home-buil",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time to consider storage optimization during the tiny home building process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to consider storage optimization is during the initial architectural and design phase of your tiny home project. Integrating storage solutions from the outset allows for seamless incorporation into the home's structure, preventing wasted space and ensuring functionality. Retrofitting storage into an already built tiny home can be more challenging and expensive, often resulting in less efficient use of space. Early planning ensures that storage is a core element of the design, not an afterthought.",
-        "description": "The best time to plan storage optimization is during the initial design phase of your tiny home to ensure seamless and efficient integration."
-      }
-    }
-  ],
+  "name": "When is the best time to consider storage optimization during the tiny home building process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider storage optimization during the tiny home building process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to consider storage optimization is during the initial architectural and design phase of your tiny home project. Integrating storage solutions from the outset allows for seamless incorporation into the home's structure, preventing wasted space and ensuring functionality. Retrofitting storage into an already built tiny home can be more challenging and expensive, often resulting in less efficient use of space. Early planning ensures that storage is a core element of the design, not an afterthought.",
+        "@type": "Answer",
+        "description": "The best time to plan storage optimization is during the initial design phase of your tiny home to ensure seamless and efficient integration."
+      }
+    }
+  ],
+  "description": "The best time to plan storage optimization is during the initial design phase of your tiny home to ensure seamless and efficient integration."
 }
