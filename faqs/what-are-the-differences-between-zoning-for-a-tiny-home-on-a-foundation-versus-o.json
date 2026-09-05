@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the differences between zoning for a tiny home on a foundation versus one on wheels?",
-  "description": "Foundation tiny homes are permanent structures subject to building codes, while tiny homes on wheels are often classified as RVs with different rules for parkin",
   "url": "www.zentinyhomes.com/faq/what-are-the-differences-between-zoning-for-a-tiny-home-on-a-foundation-versus-o",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the differences between zoning for a tiny home on a foundation versus one on wheels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zoning for a tiny home on a foundation treats it as a permanent structure, often an ADU, subject to standard building codes, property taxes, and long-term residency rules. A tiny home on wheels, however, is typically classified as a recreational vehicle (RV) or mobile home. This means it may be subject to different regulations regarding parking, occupancy duration, and utility hookups, and might not be allowed as a permanent dwelling in many residential zones. The distinction is critical for legal placement.",
-        "description": "Foundation tiny homes are permanent structures subject to building codes, while tiny homes on wheels are often classified as RVs with different rules for parking and occupancy."
-      }
-    }
-  ],
+  "name": "What are the differences between zoning for a tiny home on a foundation versus one on wheels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between zoning for a tiny home on a foundation versus one on wheels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning for a tiny home on a foundation treats it as a permanent structure, often an ADU, subject to standard building codes, property taxes, and long-term residency rules. A tiny home on wheels, however, is typically classified as a recreational vehicle (RV) or mobile home. This means it may be subject to different regulations regarding parking, occupancy duration, and utility hookups, and might not be allowed as a permanent dwelling in many residential zones. The distinction is critical for legal placement.",
+        "@type": "Answer",
+        "description": "Foundation tiny homes are permanent structures subject to building codes, while tiny homes on wheels are often classified as RVs with different rules for parking and occupancy."
+      }
+    }
+  ],
+  "description": "Foundation tiny homes are permanent structures subject to building codes, while tiny homes on wheels are often classified as RVs with different rules for parkin"
 }

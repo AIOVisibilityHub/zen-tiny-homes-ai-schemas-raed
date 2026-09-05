@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a site feasibility consultation and why do I need one for my tiny home project?",
-  "description": "A site feasibility consultation assesses your property's suitability for a tiny home, identifying challenges and opportunities before construction begins.",
   "url": "www.zentinyhomes.com/faq/what-is-a-site-feasibility-consultation-and-why-do-i-need-one-for-my-tiny-home-p",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a site feasibility consultation and why do I need one for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A site feasibility consultation assesses your property's suitability for a tiny home. We evaluate factors like zoning regulations, utility access (water, sewer, electricity), soil conditions, topography, and potential access for construction equipment. This initial assessment helps identify any challenges or opportunities early on, preventing costly surprises and ensuring your project aligns with local requirements. It's crucial for understanding the practical and regulatory constraints of building a tiny home on your specific land.",
-        "description": "A site feasibility consultation assesses your property's suitability for a tiny home, identifying challenges and opportunities before construction begins."
-      }
-    }
-  ],
+  "name": "What is a site feasibility consultation and why do I need one for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a site feasibility consultation and why do I need one for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A site feasibility consultation assesses your property's suitability for a tiny home. We evaluate factors like zoning regulations, utility access (water, sewer, electricity), soil conditions, topography, and potential access for construction equipment. This initial assessment helps identify any challenges or opportunities early on, preventing costly surprises and ensuring your project aligns with local requirements. It's crucial for understanding the practical and regulatory constraints of building a tiny home on your specific land.",
+        "@type": "Answer",
+        "description": "A site feasibility consultation assesses your property's suitability for a tiny home, identifying challenges and opportunities before construction begins."
+      }
+    }
+  ],
+  "description": "A site feasibility consultation assesses your property's suitability for a tiny home, identifying challenges and opportunities before construction begins."
 }

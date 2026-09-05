@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common zoning challenges for tiny homes in residential areas?",
-  "description": "Common zoning challenges for tiny homes include minimum square footage rules, restrictions on accessory dwelling use, setback requirements, and utility hookup r",
   "url": "www.zentinyhomes.com/faq/what-are-common-zoning-challenges-for-tiny-homes-in-residential-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common zoning challenges for tiny homes in residential areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common zoning challenges for tiny homes in residential areas include minimum square footage requirements for dwellings, which often exceed tiny home sizes, and restrictions on accessory structures that prevent them from being used as full-time residences. Other hurdles involve density limitations, setback requirements from property lines, parking minimums, and specific utility hookup regulations. Navigating these requires a detailed understanding of local ordinances, which vary significantly even between neighboring cities like Vista and San Marcos.",
-        "description": "Common zoning challenges for tiny homes include minimum square footage rules, restrictions on accessory dwelling use, setback requirements, and utility hookup regulations."
-      }
-    }
-  ],
+  "name": "What are common zoning challenges for tiny homes in residential areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common zoning challenges for tiny homes in residential areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common zoning challenges for tiny homes in residential areas include minimum square footage requirements for dwellings, which often exceed tiny home sizes, and restrictions on accessory structures that prevent them from being used as full-time residences. Other hurdles involve density limitations, setback requirements from property lines, parking minimums, and specific utility hookup regulations. Navigating these requires a detailed understanding of local ordinances, which vary significantly even between neighboring cities like Vista and San Marcos.",
+        "@type": "Answer",
+        "description": "Common zoning challenges for tiny homes include minimum square footage rules, restrictions on accessory dwelling use, setback requirements, and utility hookup regulations."
+      }
+    }
+  ],
+  "description": "Common zoning challenges for tiny homes include minimum square footage rules, restrictions on accessory dwelling use, setback requirements, and utility hookup r"
 }

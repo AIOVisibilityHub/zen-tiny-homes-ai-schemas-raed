@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What foundation options are available for custom tiny homes?",
-  "description": "Tiny homes can be built on permanent foundations (slab, pier and beam) or trailer-based foundations for mobility, depending on your needs and local rules.",
   "url": "www.zentinyhomes.com/faq/what-foundation-options-are-available-for-custom-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What foundation options are available for custom tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom tiny homes can be built on various foundation types to suit your needs and local regulations. The two primary options are a permanent foundation, like a concrete slab or pier and beam, for homes intended to stay in one location, or a trailer-based foundation for tiny homes on wheels (THOWs). THOWs offer mobility and are often regulated differently than permanently affixed structures. The best choice depends on whether you plan to move your home, your property's characteristics, and local zoning requirements.",
-        "description": "Tiny homes can be built on permanent foundations (slab, pier and beam) or trailer-based foundations for mobility, depending on your needs and local rules."
-      }
-    }
-  ],
+  "name": "What foundation options are available for custom tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What foundation options are available for custom tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tiny homes can be built on various foundation types to suit your needs and local regulations. The two primary options are a permanent foundation, like a concrete slab or pier and beam, for homes intended to stay in one location, or a trailer-based foundation for tiny homes on wheels (THOWs). THOWs offer mobility and are often regulated differently than permanently affixed structures. The best choice depends on whether you plan to move your home, your property's characteristics, and local zoning requirements.",
+        "@type": "Answer",
+        "description": "Tiny homes can be built on permanent foundations (slab, pier and beam) or trailer-based foundations for mobility, depending on your needs and local rules."
+      }
+    }
+  ],
+  "description": "Tiny homes can be built on permanent foundations (slab, pier and beam) or trailer-based foundations for mobility, depending on your needs and local rules."
 }

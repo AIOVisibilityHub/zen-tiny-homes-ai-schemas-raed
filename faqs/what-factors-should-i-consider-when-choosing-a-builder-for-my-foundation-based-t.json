@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a builder for my foundation-based tiny home?",
-  "description": "Choose a builder with ADU experience, local code knowledge, proper licensing, good references, and transparent communication.",
   "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-foundation-based-t",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a builder for my foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a builder, prioritize experience with tiny homes or Accessory Dwelling Units (ADUs) and a strong understanding of local zoning and building codes in areas like Carlsbad or San Marcos. Look for contractors with proper licensing, insurance, and a portfolio of completed projects. Request references and review their communication style and transparency regarding costs and timelines. A good builder will also offer design flexibility and demonstrate a commitment to quality craftsmanship and customer satisfaction.",
-        "description": "Choose a builder with ADU experience, local code knowledge, proper licensing, good references, and transparent communication."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a builder for my foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a builder for my foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a builder, prioritize experience with tiny homes or Accessory Dwelling Units (ADUs) and a strong understanding of local zoning and building codes in areas like Carlsbad or San Marcos. Look for contractors with proper licensing, insurance, and a portfolio of completed projects. Request references and review their communication style and transparency regarding costs and timelines. A good builder will also offer design flexibility and demonstrate a commitment to quality craftsmanship and customer satisfaction.",
+        "@type": "Answer",
+        "description": "Choose a builder with ADU experience, local code knowledge, proper licensing, good references, and transparent communication."
+      }
+    }
+  ],
+  "description": "Choose a builder with ADU experience, local code knowledge, proper licensing, good references, and transparent communication."
 }

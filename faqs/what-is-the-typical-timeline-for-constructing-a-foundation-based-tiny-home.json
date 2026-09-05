@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for constructing a foundation-based tiny home?",
-  "description": "Construction of a foundation-based tiny home typically takes 6-12 months, including design, permitting, and building phases.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-foundation-based-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for constructing a foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a foundation-based tiny home can vary based on design complexity, permitting processes, and material availability. On average, from initial design to move-in, projects typically take between 6 to 12 months. This includes time for architectural plans, securing permits, site preparation (foundation, utilities), and the actual construction phase. Custom designs or significant site challenges may extend this period, while simpler builds might be completed more quickly. We provide a detailed project schedule upfront.",
-        "description": "Construction of a foundation-based tiny home typically takes 6-12 months, including design, permitting, and building phases."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for constructing a foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a foundation-based tiny home can vary based on design complexity, permitting processes, and material availability. On average, from initial design to move-in, projects typically take between 6 to 12 months. This includes time for architectural plans, securing permits, site preparation (foundation, utilities), and the actual construction phase. Custom designs or significant site challenges may extend this period, while simpler builds might be completed more quickly. We provide a detailed project schedule upfront.",
+        "@type": "Answer",
+        "description": "Construction of a foundation-based tiny home typically takes 6-12 months, including design, permitting, and building phases."
+      }
+    }
+  ],
+  "description": "Construction of a foundation-based tiny home typically takes 6-12 months, including design, permitting, and building phases."
 }

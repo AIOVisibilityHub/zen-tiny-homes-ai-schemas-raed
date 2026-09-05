@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to build and deliver a turnkey tiny home?",
-  "description": "Building and delivering a turnkey tiny home typically takes 3 to 6 months from design to final delivery.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-and-deliver-a-turnkey-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to build and deliver a turnkey tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for building and delivering a turnkey tiny home can vary, but it generally takes between 3 to 6 months from the initial design consultation to final delivery. This duration includes time for design finalization, material procurement, construction, quality checks, and transportation. Factors such as customization requests, material availability, and current production schedules can influence the overall timeline. We provide an estimated completion date during the planning phase.",
-        "description": "Building and delivering a turnkey tiny home typically takes 3 to 6 months from design to final delivery."
-      }
-    }
-  ],
+  "name": "How long does it take to build and deliver a turnkey tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build and deliver a turnkey tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building and delivering a turnkey tiny home can vary, but it generally takes between 3 to 6 months from the initial design consultation to final delivery. This duration includes time for design finalization, material procurement, construction, quality checks, and transportation. Factors such as customization requests, material availability, and current production schedules can influence the overall timeline. We provide an estimated completion date during the planning phase.",
+        "@type": "Answer",
+        "description": "Building and delivering a turnkey tiny home typically takes 3 to 6 months from design to final delivery."
+      }
+    }
+  ],
+  "description": "Building and delivering a turnkey tiny home typically takes 3 to 6 months from design to final delivery."
 }

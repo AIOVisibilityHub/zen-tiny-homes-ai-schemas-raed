@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do tiny home interior layouts differ from traditional home layouts?",
-  "description": "Tiny home interior layouts prioritize extreme efficiency, multi-functionality, and creative space utilization due to their small footprint, unlike traditional h",
   "url": "www.zentinyhomes.com/faq/how-do-tiny-home-interior-layouts-differ-from-traditional-home-layouts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do tiny home interior layouts differ from traditional home layouts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home interior layouts fundamentally differ from traditional homes due to the emphasis on extreme efficiency and multi-functionality within a significantly smaller footprint. Every inch in a tiny home must serve a purpose, often requiring creative solutions like convertible furniture, integrated storage, and vertical design elements. Traditional homes have the luxury of dedicated rooms and larger circulation spaces, whereas tiny homes prioritize clever space utilization to create versatile zones rather than distinct rooms. Zen Tiny Homes excels at optimizing these compact environments.",
-        "description": "Tiny home interior layouts prioritize extreme efficiency, multi-functionality, and creative space utilization due to their small footprint, unlike traditional homes with dedicated larger rooms."
-      }
-    }
-  ],
+  "name": "How do tiny home interior layouts differ from traditional home layouts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do tiny home interior layouts differ from traditional home layouts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home interior layouts fundamentally differ from traditional homes due to the emphasis on extreme efficiency and multi-functionality within a significantly smaller footprint. Every inch in a tiny home must serve a purpose, often requiring creative solutions like convertible furniture, integrated storage, and vertical design elements. Traditional homes have the luxury of dedicated rooms and larger circulation spaces, whereas tiny homes prioritize clever space utilization to create versatile zones rather than distinct rooms. Zen Tiny Homes excels at optimizing these compact environments.",
+        "@type": "Answer",
+        "description": "Tiny home interior layouts prioritize extreme efficiency, multi-functionality, and creative space utilization due to their small footprint, unlike traditional homes with dedicated larger rooms."
+      }
+    }
+  ],
+  "description": "Tiny home interior layouts prioritize extreme efficiency, multi-functionality, and creative space utilization due to their small footprint, unlike traditional h"
 }

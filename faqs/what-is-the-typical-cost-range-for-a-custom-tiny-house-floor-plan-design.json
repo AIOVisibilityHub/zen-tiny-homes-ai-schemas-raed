@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for a custom tiny house floor plan design?",
-  "description": "Custom tiny house floor plan design costs range from a few hundred dollars for basic modifications to over $5,000 for complex, fully custom architectural drawin",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-a-custom-tiny-house-floor-plan-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for a custom tiny house floor plan design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for a custom tiny house floor plan design can vary significantly based on complexity and the level of detail required. Basic floor plan designs might start from a few hundred dollars, especially if they are minor modifications to existing templates. More intricate, fully custom designs that require extensive consultation, multiple revisions, and detailed architectural drawings could range from $1,500 to $5,000 or more. Factors influencing the price include the designer's experience, the total square footage of the tiny home, and any unique structural or functional requirements specific to your vision.",
-        "description": "Custom tiny house floor plan design costs range from a few hundred dollars for basic modifications to over $5,000 for complex, fully custom architectural drawings."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for a custom tiny house floor plan design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a custom tiny house floor plan design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a custom tiny house floor plan design can vary significantly based on complexity and the level of detail required. Basic floor plan designs might start from a few hundred dollars, especially if they are minor modifications to existing templates. More intricate, fully custom designs that require extensive consultation, multiple revisions, and detailed architectural drawings could range from $1,500 to $5,000 or more. Factors influencing the price include the designer's experience, the total square footage of the tiny home, and any unique structural or functional requirements specific to your vision.",
+        "@type": "Answer",
+        "description": "Custom tiny house floor plan design costs range from a few hundred dollars for basic modifications to over $5,000 for complex, fully custom architectural drawings."
+      }
+    }
+  ],
+  "description": "Custom tiny house floor plan design costs range from a few hundred dollars for basic modifications to over $5,000 for complex, fully custom architectural drawin"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of foundation options are available for a turnkey tiny home?",
-  "description": "Foundation options include permanent concrete slabs, pier and beam, or specialized trailers for tiny homes on wheels. Selection depends on mobility and site con",
   "url": "www.zentinyhomes.com/faq/what-kind-of-foundation-options-are-available-for-a-turnkey-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of foundation options are available for a turnkey tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes offers several foundation options tailored to your needs and local regulations. Common choices include a permanent concrete slab foundation, which offers stability and longevity, or a pier and beam foundation, which is suitable for certain site conditions and allows for easier utility access. We also build on trailers for tiny homes on wheels, providing mobility. The best foundation depends on whether your tiny home is stationary or mobile, and the specific characteristics of your chosen site.",
-        "description": "Foundation options include permanent concrete slabs, pier and beam, or specialized trailers for tiny homes on wheels. Selection depends on mobility and site conditions."
-      }
-    }
-  ],
+  "name": "What kind of foundation options are available for a turnkey tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation options are available for a turnkey tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes offers several foundation options tailored to your needs and local regulations. Common choices include a permanent concrete slab foundation, which offers stability and longevity, or a pier and beam foundation, which is suitable for certain site conditions and allows for easier utility access. We also build on trailers for tiny homes on wheels, providing mobility. The best foundation depends on whether your tiny home is stationary or mobile, and the specific characteristics of your chosen site.",
+        "@type": "Answer",
+        "description": "Foundation options include permanent concrete slabs, pier and beam, or specialized trailers for tiny homes on wheels. Selection depends on mobility and site conditions."
+      }
+    }
+  ],
+  "description": "Foundation options include permanent concrete slabs, pier and beam, or specialized trailers for tiny homes on wheels. Selection depends on mobility and site con"
 }

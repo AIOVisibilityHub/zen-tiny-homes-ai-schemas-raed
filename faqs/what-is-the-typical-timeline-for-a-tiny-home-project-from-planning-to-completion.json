@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for a tiny home project, from planning to completion?",
-  "description": "A tiny home project typically takes 7-13 months, including 1-3 months for planning/design, 1-4 months for permitting, and 3-6 months for construction.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-a-tiny-home-project-from-planning-to-completion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for a tiny home project, from planning to completion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a tiny home project can vary significantly based on customization, permitting, and construction complexity. Generally, planning and design phases can take 1-3 months. Permitting can add another 1-4 months, depending on local regulations and efficiency of the review process. Construction itself typically ranges from 3-6 months for a standard build. Highly customized or off-grid projects might require more time. Zen Tiny Homes works to streamline each stage for an efficient build.",
-        "description": "A tiny home project typically takes 7-13 months, including 1-3 months for planning/design, 1-4 months for permitting, and 3-6 months for construction."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for a tiny home project, from planning to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a tiny home project, from planning to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a tiny home project can vary significantly based on customization, permitting, and construction complexity. Generally, planning and design phases can take 1-3 months. Permitting can add another 1-4 months, depending on local regulations and efficiency of the review process. Construction itself typically ranges from 3-6 months for a standard build. Highly customized or off-grid projects might require more time. Zen Tiny Homes works to streamline each stage for an efficient build.",
+        "@type": "Answer",
+        "description": "A tiny home project typically takes 7-13 months, including 1-3 months for planning/design, 1-4 months for permitting, and 3-6 months for construction."
+      }
+    }
+  ],
+  "description": "A tiny home project typically takes 7-13 months, including 1-3 months for planning/design, 1-4 months for permitting, and 3-6 months for construction."
 }

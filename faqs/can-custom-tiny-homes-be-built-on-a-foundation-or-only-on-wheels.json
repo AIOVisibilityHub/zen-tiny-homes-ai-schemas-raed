@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can custom tiny homes be built on a foundation or only on wheels?",
-  "description": "Custom tiny homes can be built on a permanent foundation or on wheels, depending on intended use, local regulations, and personal preference.",
   "url": "www.zentinyhomes.com/faq/can-custom-tiny-homes-be-built-on-a-foundation-or-only-on-wheels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can custom tiny homes be built on a foundation or only on wheels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom tiny homes can be designed and built to be either stationary on a permanent foundation or mobile on a trailer with wheels. The choice depends on your intended use, local zoning regulations, and personal preference. Foundation-built tiny homes are often classified as Accessory Dwelling Units (ADUs) and are subject to traditional building codes, offering a more permanent living solution. Tiny homes on wheels provide flexibility for relocation but may fall under different regulations, such as RV or park model standards. Our design process accommodates both options.",
-        "description": "Custom tiny homes can be built on a permanent foundation or on wheels, depending on intended use, local regulations, and personal preference."
-      }
-    }
-  ],
+  "name": "Can custom tiny homes be built on a foundation or only on wheels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom tiny homes be built on a foundation or only on wheels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tiny homes can be designed and built to be either stationary on a permanent foundation or mobile on a trailer with wheels. The choice depends on your intended use, local zoning regulations, and personal preference. Foundation-built tiny homes are often classified as Accessory Dwelling Units (ADUs) and are subject to traditional building codes, offering a more permanent living solution. Tiny homes on wheels provide flexibility for relocation but may fall under different regulations, such as RV or park model standards. Our design process accommodates both options.",
+        "@type": "Answer",
+        "description": "Custom tiny homes can be built on a permanent foundation or on wheels, depending on intended use, local regulations, and personal preference."
+      }
+    }
+  ],
+  "description": "Custom tiny homes can be built on a permanent foundation or on wheels, depending on intended use, local regulations, and personal preference."
 }

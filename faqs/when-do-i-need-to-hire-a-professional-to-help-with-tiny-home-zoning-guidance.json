@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need to hire a professional to help with tiny home zoning guidance?",
-  "description": "Hire a professional for tiny home zoning guidance during the initial planning and design phase to ensure compliance with local regulations and avoid future issu",
   "url": "www.zentinyhomes.com/faq/when-do-i-need-to-hire-a-professional-to-help-with-tiny-home-zoning-guidance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need to hire a professional to help with tiny home zoning guidance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to hire a professional for tiny home zoning guidance at the very beginning of your project, ideally during the planning and design phase. This ensures that your vision aligns with local regulations from the outset, preventing costly redesigns or legal issues later on. A professional can assess your property, identify applicable zoning ordinances, and navigate the permitting process efficiently. Zen Tiny Homes provides expert guidance to confirm feasibility before you invest heavily in design or construction.",
-        "description": "Hire a professional for tiny home zoning guidance during the initial planning and design phase to ensure compliance with local regulations and avoid future issues."
-      }
-    }
-  ],
+  "name": "When do I need to hire a professional to help with tiny home zoning guidance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire a professional to help with tiny home zoning guidance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to hire a professional for tiny home zoning guidance at the very beginning of your project, ideally during the planning and design phase. This ensures that your vision aligns with local regulations from the outset, preventing costly redesigns or legal issues later on. A professional can assess your property, identify applicable zoning ordinances, and navigate the permitting process efficiently. Zen Tiny Homes provides expert guidance to confirm feasibility before you invest heavily in design or construction.",
+        "@type": "Answer",
+        "description": "Hire a professional for tiny home zoning guidance during the initial planning and design phase to ensure compliance with local regulations and avoid future issues."
+      }
+    }
+  ],
+  "description": "Hire a professional for tiny home zoning guidance during the initial planning and design phase to ensure compliance with local regulations and avoid future issu"
 }

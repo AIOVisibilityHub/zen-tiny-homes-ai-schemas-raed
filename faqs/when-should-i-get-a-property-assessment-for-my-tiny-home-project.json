@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I get a property assessment for my tiny home project?",
-  "description": "Get a property assessment early, ideally before buying land or finalizing your design, to identify potential obstacles.",
   "url": "www.zentinyhomes.com/faq/when-should-i-get-a-property-assessment-for-my-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I get a property assessment for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is highly recommended to get a property assessment as early as possible in your tiny home journey, ideally before purchasing land or finalizing your tiny home design. This proactive step helps identify any potential obstacles or requirements that could impact your project's feasibility, timeline, or budget. Early assessment allows you to make informed decisions and choose a property that aligns with your tiny home goals.",
-        "description": "Get a property assessment early, ideally before buying land or finalizing your design, to identify potential obstacles."
-      }
-    }
-  ],
+  "name": "When should I get a property assessment for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a property assessment for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly recommended to get a property assessment as early as possible in your tiny home journey, ideally before purchasing land or finalizing your tiny home design. This proactive step helps identify any potential obstacles or requirements that could impact your project's feasibility, timeline, or budget. Early assessment allows you to make informed decisions and choose a property that aligns with your tiny home goals.",
+        "@type": "Answer",
+        "description": "Get a property assessment early, ideally before buying land or finalizing your design, to identify potential obstacles."
+      }
+    }
+  ],
+  "description": "Get a property assessment early, ideally before buying land or finalizing your design, to identify potential obstacles."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need to involve an architect or designer for a custom tiny home?",
-  "description": "Involve an architect or designer early in your project to ensure structural integrity, functionality, and code compliance from the conceptual stage.",
   "url": "www.zentinyhomes.com/faq/when-do-i-need-to-involve-an-architect-or-designer-for-a-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need to involve an architect or designer for a custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should involve an architect or designer as early as possible in your custom tiny home project. Engaging professionals from the initial conceptual stage ensures that your vision is translated into a structurally sound, functional, and code-compliant design. Their expertise helps in optimizing space, selecting appropriate materials, and navigating complex regulations, potentially saving time and resources in the long run. Early involvement also allows for a more cohesive design process and avoids costly changes during the construction phase.",
-        "description": "Involve an architect or designer early in your project to ensure structural integrity, functionality, and code compliance from the conceptual stage."
-      }
-    }
-  ],
+  "name": "When do I need to involve an architect or designer for a custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to involve an architect or designer for a custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should involve an architect or designer as early as possible in your custom tiny home project. Engaging professionals from the initial conceptual stage ensures that your vision is translated into a structurally sound, functional, and code-compliant design. Their expertise helps in optimizing space, selecting appropriate materials, and navigating complex regulations, potentially saving time and resources in the long run. Early involvement also allows for a more cohesive design process and avoids costly changes during the construction phase.",
+        "@type": "Answer",
+        "description": "Involve an architect or designer early in your project to ensure structural integrity, functionality, and code compliance from the conceptual stage."
+      }
+    }
+  ],
+  "description": "Involve an architect or designer early in your project to ensure structural integrity, functionality, and code compliance from the conceptual stage."
 }

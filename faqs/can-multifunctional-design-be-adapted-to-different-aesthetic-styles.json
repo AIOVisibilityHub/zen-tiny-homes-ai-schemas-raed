@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can multifunctional design be adapted to different aesthetic styles?",
-  "description": "Absolutely. Multifunctional design focuses on space optimization and can be tailored to any aesthetic style through material and finish choices.",
   "url": "www.zentinyhomes.com/faq/can-multifunctional-design-be-adapted-to-different-aesthetic-styles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can multifunctional design be adapted to different aesthetic styles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, multifunctional design is highly adaptable to various aesthetic styles, from modern minimalist to rustic farmhouse or traditional. The core principle is about optimizing space and function, not adhering to a specific look. Materials, finishes, color palettes, and specific furniture selections can all be chosen to align with your preferred aesthetic. Our designers work to ensure that practical solutions integrate seamlessly with your desired visual style, creating a cohesive and appealing living environment.",
-        "description": "Absolutely. Multifunctional design focuses on space optimization and can be tailored to any aesthetic style through material and finish choices."
-      }
-    }
-  ],
+  "name": "Can multifunctional design be adapted to different aesthetic styles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can multifunctional design be adapted to different aesthetic styles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, multifunctional design is highly adaptable to various aesthetic styles, from modern minimalist to rustic farmhouse or traditional. The core principle is about optimizing space and function, not adhering to a specific look. Materials, finishes, color palettes, and specific furniture selections can all be chosen to align with your preferred aesthetic. Our designers work to ensure that practical solutions integrate seamlessly with your desired visual style, creating a cohesive and appealing living environment.",
+        "@type": "Answer",
+        "description": "Absolutely. Multifunctional design focuses on space optimization and can be tailored to any aesthetic style through material and finish choices."
+      }
+    }
+  ],
+  "description": "Absolutely. Multifunctional design focuses on space optimization and can be tailored to any aesthetic style through material and finish choices."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a tiny home project typically cost?",
-  "description": "Tiny home project costs typically range from $30,000 for a basic shell to over $150,000 for a custom, turn-key build, varying with size, materials, and features",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-tiny-home-project-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a tiny home project typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a tiny home project varies widely depending on size, materials, customization, and whether it's on a foundation or wheels. A basic shell might start from around $30,000, while a fully custom, turn-key tiny home can range from $80,000 to over $150,000. Factors like appliances, off-grid systems, specialized finishes, and site preparation costs will influence the final price. We provide detailed estimates tailored to your specific project needs.",
-        "description": "Tiny home project costs typically range from $30,000 for a basic shell to over $150,000 for a custom, turn-key build, varying with size, materials, and features."
-      }
-    }
-  ],
+  "name": "How much does a tiny home project typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a tiny home project typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tiny home project varies widely depending on size, materials, customization, and whether it's on a foundation or wheels. A basic shell might start from around $30,000, while a fully custom, turn-key tiny home can range from $80,000 to over $150,000. Factors like appliances, off-grid systems, specialized finishes, and site preparation costs will influence the final price. We provide detailed estimates tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "Tiny home project costs typically range from $30,000 for a basic shell to over $150,000 for a custom, turn-key build, varying with size, materials, and features."
+      }
+    }
+  ],
+  "description": "Tiny home project costs typically range from $30,000 for a basic shell to over $150,000 for a custom, turn-key build, varying with size, materials, and features"
 }

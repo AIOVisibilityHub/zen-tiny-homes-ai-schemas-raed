@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can space-optimization design accommodate a home office in a tiny home in Carlsbad?",
-  "description": "Yes, space-optimization can integrate a home office in a tiny home through solutions like fold-down desks, built-in nooks, or extendable surfaces, ensuring func",
   "url": "www.zentinyhomes.com/faq/can-space-optimization-design-accommodate-a-home-office-in-a-tiny-home-in-carlsb",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can space-optimization design accommodate a home office in a tiny home in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, space-optimization design is highly effective at integrating a functional home office into a tiny home, regardless of location like Carlsbad. This often involves creative solutions such as fold-down desks integrated into cabinetry, built-in desks beneath a loft, or a desk surface that extends from a wall or kitchen counter. Strategic placement, good lighting, and clever storage for office supplies ensure a productive workspace that can be discreetly put away when not in use, maximizing the home's versatility.",
-        "description": "Yes, space-optimization can integrate a home office in a tiny home through solutions like fold-down desks, built-in nooks, or extendable surfaces, ensuring functionality and versatility."
-      }
-    }
-  ],
+  "name": "Can space-optimization design accommodate a home office in a tiny home in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can space-optimization design accommodate a home office in a tiny home in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, space-optimization design is highly effective at integrating a functional home office into a tiny home, regardless of location like Carlsbad. This often involves creative solutions such as fold-down desks integrated into cabinetry, built-in desks beneath a loft, or a desk surface that extends from a wall or kitchen counter. Strategic placement, good lighting, and clever storage for office supplies ensure a productive workspace that can be discreetly put away when not in use, maximizing the home's versatility.",
+        "@type": "Answer",
+        "description": "Yes, space-optimization can integrate a home office in a tiny home through solutions like fold-down desks, built-in nooks, or extendable surfaces, ensuring functionality and versatility."
+      }
+    }
+  ],
+  "description": "Yes, space-optimization can integrate a home office in a tiny home through solutions like fold-down desks, built-in nooks, or extendable surfaces, ensuring func"
 }

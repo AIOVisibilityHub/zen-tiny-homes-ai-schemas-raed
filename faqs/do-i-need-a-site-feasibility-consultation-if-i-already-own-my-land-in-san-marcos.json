@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a site feasibility consultation if I already own my land in San Marcos?",
-  "description": "Even if you own land in San Marcos, a consultation is recommended to navigate local regulations, zoning, and site-specific challenges.",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-site-feasibility-consultation-if-i-already-own-my-land-in-san-marcos",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a site feasibility consultation if I already own my land in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, even if you own land in San Marcos, a site feasibility consultation is highly recommended. Local regulations, zoning ordinances, utility hookup requirements, and specific site characteristics (like slopes or soil composition) can significantly impact your tiny home project. Our consultation helps navigate these local nuances, ensuring your plans comply with San Marcos's specific building codes and are practical for your unique property, preventing unforeseen issues during construction.",
-        "description": "Even if you own land in San Marcos, a consultation is recommended to navigate local regulations, zoning, and site-specific challenges."
-      }
-    }
-  ],
+  "name": "Do I need a site feasibility consultation if I already own my land in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a site feasibility consultation if I already own my land in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even if you own land in San Marcos, a site feasibility consultation is highly recommended. Local regulations, zoning ordinances, utility hookup requirements, and specific site characteristics (like slopes or soil composition) can significantly impact your tiny home project. Our consultation helps navigate these local nuances, ensuring your plans comply with San Marcos's specific building codes and are practical for your unique property, preventing unforeseen issues during construction.",
+        "@type": "Answer",
+        "description": "Even if you own land in San Marcos, a consultation is recommended to navigate local regulations, zoning, and site-specific challenges."
+      }
+    }
+  ],
+  "description": "Even if you own land in San Marcos, a consultation is recommended to navigate local regulations, zoning, and site-specific challenges."
 }

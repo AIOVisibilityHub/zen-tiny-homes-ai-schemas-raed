@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a primary-residence tiny home?",
-  "description": "Maintenance for a primary-residence tiny home includes routine checks of the roof, siding, foundation, utilities, and appliances, similar to a conventional home",
   "url": "www.zentinyhomes.com/faq/what-maintenance-is-required-for-a-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance for a primary-residence tiny home is similar to that of a conventional home, scaled to its size. This includes routine checks of the roof, exterior siding, foundation, and utility connections (plumbing, electrical, HVAC). Smaller spaces may require more frequent cleaning or decluttering to maintain comfort. Regular inspection and upkeep of appliances, windows, and doors are also essential. Because of the compact nature, minor issues can sometimes have a greater impact, so proactive maintenance is generally recommended to ensure longevity.",
-        "description": "Maintenance for a primary-residence tiny home includes routine checks of the roof, siding, foundation, utilities, and appliances, similar to a conventional home but scaled down."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a primary-residence tiny home is similar to that of a conventional home, scaled to its size. This includes routine checks of the roof, exterior siding, foundation, and utility connections (plumbing, electrical, HVAC). Smaller spaces may require more frequent cleaning or decluttering to maintain comfort. Regular inspection and upkeep of appliances, windows, and doors are also essential. Because of the compact nature, minor issues can sometimes have a greater impact, so proactive maintenance is generally recommended to ensure longevity.",
+        "@type": "Answer",
+        "description": "Maintenance for a primary-residence tiny home includes routine checks of the roof, siding, foundation, utilities, and appliances, similar to a conventional home but scaled down."
+      }
+    }
+  ],
+  "description": "Maintenance for a primary-residence tiny home includes routine checks of the roof, siding, foundation, utilities, and appliances, similar to a conventional home"
 }

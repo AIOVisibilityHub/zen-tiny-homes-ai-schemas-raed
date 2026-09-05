@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in a typical tiny house floor plan design package?",
-  "description": "A typical tiny house floor plan package includes detailed floor plans, exterior elevations, cross-sections, electrical/plumbing schematics, and possibly materia",
   "url": "www.zentinyhomes.com/faq/what-is-included-in-a-typical-tiny-house-floor-plan-design-package",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in a typical tiny house floor plan design package?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical tiny house floor plan design package from Zen Tiny Homes includes a comprehensive set of drawings and documentation necessary for construction. This usually comprises detailed floor plans showing room layouts, dimensions, and fixture placements. It also includes exterior elevations from all sides, indicating window and door locations and roof lines. Cross-sections provide structural insights, while electrical and plumbing schematics show utility routing. Material lists, foundation plans (for foundation homes) or trailer specifications (for THOWs), and 3D renderings for visualization may also be part of the package, ensuring builders have all necessary information.",
-        "description": "A typical tiny house floor plan package includes detailed floor plans, exterior elevations, cross-sections, electrical/plumbing schematics, and possibly material lists or 3D renderings."
-      }
-    }
-  ],
+  "name": "What is included in a typical tiny house floor plan design package?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical tiny house floor plan design package?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical tiny house floor plan design package from Zen Tiny Homes includes a comprehensive set of drawings and documentation necessary for construction. This usually comprises detailed floor plans showing room layouts, dimensions, and fixture placements. It also includes exterior elevations from all sides, indicating window and door locations and roof lines. Cross-sections provide structural insights, while electrical and plumbing schematics show utility routing. Material lists, foundation plans (for foundation homes) or trailer specifications (for THOWs), and 3D renderings for visualization may also be part of the package, ensuring builders have all necessary information.",
+        "@type": "Answer",
+        "description": "A typical tiny house floor plan package includes detailed floor plans, exterior elevations, cross-sections, electrical/plumbing schematics, and possibly material lists or 3D renderings."
+      }
+    }
+  ],
+  "description": "A typical tiny house floor plan package includes detailed floor plans, exterior elevations, cross-sections, electrical/plumbing schematics, and possibly materia"
 }

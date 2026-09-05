@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do ADU floor plans typically include a kitchen and bathroom, or are those separate considerations?",
-  "description": "Yes, most ADU floor plans include a full kitchen and bathroom, as they are designed as independent living units. This is often required for legal ADU status.",
   "url": "www.zentinyhomes.com/faq/do-adu-floor-plans-typically-include-a-kitchen-and-bathroom-or-are-those-separat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do ADU floor plans typically include a kitchen and bathroom, or are those separate considerations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most standard ADU floor plans are designed as independent living units and include a fully equipped kitchen and a complete bathroom. This allows the ADU to function autonomously for residents or tenants. The type and size of kitchen appliances and bathroom fixtures can vary based on the overall ADU size and budget. While it's possible to design an ADU without a full kitchen (e.g., a wet bar or kitchenette), a full kitchen is usually a prerequisite for it to be considered a legal ADU for rental purposes in many jurisdictions.",
-        "description": "Yes, most ADU floor plans include a full kitchen and bathroom, as they are designed as independent living units. This is often required for legal ADU status."
-      }
-    }
-  ],
+  "name": "Do ADU floor plans typically include a kitchen and bathroom, or are those separate considerations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do ADU floor plans typically include a kitchen and bathroom, or are those separate considerations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard ADU floor plans are designed as independent living units and include a fully equipped kitchen and a complete bathroom. This allows the ADU to function autonomously for residents or tenants. The type and size of kitchen appliances and bathroom fixtures can vary based on the overall ADU size and budget. While it's possible to design an ADU without a full kitchen (e.g., a wet bar or kitchenette), a full kitchen is usually a prerequisite for it to be considered a legal ADU for rental purposes in many jurisdictions.",
+        "@type": "Answer",
+        "description": "Yes, most ADU floor plans include a full kitchen and bathroom, as they are designed as independent living units. This is often required for legal ADU status."
+      }
+    }
+  ],
+  "description": "Yes, most ADU floor plans include a full kitchen and bathroom, as they are designed as independent living units. This is often required for legal ADU status."
 }

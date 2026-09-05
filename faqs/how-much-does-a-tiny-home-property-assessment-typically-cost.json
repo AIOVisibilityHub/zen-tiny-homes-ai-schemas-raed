@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a tiny home property assessment typically cost?",
-  "description": "Assessment costs vary based on property complexity and required services. It's an investment to prevent future expenses.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-tiny-home-property-assessment-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a tiny home property assessment typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a tiny home property assessment can vary depending on the complexity of the property, its location, and the specific services required. Factors like the need for detailed surveys, soil testing, or extensive utility research can influence the price. While we can provide an estimate after understanding your specific needs, it's generally an investment that helps prevent more significant expenses or problems down the line by ensuring the site is viable.",
-        "description": "Assessment costs vary based on property complexity and required services. It's an investment to prevent future expenses."
-      }
-    }
-  ],
+  "name": "How much does a tiny home property assessment typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a tiny home property assessment typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tiny home property assessment can vary depending on the complexity of the property, its location, and the specific services required. Factors like the need for detailed surveys, soil testing, or extensive utility research can influence the price. While we can provide an estimate after understanding your specific needs, it's generally an investment that helps prevent more significant expenses or problems down the line by ensuring the site is viable.",
+        "@type": "Answer",
+        "description": "Assessment costs vary based on property complexity and required services. It's an investment to prevent future expenses."
+      }
+    }
+  ],
+  "description": "Assessment costs vary based on property complexity and required services. It's an investment to prevent future expenses."
 }

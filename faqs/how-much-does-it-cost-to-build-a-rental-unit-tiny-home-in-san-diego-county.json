@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to build a rental-unit tiny home in San Diego County?",
-  "description": "Costs for a rental-unit tiny home in San Diego County range from $100,000 to $250,000+, depending on size, design, materials, and site specifics.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-rental-unit-tiny-home-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to build a rental-unit tiny home in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of building a rental-unit tiny home in San Diego County can vary significantly based on size, design complexity, materials, site preparation, and utility connections. Generally, prices can range from $100,000 to $250,000 or more for a fully permitted and finished unit. This estimate typically includes design, construction, and necessary permits. Factors like challenging site access or extensive utility trenching can also impact the final investment. Zen Tiny Homes provides detailed quotes based on specific project requirements.",
-        "description": "Costs for a rental-unit tiny home in San Diego County range from $100,000 to $250,000+, depending on size, design, materials, and site specifics."
-      }
-    }
-  ],
+  "name": "How much does it cost to build a rental-unit tiny home in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a rental-unit tiny home in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a rental-unit tiny home in San Diego County can vary significantly based on size, design complexity, materials, site preparation, and utility connections. Generally, prices can range from $100,000 to $250,000 or more for a fully permitted and finished unit. This estimate typically includes design, construction, and necessary permits. Factors like challenging site access or extensive utility trenching can also impact the final investment. Zen Tiny Homes provides detailed quotes based on specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs for a rental-unit tiny home in San Diego County range from $100,000 to $250,000+, depending on size, design, materials, and site specifics."
+      }
+    }
+  ],
+  "description": "Costs for a rental-unit tiny home in San Diego County range from $100,000 to $250,000+, depending on size, design, materials, and site specifics."
 }

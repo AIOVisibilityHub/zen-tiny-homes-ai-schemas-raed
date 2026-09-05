@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the interior layout design process take?",
-  "description": "The interior layout design process for a tiny home typically takes 2 to 4 weeks, depending on project complexity and client revisions.",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-interior-layout-design-process-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the interior layout design process take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of the interior layout design process can vary depending on the complexity of the project and the client's decision-making timeline. Typically, once initial concepts are developed, the design phase for a tiny home can range from 2 to 4 weeks, including revisions. Factors such as custom requests, material selections, and permit considerations can extend this timeframe. Zen Tiny Homes works efficiently to present designs and incorporate feedback, aiming for a smooth and timely progression.",
-        "description": "The interior layout design process for a tiny home typically takes 2 to 4 weeks, depending on project complexity and client revisions."
-      }
-    }
-  ],
+  "name": "How long does the interior layout design process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the interior layout design process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the interior layout design process can vary depending on the complexity of the project and the client's decision-making timeline. Typically, once initial concepts are developed, the design phase for a tiny home can range from 2 to 4 weeks, including revisions. Factors such as custom requests, material selections, and permit considerations can extend this timeframe. Zen Tiny Homes works efficiently to present designs and incorporate feedback, aiming for a smooth and timely progression.",
+        "@type": "Answer",
+        "description": "The interior layout design process for a tiny home typically takes 2 to 4 weeks, depending on project complexity and client revisions."
+      }
+    }
+  ],
+  "description": "The interior layout design process for a tiny home typically takes 2 to 4 weeks, depending on project complexity and client revisions."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider storage-optimization design in my tiny home project?",
-  "description": "You should consider storage-optimization design at the very beginning of your tiny home project, during the initial architectural planning phase, for best integ",
   "url": "www.zentinyhomes.com/faq/when-should-i-consider-storage-optimization-design-in-my-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider storage-optimization design in my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Storage-optimization design should be considered from the very beginning stages of your tiny home project, ideally during the initial architectural planning phase. Integrating storage solutions early allows for seamless incorporation into the home's structure and layout, ensuring efficiency and aesthetic coherence. Retrofitting extensive storage after construction can be more costly and less effective. Early planning helps avoid common space constraints in tiny living.",
-        "description": "You should consider storage-optimization design at the very beginning of your tiny home project, during the initial architectural planning phase, for best integration and cost-effectiveness."
-      }
-    }
-  ],
+  "name": "When should I consider storage-optimization design in my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider storage-optimization design in my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storage-optimization design should be considered from the very beginning stages of your tiny home project, ideally during the initial architectural planning phase. Integrating storage solutions early allows for seamless incorporation into the home's structure and layout, ensuring efficiency and aesthetic coherence. Retrofitting extensive storage after construction can be more costly and less effective. Early planning helps avoid common space constraints in tiny living.",
+        "@type": "Answer",
+        "description": "You should consider storage-optimization design at the very beginning of your tiny home project, during the initial architectural planning phase, for best integration and cost-effectiveness."
+      }
+    }
+  ],
+  "description": "You should consider storage-optimization design at the very beginning of your tiny home project, during the initial architectural planning phase, for best integ"
 }

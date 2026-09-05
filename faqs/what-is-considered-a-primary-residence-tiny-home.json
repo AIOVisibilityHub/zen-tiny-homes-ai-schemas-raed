@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered a primary-residence tiny home?",
-  "description": "A primary-residence tiny home is a compact dwelling that serves as a person's main home and meets local building codes for permanent habitation.",
   "url": "www.zentinyhomes.com/faq/what-is-considered-a-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A primary-residence tiny home serves as a person's main dwelling. Unlike recreational vehicles or accessory dwelling units (ADUs) used as rentals or guest houses, a primary-residence tiny home is specifically designed and permitted for full-time living. This often means it must meet local building codes and zoning requirements for permanent structures, including foundations and utility connections, rather than being built on wheels. Zen Tiny Homes focuses on constructing these permanent, code-compliant structures.",
-        "description": "A primary-residence tiny home is a compact dwelling that serves as a person's main home and meets local building codes for permanent habitation."
-      }
-    }
-  ],
+  "name": "What is considered a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary-residence tiny home serves as a person's main dwelling. Unlike recreational vehicles or accessory dwelling units (ADUs) used as rentals or guest houses, a primary-residence tiny home is specifically designed and permitted for full-time living. This often means it must meet local building codes and zoning requirements for permanent structures, including foundations and utility connections, rather than being built on wheels. Zen Tiny Homes focuses on constructing these permanent, code-compliant structures.",
+        "@type": "Answer",
+        "description": "A primary-residence tiny home is a compact dwelling that serves as a person's main home and meets local building codes for permanent habitation."
+      }
+    }
+  ],
+  "description": "A primary-residence tiny home is a compact dwelling that serves as a person's main home and meets local building codes for permanent habitation."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I start thinking about the interior layout for my tiny home?",
-  "description": "You should start thinking about your tiny home's interior layout during the initial planning phase, ideally before architectural plans are finalized, to ensure",
   "url": "www.zentinyhomes.com/faq/when-should-i-start-thinking-about-the-interior-layout-for-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I start thinking about the interior layout for my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is best to start thinking about your tiny home's interior layout during the initial planning and conceptualization phase, ideally even before architectural plans are finalized. Early consideration ensures that the structural elements and utility placements align seamlessly with your desired interior functionality and aesthetics. Integrating layout decisions from the outset helps prevent costly modifications later and allows for a more cohesive and efficient design. Zen Tiny Homes encourages clients to share their lifestyle needs early in the process.",
-        "description": "You should start thinking about your tiny home's interior layout during the initial planning phase, ideally before architectural plans are finalized, to ensure seamless integration and avoid later modifications."
-      }
-    }
-  ],
+  "name": "When should I start thinking about the interior layout for my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start thinking about the interior layout for my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to start thinking about your tiny home's interior layout during the initial planning and conceptualization phase, ideally even before architectural plans are finalized. Early consideration ensures that the structural elements and utility placements align seamlessly with your desired interior functionality and aesthetics. Integrating layout decisions from the outset helps prevent costly modifications later and allows for a more cohesive and efficient design. Zen Tiny Homes encourages clients to share their lifestyle needs early in the process.",
+        "@type": "Answer",
+        "description": "You should start thinking about your tiny home's interior layout during the initial planning phase, ideally before architectural plans are finalized, to ensure seamless integration and avoid later modifications."
+      }
+    }
+  ],
+  "description": "You should start thinking about your tiny home's interior layout during the initial planning phase, ideally before architectural plans are finalized, to ensure"
 }

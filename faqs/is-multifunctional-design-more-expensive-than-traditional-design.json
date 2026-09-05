@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is multifunctional design more expensive than traditional design?",
-  "description": "Costs vary. Custom multifunctional pieces can be an investment, but they often lead to long-term savings by optimizing space in a smaller home.",
   "url": "www.zentinyhomes.com/faq/is-multifunctional-design-more-expensive-than-traditional-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is multifunctional design more expensive than traditional design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of multifunctional design can vary. While some custom-built or high-quality convertible furniture might have a higher initial price tag than standard items, the long-term savings often come from requiring fewer total pieces of furniture and making more efficient use of a smaller home's footprint. The overall budget depends on the complexity of the design, the materials chosen, and the extent of customization. It's an investment in optimizing space, which can lead to lower housing costs.",
-        "description": "Costs vary. Custom multifunctional pieces can be an investment, but they often lead to long-term savings by optimizing space in a smaller home."
-      }
-    }
-  ],
+  "name": "Is multifunctional design more expensive than traditional design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is multifunctional design more expensive than traditional design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of multifunctional design can vary. While some custom-built or high-quality convertible furniture might have a higher initial price tag than standard items, the long-term savings often come from requiring fewer total pieces of furniture and making more efficient use of a smaller home's footprint. The overall budget depends on the complexity of the design, the materials chosen, and the extent of customization. It's an investment in optimizing space, which can lead to lower housing costs.",
+        "@type": "Answer",
+        "description": "Costs vary. Custom multifunctional pieces can be an investment, but they often lead to long-term savings by optimizing space in a smaller home."
+      }
+    }
+  ],
+  "description": "Costs vary. Custom multifunctional pieces can be an investment, but they often lead to long-term savings by optimizing space in a smaller home."
 }

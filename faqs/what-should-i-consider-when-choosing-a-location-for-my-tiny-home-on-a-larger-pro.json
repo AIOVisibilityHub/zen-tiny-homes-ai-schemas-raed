@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when choosing a location for my tiny home on a larger property?",
-  "description": "Consider utility access, sun exposure, wind patterns, drainage, proximity to existing structures, views, and any property-specific restrictions like easements o",
   "url": "www.zentinyhomes.com/faq/what-should-i-consider-when-choosing-a-location-for-my-tiny-home-on-a-larger-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when choosing a location for my tiny home on a larger property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a location on a larger property, consider several factors for optimal placement. Access to existing utilities (water, sewer, electricity) is crucial to minimize connection costs. Evaluate sun exposure for natural light and potential solar energy, wind patterns for structural stability and comfort, and drainage to prevent water issues. Proximity to existing structures, driveways, and scenic views should also be assessed. Additionally, review any property-specific easements, covenants, or setback requirements that might restrict placement options.",
-        "description": "Consider utility access, sun exposure, wind patterns, drainage, proximity to existing structures, views, and any property-specific restrictions like easements or setbacks."
-      }
-    }
-  ],
+  "name": "What should I consider when choosing a location for my tiny home on a larger property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a location for my tiny home on a larger property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a location on a larger property, consider several factors for optimal placement. Access to existing utilities (water, sewer, electricity) is crucial to minimize connection costs. Evaluate sun exposure for natural light and potential solar energy, wind patterns for structural stability and comfort, and drainage to prevent water issues. Proximity to existing structures, driveways, and scenic views should also be assessed. Additionally, review any property-specific easements, covenants, or setback requirements that might restrict placement options.",
+        "@type": "Answer",
+        "description": "Consider utility access, sun exposure, wind patterns, drainage, proximity to existing structures, views, and any property-specific restrictions like easements or setbacks."
+      }
+    }
+  ],
+  "description": "Consider utility access, sun exposure, wind patterns, drainage, proximity to existing structures, views, and any property-specific restrictions like easements o"
 }

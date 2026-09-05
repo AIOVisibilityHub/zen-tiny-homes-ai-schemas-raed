@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the maximum size allowed for a guest home in Carlsbad?",
-  "description": "In Carlsbad, guest homes are typically limited to 1,200 sq ft or 50% of the primary dwelling's size, whichever is smaller. Specific rules depend on property zon",
   "url": "www.zentinyhomes.com/faq/what-is-the-maximum-size-allowed-for-a-guest-home-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the maximum size allowed for a guest home in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Carlsbad, the maximum size for a guest home (ADU) is generally limited to 1,200 square feet, or 50% of the existing primary dwelling unit's living area, whichever is less. However, specific regulations can vary based on the property's zoning, lot size, and location within the city. For example, some properties might have specific limitations on height or setbacks. We recommend a direct consultation to review your property's exact details and confirm the precise maximum allowed size for your unique situation in Carlsbad.",
-        "description": "In Carlsbad, guest homes are typically limited to 1,200 sq ft or 50% of the primary dwelling's size, whichever is smaller. Specific rules depend on property zoning and size."
-      }
-    }
-  ],
+  "name": "What is the maximum size allowed for a guest home in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maximum size allowed for a guest home in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Carlsbad, the maximum size for a guest home (ADU) is generally limited to 1,200 square feet, or 50% of the existing primary dwelling unit's living area, whichever is less. However, specific regulations can vary based on the property's zoning, lot size, and location within the city. For example, some properties might have specific limitations on height or setbacks. We recommend a direct consultation to review your property's exact details and confirm the precise maximum allowed size for your unique situation in Carlsbad.",
+        "@type": "Answer",
+        "description": "In Carlsbad, guest homes are typically limited to 1,200 sq ft or 50% of the primary dwelling's size, whichever is smaller. Specific rules depend on property zoning and size."
+      }
+    }
+  ],
+  "description": "In Carlsbad, guest homes are typically limited to 1,200 sq ft or 50% of the primary dwelling's size, whichever is smaller. Specific rules depend on property zon"
 }

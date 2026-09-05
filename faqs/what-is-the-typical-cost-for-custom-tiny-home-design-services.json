@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for custom tiny home design services?",
-  "description": "Custom tiny home design costs vary based on complexity, ranging from basic customization to unique ground-up designs with specialized features.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-for-custom-tiny-home-design-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for custom tiny home design services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for custom tiny home design services depends on the scope and detail required. It can range from a few thousand dollars for basic customization of existing plans to a higher amount for completely unique, ground-up designs with extensive features and engineering considerations. Factors influencing cost include the intricacy of the design, the number of revisions, and any specialized features. We provide a detailed quote after an initial consultation to understand your project requirements.",
-        "description": "Custom tiny home design costs vary based on complexity, ranging from basic customization to unique ground-up designs with specialized features."
-      }
-    }
-  ],
+  "name": "What is the typical cost for custom tiny home design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for custom tiny home design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for custom tiny home design services depends on the scope and detail required. It can range from a few thousand dollars for basic customization of existing plans to a higher amount for completely unique, ground-up designs with extensive features and engineering considerations. Factors influencing cost include the intricacy of the design, the number of revisions, and any specialized features. We provide a detailed quote after an initial consultation to understand your project requirements.",
+        "@type": "Answer",
+        "description": "Custom tiny home design costs vary based on complexity, ranging from basic customization to unique ground-up designs with specialized features."
+      }
+    }
+  ],
+  "description": "Custom tiny home design costs vary based on complexity, ranging from basic customization to unique ground-up designs with specialized features."
 }

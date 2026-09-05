@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of building a rental-unit tiny home over a traditional addition?",
-  "description": "Rental-unit tiny homes often have lower costs, offer greater privacy, provide flexible placement, and are quicker to build compared to traditional home addition",
   "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-building-a-rental-unit-tiny-home-over-a-traditional-a",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of building a rental-unit tiny home over a traditional addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a rental-unit tiny home often offers several advantages compared to a traditional home addition. Tiny homes typically have lower construction costs per square foot due to their smaller footprint and often simpler designs. They can also provide greater privacy for both the main residents and tenants, as they are separate structures. Furthermore, tiny homes often allow for more flexibility in placement on a property and can be faster to construct. They are also an excellent way to generate rental income while preserving the primary residence's space.",
-        "description": "Rental-unit tiny homes often have lower costs, offer greater privacy, provide flexible placement, and are quicker to build compared to traditional home additions."
-      }
-    }
-  ],
+  "name": "What are the advantages of building a rental-unit tiny home over a traditional addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of building a rental-unit tiny home over a traditional addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a rental-unit tiny home often offers several advantages compared to a traditional home addition. Tiny homes typically have lower construction costs per square foot due to their smaller footprint and often simpler designs. They can also provide greater privacy for both the main residents and tenants, as they are separate structures. Furthermore, tiny homes often allow for more flexibility in placement on a property and can be faster to construct. They are also an excellent way to generate rental income while preserving the primary residence's space.",
+        "@type": "Answer",
+        "description": "Rental-unit tiny homes often have lower costs, offer greater privacy, provide flexible placement, and are quicker to build compared to traditional home additions."
+      }
+    }
+  ],
+  "description": "Rental-unit tiny homes often have lower costs, offer greater privacy, provide flexible placement, and are quicker to build compared to traditional home addition"
 }

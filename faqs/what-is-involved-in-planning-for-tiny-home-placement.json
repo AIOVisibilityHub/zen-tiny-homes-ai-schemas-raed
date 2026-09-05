@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in planning for tiny home placement?",
-  "description": "Planning involves researching zoning, assessing utility access, considering environmental factors, and understanding permit requirements specific to your tiny h",
   "url": "www.zentinyhomes.com/faq/what-is-involved-in-planning-for-tiny-home-placement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in planning for tiny home placement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Planning for tiny home placement involves several key steps to ensure compliance and functionality. This typically includes researching local zoning ordinances and building codes specific to tiny homes, assessing the chosen site for utility access (water, sewer/septic, electricity), considering environmental factors like soil stability and drainage, and determining the optimal orientation for natural light and energy efficiency. It's crucial to understand permitting requirements and whether the tiny home will be considered a permanent dwelling, accessory dwelling unit (ADU), or an RV, as this impacts regulations and installation methods.",
-        "description": "Planning involves researching zoning, assessing utility access, considering environmental factors, and understanding permit requirements specific to your tiny home type."
-      }
-    }
-  ],
+  "name": "What is involved in planning for tiny home placement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in planning for tiny home placement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning for tiny home placement involves several key steps to ensure compliance and functionality. This typically includes researching local zoning ordinances and building codes specific to tiny homes, assessing the chosen site for utility access (water, sewer/septic, electricity), considering environmental factors like soil stability and drainage, and determining the optimal orientation for natural light and energy efficiency. It's crucial to understand permitting requirements and whether the tiny home will be considered a permanent dwelling, accessory dwelling unit (ADU), or an RV, as this impacts regulations and installation methods.",
+        "@type": "Answer",
+        "description": "Planning involves researching zoning, assessing utility access, considering environmental factors, and understanding permit requirements specific to your tiny home type."
+      }
+    }
+  ],
+  "description": "Planning involves researching zoning, assessing utility access, considering environmental factors, and understanding permit requirements specific to your tiny h"
 }

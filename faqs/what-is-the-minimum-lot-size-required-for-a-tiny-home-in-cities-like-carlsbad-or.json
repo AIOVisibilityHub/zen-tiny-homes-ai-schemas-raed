@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the minimum lot size required for a tiny home in cities like Carlsbad or Encinitas?",
-  "description": "Minimum lot size for a tiny home (as an ADU) in Carlsbad or Encinitas generally isn't a direct restriction. Local rules on setbacks and lot coverage are more in",
   "url": "www.zentinyhomes.com/faq/what-is-the-minimum-lot-size-required-for-a-tiny-home-in-cities-like-carlsbad-or",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the minimum lot size required for a tiny home in cities like Carlsbad or Encinitas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The minimum lot size for a tiny home often depends on whether it's considered a primary dwelling, an ADU, or an accessory structure. For ADUs in Carlsbad or Encinitas, state law allows them on most residential lots regardless of minimum size, provided there's an existing primary home. However, local ordinances still govern setbacks, height, and lot coverage, which can indirectly influence the feasible size of the tiny home on a given lot. Consulting with Zen Tiny Homes ensures your proposed build fits within these constraints.",
-        "description": "Minimum lot size for a tiny home (as an ADU) in Carlsbad or Encinitas generally isn't a direct restriction. Local rules on setbacks and lot coverage are more influential."
-      }
-    }
-  ],
+  "name": "What is the minimum lot size required for a tiny home in cities like Carlsbad or Encinitas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the minimum lot size required for a tiny home in cities like Carlsbad or Encinitas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The minimum lot size for a tiny home often depends on whether it's considered a primary dwelling, an ADU, or an accessory structure. For ADUs in Carlsbad or Encinitas, state law allows them on most residential lots regardless of minimum size, provided there's an existing primary home. However, local ordinances still govern setbacks, height, and lot coverage, which can indirectly influence the feasible size of the tiny home on a given lot. Consulting with Zen Tiny Homes ensures your proposed build fits within these constraints.",
+        "@type": "Answer",
+        "description": "Minimum lot size for a tiny home (as an ADU) in Carlsbad or Encinitas generally isn't a direct restriction. Local rules on setbacks and lot coverage are more influential."
+      }
+    }
+  ],
+  "description": "Minimum lot size for a tiny home (as an ADU) in Carlsbad or Encinitas generally isn't a direct restriction. Local rules on setbacks and lot coverage are more in"
 }

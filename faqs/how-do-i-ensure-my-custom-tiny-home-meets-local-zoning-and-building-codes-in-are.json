@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I ensure my custom tiny home meets local zoning and building codes in areas like Vista or Oceanside?",
-  "description": "We assist with understanding local zoning and building codes in areas like Vista or Oceanside, as regulations vary for tiny homes and their foundations.",
   "url": "www.zentinyhomes.com/faq/how-do-i-ensure-my-custom-tiny-home-meets-local-zoning-and-building-codes-in-are",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I ensure my custom tiny home meets local zoning and building codes in areas like Vista or Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Navigating local zoning and building codes is a crucial step. Zen Tiny Homes assists clients in understanding and complying with regulations specific to their intended location, such as Vista or Oceanside. We recommend researching local ordinances early in the process, as rules vary regarding minimum dwelling size, foundation requirements, and utility hookups. For tiny homes on wheels, specific RV or park model certifications may apply. We help ensure your design and construction plan align with these requirements for a smooth permitting process.",
-        "description": "We assist with understanding local zoning and building codes in areas like Vista or Oceanside, as regulations vary for tiny homes and their foundations."
-      }
-    }
-  ],
+  "name": "How do I ensure my custom tiny home meets local zoning and building codes in areas like Vista or Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my custom tiny home meets local zoning and building codes in areas like Vista or Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Navigating local zoning and building codes is a crucial step. Zen Tiny Homes assists clients in understanding and complying with regulations specific to their intended location, such as Vista or Oceanside. We recommend researching local ordinances early in the process, as rules vary regarding minimum dwelling size, foundation requirements, and utility hookups. For tiny homes on wheels, specific RV or park model certifications may apply. We help ensure your design and construction plan align with these requirements for a smooth permitting process.",
+        "@type": "Answer",
+        "description": "We assist with understanding local zoning and building codes in areas like Vista or Oceanside, as regulations vary for tiny homes and their foundations."
+      }
+    }
+  ],
+  "description": "We assist with understanding local zoning and building codes in areas like Vista or Oceanside, as regulations vary for tiny homes and their foundations."
 }

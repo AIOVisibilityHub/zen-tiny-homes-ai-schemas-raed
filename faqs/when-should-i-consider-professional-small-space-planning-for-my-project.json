@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider professional small-space planning for my project?",
-  "description": "Consider professional small-space planning early in your project, before construction, to integrate efficient design, avoid costly changes, and ensure complianc",
   "url": "www.zentinyhomes.com/faq/when-should-i-consider-professional-small-space-planning-for-my-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider professional small-space planning for my project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider professional small-space planning early in your project, ideally before construction or significant renovations begin. This ensures that the design is integrated from the ground up, maximizing efficiency and avoiding costly changes later. Professional planners bring expertise in ergonomics, storage solutions, and material selection specific to compact living. They can identify opportunities you might overlook and ensure compliance with local building codes, leading to a more functional, aesthetically pleasing, and code-compliant space.",
-        "description": "Consider professional small-space planning early in your project, before construction, to integrate efficient design, avoid costly changes, and ensure compliance."
-      }
-    }
-  ],
+  "name": "When should I consider professional small-space planning for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional small-space planning for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional small-space planning early in your project, ideally before construction or significant renovations begin. This ensures that the design is integrated from the ground up, maximizing efficiency and avoiding costly changes later. Professional planners bring expertise in ergonomics, storage solutions, and material selection specific to compact living. They can identify opportunities you might overlook and ensure compliance with local building codes, leading to a more functional, aesthetically pleasing, and code-compliant space.",
+        "@type": "Answer",
+        "description": "Consider professional small-space planning early in your project, before construction, to integrate efficient design, avoid costly changes, and ensure compliance."
+      }
+    }
+  ],
+  "description": "Consider professional small-space planning early in your project, before construction, to integrate efficient design, avoid costly changes, and ensure complianc"
 }

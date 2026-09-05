@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common building codes for tiny homes in Oceanside?",
-  "description": "Tiny homes in Oceanside must comply with specific zoning and building codes, which vary depending on whether they are classified as ADUs, JADUs, or RVs. We can",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-building-codes-for-tiny-homes-in-oceanside",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common building codes for tiny homes in Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Oceanside, tiny homes typically fall under specific zoning and building codes depending on whether they are considered Accessory Dwelling Units (ADUs), Junior Accessory Dwelling Units (JADUs), or Recreational Vehicles (RVs). ADUs and JADUs must comply with residential building codes, including foundation requirements, utility connections, and minimum square footage. RVs are subject to different regulations, often related to temporary parking. We recommend reviewing the City of Oceanside's planning department guidelines or consulting with us for current and specific requirements for your tiny home project.",
-        "description": "Tiny homes in Oceanside must comply with specific zoning and building codes, which vary depending on whether they are classified as ADUs, JADUs, or RVs. We can help clarify these requirements."
-      }
-    }
-  ],
+  "name": "What are the common building codes for tiny homes in Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common building codes for tiny homes in Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Oceanside, tiny homes typically fall under specific zoning and building codes depending on whether they are considered Accessory Dwelling Units (ADUs), Junior Accessory Dwelling Units (JADUs), or Recreational Vehicles (RVs). ADUs and JADUs must comply with residential building codes, including foundation requirements, utility connections, and minimum square footage. RVs are subject to different regulations, often related to temporary parking. We recommend reviewing the City of Oceanside's planning department guidelines or consulting with us for current and specific requirements for your tiny home project.",
+        "@type": "Answer",
+        "description": "Tiny homes in Oceanside must comply with specific zoning and building codes, which vary depending on whether they are classified as ADUs, JADUs, or RVs. We can help clarify these requirements."
+      }
+    }
+  ],
+  "description": "Tiny homes in Oceanside must comply with specific zoning and building codes, which vary depending on whether they are classified as ADUs, JADUs, or RVs. We can"
 }

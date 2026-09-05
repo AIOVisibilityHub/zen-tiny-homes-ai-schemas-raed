@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can space-optimization design improve energy efficiency in a tiny home?",
-  "description": "Yes, space-optimization design can indirectly improve energy efficiency by maximizing natural light, improving airflow, and facilitating the use of compact, eff",
   "url": "www.zentinyhomes.com/faq/can-space-optimization-design-improve-energy-efficiency-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can space-optimization design improve energy efficiency in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While directly focused on space, effective optimization can indirectly support energy efficiency. For example, well-designed layouts often allow for more strategic placement of windows, maximizing natural light and reducing the need for artificial lighting during the day. Integrated storage can lead to less clutter, which allows for better airflow and more effective heating/cooling distribution. Furthermore, thoughtful design can streamline the use of compact, energy-efficient appliances, contributing to lower utility consumption.",
-        "description": "Yes, space-optimization design can indirectly improve energy efficiency by maximizing natural light, improving airflow, and facilitating the use of compact, efficient appliances."
-      }
-    }
-  ],
+  "name": "Can space-optimization design improve energy efficiency in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can space-optimization design improve energy efficiency in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While directly focused on space, effective optimization can indirectly support energy efficiency. For example, well-designed layouts often allow for more strategic placement of windows, maximizing natural light and reducing the need for artificial lighting during the day. Integrated storage can lead to less clutter, which allows for better airflow and more effective heating/cooling distribution. Furthermore, thoughtful design can streamline the use of compact, energy-efficient appliances, contributing to lower utility consumption.",
+        "@type": "Answer",
+        "description": "Yes, space-optimization design can indirectly improve energy efficiency by maximizing natural light, improving airflow, and facilitating the use of compact, efficient appliances."
+      }
+    }
+  ],
+  "description": "Yes, space-optimization design can indirectly improve energy efficiency by maximizing natural light, improving airflow, and facilitating the use of compact, eff"
 }

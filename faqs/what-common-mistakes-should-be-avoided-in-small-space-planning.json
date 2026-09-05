@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common mistakes should be avoided in small-space planning?",
-  "description": "Avoid not prioritizing multi-functional elements, overlooking vertical storage, over-cluttering, neglecting natural light, and poor traffic flow in small spaces",
   "url": "www.zentinyhomes.com/faq/what-common-mistakes-should-be-avoided-in-small-space-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What common mistakes should be avoided in small-space planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes in small-space planning include not prioritizing multi-functional elements, overlooking vertical storage opportunities, and failing to consider natural light. Another error is over-cluttering the space with too much furniture or decor, which can make it feel smaller. Neglecting a cohesive design aesthetic can also lead to a disjointed and uncomfortable environment. It's crucial to avoid poor traffic flow, inadequate ventilation, and insufficient electrical outlets, which negatively impact daily living and the overall functionality of a compact home.",
-        "description": "Avoid not prioritizing multi-functional elements, overlooking vertical storage, over-cluttering, neglecting natural light, and poor traffic flow in small spaces."
-      }
-    }
-  ],
+  "name": "What common mistakes should be avoided in small-space planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What common mistakes should be avoided in small-space planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes in small-space planning include not prioritizing multi-functional elements, overlooking vertical storage opportunities, and failing to consider natural light. Another error is over-cluttering the space with too much furniture or decor, which can make it feel smaller. Neglecting a cohesive design aesthetic can also lead to a disjointed and uncomfortable environment. It's crucial to avoid poor traffic flow, inadequate ventilation, and insufficient electrical outlets, which negatively impact daily living and the overall functionality of a compact home.",
+        "@type": "Answer",
+        "description": "Avoid not prioritizing multi-functional elements, overlooking vertical storage, over-cluttering, neglecting natural light, and poor traffic flow in small spaces."
+      }
+    }
+  ],
+  "description": "Avoid not prioritizing multi-functional elements, overlooking vertical storage, over-cluttering, neglecting natural light, and poor traffic flow in small spaces"
 }

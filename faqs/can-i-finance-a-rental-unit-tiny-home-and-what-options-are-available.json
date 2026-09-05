@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance a rental-unit tiny home, and what options are available?",
-  "description": "Financing options for rental-unit tiny homes include construction loans, home equity loans/HELOCs, personal loans, or specialized ADU financing programs.",
   "url": "www.zentinyhomes.com/faq/can-i-finance-a-rental-unit-tiny-home-and-what-options-are-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance a rental-unit tiny home, and what options are available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, financing a rental-unit tiny home is possible, and several options are typically available, though they may differ from traditional mortgage loans. Common financing methods include construction loans, which are specifically designed for new builds and released in stages. Home equity loans or lines of credit (HELOC) using the equity in your primary residence can also be an option. Some lenders offer personal loans for smaller projects, and in certain cases, specialized ADU financing programs may exist. It's advisable to speak with a financial institution to explore the best option for your specific situation.",
-        "description": "Financing options for rental-unit tiny homes include construction loans, home equity loans/HELOCs, personal loans, or specialized ADU financing programs."
-      }
-    }
-  ],
+  "name": "Can I finance a rental-unit tiny home, and what options are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a rental-unit tiny home, and what options are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, financing a rental-unit tiny home is possible, and several options are typically available, though they may differ from traditional mortgage loans. Common financing methods include construction loans, which are specifically designed for new builds and released in stages. Home equity loans or lines of credit (HELOC) using the equity in your primary residence can also be an option. Some lenders offer personal loans for smaller projects, and in certain cases, specialized ADU financing programs may exist. It's advisable to speak with a financial institution to explore the best option for your specific situation.",
+        "@type": "Answer",
+        "description": "Financing options for rental-unit tiny homes include construction loans, home equity loans/HELOCs, personal loans, or specialized ADU financing programs."
+      }
+    }
+  ],
+  "description": "Financing options for rental-unit tiny homes include construction loans, home equity loans/HELOCs, personal loans, or specialized ADU financing programs."
 }

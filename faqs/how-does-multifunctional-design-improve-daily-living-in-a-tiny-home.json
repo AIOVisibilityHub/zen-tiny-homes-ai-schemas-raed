@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does multifunctional design improve daily living in a tiny home?",
-  "description": "It improves daily living by reducing clutter, increasing perceived space, and making the home adaptable for various activities, enhancing efficiency.",
   "url": "www.zentinyhomes.com/faq/how-does-multifunctional-design-improve-daily-living-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does multifunctional design improve daily living in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional design significantly improves daily living by reducing clutter, increasing perceived space, and making the home more adaptable to various activities. It allows a single area to transition from work to relaxation, dining, or sleeping, promoting a more organized and stress-free environment. This adaptability means you can fully utilize your tiny home for different purposes throughout the day, enhancing comfort and efficiency without needing a larger footprint. It fosters a feeling of spaciousness and order.",
-        "description": "It improves daily living by reducing clutter, increasing perceived space, and making the home adaptable for various activities, enhancing efficiency."
-      }
-    }
-  ],
+  "name": "How does multifunctional design improve daily living in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does multifunctional design improve daily living in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional design significantly improves daily living by reducing clutter, increasing perceived space, and making the home more adaptable to various activities. It allows a single area to transition from work to relaxation, dining, or sleeping, promoting a more organized and stress-free environment. This adaptability means you can fully utilize your tiny home for different purposes throughout the day, enhancing comfort and efficiency without needing a larger footprint. It fosters a feeling of spaciousness and order.",
+        "@type": "Answer",
+        "description": "It improves daily living by reducing clutter, increasing perceived space, and making the home adaptable for various activities, enhancing efficiency."
+      }
+    }
+  ],
+  "description": "It improves daily living by reducing clutter, increasing perceived space, and making the home adaptable for various activities, enhancing efficiency."
 }

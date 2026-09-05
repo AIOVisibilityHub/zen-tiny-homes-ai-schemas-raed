@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a turnkey tiny home compare to a custom-built tiny home?",
-  "description": "Turnkey tiny homes are pre-designed for efficiency and quicker delivery, while custom builds offer full personalization at a higher cost and longer timeline.",
   "url": "www.zentinyhomes.com/faq/how-does-a-turnkey-tiny-home-compare-to-a-custom-built-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a turnkey tiny home compare to a custom-built tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A turnkey tiny home offers a more streamlined and faster process as it's built to a pre-designed plan with established material selections. This often results in a lower cost and shorter delivery time. A custom-built tiny home, conversely, allows for complete personalization of every detail, from layout to finishes, but typically involves a longer design and build timeline and a higher cost due to unique specifications. Turnkey is ideal for efficiency; custom is for ultimate personalization.",
-        "description": "Turnkey tiny homes are pre-designed for efficiency and quicker delivery, while custom builds offer full personalization at a higher cost and longer timeline."
-      }
-    }
-  ],
+  "name": "How does a turnkey tiny home compare to a custom-built tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a turnkey tiny home compare to a custom-built tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A turnkey tiny home offers a more streamlined and faster process as it's built to a pre-designed plan with established material selections. This often results in a lower cost and shorter delivery time. A custom-built tiny home, conversely, allows for complete personalization of every detail, from layout to finishes, but typically involves a longer design and build timeline and a higher cost due to unique specifications. Turnkey is ideal for efficiency; custom is for ultimate personalization.",
+        "@type": "Answer",
+        "description": "Turnkey tiny homes are pre-designed for efficiency and quicker delivery, while custom builds offer full personalization at a higher cost and longer timeline."
+      }
+    }
+  ],
+  "description": "Turnkey tiny homes are pre-designed for efficiency and quicker delivery, while custom builds offer full personalization at a higher cost and longer timeline."
 }

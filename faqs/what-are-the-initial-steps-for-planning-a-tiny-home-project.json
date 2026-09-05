@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the initial steps for planning a tiny home project?",
-  "description": "Initial steps for tiny home planning include defining your budget, size, features, and intended use. Research local zoning and building codes, and explore desig",
   "url": "www.zentinyhomes.com/faq/what-are-the-initial-steps-for-planning-a-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the initial steps for planning a tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The initial steps involve defining your needs and vision. Start by considering your budget, desired size, features, and how you plan to use the tiny home (e.g., permanent residence, ADU, vacation rental). Research local zoning laws and building codes, as these will significantly impact your project. It's also beneficial to explore different tiny home styles and materials to understand what best fits your aesthetic and functional requirements. Consulting with a builder early can help clarify possibilities.",
-        "description": "Initial steps for tiny home planning include defining your budget, size, features, and intended use. Research local zoning and building codes, and explore design styles."
-      }
-    }
-  ],
+  "name": "What are the initial steps for planning a tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the initial steps for planning a tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps involve defining your needs and vision. Start by considering your budget, desired size, features, and how you plan to use the tiny home (e.g., permanent residence, ADU, vacation rental). Research local zoning laws and building codes, as these will significantly impact your project. It's also beneficial to explore different tiny home styles and materials to understand what best fits your aesthetic and functional requirements. Consulting with a builder early can help clarify possibilities.",
+        "@type": "Answer",
+        "description": "Initial steps for tiny home planning include defining your budget, size, features, and intended use. Research local zoning and building codes, and explore design styles."
+      }
+    }
+  ],
+  "description": "Initial steps for tiny home planning include defining your budget, size, features, and intended use. Research local zoning and building codes, and explore desig"
 }

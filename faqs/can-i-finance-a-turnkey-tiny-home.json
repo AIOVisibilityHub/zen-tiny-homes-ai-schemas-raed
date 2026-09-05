@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance a turnkey tiny home?",
-  "description": "Yes, financing for turnkey tiny homes is available through RV loans, personal loans, or specialized tiny home financing, depending on the home type.",
   "url": "www.zentinyhomes.com/faq/can-i-finance-a-turnkey-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance a turnkey tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, financing options for turnkey tiny homes are available, though they may differ from traditional home mortgages. Options often include RV loans (for homes on wheels), personal loans, or specialized tiny home financing. If the tiny home is a permanent structure on a foundation, it might qualify for conventional mortgages or ADU loans. We recommend exploring various lenders who specialize in alternative housing financing. We can provide general guidance, but advise consulting with financial institutions directly.",
-        "description": "Yes, financing for turnkey tiny homes is available through RV loans, personal loans, or specialized tiny home financing, depending on the home type."
-      }
-    }
-  ],
+  "name": "Can I finance a turnkey tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a turnkey tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, financing options for turnkey tiny homes are available, though they may differ from traditional home mortgages. Options often include RV loans (for homes on wheels), personal loans, or specialized tiny home financing. If the tiny home is a permanent structure on a foundation, it might qualify for conventional mortgages or ADU loans. We recommend exploring various lenders who specialize in alternative housing financing. We can provide general guidance, but advise consulting with financial institutions directly.",
+        "@type": "Answer",
+        "description": "Yes, financing for turnkey tiny homes is available through RV loans, personal loans, or specialized tiny home financing, depending on the home type."
+      }
+    }
+  ],
+  "description": "Yes, financing for turnkey tiny homes is available through RV loans, personal loans, or specialized tiny home financing, depending on the home type."
 }

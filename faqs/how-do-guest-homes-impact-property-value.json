@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do guest homes impact property value?",
-  "description": "Guest homes generally increase property value by adding usable space, offering flexibility, and providing rental income potential. The impact varies with qualit",
   "url": "www.zentinyhomes.com/faq/how-do-guest-homes-impact-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do guest homes impact property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guest homes typically have a positive impact on property value. They add usable square footage, increase housing flexibility, and offer potential rental income, all of which are attractive to future buyers. The exact increase in value depends on factors like the guest home's size, quality of construction, amenities, and local market demand. A well-designed and legally permitted guest home can be a significant asset, enhancing a property's appeal and marketability for both residential use and investment purposes.",
-        "description": "Guest homes generally increase property value by adding usable space, offering flexibility, and providing rental income potential. The impact varies with quality and market demand."
-      }
-    }
-  ],
+  "name": "How do guest homes impact property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do guest homes impact property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Guest homes typically have a positive impact on property value. They add usable square footage, increase housing flexibility, and offer potential rental income, all of which are attractive to future buyers. The exact increase in value depends on factors like the guest home's size, quality of construction, amenities, and local market demand. A well-designed and legally permitted guest home can be a significant asset, enhancing a property's appeal and marketability for both residential use and investment purposes.",
+        "@type": "Answer",
+        "description": "Guest homes generally increase property value by adding usable space, offering flexibility, and providing rental income potential. The impact varies with quality and market demand."
+      }
+    }
+  ],
+  "description": "Guest homes generally increase property value by adding usable space, offering flexibility, and providing rental income potential. The impact varies with qualit"
 }

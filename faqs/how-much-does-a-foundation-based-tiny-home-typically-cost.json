@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a foundation-based tiny home typically cost?",
-  "description": "Costs for foundation-based tiny homes typically range from $100,000 to $300,000+, depending on size, design, and materials.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-foundation-based-tiny-home-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a foundation-based tiny home typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a foundation-based tiny home varies significantly based on size, design complexity, materials chosen, and site preparation requirements. Generally, prices can range from $100,000 to $300,000 or more, excluding land costs. Factors like custom finishes, high-end appliances, and challenging site conditions can increase the overall investment. It's crucial to consider not only the construction cost but also expenses for permits, utility connections, and landscaping when budgeting for your project.",
-        "description": "Costs for foundation-based tiny homes typically range from $100,000 to $300,000+, depending on size, design, and materials."
-      }
-    }
-  ],
+  "name": "How much does a foundation-based tiny home typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a foundation-based tiny home typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a foundation-based tiny home varies significantly based on size, design complexity, materials chosen, and site preparation requirements. Generally, prices can range from $100,000 to $300,000 or more, excluding land costs. Factors like custom finishes, high-end appliances, and challenging site conditions can increase the overall investment. It's crucial to consider not only the construction cost but also expenses for permits, utility connections, and landscaping when budgeting for your project.",
+        "@type": "Answer",
+        "description": "Costs for foundation-based tiny homes typically range from $100,000 to $300,000+, depending on size, design, and materials."
+      }
+    }
+  ],
+  "description": "Costs for foundation-based tiny homes typically range from $100,000 to $300,000+, depending on size, design, and materials."
 }

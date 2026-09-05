@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of permits are required for a tiny home in San Diego County?",
-  "description": "Tiny homes in San Diego County typically require zoning and building permits. Additional permits may be needed based on location and property. Requirements vary",
   "url": "www.zentinyhomes.com/faq/what-types-of-permits-are-required-for-a-tiny-home-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of permits are required for a tiny home in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In San Diego County, permits for tiny homes often include zoning clearance, building permits, and potentially special permits for environmental impacts or historic preservation, depending on the property's location and characteristics. Building permits cover structural integrity, electrical, plumbing, and mechanical systems. If the tiny home is an ADU, it will follow the ADU permitting process, which has streamlined options in many areas. Specific requirements can vary between the unincorporated county and individual cities like Vista, Oceanside, Carlsbad, San Marcos, and Escondido, making it important to consult with the local planning department.",
-        "description": "Tiny homes in San Diego County typically require zoning and building permits. Additional permits may be needed based on location and property. Requirements vary by specific city or unincorporated area."
-      }
-    }
-  ],
+  "name": "What types of permits are required for a tiny home in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of permits are required for a tiny home in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Diego County, permits for tiny homes often include zoning clearance, building permits, and potentially special permits for environmental impacts or historic preservation, depending on the property's location and characteristics. Building permits cover structural integrity, electrical, plumbing, and mechanical systems. If the tiny home is an ADU, it will follow the ADU permitting process, which has streamlined options in many areas. Specific requirements can vary between the unincorporated county and individual cities like Vista, Oceanside, Carlsbad, San Marcos, and Escondido, making it important to consult with the local planning department.",
+        "@type": "Answer",
+        "description": "Tiny homes in San Diego County typically require zoning and building permits. Additional permits may be needed based on location and property. Requirements vary by specific city or unincorporated area."
+      }
+    }
+  ],
+  "description": "Tiny homes in San Diego County typically require zoning and building permits. Additional permits may be needed based on location and property. Requirements vary"
 }

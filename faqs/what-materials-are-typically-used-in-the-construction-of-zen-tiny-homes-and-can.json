@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are typically used in the construction of Zen Tiny Homes, and can I choose eco-friendly options?",
-  "description": "We use durable, high-quality materials like sustainable wood framing and efficient insulation. Eco-friendly options, including reclaimed wood and low-VOC paints",
   "url": "www.zentinyhomes.com/faq/what-materials-are-typically-used-in-the-construction-of-zen-tiny-homes-and-can",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are typically used in the construction of Zen Tiny Homes, and can I choose eco-friendly options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes utilizes high-quality, durable materials engineered for longevity and efficiency. Common materials include sustainable wood framing, energy-efficient insulation, weather-resistant siding, and various interior finishes. Yes, we offer a range of eco-friendly and sustainable material options, such as reclaimed wood, recycled content insulation, and low-VOC paints. We are committed to helping clients achieve their environmental goals through thoughtful material selection.",
-        "description": "We use durable, high-quality materials like sustainable wood framing and efficient insulation. Eco-friendly options, including reclaimed wood and low-VOC paints, are available for your custom tiny home."
-      }
-    }
-  ],
+  "name": "What materials are typically used in the construction of Zen Tiny Homes, and can I choose eco-friendly options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used in the construction of Zen Tiny Homes, and can I choose eco-friendly options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes utilizes high-quality, durable materials engineered for longevity and efficiency. Common materials include sustainable wood framing, energy-efficient insulation, weather-resistant siding, and various interior finishes. Yes, we offer a range of eco-friendly and sustainable material options, such as reclaimed wood, recycled content insulation, and low-VOC paints. We are committed to helping clients achieve their environmental goals through thoughtful material selection.",
+        "@type": "Answer",
+        "description": "We use durable, high-quality materials like sustainable wood framing and efficient insulation. Eco-friendly options, including reclaimed wood and low-VOC paints, are available for your custom tiny home."
+      }
+    }
+  ],
+  "description": "We use durable, high-quality materials like sustainable wood framing and efficient insulation. Eco-friendly options, including reclaimed wood and low-VOC paints"
 }

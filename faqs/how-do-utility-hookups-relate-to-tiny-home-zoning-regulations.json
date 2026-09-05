@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do utility hookups relate to tiny home zoning regulations?",
-  "description": "Utility hookups are crucial for zoning, requiring approved connections to water, sewer, and electricity, with specific permits and regulations varying by jurisd",
   "url": "www.zentinyhomes.com/faq/how-do-utility-hookups-relate-to-tiny-home-zoning-regulations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do utility hookups relate to tiny home zoning regulations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Utility hookups are a critical component of tiny home zoning compliance. Most jurisdictions require tiny homes, especially those used as permanent residences, to be connected to approved water, sewer/septic, and electrical systems. Zoning regulations often dictate the type of connections allowed, whether they can be shared with a main residence, and the necessary permits for installation. Off-grid solutions may have separate, specific regulations. Ensuring proper utility connections is fundamental to gaining occupancy approval and meeting health and safety standards.",
-        "description": "Utility hookups are crucial for zoning, requiring approved connections to water, sewer, and electricity, with specific permits and regulations varying by jurisdiction."
-      }
-    }
-  ],
+  "name": "How do utility hookups relate to tiny home zoning regulations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do utility hookups relate to tiny home zoning regulations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Utility hookups are a critical component of tiny home zoning compliance. Most jurisdictions require tiny homes, especially those used as permanent residences, to be connected to approved water, sewer/septic, and electrical systems. Zoning regulations often dictate the type of connections allowed, whether they can be shared with a main residence, and the necessary permits for installation. Off-grid solutions may have separate, specific regulations. Ensuring proper utility connections is fundamental to gaining occupancy approval and meeting health and safety standards.",
+        "@type": "Answer",
+        "description": "Utility hookups are crucial for zoning, requiring approved connections to water, sewer, and electricity, with specific permits and regulations varying by jurisdiction."
+      }
+    }
+  ],
+  "description": "Utility hookups are crucial for zoning, requiring approved connections to water, sewer, and electricity, with specific permits and regulations varying by jurisd"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a tiny home for permitting purposes?",
-  "description": "A tiny home for permitting is usually a dwelling unit 400 square feet or less, excluding lofts. Its classification determines applicable building codes, zoning,",
   "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-for-permitting-purposes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a tiny home for permitting purposes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For permitting, a tiny home typically refers to a dwelling unit that is 400 square feet or less in floor area, excluding lofts. This definition helps determine which building codes and zoning ordinances apply. Depending on local regulations, a tiny home may be classified as an Accessory Dwelling Unit (ADU), a junior ADU (JADU), or a primary residence on a suitable lot. Understanding this classification is crucial as it dictates the specific permitting requirements, setback rules, and utility connections needed for legal occupancy. The classification also influences whether the home must be built on a permanent foundation or if it can be a movable type.",
-        "description": "A tiny home for permitting is usually a dwelling unit 400 square feet or less, excluding lofts. Its classification determines applicable building codes, zoning, and permit requirements."
-      }
-    }
-  ],
+  "name": "What is a tiny home for permitting purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tiny home for permitting purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For permitting, a tiny home typically refers to a dwelling unit that is 400 square feet or less in floor area, excluding lofts. This definition helps determine which building codes and zoning ordinances apply. Depending on local regulations, a tiny home may be classified as an Accessory Dwelling Unit (ADU), a junior ADU (JADU), or a primary residence on a suitable lot. Understanding this classification is crucial as it dictates the specific permitting requirements, setback rules, and utility connections needed for legal occupancy. The classification also influences whether the home must be built on a permanent foundation or if it can be a movable type.",
+        "@type": "Answer",
+        "description": "A tiny home for permitting is usually a dwelling unit 400 square feet or less, excluding lofts. Its classification determines applicable building codes, zoning, and permit requirements."
+      }
+    }
+  ],
+  "description": "A tiny home for permitting is usually a dwelling unit 400 square feet or less, excluding lofts. Its classification determines applicable building codes, zoning,"
 }

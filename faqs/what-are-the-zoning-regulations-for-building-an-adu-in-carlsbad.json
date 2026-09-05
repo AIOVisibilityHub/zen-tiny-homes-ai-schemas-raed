@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the zoning regulations for building an ADU in Carlsbad?",
-  "description": "Carlsbad's ADU zoning regulations dictate size, setbacks, height, and parking, requiring careful adherence to local ordinances and state laws.",
   "url": "www.zentinyhomes.com/faq/what-are-the-zoning-regulations-for-building-an-adu-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the zoning regulations for building an ADU in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zoning regulations for building an Accessory Dwelling Unit (ADU) in Carlsbad govern aspects like size, setbacks, height, and parking requirements. While state laws have streamlined ADU construction, local ordinances in Carlsbad will specify precise limitations and design standards. For example, there may be minimum lot sizes, limits on how large the ADU can be relative to the main house, specific fire safety requirements, and rules for utility connections. It's crucial to consult with local planning department guidelines or an experienced builder familiar with Carlsbad's specific codes to ensure compliance before starting any project.",
-        "description": "Carlsbad's ADU zoning regulations dictate size, setbacks, height, and parking, requiring careful adherence to local ordinances and state laws."
-      }
-    }
-  ],
+  "name": "What are the zoning regulations for building an ADU in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning regulations for building an ADU in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning regulations for building an Accessory Dwelling Unit (ADU) in Carlsbad govern aspects like size, setbacks, height, and parking requirements. While state laws have streamlined ADU construction, local ordinances in Carlsbad will specify precise limitations and design standards. For example, there may be minimum lot sizes, limits on how large the ADU can be relative to the main house, specific fire safety requirements, and rules for utility connections. It's crucial to consult with local planning department guidelines or an experienced builder familiar with Carlsbad's specific codes to ensure compliance before starting any project.",
+        "@type": "Answer",
+        "description": "Carlsbad's ADU zoning regulations dictate size, setbacks, height, and parking, requiring careful adherence to local ordinances and state laws."
+      }
+    }
+  ],
+  "description": "Carlsbad's ADU zoning regulations dictate size, setbacks, height, and parking, requiring careful adherence to local ordinances and state laws."
 }

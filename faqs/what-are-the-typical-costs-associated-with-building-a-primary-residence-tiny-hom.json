@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical costs associated with building a primary-residence tiny home?",
-  "description": "Costs for a primary-residence tiny home vary based on size, materials, site preparation, and custom features. Utility connections and permits also influence the",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-costs-associated-with-building-a-primary-residence-tiny-hom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical costs associated with building a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of building a primary-residence tiny home can vary significantly based on size, materials, finishes, and site preparation. Factors like utility connections (water, sewer, electricity), foundation type, and custom design elements all influence the final price. While generally less expensive than traditional homes, a tiny home requires careful budgeting for both construction and necessary permits. We provide detailed estimates tailored to your specific project and location in our service areas.",
-        "description": "Costs for a primary-residence tiny home vary based on size, materials, site preparation, and custom features. Utility connections and permits also influence the final price."
-      }
-    }
-  ],
+  "name": "What are the typical costs associated with building a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with building a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a primary-residence tiny home can vary significantly based on size, materials, finishes, and site preparation. Factors like utility connections (water, sewer, electricity), foundation type, and custom design elements all influence the final price. While generally less expensive than traditional homes, a tiny home requires careful budgeting for both construction and necessary permits. We provide detailed estimates tailored to your specific project and location in our service areas.",
+        "@type": "Answer",
+        "description": "Costs for a primary-residence tiny home vary based on size, materials, site preparation, and custom features. Utility connections and permits also influence the final price."
+      }
+    }
+  ],
+  "description": "Costs for a primary-residence tiny home vary based on size, materials, site preparation, and custom features. Utility connections and permits also influence the"
 }

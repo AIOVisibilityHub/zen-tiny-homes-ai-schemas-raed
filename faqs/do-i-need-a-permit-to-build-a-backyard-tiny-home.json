@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to build a backyard tiny home?",
-  "description": "Yes, permits are always required for backyard tiny homes (ADUs) to ensure compliance with local zoning and building codes.",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-build-a-backyard-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to build a backyard tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, building a backyard tiny home, also known as an ADU, almost always requires permits from your local city or county planning department. These permits ensure that the structure meets zoning regulations, building codes, and safety standards. Zen Tiny Homes assists clients throughout the entire permitting process, preparing and submitting all necessary documentation to ensure your project complies with local requirements in areas like Vista, Oceanside, and Carlsbad.",
-        "description": "Yes, permits are always required for backyard tiny homes (ADUs) to ensure compliance with local zoning and building codes."
-      }
-    }
-  ],
+  "name": "Do I need a permit to build a backyard tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build a backyard tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a backyard tiny home, also known as an ADU, almost always requires permits from your local city or county planning department. These permits ensure that the structure meets zoning regulations, building codes, and safety standards. Zen Tiny Homes assists clients throughout the entire permitting process, preparing and submitting all necessary documentation to ensure your project complies with local requirements in areas like Vista, Oceanside, and Carlsbad.",
+        "@type": "Answer",
+        "description": "Yes, permits are always required for backyard tiny homes (ADUs) to ensure compliance with local zoning and building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are always required for backyard tiny homes (ADUs) to ensure compliance with local zoning and building codes."
 }

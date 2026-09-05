@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the first steps to begin a custom tiny home design project?",
-  "description": "The first steps include an initial consultation to discuss your vision, budget, and site, followed by preliminary concept development.",
   "url": "www.zentinyhomes.com/faq/what-are-the-first-steps-to-begin-a-custom-tiny-home-design-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the first steps to begin a custom tiny home design project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first steps involve an initial consultation to discuss your vision, budget, and site considerations. During this meeting, we gather information about your lifestyle, desired features, aesthetic preferences, and any specific requirements for the tiny home. This helps us understand your needs and determine the feasibility of your project. Following this, we develop preliminary sketches and concepts for your review, marking the beginning of the collaborative design journey. Having an idea of your desired size and intended use is helpful.",
-        "description": "The first steps include an initial consultation to discuss your vision, budget, and site, followed by preliminary concept development."
-      }
-    }
-  ],
+  "name": "What are the first steps to begin a custom tiny home design project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to begin a custom tiny home design project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps involve an initial consultation to discuss your vision, budget, and site considerations. During this meeting, we gather information about your lifestyle, desired features, aesthetic preferences, and any specific requirements for the tiny home. This helps us understand your needs and determine the feasibility of your project. Following this, we develop preliminary sketches and concepts for your review, marking the beginning of the collaborative design journey. Having an idea of your desired size and intended use is helpful.",
+        "@type": "Answer",
+        "description": "The first steps include an initial consultation to discuss your vision, budget, and site, followed by preliminary concept development."
+      }
+    }
+  ],
+  "description": "The first steps include an initial consultation to discuss your vision, budget, and site, followed by preliminary concept development."
 }

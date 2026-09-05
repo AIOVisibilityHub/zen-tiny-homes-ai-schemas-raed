@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I choose the right tiny house floor plan for my needs?",
-  "description": "Select a tiny house floor plan by considering your lifestyle, number of occupants, storage needs, and essential amenities to ensure it supports your daily routi",
   "url": "www.zentinyhomes.com/faq/how-can-i-choose-the-right-tiny-house-floor-plan-for-my-needs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I choose the right tiny house floor plan for my needs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right tiny house floor plan involves evaluating your lifestyle, budget, and local regulations. Consider how many people will live in the home, your storage needs, and essential amenities. Think about your daily routines: do you need a dedicated workspace, a large kitchen, or a spacious living area? Research different layouts, such as those with lofts for sleeping or single-level designs for accessibility. It's also important to factor in the intended use (full-time living, guest house, etc.) and specific features that enhance your comfort, such as natural light, ventilation, and efficient use of every square foot.",
-        "description": "Select a tiny house floor plan by considering your lifestyle, number of occupants, storage needs, and essential amenities to ensure it supports your daily routines."
-      }
-    }
-  ],
+  "name": "How can I choose the right tiny house floor plan for my needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right tiny house floor plan for my needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right tiny house floor plan involves evaluating your lifestyle, budget, and local regulations. Consider how many people will live in the home, your storage needs, and essential amenities. Think about your daily routines: do you need a dedicated workspace, a large kitchen, or a spacious living area? Research different layouts, such as those with lofts for sleeping or single-level designs for accessibility. It's also important to factor in the intended use (full-time living, guest house, etc.) and specific features that enhance your comfort, such as natural light, ventilation, and efficient use of every square foot.",
+        "@type": "Answer",
+        "description": "Select a tiny house floor plan by considering your lifestyle, number of occupants, storage needs, and essential amenities to ensure it supports your daily routines."
+      }
+    }
+  ],
+  "description": "Select a tiny house floor plan by considering your lifestyle, number of occupants, storage needs, and essential amenities to ensure it supports your daily routi"
 }

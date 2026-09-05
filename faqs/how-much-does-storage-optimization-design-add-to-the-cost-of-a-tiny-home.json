@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does storage-optimization design add to the cost of a tiny home?",
-  "description": "The added cost for storage optimization varies significantly based on complexity, materials, and customization, potentially ranging from a few thousand dollars",
   "url": "www.zentinyhomes.com/faq/how-much-does-storage-optimization-design-add-to-the-cost-of-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does storage-optimization design add to the cost of a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of storage-optimization design varies widely depending on the complexity, materials, and customization level. Basic integrated solutions might add a few thousand dollars, while extensive custom cabinetry, pull-out systems, and bespoke multi-functional furniture could increase the overall project cost by 10-20% or more. Factors like material choices (e.g., plywood vs. solid wood) and the number of specialized features significantly impact the final price. We provide detailed estimates based on your specific needs.",
-        "description": "The added cost for storage optimization varies significantly based on complexity, materials, and customization, potentially ranging from a few thousand dollars to 10-20% of the tiny home's total cost."
-      }
-    }
-  ],
+  "name": "How much does storage-optimization design add to the cost of a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does storage-optimization design add to the cost of a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storage-optimization design varies widely depending on the complexity, materials, and customization level. Basic integrated solutions might add a few thousand dollars, while extensive custom cabinetry, pull-out systems, and bespoke multi-functional furniture could increase the overall project cost by 10-20% or more. Factors like material choices (e.g., plywood vs. solid wood) and the number of specialized features significantly impact the final price. We provide detailed estimates based on your specific needs.",
+        "@type": "Answer",
+        "description": "The added cost for storage optimization varies significantly based on complexity, materials, and customization, potentially ranging from a few thousand dollars to 10-20% of the tiny home's total cost."
+      }
+    }
+  ],
+  "description": "The added cost for storage optimization varies significantly based on complexity, materials, and customization, potentially ranging from a few thousand dollars"
 }

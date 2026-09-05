@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does multifunctional design save space in a tiny home?",
-  "description": "It saves space by using convertible furniture, hidden storage, and flexible layouts, making each area serve multiple functions.",
   "url": "www.zentinyhomes.com/faq/how-does-multifunctional-design-save-space-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does multifunctional design save space in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional design saves space by incorporating convertible furniture, hidden storage, and flexible layouts. Examples include Murphy beds that fold into walls, tables that extend or collapse, and seating with integrated storage. Walls can feature sliding panels or built-in shelving, reducing the need for separate pieces of furniture. This strategic planning ensures that every square foot is utilized efficiently, preventing clutter and making the home feel more open.",
-        "description": "It saves space by using convertible furniture, hidden storage, and flexible layouts, making each area serve multiple functions."
-      }
-    }
-  ],
+  "name": "How does multifunctional design save space in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does multifunctional design save space in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional design saves space by incorporating convertible furniture, hidden storage, and flexible layouts. Examples include Murphy beds that fold into walls, tables that extend or collapse, and seating with integrated storage. Walls can feature sliding panels or built-in shelving, reducing the need for separate pieces of furniture. This strategic planning ensures that every square foot is utilized efficiently, preventing clutter and making the home feel more open.",
+        "@type": "Answer",
+        "description": "It saves space by using convertible furniture, hidden storage, and flexible layouts, making each area serve multiple functions."
+      }
+    }
+  ],
+  "description": "It saves space by using convertible furniture, hidden storage, and flexible layouts, making each area serve multiple functions."
 }

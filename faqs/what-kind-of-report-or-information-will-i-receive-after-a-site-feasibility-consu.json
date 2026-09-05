@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of report or information will I receive after a site feasibility consultation?",
-  "description": "You'll receive a report detailing zoning, utility, access, soil, and environmental findings, plus recommendations for your tiny home project.",
   "url": "www.zentinyhomes.com/faq/what-kind-of-report-or-information-will-i-receive-after-a-site-feasibility-consu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of report or information will I receive after a site feasibility consultation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a site feasibility consultation, you will receive a comprehensive report detailing our findings. This includes an assessment of zoning compliance, utility availability and connection requirements, potential site access challenges, soil considerations, and any environmental factors. The report will outline opportunities, constraints, and provide recommendations for proceeding with your tiny home project. It's designed to give you a clear understanding of your property's potential.",
-        "description": "You'll receive a report detailing zoning, utility, access, soil, and environmental findings, plus recommendations for your tiny home project."
-      }
-    }
-  ],
+  "name": "What kind of report or information will I receive after a site feasibility consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of report or information will I receive after a site feasibility consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a site feasibility consultation, you will receive a comprehensive report detailing our findings. This includes an assessment of zoning compliance, utility availability and connection requirements, potential site access challenges, soil considerations, and any environmental factors. The report will outline opportunities, constraints, and provide recommendations for proceeding with your tiny home project. It's designed to give you a clear understanding of your property's potential.",
+        "@type": "Answer",
+        "description": "You'll receive a report detailing zoning, utility, access, soil, and environmental findings, plus recommendations for your tiny home project."
+      }
+    }
+  ],
+  "description": "You'll receive a report detailing zoning, utility, access, soil, and environmental findings, plus recommendations for your tiny home project."
 }

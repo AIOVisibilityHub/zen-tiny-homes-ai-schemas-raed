@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Where can I find specific tiny home permitting information for Oceanside?",
-  "description": "Find Oceanside tiny home permitting info on the City of Oceanside's official website, specifically the Development Services or Planning Department sections.",
   "url": "www.zentinyhomes.com/faq/where-can-i-find-specific-tiny-home-permitting-information-for-oceanside",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Where can I find specific tiny home permitting information for Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For specific tiny home permitting information in Oceanside, the best starting point is the City of Oceanside's official website, specifically their Development Services or Planning Department sections. These departments provide detailed information on zoning ordinances, building codes, and permit application procedures for various structure types, including ADUs and potentially tiny homes. You can often find downloadable guides, forms, and contact information for planning staff who can answer specific questions related to your project. Consulting directly with their planning counter is recommended for the most accurate and up-to-date guidance.",
-        "description": "Find Oceanside tiny home permitting info on the City of Oceanside's official website, specifically the Development Services or Planning Department sections."
-      }
-    }
-  ],
+  "name": "Where can I find specific tiny home permitting information for Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Where can I find specific tiny home permitting information for Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For specific tiny home permitting information in Oceanside, the best starting point is the City of Oceanside's official website, specifically their Development Services or Planning Department sections. These departments provide detailed information on zoning ordinances, building codes, and permit application procedures for various structure types, including ADUs and potentially tiny homes. You can often find downloadable guides, forms, and contact information for planning staff who can answer specific questions related to your project. Consulting directly with their planning counter is recommended for the most accurate and up-to-date guidance.",
+        "@type": "Answer",
+        "description": "Find Oceanside tiny home permitting info on the City of Oceanside's official website, specifically the Development Services or Planning Department sections."
+      }
+    }
+  ],
+  "description": "Find Oceanside tiny home permitting info on the City of Oceanside's official website, specifically the Development Services or Planning Department sections."
 }

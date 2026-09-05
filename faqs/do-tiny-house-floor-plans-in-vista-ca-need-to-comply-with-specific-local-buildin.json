@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do tiny house floor plans in Vista, CA need to comply with specific local building codes?",
-  "description": "Yes, tiny house floor plans in Vista, CA must comply with local building codes for ADUs/JADUs, affecting size, utilities, and structure, while tiny homes on whe",
   "url": "www.zentinyhomes.com/faq/do-tiny-house-floor-plans-in-vista-ca-need-to-comply-with-specific-local-buildin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do tiny house floor plans in Vista, CA need to comply with specific local building codes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, tiny house floor plans in Vista, CA, as in other parts of San Diego County, must comply with specific local building codes, especially if they are built on a permanent foundation as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU). These codes cover aspects like minimum square footage, ceiling heights, electrical, plumbing, and structural requirements. Tiny homes on wheels are often considered recreational vehicles (RVs) and fall under different regulations, but local zoning may still restrict where they can be parked or lived in long-term. Zen Tiny Homes ensures all designs adhere to current Vista and county-specific regulations for ADUs and JADUs.",
-        "description": "Yes, tiny house floor plans in Vista, CA must comply with local building codes for ADUs/JADUs, affecting size, utilities, and structure, while tiny homes on wheels have different regulations."
-      }
-    }
-  ],
+  "name": "Do tiny house floor plans in Vista, CA need to comply with specific local building codes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do tiny house floor plans in Vista, CA need to comply with specific local building codes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tiny house floor plans in Vista, CA, as in other parts of San Diego County, must comply with specific local building codes, especially if they are built on a permanent foundation as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU). These codes cover aspects like minimum square footage, ceiling heights, electrical, plumbing, and structural requirements. Tiny homes on wheels are often considered recreational vehicles (RVs) and fall under different regulations, but local zoning may still restrict where they can be parked or lived in long-term. Zen Tiny Homes ensures all designs adhere to current Vista and county-specific regulations for ADUs and JADUs.",
+        "@type": "Answer",
+        "description": "Yes, tiny house floor plans in Vista, CA must comply with local building codes for ADUs/JADUs, affecting size, utilities, and structure, while tiny homes on wheels have different regulations."
+      }
+    }
+  ],
+  "description": "Yes, tiny house floor plans in Vista, CA must comply with local building codes for ADUs/JADUs, affecting size, utilities, and structure, while tiny homes on whe"
 }

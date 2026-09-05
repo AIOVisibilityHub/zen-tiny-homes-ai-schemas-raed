@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline from selecting an ADU floor plan to completing construction?",
-  "description": "From plan selection to construction completion, an ADU project typically takes 5-11 months. This includes 1-3 months for design and permitting, and 4-8 months f",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-from-selecting-an-adu-floor-plan-to-completing-cons",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline from selecting an ADU floor plan to completing construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline from selecting an ADU floor plan to construction completion can vary based on plan complexity, permitting processes, and site conditions. Generally, it takes approximately 1-3 months for design finalization and permitting approval. Construction itself typically spans 4-8 months, depending on the ADU's size and features. External factors like material availability or inspection schedules can also influence the total duration. Zen Tiny Homes provides a detailed project schedule once a plan is selected.",
-        "description": "From plan selection to construction completion, an ADU project typically takes 5-11 months. This includes 1-3 months for design and permitting, and 4-8 months for construction."
-      }
-    }
-  ],
+  "name": "What is the typical timeline from selecting an ADU floor plan to completing construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline from selecting an ADU floor plan to completing construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline from selecting an ADU floor plan to construction completion can vary based on plan complexity, permitting processes, and site conditions. Generally, it takes approximately 1-3 months for design finalization and permitting approval. Construction itself typically spans 4-8 months, depending on the ADU's size and features. External factors like material availability or inspection schedules can also influence the total duration. Zen Tiny Homes provides a detailed project schedule once a plan is selected.",
+        "@type": "Answer",
+        "description": "From plan selection to construction completion, an ADU project typically takes 5-11 months. This includes 1-3 months for design and permitting, and 4-8 months for construction."
+      }
+    }
+  ],
+  "description": "From plan selection to construction completion, an ADU project typically takes 5-11 months. This includes 1-3 months for design and permitting, and 4-8 months f"
 }

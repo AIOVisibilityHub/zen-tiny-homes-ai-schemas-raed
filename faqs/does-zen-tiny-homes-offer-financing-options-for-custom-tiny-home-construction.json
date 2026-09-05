@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Zen Tiny Homes offer financing options for custom tiny home construction?",
-  "description": "Zen Tiny Homes does not offer direct financing. However, we can connect you with third-party lenders specializing in tiny home loans or advise on other financin",
   "url": "www.zentinyhomes.com/faq/does-zen-tiny-homes-offer-financing-options-for-custom-tiny-home-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Zen Tiny Homes offer financing options for custom tiny home construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While Zen Tiny Homes does not directly offer in-house financing, we can connect you with reputable third-party lenders and financial institutions that specialize in tiny home or manufactured home loans. Many clients also explore personal loans, RV loans (for tiny homes on wheels), or home equity lines of credit depending on their specific circumstances and the tiny home's classification. We can guide you on typical financing avenues available for custom tiny home projects.",
-        "description": "Zen Tiny Homes does not offer direct financing. However, we can connect you with third-party lenders specializing in tiny home loans or advise on other financing avenues like personal or RV loans."
-      }
-    }
-  ],
+  "name": "Does Zen Tiny Homes offer financing options for custom tiny home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Zen Tiny Homes offer financing options for custom tiny home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Zen Tiny Homes does not directly offer in-house financing, we can connect you with reputable third-party lenders and financial institutions that specialize in tiny home or manufactured home loans. Many clients also explore personal loans, RV loans (for tiny homes on wheels), or home equity lines of credit depending on their specific circumstances and the tiny home's classification. We can guide you on typical financing avenues available for custom tiny home projects.",
+        "@type": "Answer",
+        "description": "Zen Tiny Homes does not offer direct financing. However, we can connect you with third-party lenders specializing in tiny home loans or advise on other financing avenues like personal or RV loans."
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes does not offer direct financing. However, we can connect you with third-party lenders specializing in tiny home loans or advise on other financin"
 }

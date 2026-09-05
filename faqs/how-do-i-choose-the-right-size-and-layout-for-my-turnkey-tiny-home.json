@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right size and layout for my turnkey tiny home?",
-  "description": "Choose your tiny home size and layout by considering your lifestyle, number of occupants, storage needs, and prioritized activities.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-size-and-layout-for-my-turnkey-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right size and layout for my turnkey tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right size and layout for your turnkey tiny home involves considering your lifestyle, needs, and how you plan to use the space. Think about how many people will live in the home, your storage requirements, and what activities you prioritize. Do you need a dedicated workspace, a larger kitchen, or multiple sleeping areas? Reviewing different floor plans, visualizing your daily routine within the space, and discussing your priorities with our design team can help you select a layout that maximizes comfort and functionality for you.",
-        "description": "Choose your tiny home size and layout by considering your lifestyle, number of occupants, storage needs, and prioritized activities."
-      }
-    }
-  ],
+  "name": "How do I choose the right size and layout for my turnkey tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and layout for my turnkey tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and layout for your turnkey tiny home involves considering your lifestyle, needs, and how you plan to use the space. Think about how many people will live in the home, your storage requirements, and what activities you prioritize. Do you need a dedicated workspace, a larger kitchen, or multiple sleeping areas? Reviewing different floor plans, visualizing your daily routine within the space, and discussing your priorities with our design team can help you select a layout that maximizes comfort and functionality for you.",
+        "@type": "Answer",
+        "description": "Choose your tiny home size and layout by considering your lifestyle, number of occupants, storage needs, and prioritized activities."
+      }
+    }
+  ],
+  "description": "Choose your tiny home size and layout by considering your lifestyle, number of occupants, storage needs, and prioritized activities."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are tiny homes considered ADUs (Accessory Dwelling Units) in California?",
-  "description": "Yes, many tiny homes in California can be classified as ADUs, especially if built on a permanent foundation on a property with an existing home. State and local",
   "url": "www.zentinyhomes.com/faq/are-tiny-homes-considered-adus-accessory-dwelling-units-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are tiny homes considered ADUs (Accessory Dwelling Units) in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many tiny homes can be classified as Accessory Dwelling Units (ADUs) in California, especially if they are built on a permanent foundation on a property with an existing primary residence. California state law has made it easier to build ADUs, but local jurisdictions still have their own specific requirements regarding size, setbacks, and utility connections. Zen Tiny Homes specializes in designing and building tiny homes that meet both state ADU guidelines and local zoning codes.",
-        "description": "Yes, many tiny homes in California can be classified as ADUs, especially if built on a permanent foundation on a property with an existing home. State and local rules still apply."
-      }
-    }
-  ],
+  "name": "Are tiny homes considered ADUs (Accessory Dwelling Units) in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are tiny homes considered ADUs (Accessory Dwelling Units) in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many tiny homes can be classified as Accessory Dwelling Units (ADUs) in California, especially if they are built on a permanent foundation on a property with an existing primary residence. California state law has made it easier to build ADUs, but local jurisdictions still have their own specific requirements regarding size, setbacks, and utility connections. Zen Tiny Homes specializes in designing and building tiny homes that meet both state ADU guidelines and local zoning codes.",
+        "@type": "Answer",
+        "description": "Yes, many tiny homes in California can be classified as ADUs, especially if built on a permanent foundation on a property with an existing home. State and local rules still apply."
+      }
+    }
+  ],
+  "description": "Yes, many tiny homes in California can be classified as ADUs, especially if built on a permanent foundation on a property with an existing home. State and local"
 }

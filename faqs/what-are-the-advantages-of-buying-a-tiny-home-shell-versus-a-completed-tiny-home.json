@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of buying a tiny home shell versus a completed tiny home?",
-  "description": "A tiny home shell saves labor costs and offers custom interior design flexibility, but requires more time and DIY effort than a completed home.",
   "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-buying-a-tiny-home-shell-versus-a-completed-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of buying a tiny home shell versus a completed tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Opting for a tiny home shell offers significant cost savings on labor, as you handle the interior finishes. This approach also provides greater flexibility for customization, allowing you to design the internal layout, choose materials, and install systems precisely to your preferences. It's ideal for those with DIY skills or who wish to be deeply involved in the creation of their home. However, it requires a greater time commitment and understanding of construction processes.",
-        "description": "A tiny home shell saves labor costs and offers custom interior design flexibility, but requires more time and DIY effort than a completed home."
-      }
-    }
-  ],
+  "name": "What are the advantages of buying a tiny home shell versus a completed tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of buying a tiny home shell versus a completed tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opting for a tiny home shell offers significant cost savings on labor, as you handle the interior finishes. This approach also provides greater flexibility for customization, allowing you to design the internal layout, choose materials, and install systems precisely to your preferences. It's ideal for those with DIY skills or who wish to be deeply involved in the creation of their home. However, it requires a greater time commitment and understanding of construction processes.",
+        "@type": "Answer",
+        "description": "A tiny home shell saves labor costs and offers custom interior design flexibility, but requires more time and DIY effort than a completed home."
+      }
+    }
+  ],
+  "description": "A tiny home shell saves labor costs and offers custom interior design flexibility, but requires more time and DIY effort than a completed home."
 }

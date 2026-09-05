@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to place a tiny home on my property in Vista?",
-  "description": "Yes, permits are typically required for tiny homes used as dwellings in Vista. Requirements depend on classification, foundation, and utility connections.",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-place-a-tiny-home-on-my-property-in-vista",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to place a tiny home on my property in Vista?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, generally you will need a permit to place a tiny home on your property in Vista, especially if it will be used as a permanent dwelling. The specific type of permit depends on whether the tiny home is considered a permanent structure, an Accessory Dwelling Unit (ADU), or a recreational vehicle. Factors like foundation, utility connections, and duration of placement influence the requirements. It's essential to consult with the City of Vista's planning department to understand the zoning ordinances and building codes applicable to your specific project and property.",
-        "description": "Yes, permits are typically required for tiny homes used as dwellings in Vista. Requirements depend on classification, foundation, and utility connections."
-      }
-    }
-  ],
+  "name": "Do I need a permit to place a tiny home on my property in Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to place a tiny home on my property in Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, generally you will need a permit to place a tiny home on your property in Vista, especially if it will be used as a permanent dwelling. The specific type of permit depends on whether the tiny home is considered a permanent structure, an Accessory Dwelling Unit (ADU), or a recreational vehicle. Factors like foundation, utility connections, and duration of placement influence the requirements. It's essential to consult with the City of Vista's planning department to understand the zoning ordinances and building codes applicable to your specific project and property.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for tiny homes used as dwellings in Vista. Requirements depend on classification, foundation, and utility connections."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for tiny homes used as dwellings in Vista. Requirements depend on classification, foundation, and utility connections."
 }

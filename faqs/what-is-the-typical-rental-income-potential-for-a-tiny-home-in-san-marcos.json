@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical rental income potential for a tiny home in San Marcos?",
-  "description": "Rental income for a tiny home in San Marcos typically ranges from $1,500 to $2,500+ per month, depending on size, amenities, and market demand.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-rental-income-potential-for-a-tiny-home-in-san-marcos",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical rental income potential for a tiny home in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The rental income potential for a tiny home in San Marcos varies based on factors like size, amenities, location within San Marcos, and current market demand for rental units. Generally, a well-designed and located rental-unit tiny home can generate significant income, often ranging from $1,500 to $2,500 per month, or potentially more for premium units or short-term rentals, assuming local regulations allow. Researching comparable rental listings in your specific San Marcos neighborhood can provide a more precise estimate of potential earnings. Zen Tiny Homes can discuss design choices that enhance rental appeal.",
-        "description": "Rental income for a tiny home in San Marcos typically ranges from $1,500 to $2,500+ per month, depending on size, amenities, and market demand."
-      }
-    }
-  ],
+  "name": "What is the typical rental income potential for a tiny home in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical rental income potential for a tiny home in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rental income potential for a tiny home in San Marcos varies based on factors like size, amenities, location within San Marcos, and current market demand for rental units. Generally, a well-designed and located rental-unit tiny home can generate significant income, often ranging from $1,500 to $2,500 per month, or potentially more for premium units or short-term rentals, assuming local regulations allow. Researching comparable rental listings in your specific San Marcos neighborhood can provide a more precise estimate of potential earnings. Zen Tiny Homes can discuss design choices that enhance rental appeal.",
+        "@type": "Answer",
+        "description": "Rental income for a tiny home in San Marcos typically ranges from $1,500 to $2,500+ per month, depending on size, amenities, and market demand."
+      }
+    }
+  ],
+  "description": "Rental income for a tiny home in San Marcos typically ranges from $1,500 to $2,500+ per month, depending on size, amenities, and market demand."
 }

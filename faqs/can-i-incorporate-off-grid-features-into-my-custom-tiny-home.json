@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I incorporate off-grid features into my custom tiny home?",
-  "description": "Yes, off-grid features like solar panels, composting toilets, and rainwater harvesting can be incorporated for self-sufficiency.",
   "url": "www.zentinyhomes.com/faq/can-i-incorporate-off-grid-features-into-my-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I incorporate off-grid features into my custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many clients choose to integrate off-grid capabilities into their custom tiny homes for increased self-sufficiency and reduced utility costs. Popular off-grid features include solar panel systems for electricity, composting toilets, rainwater harvesting systems, and greywater recycling. When designing, we discuss your energy consumption goals and water needs to select appropriate systems and ensure they are seamlessly integrated into the home's design and plumbing. These features require careful planning to optimize performance and adhere to any relevant local guidelines.",
-        "description": "Yes, off-grid features like solar panels, composting toilets, and rainwater harvesting can be incorporated for self-sufficiency."
-      }
-    }
-  ],
+  "name": "Can I incorporate off-grid features into my custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate off-grid features into my custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many clients choose to integrate off-grid capabilities into their custom tiny homes for increased self-sufficiency and reduced utility costs. Popular off-grid features include solar panel systems for electricity, composting toilets, rainwater harvesting systems, and greywater recycling. When designing, we discuss your energy consumption goals and water needs to select appropriate systems and ensure they are seamlessly integrated into the home's design and plumbing. These features require careful planning to optimize performance and adhere to any relevant local guidelines.",
+        "@type": "Answer",
+        "description": "Yes, off-grid features like solar panels, composting toilets, and rainwater harvesting can be incorporated for self-sufficiency."
+      }
+    }
+  ],
+  "description": "Yes, off-grid features like solar panels, composting toilets, and rainwater harvesting can be incorporated for self-sufficiency."
 }

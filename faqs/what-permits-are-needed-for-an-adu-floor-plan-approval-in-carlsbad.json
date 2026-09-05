@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are needed for an ADU floor plan approval in Carlsbad?",
-  "description": "In Carlsbad, ADU floor plan approval usually requires a building permit, covering structural, electrical, plumbing, and mechanical aspects. Other permits may be",
   "url": "www.zentinyhomes.com/faq/what-permits-are-needed-for-an-adu-floor-plan-approval-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are needed for an ADU floor plan approval in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For ADU floor plan approval in Carlsbad, you typically need to obtain several permits, including a building permit, which encompasses structural, electrical, plumbing, and mechanical approvals. Depending on the project, you might also need a grading permit if significant earthwork is involved, or a discretionary permit if your project requires specific waivers or exceeds standard development guidelines. Zen Tiny Homes assists with navigating the Carlsbad permitting process, ensuring your chosen ADU floor plan complies with all city ordinances and state ADU laws.",
-        "description": "In Carlsbad, ADU floor plan approval usually requires a building permit, covering structural, electrical, plumbing, and mechanical aspects. Other permits may be needed for grading or specific waivers."
-      }
-    }
-  ],
+  "name": "What permits are needed for an ADU floor plan approval in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for an ADU floor plan approval in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For ADU floor plan approval in Carlsbad, you typically need to obtain several permits, including a building permit, which encompasses structural, electrical, plumbing, and mechanical approvals. Depending on the project, you might also need a grading permit if significant earthwork is involved, or a discretionary permit if your project requires specific waivers or exceeds standard development guidelines. Zen Tiny Homes assists with navigating the Carlsbad permitting process, ensuring your chosen ADU floor plan complies with all city ordinances and state ADU laws.",
+        "@type": "Answer",
+        "description": "In Carlsbad, ADU floor plan approval usually requires a building permit, covering structural, electrical, plumbing, and mechanical aspects. Other permits may be needed for grading or specific waivers."
+      }
+    }
+  ],
+  "description": "In Carlsbad, ADU floor plan approval usually requires a building permit, covering structural, electrical, plumbing, and mechanical aspects. Other permits may be"
 }

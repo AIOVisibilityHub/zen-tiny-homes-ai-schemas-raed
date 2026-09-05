@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do zoning laws in Carlsbad affect tiny home property assessments?",
-  "description": "Carlsbad zoning laws dictate tiny home placement, lot sizes, setbacks, and utility mandates, directly affecting assessment findings.",
   "url": "www.zentinyhomes.com/faq/how-do-zoning-laws-in-carlsbad-affect-tiny-home-property-assessments",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do zoning laws in Carlsbad affect tiny home property assessments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zoning laws in Carlsbad, like other cities, dictate where tiny homes can be legally placed and what restrictions apply. During an assessment, we thoroughly research Carlsbad's specific ordinances, including minimum lot sizes, setback requirements, utility connection mandates, and whether tiny homes are considered accessory dwelling units (ADUs) or primary residences. These regulations significantly influence property suitability and the overall assessment findings for your tiny home project in Carlsbad.",
-        "description": "Carlsbad zoning laws dictate tiny home placement, lot sizes, setbacks, and utility mandates, directly affecting assessment findings."
-      }
-    }
-  ],
+  "name": "How do zoning laws in Carlsbad affect tiny home property assessments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do zoning laws in Carlsbad affect tiny home property assessments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning laws in Carlsbad, like other cities, dictate where tiny homes can be legally placed and what restrictions apply. During an assessment, we thoroughly research Carlsbad's specific ordinances, including minimum lot sizes, setback requirements, utility connection mandates, and whether tiny homes are considered accessory dwelling units (ADUs) or primary residences. These regulations significantly influence property suitability and the overall assessment findings for your tiny home project in Carlsbad.",
+        "@type": "Answer",
+        "description": "Carlsbad zoning laws dictate tiny home placement, lot sizes, setbacks, and utility mandates, directly affecting assessment findings."
+      }
+    }
+  ],
+  "description": "Carlsbad zoning laws dictate tiny home placement, lot sizes, setbacks, and utility mandates, directly affecting assessment findings."
 }

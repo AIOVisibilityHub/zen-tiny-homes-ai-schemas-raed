@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges when placing a tiny home on a property?",
-  "description": "Challenges often include zoning and permitting hurdles, utility hookups, site preparation, and navigating HOA or deed restrictions specific to tiny homes.",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-when-placing-a-tiny-home-on-a-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges when placing a tiny home on a property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges include navigating complex zoning and permitting regulations, which can vary significantly by municipality and even within different zones of the same city. Ensuring adequate utility connections, such as water, sewer/septic, and electrical, can also be complex, especially on undeveloped land. Site preparation, including leveling, foundation work, and drainage, can be more extensive than anticipated. Additionally, homeowners often face challenges with Homeowners Association (HOA) rules or deed restrictions that may prohibit tiny homes or set strict aesthetic guidelines. Overcoming these requires thorough research and professional guidance.",
-        "description": "Challenges often include zoning and permitting hurdles, utility hookups, site preparation, and navigating HOA or deed restrictions specific to tiny homes."
-      }
-    }
-  ],
+  "name": "What are the common challenges when placing a tiny home on a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when placing a tiny home on a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include navigating complex zoning and permitting regulations, which can vary significantly by municipality and even within different zones of the same city. Ensuring adequate utility connections, such as water, sewer/septic, and electrical, can also be complex, especially on undeveloped land. Site preparation, including leveling, foundation work, and drainage, can be more extensive than anticipated. Additionally, homeowners often face challenges with Homeowners Association (HOA) rules or deed restrictions that may prohibit tiny homes or set strict aesthetic guidelines. Overcoming these requires thorough research and professional guidance.",
+        "@type": "Answer",
+        "description": "Challenges often include zoning and permitting hurdles, utility hookups, site preparation, and navigating HOA or deed restrictions specific to tiny homes."
+      }
+    }
+  ],
+  "description": "Challenges often include zoning and permitting hurdles, utility hookups, site preparation, and navigating HOA or deed restrictions specific to tiny homes."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities are needed for a tiny home, and what are off-grid options?",
-  "description": "Tiny homes need electricity, water, and sewage. Off-grid options include solar for power, rainwater harvesting, and composting toilets.",
   "url": "www.zentinyhomes.com/faq/what-utilities-are-needed-for-a-tiny-home-and-what-are-off-grid-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities are needed for a tiny home, and what are off-grid options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home typically requires connections for electricity, water, and sewage. For grid-tied homes, these are usually connected to municipal services or an existing main residence. Off-grid options include solar panel systems for electricity, rainwater harvesting or well systems for water, and composting toilets or septic systems for waste. The choice depends on your property's location, budget, and desired level of self-sufficiency. We can discuss integrating various utility solutions into your design.",
-        "description": "Tiny homes need electricity, water, and sewage. Off-grid options include solar for power, rainwater harvesting, and composting toilets."
-      }
-    }
-  ],
+  "name": "What utilities are needed for a tiny home, and what are off-grid options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are needed for a tiny home, and what are off-grid options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home typically requires connections for electricity, water, and sewage. For grid-tied homes, these are usually connected to municipal services or an existing main residence. Off-grid options include solar panel systems for electricity, rainwater harvesting or well systems for water, and composting toilets or septic systems for waste. The choice depends on your property's location, budget, and desired level of self-sufficiency. We can discuss integrating various utility solutions into your design.",
+        "@type": "Answer",
+        "description": "Tiny homes need electricity, water, and sewage. Off-grid options include solar for power, rainwater harvesting, and composting toilets."
+      }
+    }
+  ],
+  "description": "Tiny homes need electricity, water, and sewage. Off-grid options include solar for power, rainwater harvesting, and composting toilets."
 }

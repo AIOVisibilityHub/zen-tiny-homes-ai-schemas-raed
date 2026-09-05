@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of a custom floor plan for a tiny home?",
-  "description": "Benefits include maximized space, optimized flow for your routines, and integration of unique features, resulting in a perfectly tailored and efficient living e",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-a-custom-floor-plan-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of a custom floor plan for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The primary benefits of a custom floor plan include maximizing usable space, optimizing flow for your specific daily routines, and integrating unique features that enhance your comfort and functionality. It ensures every square foot serves a purpose relevant to your lifestyle, preventing wasted space and creating a home that feels perfectly tailored. This personalized approach often leads to greater satisfaction and a more efficient living environment compared to standard layouts.",
-        "description": "Benefits include maximized space, optimized flow for your routines, and integration of unique features, resulting in a perfectly tailored and efficient living environment."
-      }
-    }
-  ],
+  "name": "What are the benefits of a custom floor plan for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a custom floor plan for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary benefits of a custom floor plan include maximizing usable space, optimizing flow for your specific daily routines, and integrating unique features that enhance your comfort and functionality. It ensures every square foot serves a purpose relevant to your lifestyle, preventing wasted space and creating a home that feels perfectly tailored. This personalized approach often leads to greater satisfaction and a more efficient living environment compared to standard layouts.",
+        "@type": "Answer",
+        "description": "Benefits include maximized space, optimized flow for your routines, and integration of unique features, resulting in a perfectly tailored and efficient living environment."
+      }
+    }
+  ],
+  "description": "Benefits include maximized space, optimized flow for your routines, and integration of unique features, resulting in a perfectly tailored and efficient living e"
 }

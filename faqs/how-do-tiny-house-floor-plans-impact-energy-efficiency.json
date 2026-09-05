@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do tiny house floor plans impact energy efficiency?",
-  "description": "Tiny house floor plans impact energy efficiency through strategic window placement for natural light, effective ventilation, and compact designs that reduce hea",
   "url": "www.zentinyhomes.com/faq/how-do-tiny-house-floor-plans-impact-energy-efficiency",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do tiny house floor plans impact energy efficiency?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny house floor plans significantly impact energy efficiency by influencing insulation, natural light, and ventilation. Well-designed layouts can maximize passive solar gain with strategic window placement, reducing heating needs in winter. Conversely, proper shading elements and cross-ventilation strategies can keep the home cool in warmer climates, lessening the reliance on air conditioning. Compact designs with fewer exterior walls per square foot also inherently reduce heat loss or gain. Optimized floor plans can integrate space for efficient appliances and ensure tight building envelopes, leading to lower utility bills and a smaller carbon footprint.",
-        "description": "Tiny house floor plans impact energy efficiency through strategic window placement for natural light, effective ventilation, and compact designs that reduce heat loss or gain."
-      }
-    }
-  ],
+  "name": "How do tiny house floor plans impact energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do tiny house floor plans impact energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny house floor plans significantly impact energy efficiency by influencing insulation, natural light, and ventilation. Well-designed layouts can maximize passive solar gain with strategic window placement, reducing heating needs in winter. Conversely, proper shading elements and cross-ventilation strategies can keep the home cool in warmer climates, lessening the reliance on air conditioning. Compact designs with fewer exterior walls per square foot also inherently reduce heat loss or gain. Optimized floor plans can integrate space for efficient appliances and ensure tight building envelopes, leading to lower utility bills and a smaller carbon footprint.",
+        "@type": "Answer",
+        "description": "Tiny house floor plans impact energy efficiency through strategic window placement for natural light, effective ventilation, and compact designs that reduce heat loss or gain."
+      }
+    }
+  ],
+  "description": "Tiny house floor plans impact energy efficiency through strategic window placement for natural light, effective ventilation, and compact designs that reduce hea"
 }

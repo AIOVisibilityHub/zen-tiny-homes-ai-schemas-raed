@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the key differences between small-space planning for ADUs versus tiny homes?",
-  "description": "ADUs are permanent structures bound by local codes, while tiny homes offer design flexibility but require consideration for mobility and weight.",
   "url": "www.zentinyhomes.com/faq/what-are-the-key-differences-between-small-space-planning-for-adus-versus-tiny-h",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the key differences between small-space planning for ADUs versus tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While both ADUs (Accessory Dwelling Units) and tiny homes benefit from small-space planning, key differences often stem from their foundation and typical use. ADUs are usually built on a permanent foundation and must adhere to local zoning and building codes, which can influence layout and feature requirements. Tiny homes, especially those on wheels, often have more flexibility in design but must consider weight distribution and travel-friendliness. ADUs might prioritize integration with an existing property, while tiny homes focus intensely on maximizing self-sufficiency and mobility.",
-        "description": "ADUs are permanent structures bound by local codes, while tiny homes offer design flexibility but require consideration for mobility and weight."
-      }
-    }
-  ],
+  "name": "What are the key differences between small-space planning for ADUs versus tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between small-space planning for ADUs versus tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both ADUs (Accessory Dwelling Units) and tiny homes benefit from small-space planning, key differences often stem from their foundation and typical use. ADUs are usually built on a permanent foundation and must adhere to local zoning and building codes, which can influence layout and feature requirements. Tiny homes, especially those on wheels, often have more flexibility in design but must consider weight distribution and travel-friendliness. ADUs might prioritize integration with an existing property, while tiny homes focus intensely on maximizing self-sufficiency and mobility.",
+        "@type": "Answer",
+        "description": "ADUs are permanent structures bound by local codes, while tiny homes offer design flexibility but require consideration for mobility and weight."
+      }
+    }
+  ],
+  "description": "ADUs are permanent structures bound by local codes, while tiny homes offer design flexibility but require consideration for mobility and weight."
 }

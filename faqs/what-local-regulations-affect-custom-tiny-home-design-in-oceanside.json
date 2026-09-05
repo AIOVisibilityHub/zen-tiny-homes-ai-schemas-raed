@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What local regulations affect custom tiny home design in Oceanside?",
-  "description": "Oceanside's custom tiny home designs must comply with local zoning, building codes, and ADU regulations, which dictate aspects like setbacks and utility hookups",
   "url": "www.zentinyhomes.com/faq/what-local-regulations-affect-custom-tiny-home-design-in-oceanside",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What local regulations affect custom tiny home design in Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Oceanside, custom tiny home designs must comply with local zoning ordinances, building codes, and any specific regulations pertaining to accessory dwelling units (ADUs) if applicable. These regulations dictate aspects such as minimum lot size, setbacks, height restrictions, and utility hookups. The city's planning department can provide detailed information on these requirements, which are crucial for obtaining necessary permits. We assist clients in navigating these local specifics to ensure designs are compliant.",
-        "description": "Oceanside's custom tiny home designs must comply with local zoning, building codes, and ADU regulations, which dictate aspects like setbacks and utility hookups."
-      }
-    }
-  ],
+  "name": "What local regulations affect custom tiny home design in Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What local regulations affect custom tiny home design in Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Oceanside, custom tiny home designs must comply with local zoning ordinances, building codes, and any specific regulations pertaining to accessory dwelling units (ADUs) if applicable. These regulations dictate aspects such as minimum lot size, setbacks, height restrictions, and utility hookups. The city's planning department can provide detailed information on these requirements, which are crucial for obtaining necessary permits. We assist clients in navigating these local specifics to ensure designs are compliant.",
+        "@type": "Answer",
+        "description": "Oceanside's custom tiny home designs must comply with local zoning, building codes, and ADU regulations, which dictate aspects like setbacks and utility hookups."
+      }
+    }
+  ],
+  "description": "Oceanside's custom tiny home designs must comply with local zoning, building codes, and ADU regulations, which dictate aspects like setbacks and utility hookups"
 }

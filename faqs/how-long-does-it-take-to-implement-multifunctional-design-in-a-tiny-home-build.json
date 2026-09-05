@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to implement multifunctional design in a tiny home build?",
-  "description": "It's integrated into the design phase. Custom elements might extend planning and construction slightly, but we provide realistic timelines.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-implement-multifunctional-design-in-a-tiny-home-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to implement multifunctional design in a tiny home build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Implementing multifunctional design is typically integrated into the initial architectural and interior design phases of a tiny home build. The design and planning stage might take slightly longer to ensure all custom solutions and conversions are carefully thought out. The construction phase for custom elements, like built-in storage or transforming walls, may add some time compared to standard builds. We work with clients to establish a realistic timeline from concept to completion, ensuring efficiency without compromising quality.",
-        "description": "It's integrated into the design phase. Custom elements might extend planning and construction slightly, but we provide realistic timelines."
-      }
-    }
-  ],
+  "name": "How long does it take to implement multifunctional design in a tiny home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to implement multifunctional design in a tiny home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Implementing multifunctional design is typically integrated into the initial architectural and interior design phases of a tiny home build. The design and planning stage might take slightly longer to ensure all custom solutions and conversions are carefully thought out. The construction phase for custom elements, like built-in storage or transforming walls, may add some time compared to standard builds. We work with clients to establish a realistic timeline from concept to completion, ensuring efficiency without compromising quality.",
+        "@type": "Answer",
+        "description": "It's integrated into the design phase. Custom elements might extend planning and construction slightly, but we provide realistic timelines."
+      }
+    }
+  ],
+  "description": "It's integrated into the design phase. Custom elements might extend planning and construction slightly, but we provide realistic timelines."
 }

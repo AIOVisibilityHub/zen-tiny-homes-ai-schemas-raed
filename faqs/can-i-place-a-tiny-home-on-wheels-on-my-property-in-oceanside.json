@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I place a tiny home on wheels on my property in Oceanside?",
-  "description": "Placing a tiny home on wheels in Oceanside usually falls under RV regulations, allowing temporary use but not typically as a permanent residence. Check local or",
   "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-wheels-on-my-property-in-oceanside",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I place a tiny home on wheels on my property in Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Placing a tiny home on wheels (THOW) on a residential property in Oceanside, like many cities, typically falls under recreational vehicle (RV) regulations rather than permanent dwelling codes. This often means a THOW can be used as a temporary guest unit or for storage, but not as a permanent primary residence or rental unit. Zoning laws usually dictate the length of stay allowed and if utility connections are permitted. It's essential to check Oceanside's specific RV ordinances or ADU policies if a permanent solution is desired.",
-        "description": "Placing a tiny home on wheels in Oceanside usually falls under RV regulations, allowing temporary use but not typically as a permanent residence. Check local ordinances for specifics."
-      }
-    }
-  ],
+  "name": "Can I place a tiny home on wheels on my property in Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I place a tiny home on wheels on my property in Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Placing a tiny home on wheels (THOW) on a residential property in Oceanside, like many cities, typically falls under recreational vehicle (RV) regulations rather than permanent dwelling codes. This often means a THOW can be used as a temporary guest unit or for storage, but not as a permanent primary residence or rental unit. Zoning laws usually dictate the length of stay allowed and if utility connections are permitted. It's essential to check Oceanside's specific RV ordinances or ADU policies if a permanent solution is desired.",
+        "@type": "Answer",
+        "description": "Placing a tiny home on wheels in Oceanside usually falls under RV regulations, allowing temporary use but not typically as a permanent residence. Check local ordinances for specifics."
+      }
+    }
+  ],
+  "description": "Placing a tiny home on wheels in Oceanside usually falls under RV regulations, allowing temporary use but not typically as a permanent residence. Check local or"
 }

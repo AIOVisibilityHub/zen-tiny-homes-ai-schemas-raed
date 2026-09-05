@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do one-bedroom ADU floor plans differ from studio ADU floor plans?",
-  "description": "One-bedroom ADUs have a separate bedroom for privacy, while studio ADUs combine living spaces into one open room. Studios are typically more compact.",
   "url": "www.zentinyhomes.com/faq/how-do-one-bedroom-adu-floor-plans-differ-from-studio-adu-floor-plans",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do one-bedroom ADU floor plans differ from studio ADU floor plans?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "One-bedroom ADU floor plans include a separate, enclosed bedroom, offering more privacy and a distinct sleeping area. Studio ADU floor plans, conversely, combine the sleeping, living, and kitchen areas into a single open space, often with a separate bathroom. Studios are generally more compact and cost-effective to build, making them suitable for smaller lots or tighter budgets. One-bedroom units provide more defined living zones and can be preferable for longer-term rentals or family members needing more personal space.",
-        "description": "One-bedroom ADUs have a separate bedroom for privacy, while studio ADUs combine living spaces into one open room. Studios are typically more compact."
-      }
-    }
-  ],
+  "name": "How do one-bedroom ADU floor plans differ from studio ADU floor plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do one-bedroom ADU floor plans differ from studio ADU floor plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "One-bedroom ADU floor plans include a separate, enclosed bedroom, offering more privacy and a distinct sleeping area. Studio ADU floor plans, conversely, combine the sleeping, living, and kitchen areas into a single open space, often with a separate bathroom. Studios are generally more compact and cost-effective to build, making them suitable for smaller lots or tighter budgets. One-bedroom units provide more defined living zones and can be preferable for longer-term rentals or family members needing more personal space.",
+        "@type": "Answer",
+        "description": "One-bedroom ADUs have a separate bedroom for privacy, while studio ADUs combine living spaces into one open room. Studios are typically more compact."
+      }
+    }
+  ],
+  "description": "One-bedroom ADUs have a separate bedroom for privacy, while studio ADUs combine living spaces into one open room. Studios are typically more compact."
 }

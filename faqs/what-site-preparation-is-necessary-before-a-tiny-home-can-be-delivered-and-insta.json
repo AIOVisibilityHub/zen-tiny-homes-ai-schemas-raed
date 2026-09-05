@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What site preparation is necessary before a tiny home can be delivered and installed?",
-  "description": "Site preparation involves ensuring a level foundation and pre-installing utility connections like water, sewer, and electrical. We provide detailed guidance for",
   "url": "www.zentinyhomes.com/faq/what-site-preparation-is-necessary-before-a-tiny-home-can-be-delivered-and-insta",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What site preparation is necessary before a tiny home can be delivered and installed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before delivery and installation of your custom tiny home, proper site preparation is crucial. This typically involves ensuring a level foundation, which could be a concrete slab, pier, or skid foundation, depending on the home's design and local regulations. Utility connections, such as water, sewer/septic, and electrical, must also be pre-installed and accessible at the site. We provide detailed guidance on site preparation requirements specific to your chosen home design and location.",
-        "description": "Site preparation involves ensuring a level foundation and pre-installing utility connections like water, sewer, and electrical. We provide detailed guidance for your specific home and location."
-      }
-    }
-  ],
+  "name": "What site preparation is necessary before a tiny home can be delivered and installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What site preparation is necessary before a tiny home can be delivered and installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before delivery and installation of your custom tiny home, proper site preparation is crucial. This typically involves ensuring a level foundation, which could be a concrete slab, pier, or skid foundation, depending on the home's design and local regulations. Utility connections, such as water, sewer/septic, and electrical, must also be pre-installed and accessible at the site. We provide detailed guidance on site preparation requirements specific to your chosen home design and location.",
+        "@type": "Answer",
+        "description": "Site preparation involves ensuring a level foundation and pre-installing utility connections like water, sewer, and electrical. We provide detailed guidance for your specific home and location."
+      }
+    }
+  ],
+  "description": "Site preparation involves ensuring a level foundation and pre-installing utility connections like water, sewer, and electrical. We provide detailed guidance for"
 }

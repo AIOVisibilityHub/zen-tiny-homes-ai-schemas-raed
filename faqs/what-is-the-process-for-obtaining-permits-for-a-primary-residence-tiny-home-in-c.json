@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for obtaining permits for a primary-residence tiny home in Carlsbad?",
-  "description": "Permit acquisition in Carlsbad for a primary-residence tiny home involves submitting plans to the Planning Department to ensure compliance with local zoning and",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-obtaining-permits-for-a-primary-residence-tiny-home-in-c",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for obtaining permits for a primary-residence tiny home in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Obtaining permits for a primary-residence tiny home in Carlsbad involves several steps. You will typically need to submit detailed plans to the City of Carlsbad Planning Department to ensure compliance with zoning ordinances, setback requirements, and building codes. This often includes architectural drawings, site plans, and engineering specifications. Depending on the project, you may also need permits for grading, plumbing, electrical, and mechanical work. Zen Tiny Homes can guide you through the local permitting process to help ensure all necessary approvals are secured.",
-        "description": "Permit acquisition in Carlsbad for a primary-residence tiny home involves submitting plans to the Planning Department to ensure compliance with local zoning and building codes."
-      }
-    }
-  ],
+  "name": "What is the process for obtaining permits for a primary-residence tiny home in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for obtaining permits for a primary-residence tiny home in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Obtaining permits for a primary-residence tiny home in Carlsbad involves several steps. You will typically need to submit detailed plans to the City of Carlsbad Planning Department to ensure compliance with zoning ordinances, setback requirements, and building codes. This often includes architectural drawings, site plans, and engineering specifications. Depending on the project, you may also need permits for grading, plumbing, electrical, and mechanical work. Zen Tiny Homes can guide you through the local permitting process to help ensure all necessary approvals are secured.",
+        "@type": "Answer",
+        "description": "Permit acquisition in Carlsbad for a primary-residence tiny home involves submitting plans to the Planning Department to ensure compliance with local zoning and building codes."
+      }
+    }
+  ],
+  "description": "Permit acquisition in Carlsbad for a primary-residence tiny home involves submitting plans to the Planning Department to ensure compliance with local zoning and"
 }

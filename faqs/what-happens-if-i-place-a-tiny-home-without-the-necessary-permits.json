@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if I place a tiny home without the necessary permits?",
-  "description": "Placing a tiny home without permits can result in stop-work orders, fines, removal orders, and more complicated retroactive permitting processes.",
   "url": "www.zentinyhomes.com/faq/what-happens-if-i-place-a-tiny-home-without-the-necessary-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens if I place a tiny home without the necessary permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Placing a tiny home without the necessary permits can lead to significant issues. Local authorities can issue stop-work orders, requiring you to cease all construction or occupancy. You may face substantial fines and penalties for non-compliance. In severe cases, the city or county could order the removal of the tiny home from your property. Additionally, obtaining permits retroactively can be more complex, time-consuming, and expensive than applying for them correctly from the outset. It's always recommended to secure all required permits before starting any placement or construction.",
-        "description": "Placing a tiny home without permits can result in stop-work orders, fines, removal orders, and more complicated retroactive permitting processes."
-      }
-    }
-  ],
+  "name": "What happens if I place a tiny home without the necessary permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I place a tiny home without the necessary permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Placing a tiny home without the necessary permits can lead to significant issues. Local authorities can issue stop-work orders, requiring you to cease all construction or occupancy. You may face substantial fines and penalties for non-compliance. In severe cases, the city or county could order the removal of the tiny home from your property. Additionally, obtaining permits retroactively can be more complex, time-consuming, and expensive than applying for them correctly from the outset. It's always recommended to secure all required permits before starting any placement or construction.",
+        "@type": "Answer",
+        "description": "Placing a tiny home without permits can result in stop-work orders, fines, removal orders, and more complicated retroactive permitting processes."
+      }
+    }
+  ],
+  "description": "Placing a tiny home without permits can result in stop-work orders, fines, removal orders, and more complicated retroactive permitting processes."
 }

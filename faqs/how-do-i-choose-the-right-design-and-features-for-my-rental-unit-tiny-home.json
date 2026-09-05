@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right design and features for my rental-unit tiny home?",
-  "description": "Choose a rental-unit tiny home design based on budget, tenant type, property specifics, desired amenities, and aesthetic appeal to maximize rental potential.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-design-and-features-for-my-rental-unit-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right design and features for my rental-unit tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right design and features for your rental-unit tiny home involves considering your budget, the intended use (long-term vs. short-term rental), target tenants, and the specifics of your property. Think about the desired number of bedrooms/bathrooms, kitchen amenities, and built-in storage solutions. Consider natural light, energy efficiency, and aesthetic appeal to attract renters. It's helpful to review various floor plans and material options. Zen Tiny Homes offers design consultations to help you select layouts and finishes that maximize rental potential and integrate seamlessly with your existing property.",
-        "description": "Choose a rental-unit tiny home design based on budget, tenant type, property specifics, desired amenities, and aesthetic appeal to maximize rental potential."
-      }
-    }
-  ],
+  "name": "How do I choose the right design and features for my rental-unit tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right design and features for my rental-unit tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right design and features for your rental-unit tiny home involves considering your budget, the intended use (long-term vs. short-term rental), target tenants, and the specifics of your property. Think about the desired number of bedrooms/bathrooms, kitchen amenities, and built-in storage solutions. Consider natural light, energy efficiency, and aesthetic appeal to attract renters. It's helpful to review various floor plans and material options. Zen Tiny Homes offers design consultations to help you select layouts and finishes that maximize rental potential and integrate seamlessly with your existing property.",
+        "@type": "Answer",
+        "description": "Choose a rental-unit tiny home design based on budget, tenant type, property specifics, desired amenities, and aesthetic appeal to maximize rental potential."
+      }
+    }
+  ],
+  "description": "Choose a rental-unit tiny home design based on budget, tenant type, property specifics, desired amenities, and aesthetic appeal to maximize rental potential."
 }

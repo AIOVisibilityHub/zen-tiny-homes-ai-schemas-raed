@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of utilities are needed for a guest home?",
-  "description": "Guest homes need separate or sub-metered connections for electricity, water, and sewer/septic. Natural gas may also be required for certain appliances.",
   "url": "www.zentinyhomes.com/faq/what-types-of-utilities-are-needed-for-a-guest-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of utilities are needed for a guest home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A guest home requires independent connections or sub-metering for essential utilities, including electricity, water, and sewer or septic systems. Natural gas service might also be needed if you plan for gas appliances like a stove or water heater. These utilities must be properly connected to the main service lines of the primary residence or have their own dedicated connections, depending on local code and available infrastructure. Proper utility planning and installation are critical components of the construction process to ensure functionality and compliance.",
-        "description": "Guest homes need separate or sub-metered connections for electricity, water, and sewer/septic. Natural gas may also be required for certain appliances."
-      }
-    }
-  ],
+  "name": "What types of utilities are needed for a guest home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of utilities are needed for a guest home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A guest home requires independent connections or sub-metering for essential utilities, including electricity, water, and sewer or septic systems. Natural gas service might also be needed if you plan for gas appliances like a stove or water heater. These utilities must be properly connected to the main service lines of the primary residence or have their own dedicated connections, depending on local code and available infrastructure. Proper utility planning and installation are critical components of the construction process to ensure functionality and compliance.",
+        "@type": "Answer",
+        "description": "Guest homes need separate or sub-metered connections for electricity, water, and sewer/septic. Natural gas may also be required for certain appliances."
+      }
+    }
+  ],
+  "description": "Guest homes need separate or sub-metered connections for electricity, water, and sewer/septic. Natural gas may also be required for certain appliances."
 }

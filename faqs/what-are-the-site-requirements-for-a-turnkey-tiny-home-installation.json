@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the site requirements for a turnkey tiny home installation?",
-  "description": "Site requirements include level land, utility access (water, sewer, electricity), and compliance with local zoning and permits.",
   "url": "www.zentinyhomes.com/faq/what-are-the-site-requirements-for-a-turnkey-tiny-home-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the site requirements for a turnkey tiny home installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a turnkey tiny home installation, you will need a level piece of land that is accessible for delivery. The site typically requires utility connections for water, sewer or septic, and electricity. If off-grid living is desired, alternative systems like solar panels and composting toilets would be integrated. Proper zoning and permitting are also crucial, as regulations for tiny homes can vary by location. We can help guide you on specific site preparation needs.",
-        "description": "Site requirements include level land, utility access (water, sewer, electricity), and compliance with local zoning and permits."
-      }
-    }
-  ],
+  "name": "What are the site requirements for a turnkey tiny home installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the site requirements for a turnkey tiny home installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a turnkey tiny home installation, you will need a level piece of land that is accessible for delivery. The site typically requires utility connections for water, sewer or septic, and electricity. If off-grid living is desired, alternative systems like solar panels and composting toilets would be integrated. Proper zoning and permitting are also crucial, as regulations for tiny homes can vary by location. We can help guide you on specific site preparation needs.",
+        "@type": "Answer",
+        "description": "Site requirements include level land, utility access (water, sewer, electricity), and compliance with local zoning and permits."
+      }
+    }
+  ],
+  "description": "Site requirements include level land, utility access (water, sewer, electricity), and compliance with local zoning and permits."
 }

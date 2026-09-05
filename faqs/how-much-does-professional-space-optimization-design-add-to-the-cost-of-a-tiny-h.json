@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does professional space-optimization design add to the cost of a tiny home?",
-  "description": "The added cost for professional space-optimization design depends on customization, potentially adding hundreds to several thousand dollars to the overall tiny",
   "url": "www.zentinyhomes.com/faq/how-much-does-professional-space-optimization-design-add-to-the-cost-of-a-tiny-h",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does professional space-optimization design add to the cost of a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of professional space-optimization design varies depending on the complexity and extent of customization. While some integrated design elements are standard in our builds, highly customized multi-functional furniture, unique storage solutions, or specialized cabinetry will influence the overall project budget. It typically represents a percentage of the total construction cost, often ranging from a few hundred to several thousand dollars, ensuring long-term value through enhanced livability and efficiency.",
-        "description": "The added cost for professional space-optimization design depends on customization, potentially adding hundreds to several thousand dollars to the overall tiny home project."
-      }
-    }
-  ],
+  "name": "How much does professional space-optimization design add to the cost of a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional space-optimization design add to the cost of a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional space-optimization design varies depending on the complexity and extent of customization. While some integrated design elements are standard in our builds, highly customized multi-functional furniture, unique storage solutions, or specialized cabinetry will influence the overall project budget. It typically represents a percentage of the total construction cost, often ranging from a few hundred to several thousand dollars, ensuring long-term value through enhanced livability and efficiency.",
+        "@type": "Answer",
+        "description": "The added cost for professional space-optimization design depends on customization, potentially adding hundreds to several thousand dollars to the overall tiny home project."
+      }
+    }
+  ],
+  "description": "The added cost for professional space-optimization design depends on customization, potentially adding hundreds to several thousand dollars to the overall tiny"
 }

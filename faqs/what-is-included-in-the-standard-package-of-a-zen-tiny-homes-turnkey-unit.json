@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in the standard package of a Zen Tiny Homes turnkey unit?",
-  "description": "Our standard turnkey package includes a fully finished tiny home with essential kitchen, bathroom, and utility features for immediate move-in.",
   "url": "www.zentinyhomes.com/faq/what-is-included-in-the-standard-package-of-a-zen-tiny-homes-turnkey-unit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in the standard package of a Zen Tiny Homes turnkey unit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our standard turnkey package includes a fully finished tiny home with essential features for immediate move-in. This typically encompasses structural framing, exterior siding, roofing, interior walls, flooring, a complete kitchen (cabinets, countertops, sink, basic appliances), a full bathroom (toilet, shower, vanity), basic electrical wiring, plumbing, and insulation. Specific details may vary by model. Any upgrades or custom additions beyond the standard offerings are discussed during the design consultation.",
-        "description": "Our standard turnkey package includes a fully finished tiny home with essential kitchen, bathroom, and utility features for immediate move-in."
-      }
-    }
-  ],
+  "name": "What is included in the standard package of a Zen Tiny Homes turnkey unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in the standard package of a Zen Tiny Homes turnkey unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our standard turnkey package includes a fully finished tiny home with essential features for immediate move-in. This typically encompasses structural framing, exterior siding, roofing, interior walls, flooring, a complete kitchen (cabinets, countertops, sink, basic appliances), a full bathroom (toilet, shower, vanity), basic electrical wiring, plumbing, and insulation. Specific details may vary by model. Any upgrades or custom additions beyond the standard offerings are discussed during the design consultation.",
+        "@type": "Answer",
+        "description": "Our standard turnkey package includes a fully finished tiny home with essential kitchen, bathroom, and utility features for immediate move-in."
+      }
+    }
+  ],
+  "description": "Our standard turnkey package includes a fully finished tiny home with essential kitchen, bathroom, and utility features for immediate move-in."
 }

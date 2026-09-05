@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for a turnkey tiny home from Zen Tiny Homes?",
-  "description": "Turnkey tiny home costs vary based on size, design, materials, and features. A consultation is recommended for a personalized estimate.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-a-turnkey-tiny-home-from-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for a turnkey tiny home from Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a turnkey tiny home from Zen Tiny Homes varies significantly based on size, design complexity, material selections, and specific features requested. While we don't provide exact figures without a consultation, smaller, more basic models start at a certain price point, with larger or more custom designs increasing the investment. Factors like off-grid capabilities, premium finishes, and specific appliance packages will also influence the final cost. We recommend scheduling a consultation to discuss your vision and receive a personalized estimate.",
-        "description": "Turnkey tiny home costs vary based on size, design, materials, and features. A consultation is recommended for a personalized estimate."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for a turnkey tiny home from Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a turnkey tiny home from Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a turnkey tiny home from Zen Tiny Homes varies significantly based on size, design complexity, material selections, and specific features requested. While we don't provide exact figures without a consultation, smaller, more basic models start at a certain price point, with larger or more custom designs increasing the investment. Factors like off-grid capabilities, premium finishes, and specific appliance packages will also influence the final cost. We recommend scheduling a consultation to discuss your vision and receive a personalized estimate.",
+        "@type": "Answer",
+        "description": "Turnkey tiny home costs vary based on size, design, materials, and features. A consultation is recommended for a personalized estimate."
+      }
+    }
+  ],
+  "description": "Turnkey tiny home costs vary based on size, design, materials, and features. A consultation is recommended for a personalized estimate."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize an existing ADU floor plan, or do I need a fully custom design?",
-  "description": "You can often customize existing ADU floor plans, like adjusting rooms or windows. A fully custom design is for unique properties or specific needs.",
   "url": "www.zentinyhomes.com/faq/can-i-customize-an-existing-adu-floor-plan-or-do-i-need-a-fully-custom-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize an existing ADU floor plan, or do I need a fully custom design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can frequently customize existing ADU floor plans to better suit your needs and property. Modifications might include adjusting room dimensions, changing window placements, adding or removing a bathroom, or altering exterior finishes. Customization is often a balance between efficiency and personalization. A fully custom design is ideal if your property has unique constraints or if you have very specific architectural preferences that cannot be met with modifications. Zen Tiny Homes offers both options to ensure the ADU meets your vision.",
-        "description": "You can often customize existing ADU floor plans, like adjusting rooms or windows. A fully custom design is for unique properties or specific needs."
-      }
-    }
-  ],
+  "name": "Can I customize an existing ADU floor plan, or do I need a fully custom design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize an existing ADU floor plan, or do I need a fully custom design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can frequently customize existing ADU floor plans to better suit your needs and property. Modifications might include adjusting room dimensions, changing window placements, adding or removing a bathroom, or altering exterior finishes. Customization is often a balance between efficiency and personalization. A fully custom design is ideal if your property has unique constraints or if you have very specific architectural preferences that cannot be met with modifications. Zen Tiny Homes offers both options to ensure the ADU meets your vision.",
+        "@type": "Answer",
+        "description": "You can often customize existing ADU floor plans, like adjusting rooms or windows. A fully custom design is for unique properties or specific needs."
+      }
+    }
+  ],
+  "description": "You can often customize existing ADU floor plans, like adjusting rooms or windows. A fully custom design is for unique properties or specific needs."
 }

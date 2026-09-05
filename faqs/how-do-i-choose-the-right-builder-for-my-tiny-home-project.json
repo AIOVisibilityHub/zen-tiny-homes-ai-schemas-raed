@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right builder for my tiny home project?",
-  "description": "Choose a tiny home builder with specific experience, a strong portfolio, positive references, and clear communication. Ensure they understand local codes.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-builder-for-my-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right builder for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a tiny home builder, look for experience in tiny home construction specifically, as they differ from traditional builds. Review their portfolio to ensure their style aligns with your vision. Check references and read testimonials to gauge client satisfaction. It's crucial to find a builder with transparent communication, a clear contract, and a solid understanding of local zoning and building codes. Zen Tiny Homes emphasizes expertise in tiny home specifics and clear client collaboration.",
-        "description": "Choose a tiny home builder with specific experience, a strong portfolio, positive references, and clear communication. Ensure they understand local codes."
-      }
-    }
-  ],
+  "name": "How do I choose the right builder for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right builder for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a tiny home builder, look for experience in tiny home construction specifically, as they differ from traditional builds. Review their portfolio to ensure their style aligns with your vision. Check references and read testimonials to gauge client satisfaction. It's crucial to find a builder with transparent communication, a clear contract, and a solid understanding of local zoning and building codes. Zen Tiny Homes emphasizes expertise in tiny home specifics and clear client collaboration.",
+        "@type": "Answer",
+        "description": "Choose a tiny home builder with specific experience, a strong portfolio, positive references, and clear communication. Ensure they understand local codes."
+      }
+    }
+  ],
+  "description": "Choose a tiny home builder with specific experience, a strong portfolio, positive references, and clear communication. Ensure they understand local codes."
 }

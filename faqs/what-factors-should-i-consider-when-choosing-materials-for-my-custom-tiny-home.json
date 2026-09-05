@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing materials for my custom tiny home?",
-  "description": "When selecting tiny home materials, consider durability, weight, insulation, aesthetics, maintenance, and budget to ensure they meet your needs and climate.",
   "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-materials-for-my-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing materials for my custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing materials for your custom tiny home, consider durability, weight, insulation properties, aesthetic appeal, and maintenance requirements. Lightweight and durable materials are crucial for tiny homes on wheels, while energy efficiency is vital for all tiny homes. Think about sustainable options, local sourcing, and how materials will hold up to your specific climate. Budget also plays a significant role; balance cost with long-term performance and the overall feel you want to achieve for your space.",
-        "description": "When selecting tiny home materials, consider durability, weight, insulation, aesthetics, maintenance, and budget to ensure they meet your needs and climate."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing materials for my custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing materials for my custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing materials for your custom tiny home, consider durability, weight, insulation properties, aesthetic appeal, and maintenance requirements. Lightweight and durable materials are crucial for tiny homes on wheels, while energy efficiency is vital for all tiny homes. Think about sustainable options, local sourcing, and how materials will hold up to your specific climate. Budget also plays a significant role; balance cost with long-term performance and the overall feel you want to achieve for your space.",
+        "@type": "Answer",
+        "description": "When selecting tiny home materials, consider durability, weight, insulation, aesthetics, maintenance, and budget to ensure they meet your needs and climate."
+      }
+    }
+  ],
+  "description": "When selecting tiny home materials, consider durability, weight, insulation, aesthetics, maintenance, and budget to ensure they meet your needs and climate."
 }

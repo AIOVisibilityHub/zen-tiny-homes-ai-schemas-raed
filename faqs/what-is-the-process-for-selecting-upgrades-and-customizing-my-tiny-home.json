@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for selecting upgrades and customizing my tiny home?",
-  "description": "The process involves an initial consultation, design option presentation, material selection, final plan approval, and ongoing communication during construction",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-selecting-upgrades-and-customizing-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for selecting upgrades and customizing my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The customization process begins with an initial consultation where we discuss your vision, needs, and budget. Our design team will then present available options and materials, guiding you through choices for interior, exterior, and functional upgrades. You'll review design plans and material samples. Once selections are finalized and approved, these specifications are incorporated into your building contract. Throughout construction, we maintain open communication, ensuring your customized tiny home is built to your exact specifications.",
-        "description": "The process involves an initial consultation, design option presentation, material selection, final plan approval, and ongoing communication during construction."
-      }
-    }
-  ],
+  "name": "What is the process for selecting upgrades and customizing my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selecting upgrades and customizing my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The customization process begins with an initial consultation where we discuss your vision, needs, and budget. Our design team will then present available options and materials, guiding you through choices for interior, exterior, and functional upgrades. You'll review design plans and material samples. Once selections are finalized and approved, these specifications are incorporated into your building contract. Throughout construction, we maintain open communication, ensuring your customized tiny home is built to your exact specifications.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, design option presentation, material selection, final plan approval, and ongoing communication during construction."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, design option presentation, material selection, final plan approval, and ongoing communication during construction"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are important for multifunctional design in coastal areas like Carlsbad?",
-  "description": "In coastal areas like Carlsbad, key considerations include durable, moisture-resistant materials, maximizing natural light, and storage for outdoor gear.",
   "url": "www.zentinyhomes.com/faq/what-considerations-are-important-for-multifunctional-design-in-coastal-areas-li",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are important for multifunctional design in coastal areas like Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In coastal areas like Carlsbad, considerations for multifunctional design often include selecting durable, moisture-resistant materials to withstand humidity and salt air, particularly for outdoor or semi-outdoor transitions. Maximizing natural light and views is also key, so designs often incorporate large windows or versatile indoor-outdoor living spaces. Additionally, easy-to-clean surfaces and smart storage for beach gear can be integrated to align with a coastal lifestyle, ensuring functionality meets regional demands.",
-        "description": "In coastal areas like Carlsbad, key considerations include durable, moisture-resistant materials, maximizing natural light, and storage for outdoor gear."
-      }
-    }
-  ],
+  "name": "What considerations are important for multifunctional design in coastal areas like Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for multifunctional design in coastal areas like Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In coastal areas like Carlsbad, considerations for multifunctional design often include selecting durable, moisture-resistant materials to withstand humidity and salt air, particularly for outdoor or semi-outdoor transitions. Maximizing natural light and views is also key, so designs often incorporate large windows or versatile indoor-outdoor living spaces. Additionally, easy-to-clean surfaces and smart storage for beach gear can be integrated to align with a coastal lifestyle, ensuring functionality meets regional demands.",
+        "@type": "Answer",
+        "description": "In coastal areas like Carlsbad, key considerations include durable, moisture-resistant materials, maximizing natural light, and storage for outdoor gear."
+      }
+    }
+  ],
+  "description": "In coastal areas like Carlsbad, key considerations include durable, moisture-resistant materials, maximizing natural light, and storage for outdoor gear."
 }

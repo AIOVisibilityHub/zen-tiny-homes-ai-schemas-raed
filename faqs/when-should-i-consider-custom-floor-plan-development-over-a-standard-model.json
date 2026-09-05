@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider custom floor-plan development over a standard model?",
-  "description": "Consider custom development when standard models don't meet your unique functional needs, aesthetics, or site constraints.",
   "url": "www.zentinyhomes.com/faq/when-should-i-consider-custom-floor-plan-development-over-a-standard-model",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider custom floor-plan development over a standard model?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider custom floor-plan development when standard tiny home models don't fully meet your specific functional requirements, aesthetic desires, or site constraints. If you have unique lifestyle needs, specific accessibility concerns, a particular vision for your home's flow, or a challenging plot of land, a custom plan ensures your tiny home is designed from the ground up to perfectly accommodate these factors. It's an investment in a truly bespoke living space.",
-        "description": "Consider custom development when standard models don't meet your unique functional needs, aesthetics, or site constraints."
-      }
-    }
-  ],
+  "name": "When should I consider custom floor-plan development over a standard model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider custom floor-plan development over a standard model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider custom floor-plan development when standard tiny home models don't fully meet your specific functional requirements, aesthetic desires, or site constraints. If you have unique lifestyle needs, specific accessibility concerns, a particular vision for your home's flow, or a challenging plot of land, a custom plan ensures your tiny home is designed from the ground up to perfectly accommodate these factors. It's an investment in a truly bespoke living space.",
+        "@type": "Answer",
+        "description": "Consider custom development when standard models don't meet your unique functional needs, aesthetics, or site constraints."
+      }
+    }
+  ],
+  "description": "Consider custom development when standard models don't meet your unique functional needs, aesthetics, or site constraints."
 }

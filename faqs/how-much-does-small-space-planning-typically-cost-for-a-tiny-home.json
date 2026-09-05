@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does small-space planning typically cost for a tiny home?",
-  "description": "Costs for small-space planning vary from a few hundred to several thousand dollars, depending on design complexity and customization.",
   "url": "www.zentinyhomes.com/faq/how-much-does-small-space-planning-typically-cost-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does small-space planning typically cost for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for small-space planning varies significantly based on the complexity of the design, the extent of customization, and the professional fees of the designer or architect. Basic conceptual layouts might range from a few hundred dollars, while comprehensive design packages including detailed drawings, material selections, and project management support could cost several thousand. Investing in professional planning can prevent costly mistakes and ensure optimal use of your limited space, ultimately adding value to your tiny home project.",
-        "description": "Costs for small-space planning vary from a few hundred to several thousand dollars, depending on design complexity and customization."
-      }
-    }
-  ],
+  "name": "How much does small-space planning typically cost for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does small-space planning typically cost for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for small-space planning varies significantly based on the complexity of the design, the extent of customization, and the professional fees of the designer or architect. Basic conceptual layouts might range from a few hundred dollars, while comprehensive design packages including detailed drawings, material selections, and project management support could cost several thousand. Investing in professional planning can prevent costly mistakes and ensure optimal use of your limited space, ultimately adding value to your tiny home project.",
+        "@type": "Answer",
+        "description": "Costs for small-space planning vary from a few hundred to several thousand dollars, depending on design complexity and customization."
+      }
+    }
+  ],
+  "description": "Costs for small-space planning vary from a few hundred to several thousand dollars, depending on design complexity and customization."
 }

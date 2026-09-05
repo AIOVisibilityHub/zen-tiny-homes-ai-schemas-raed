@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for designing and building a foundation-based tiny home?",
-  "description": "The process involves consultation, design, permitting, site preparation, construction, and final inspections, with continuous communication.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-process-for-designing-and-building-a-foundation-based-tiny-h",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for designing and building a foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with an initial consultation to discuss your vision, budget, and site feasibility. Next, architectural plans are developed, incorporating your design preferences and ensuring compliance with local codes. Once plans are approved, we assist with permit applications. Site preparation follows, including foundation pouring and utility connections. The construction phase then commences, involving framing, roofing, interior finishes, and final inspections. Throughout the project, we maintain transparent communication and collaboration to bring your tiny home to life.",
-        "description": "The process involves consultation, design, permitting, site preparation, construction, and final inspections, with continuous communication."
-      }
-    }
-  ],
+  "name": "What is the typical process for designing and building a foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building a foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation to discuss your vision, budget, and site feasibility. Next, architectural plans are developed, incorporating your design preferences and ensuring compliance with local codes. Once plans are approved, we assist with permit applications. Site preparation follows, including foundation pouring and utility connections. The construction phase then commences, involving framing, roofing, interior finishes, and final inspections. Throughout the project, we maintain transparent communication and collaboration to bring your tiny home to life.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, site preparation, construction, and final inspections, with continuous communication."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, site preparation, construction, and final inspections, with continuous communication."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities are needed for a primary-residence tiny home?",
-  "description": "Primary-residence tiny homes require electricity, fresh water, and wastewater disposal, typically via municipal connections or a septic system.",
   "url": "www.zentinyhomes.com/faq/what-utilities-are-needed-for-a-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities are needed for a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A primary-residence tiny home requires standard utility connections to function as a permanent dwelling. This typically includes electricity, fresh water supply, and a wastewater disposal system. For wastewater, options usually involve connecting to a municipal sewer system or installing a septic system if city services are unavailable. Propane can be used for heating or cooking if natural gas is not accessible. Additionally, internet and telecommunications services are often desired. All connections must comply with local building and health codes.",
-        "description": "Primary-residence tiny homes require electricity, fresh water, and wastewater disposal, typically via municipal connections or a septic system."
-      }
-    }
-  ],
+  "name": "What utilities are needed for a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are needed for a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary-residence tiny home requires standard utility connections to function as a permanent dwelling. This typically includes electricity, fresh water supply, and a wastewater disposal system. For wastewater, options usually involve connecting to a municipal sewer system or installing a septic system if city services are unavailable. Propane can be used for heating or cooking if natural gas is not accessible. Additionally, internet and telecommunications services are often desired. All connections must comply with local building and health codes.",
+        "@type": "Answer",
+        "description": "Primary-residence tiny homes require electricity, fresh water, and wastewater disposal, typically via municipal connections or a septic system."
+      }
+    }
+  ],
+  "description": "Primary-residence tiny homes require electricity, fresh water, and wastewater disposal, typically via municipal connections or a septic system."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does custom floor-plan development differ from choosing a pre-designed plan?",
-  "description": "Custom floor plans offer complete personalization for your unique needs, while pre-designed plans are quicker and more cost-effective with limited customization",
   "url": "www.zentinyhomes.com/faq/how-does-custom-floor-plan-development-differ-from-choosing-a-pre-designed-plan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does custom floor-plan development differ from choosing a pre-designed plan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom floor-plan development offers complete personalization, allowing you to create a tiny home layout specifically tailored to your unique lifestyle, site conditions, and aesthetic preferences. Pre-designed plans, while often more cost-effective and quicker to implement, offer limited customization options. With a custom plan, you have control over every detail, from room dimensions to window placement, ensuring the final structure perfectly aligns with your vision. A pre-designed plan provides a faster start with a proven layout.",
-        "description": "Custom floor plans offer complete personalization for your unique needs, while pre-designed plans are quicker and more cost-effective with limited customization."
-      }
-    }
-  ],
+  "name": "How does custom floor-plan development differ from choosing a pre-designed plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does custom floor-plan development differ from choosing a pre-designed plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom floor-plan development offers complete personalization, allowing you to create a tiny home layout specifically tailored to your unique lifestyle, site conditions, and aesthetic preferences. Pre-designed plans, while often more cost-effective and quicker to implement, offer limited customization options. With a custom plan, you have control over every detail, from room dimensions to window placement, ensuring the final structure perfectly aligns with your vision. A pre-designed plan provides a faster start with a proven layout.",
+        "@type": "Answer",
+        "description": "Custom floor plans offer complete personalization for your unique needs, while pre-designed plans are quicker and more cost-effective with limited customization."
+      }
+    }
+  ],
+  "description": "Custom floor plans offer complete personalization for your unique needs, while pre-designed plans are quicker and more cost-effective with limited customization"
 }

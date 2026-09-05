@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is multigenerational living and how can it benefit my family?",
-  "description": "Multigenerational living is when multiple family generations live together, offering benefits like shared expenses, mutual support, and stronger family bonds.",
   "url": "www.zentinyhomes.com/faq/what-is-multigenerational-living-and-how-can-it-benefit-my-family",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is multigenerational living and how can it benefit my family?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multigenerational living involves multiple generations of a family living together in a single household or on the same property. This arrangement can offer shared living expenses, mutual support for childcare or elder care, and stronger family bonds. It allows families to pool resources, provide companionship, and maintain independence within a supportive environment. Benefits often include reduced housing costs, increased emotional support, and enhanced family cohesion through daily interaction.",
-        "description": "Multigenerational living is when multiple family generations live together, offering benefits like shared expenses, mutual support, and stronger family bonds."
-      }
-    }
-  ],
+  "name": "What is multigenerational living and how can it benefit my family?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is multigenerational living and how can it benefit my family?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multigenerational living involves multiple generations of a family living together in a single household or on the same property. This arrangement can offer shared living expenses, mutual support for childcare or elder care, and stronger family bonds. It allows families to pool resources, provide companionship, and maintain independence within a supportive environment. Benefits often include reduced housing costs, increased emotional support, and enhanced family cohesion through daily interaction.",
+        "@type": "Answer",
+        "description": "Multigenerational living is when multiple family generations live together, offering benefits like shared expenses, mutual support, and stronger family bonds."
+      }
+    }
+  ],
+  "description": "Multigenerational living is when multiple family generations live together, offering benefits like shared expenses, mutual support, and stronger family bonds."
 }

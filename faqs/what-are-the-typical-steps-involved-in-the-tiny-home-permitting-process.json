@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical steps involved in the tiny home permitting process?",
-  "description": "The process involves researching zoning, preparing and submitting detailed plans, obtaining permits, and undergoing inspections before final approval.",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-steps-involved-in-the-tiny-home-permitting-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical steps involved in the tiny home permitting process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The typical tiny home permitting process begins with researching local zoning ordinances to determine if a tiny home is allowed on your property and what type of structure it can be. Next, you'll need to prepare detailed plans, including site plans, floor plans, and elevation drawings. These plans are then submitted to the local planning and building departments for review and approval. Once approved, permits are issued, allowing construction or placement to begin. Throughout the project, inspections will be conducted at various stages to ensure compliance with building codes and approved plans before final occupancy.",
-        "description": "The process involves researching zoning, preparing and submitting detailed plans, obtaining permits, and undergoing inspections before final approval."
-      }
-    }
-  ],
+  "name": "What are the typical steps involved in the tiny home permitting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical steps involved in the tiny home permitting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical tiny home permitting process begins with researching local zoning ordinances to determine if a tiny home is allowed on your property and what type of structure it can be. Next, you'll need to prepare detailed plans, including site plans, floor plans, and elevation drawings. These plans are then submitted to the local planning and building departments for review and approval. Once approved, permits are issued, allowing construction or placement to begin. Throughout the project, inspections will be conducted at various stages to ensure compliance with building codes and approved plans before final occupancy.",
+        "@type": "Answer",
+        "description": "The process involves researching zoning, preparing and submitting detailed plans, obtaining permits, and undergoing inspections before final approval."
+      }
+    }
+  ],
+  "description": "The process involves researching zoning, preparing and submitting detailed plans, obtaining permits, and undergoing inspections before final approval."
 }

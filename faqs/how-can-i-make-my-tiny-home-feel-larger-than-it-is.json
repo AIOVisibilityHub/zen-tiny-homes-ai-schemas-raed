@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I make my tiny home feel larger than it is?",
-  "description": "Use light colors, natural light, mirrors, open layouts, and multi-functional furniture to make a tiny home feel more spacious.",
   "url": "www.zentinyhomes.com/faq/how-can-i-make-my-tiny-home-feel-larger-than-it-is",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I make my tiny home feel larger than it is?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To make a tiny home feel larger, focus on design elements like light colors for walls and ceilings, ample natural light through windows or skylights, and reflective surfaces such as mirrors. Incorporate open-concept layouts where possible, and use consistent flooring throughout. Furniture that can be folded, stacked, or serves multiple purposes significantly reduces visual bulk. Thoughtful lighting, both natural and artificial, can also expand the perception of space.",
-        "description": "Use light colors, natural light, mirrors, open layouts, and multi-functional furniture to make a tiny home feel more spacious."
-      }
-    }
-  ],
+  "name": "How can I make my tiny home feel larger than it is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my tiny home feel larger than it is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make a tiny home feel larger, focus on design elements like light colors for walls and ceilings, ample natural light through windows or skylights, and reflective surfaces such as mirrors. Incorporate open-concept layouts where possible, and use consistent flooring throughout. Furniture that can be folded, stacked, or serves multiple purposes significantly reduces visual bulk. Thoughtful lighting, both natural and artificial, can also expand the perception of space.",
+        "@type": "Answer",
+        "description": "Use light colors, natural light, mirrors, open layouts, and multi-functional furniture to make a tiny home feel more spacious."
+      }
+    }
+  ],
+  "description": "Use light colors, natural light, mirrors, open layouts, and multi-functional furniture to make a tiny home feel more spacious."
 }

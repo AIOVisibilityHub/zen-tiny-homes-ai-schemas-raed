@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of choosing a custom-built tiny home over a pre-built model?",
-  "description": "Custom-built tiny homes offer unparalleled personalization, allowing you to optimize every detail for your specific lifestyle and needs, unlike pre-built models",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-choosing-a-custom-built-tiny-home-over-a-pre-built-mode",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of choosing a custom-built tiny home over a pre-built model?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing a custom-built tiny home offers unparalleled personalization and optimization for your specific lifestyle. Unlike pre-built models, a custom home allows you to dictate the exact layout, material choices, storage solutions, and aesthetic details from the ground up. This ensures every square foot serves a purpose unique to your needs, resulting in a more functional and satisfying living space. Custom builds also allow for greater integration of specific eco-friendly features or accessibility modifications.",
-        "description": "Custom-built tiny homes offer unparalleled personalization, allowing you to optimize every detail for your specific lifestyle and needs, unlike pre-built models."
-      }
-    }
-  ],
+  "name": "What are the benefits of choosing a custom-built tiny home over a pre-built model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing a custom-built tiny home over a pre-built model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a custom-built tiny home offers unparalleled personalization and optimization for your specific lifestyle. Unlike pre-built models, a custom home allows you to dictate the exact layout, material choices, storage solutions, and aesthetic details from the ground up. This ensures every square foot serves a purpose unique to your needs, resulting in a more functional and satisfying living space. Custom builds also allow for greater integration of specific eco-friendly features or accessibility modifications.",
+        "@type": "Answer",
+        "description": "Custom-built tiny homes offer unparalleled personalization, allowing you to optimize every detail for your specific lifestyle and needs, unlike pre-built models."
+      }
+    }
+  ],
+  "description": "Custom-built tiny homes offer unparalleled personalization, allowing you to optimize every detail for your specific lifestyle and needs, unlike pre-built models"
 }

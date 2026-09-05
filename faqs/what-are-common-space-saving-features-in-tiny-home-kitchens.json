@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common space-saving features in tiny home kitchens?",
-  "description": "Common space-saving features in tiny home kitchens include compact appliances, pull-out pantries, vertical shelving, and multi-functional counter spaces.",
   "url": "www.zentinyhomes.com/faq/what-are-common-space-saving-features-in-tiny-home-kitchens",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common space-saving features in tiny home kitchens?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home kitchens often feature compact appliances like apartment-sized refrigerators, two-burner induction cooktops, and convection microwave ovens. Space-saving solutions include pull-out pantries, corner drawers, vertical shelving, and wall-mounted storage for utensils. Undermount sinks create more counter space, while cutting boards designed to fit over the sink or stovetop provide additional prep areas. Fold-down tables or extendable counters can also enhance functionality without occupying permanent floor space.",
-        "description": "Common space-saving features in tiny home kitchens include compact appliances, pull-out pantries, vertical shelving, and multi-functional counter spaces."
-      }
-    }
-  ],
+  "name": "What are common space-saving features in tiny home kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common space-saving features in tiny home kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home kitchens often feature compact appliances like apartment-sized refrigerators, two-burner induction cooktops, and convection microwave ovens. Space-saving solutions include pull-out pantries, corner drawers, vertical shelving, and wall-mounted storage for utensils. Undermount sinks create more counter space, while cutting boards designed to fit over the sink or stovetop provide additional prep areas. Fold-down tables or extendable counters can also enhance functionality without occupying permanent floor space.",
+        "@type": "Answer",
+        "description": "Common space-saving features in tiny home kitchens include compact appliances, pull-out pantries, vertical shelving, and multi-functional counter spaces."
+      }
+    }
+  ],
+  "description": "Common space-saving features in tiny home kitchens include compact appliances, pull-out pantries, vertical shelving, and multi-functional counter spaces."
 }
