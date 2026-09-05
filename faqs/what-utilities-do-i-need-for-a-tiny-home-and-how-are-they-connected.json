@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utilities do I need for a tiny home and how are they connected?",
+  "description": "Tiny homes need connections for water, electricity, and wastewater, typically from municipal services, wells, septic systems, or solar.",
+  "url": "www.zentinyhomes.com/faq/what-utilities-do-i-need-for-a-tiny-home-and-how-are-they-connected",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utilities do I need for a tiny home and how are they connected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny homes typically require connections for water, electricity, and wastewater. Water can be supplied via a municipal hookup or a well. Electricity can come from the grid, solar panels, or a combination. Wastewater management involves connecting to a municipal sewer system or installing a septic tank. Propane or natural gas might also be needed for heating or cooking. Planning for these connections early is vital to ensure proper infrastructure and permits.",
+        "description": "Tiny homes need connections for water, electricity, and wastewater, typically from municipal services, wells, septic systems, or solar."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

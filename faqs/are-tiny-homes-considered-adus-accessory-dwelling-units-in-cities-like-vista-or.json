@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are tiny homes considered ADUs (Accessory Dwelling Units) in cities like Vista or Carlsbad?",
+  "description": "In many areas like Vista and Carlsbad, tiny homes on foundations can be permitted as ADUs, subject to local ordinances.",
+  "url": "www.zentinyhomes.com/faq/are-tiny-homes-considered-adus-accessory-dwelling-units-in-cities-like-vista-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are tiny homes considered ADUs (Accessory Dwelling Units) in cities like Vista or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many cities, including Vista and Carlsbad, tiny homes can be permitted as Accessory Dwelling Units (ADUs). This typically means they must meet specific local ADU ordinances regarding size, setbacks, utility connections, and permanent foundation requirements. Often, a tiny home on a foundation will be treated similarly to a small conventional ADU. However, tiny homes on wheels generally have different regulations, sometimes falling under RV or manufactured home rules, or only permitted in specific zones.",
+        "description": "In many areas like Vista and Carlsbad, tiny homes on foundations can be permitted as ADUs, subject to local ordinances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

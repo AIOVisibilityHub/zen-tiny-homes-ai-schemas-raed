@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for constructing a rental tiny home?",
+  "description": "Building a rental tiny home usually takes 3 to 6 months, encompassing design, permitting, site prep, and construction. Complex designs or site work can extend t",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-rental-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for constructing a rental tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a rental tiny home typically ranges from 3 to 6 months, though this can vary. This estimate usually includes the design phase, permitting process, site preparation, and the actual build. Factors influencing the timeline include the complexity of the design, availability of materials, contractor scheduling, and the efficiency of local permitting offices. Custom builds or units requiring extensive site work may take longer. Proper planning and communication are key to staying on schedule.",
+        "description": "Building a rental tiny home usually takes 3 to 6 months, encompassing design, permitting, site prep, and construction. Complex designs or site work can extend this timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

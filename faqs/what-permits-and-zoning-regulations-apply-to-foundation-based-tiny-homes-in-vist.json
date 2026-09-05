@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits and zoning regulations apply to foundation-based tiny homes in Vista?",
-  "description": "In Vista, foundation-based tiny homes fall under ADU ordinances and require building, plumbing, electrical, and mechanical permits. Consult the City of Vista's",
   "url": "www.zentinyhomes.com/faq/what-permits-and-zoning-regulations-apply-to-foundation-based-tiny-homes-in-vist",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits and zoning regulations apply to foundation-based tiny homes in Vista?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Vista, foundation-based tiny homes are subject to the city's Accessory Dwelling Unit (ADU) ordinances and standard residential building codes. This means complying with requirements for setbacks, lot coverage, height limits, and utility connections. You will need to secure various permits, including a building permit, and potentially permits for plumbing, electrical, and mechanical systems. It's crucial to consult with the City of Vista's Planning and Building Departments early in the process to understand all applicable regulations and ensure your project meets local standards.",
-        "description": "In Vista, foundation-based tiny homes fall under ADU ordinances and require building, plumbing, electrical, and mechanical permits. Consult the City of Vista's departments."
-      }
-    }
-  ],
+  "name": "What permits and zoning regulations apply to foundation-based tiny homes in Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and zoning regulations apply to foundation-based tiny homes in Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Vista, foundation-based tiny homes are subject to the city's Accessory Dwelling Unit (ADU) ordinances and standard residential building codes. This means complying with requirements for setbacks, lot coverage, height limits, and utility connections. You will need to secure various permits, including a building permit, and potentially permits for plumbing, electrical, and mechanical systems. It's crucial to consult with the City of Vista's Planning and Building Departments early in the process to understand all applicable regulations and ensure your project meets local standards.",
+        "@type": "Answer",
+        "description": "In Vista, foundation-based tiny homes fall under ADU ordinances and require building, plumbing, electrical, and mechanical permits. Consult the City of Vista's departments."
+      }
+    }
+  ],
+  "description": "In Vista, foundation-based tiny homes fall under ADU ordinances and require building, plumbing, electrical, and mechanical permits. Consult the City of Vista's"
 }

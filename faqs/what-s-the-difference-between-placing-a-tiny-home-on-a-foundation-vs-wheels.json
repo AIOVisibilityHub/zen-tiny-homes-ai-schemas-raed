@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between placing a tiny home on a foundation vs. wheels?",
+  "description": "Foundation tiny homes are permanent dwellings with stricter codes, while tiny homes on wheels are often classified as RVs with different regulations.",
+  "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-placing-a-tiny-home-on-a-foundation-vs-wheels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between placing a tiny home on a foundation vs. wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Placing a tiny home on a foundation typically classifies it as a permanent dwelling or an Accessory Dwelling Unit (ADU), subject to local building codes for traditional homes. This offers stability and can increase property value. A tiny home on wheels is often classified as a recreational vehicle (RV) and is subject to RV regulations, which vary significantly by municipality regarding permanent residency. Foundation homes usually require more extensive permitting.",
+        "description": "Foundation tiny homes are permanent dwellings with stricter codes, while tiny homes on wheels are often classified as RVs with different regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

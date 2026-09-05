@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What does a 'turnkey' tiny home build mean?",
-  "description": "A turnkey tiny home build includes all aspects of construction, from design to final finishes, so your home is ready for immediate occupancy.",
+  "description": "A turnkey build means your tiny home is delivered completely finished and ready for move-in, with the construction firm managing all aspects from design to fina",
   "url": "www.zentinyhomes.com/faq/what-does-a-turnkey-tiny-home-build-mean",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What does a 'turnkey' tiny home build mean?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A turnkey tiny home build means that Zen Tiny Homes handles the entire construction process from start to finish. This includes design, foundation work (if applicable), framing, electrical, plumbing, insulation, interior finishes, and exterior siding. When the project is complete, the tiny home is ready for you to move in, requiring no further significant construction or installation from your end. Our goal is to deliver a complete, ready-to-use home, simplifying the experience for the homeowner.",
-        "description": "A turnkey tiny home build includes all aspects of construction, from design to final finishes, so your home is ready for immediate occupancy."
+        "text": "A turnkey tiny home build means that the construction firm handles every aspect of the project from start to finish, delivering a ready-to-live-in home. This typically includes design, permitting assistance, foundation work, construction, interior finishes, and utility connections. Clients can move in immediately upon completion without needing to manage multiple contractors or significant post-build tasks. It simplifies the process for homeowners, offering a single point of contact and responsibility.",
+        "description": "A turnkey build means your tiny home is delivered completely finished and ready for move-in, with the construction firm managing all aspects from design to final touches."
       }
     }
   ],

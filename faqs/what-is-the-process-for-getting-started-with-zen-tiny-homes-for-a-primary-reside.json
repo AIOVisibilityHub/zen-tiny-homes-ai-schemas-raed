@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting started with Zen Tiny Homes for a primary residence?",
+  "description": "Start with a consultation, then move to detailed design, permit applications, construction, and final inspections for your tiny home.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-getting-started-with-zen-tiny-homes-for-a-primary-reside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting started with Zen Tiny Homes for a primary residence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation where we discuss your vision, budget, and site requirements. We'll explore design options and provide a preliminary estimate. Next, we move into detailed design, including architectural plans and material selections. Once designs are finalized and approved, we assist with permit applications. After permits are secured, construction commences, followed by inspections and final walkthroughs. Our goal is to make the journey from concept to move-in as smooth as possible.",
+        "description": "Start with a consultation, then move to detailed design, permit applications, construction, and final inspections for your tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

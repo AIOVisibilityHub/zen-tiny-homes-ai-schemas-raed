@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a tiny home ADU be customized to meet specific accessibility needs for elderly family members?",
+  "description": "Yes, tiny home ADUs can be customized with features like wider doorways, zero-entry showers, and ramps to meet accessibility needs for elderly family members.",
+  "url": "www.zentinyhomes.com/faq/can-a-tiny-home-adu-be-customized-to-meet-specific-accessibility-needs-for-elder",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a tiny home ADU be customized to meet specific accessibility needs for elderly family members?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a tiny home ADU can be fully customized to meet specific accessibility needs for elderly family members or individuals with mobility challenges. This includes features such as wider doorways, zero-entry showers, grab bars, ramp access, lower countertops, and accessible fixtures. We design with universal design principles in mind to create a safe, comfortable, and independent living environment. Customization ensures the space functions optimally for the resident's long-term well-being and ease of movement.",
+        "description": "Yes, tiny home ADUs can be customized with features like wider doorways, zero-entry showers, and ramps to meet accessibility needs for elderly family members."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

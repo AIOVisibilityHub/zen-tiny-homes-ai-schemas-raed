@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size guest home can I build on my property?",
+  "description": "Guest home size is limited by local zoning laws, typically ranging from 800 to 1200 square feet or a percentage of the main home's size, and influenced by setba",
+  "url": "www.zentinyhomes.com/faq/what-size-guest-home-can-i-build-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size guest home can I build on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The maximum size of a guest home you can build is determined by local zoning ordinances and your property's characteristics. Regulations typically specify maximum square footage, often ranging from 800 to 1200 square feet, or a percentage of the primary dwelling's size. Setbacks from property lines and other structures also influence the usable footprint. We help assess your property's potential and design a guest home that maximizes space within regulatory limits.",
+        "description": "Guest home size is limited by local zoning laws, typically ranging from 800 to 1200 square feet or a percentage of the main home's size, and influenced by setbacks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

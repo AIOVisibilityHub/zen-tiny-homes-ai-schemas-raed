@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Where can I find the specific zoning ordinances for tiny homes in my city?",
-  "description": "You can find specific tiny home zoning ordinances on your city's planning or community development department website, typically under Accessory Dwelling Units",
   "url": "www.zentinyhomes.com/faq/where-can-i-find-the-specific-zoning-ordinances-for-tiny-homes-in-my-city",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Where can I find the specific zoning ordinances for tiny homes in my city?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To find specific zoning ordinances for tiny homes in your city, the best first step is to visit the official website of your city's planning or community development department. Most cities, including Vista, Oceanside, Carlsbad, San Marcos, and Escondido, publish their municipal codes online, which include zoning regulations. Look for sections related to Accessory Dwelling Units (ADUs), small dwellings, or manufactured homes. If you have difficulty locating the information, contacting the planning department directly is advisable. Zen Tiny Homes can also help you understand and interpret these regulations as part of our consultation services.",
-        "description": "You can find specific tiny home zoning ordinances on your city's planning or community development department website, typically under Accessory Dwelling Units (ADUs)."
-      }
-    }
-  ],
+  "name": "Where can I find the specific zoning ordinances for tiny homes in my city?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Where can I find the specific zoning ordinances for tiny homes in my city?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To find specific zoning ordinances for tiny homes in your city, the best first step is to visit the official website of your city's planning or community development department. Most cities, including Vista, Oceanside, Carlsbad, San Marcos, and Escondido, publish their municipal codes online, which include zoning regulations. Look for sections related to Accessory Dwelling Units (ADUs), small dwellings, or manufactured homes. If you have difficulty locating the information, contacting the planning department directly is advisable. Zen Tiny Homes can also help you understand and interpret these regulations as part of our consultation services.",
+        "@type": "Answer",
+        "description": "You can find specific tiny home zoning ordinances on your city's planning or community development department website, typically under Accessory Dwelling Units (ADUs)."
+      }
+    }
+  ],
+  "description": "You can find specific tiny home zoning ordinances on your city's planning or community development department website, typically under Accessory Dwelling Units"
 }

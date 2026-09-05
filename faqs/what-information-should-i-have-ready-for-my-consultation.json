@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I have ready for my consultation?",
+  "description": "Have your property address, any surveys, desired tiny home size, and information about existing or planned utilities ready for your consultation.",
+  "url": "www.zentinyhomes.com/faq/what-information-should-i-have-ready-for-my-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I have ready for my consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make your consultation as efficient as possible, it's helpful to have your property address, any existing surveys or plot maps, and an idea of your desired tiny home size or type. Information regarding existing utilities on site, or your general plans for utility connections (e.g., off-grid vs. grid-tied), is also beneficial. The more details you can provide, the more tailored and accurate our initial assessment will be.",
+        "description": "Have your property address, any surveys, desired tiny home size, and information about existing or planned utilities ready for your consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical zoning requirements for building a tiny home on my property?",
+  "description": "Typical zoning requirements for tiny homes include lot size, setbacks, height limits, utility connections, and adherence to building codes for foundation models",
+  "url": "www.zentinyhomes.com/faq/what-are-the-typical-zoning-requirements-for-building-a-tiny-home-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical zoning requirements for building a tiny home on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical zoning requirements for building a tiny home can include minimum lot size, setback distances from property lines, maximum height limits, and specific architectural guidelines. Local ordinances may also dictate utility connections (water, sewer, electricity), parking provisions, and fire safety standards. For tiny homes on foundations, they must comply with building codes. Tiny homes on wheels often face different regulations, sometimes being restricted to RV parks or designated mobile home zones.",
+        "description": "Typical zoning requirements for tiny homes include lot size, setbacks, height limits, utility connections, and adherence to building codes for foundation models."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for a tiny home, even if it's on wheels?",
+  "description": "Yes, tiny homes on wheels often require permits for utility connections, zoning compliance, or registration, depending on local regulations.",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-for-a-tiny-home-even-if-it-s-on-wheels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for a tiny home, even if it's on wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, even tiny homes on wheels often require some form of permit or adherence to local regulations, especially if they are intended for long-term habitation. While they might not always require a traditional building permit like a fixed structure, you may need permits for utility connections, zoning compliance for temporary or permanent placement, or registration as a recreational vehicle. It's crucial to check with your specific city or county planning and building departments, as rules vary significantly.",
+        "description": "Yes, tiny homes on wheels often require permits for utility connections, zoning compliance, or registration, depending on local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

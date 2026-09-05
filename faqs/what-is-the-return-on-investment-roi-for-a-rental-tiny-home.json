@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the return on investment (ROI) for a rental tiny home?",
-  "description": "ROI for a rental tiny home varies based on construction costs and local rental rates. ADUs add property value and generate income, which can be significant depe",
   "url": "www.zentinyhomes.com/faq/what-is-the-return-on-investment-roi-for-a-rental-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the return on investment (ROI) for a rental tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ROI for a rental tiny home can be substantial, depending on construction costs, local rental rates, and property values. ADU tiny homes generally add value to your property and provide consistent rental income, which can offset construction costs over time. Factors like demand for rentals in your specific area (e.g., Carlsbad, Oceanside), the quality of the build, and how effectively you manage the rental will influence your ROI. We can discuss potential rental scenarios during the project consultation.",
-        "description": "ROI for a rental tiny home varies based on construction costs and local rental rates. ADUs add property value and generate income, which can be significant depending on market demand and quality."
-      }
-    }
-  ],
+  "name": "What is the return on investment (ROI) for a rental tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for a rental tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ROI for a rental tiny home can be substantial, depending on construction costs, local rental rates, and property values. ADU tiny homes generally add value to your property and provide consistent rental income, which can offset construction costs over time. Factors like demand for rentals in your specific area (e.g., Carlsbad, Oceanside), the quality of the build, and how effectively you manage the rental will influence your ROI. We can discuss potential rental scenarios during the project consultation.",
+        "@type": "Answer",
+        "description": "ROI for a rental tiny home varies based on construction costs and local rental rates. ADUs add property value and generate income, which can be significant depending on market demand and quality."
+      }
+    }
+  ],
+  "description": "ROI for a rental tiny home varies based on construction costs and local rental rates. ADUs add property value and generate income, which can be significant depe"
 }

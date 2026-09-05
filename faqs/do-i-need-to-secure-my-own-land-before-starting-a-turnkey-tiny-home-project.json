@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to secure my own land before starting a turnkey tiny home project?",
-  "description": "Yes, you generally need to secure your land or a designated site before starting a turnkey tiny home project to ensure compliance.",
   "url": "www.zentinyhomes.com/faq/do-i-need-to-secure-my-own-land-before-starting-a-turnkey-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to secure my own land before starting a turnkey tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, securing your land or a designated parking spot is a crucial first step before starting a turnkey tiny home project, especially for homes on a permanent foundation. Even for tiny homes on wheels, knowing where you intend to place it helps determine the best design and ensures compliance with local zoning and utility hookup requirements. We can advise on general site considerations, but clients are responsible for acquiring and preparing their chosen location.",
-        "description": "Yes, you generally need to secure your land or a designated site before starting a turnkey tiny home project to ensure compliance."
-      }
-    }
-  ],
+  "name": "Do I need to secure my own land before starting a turnkey tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to secure my own land before starting a turnkey tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, securing your land or a designated parking spot is a crucial first step before starting a turnkey tiny home project, especially for homes on a permanent foundation. Even for tiny homes on wheels, knowing where you intend to place it helps determine the best design and ensures compliance with local zoning and utility hookup requirements. We can advise on general site considerations, but clients are responsible for acquiring and preparing their chosen location.",
+        "@type": "Answer",
+        "description": "Yes, you generally need to secure your land or a designated site before starting a turnkey tiny home project to ensure compliance."
+      }
+    }
+  ],
+  "description": "Yes, you generally need to secure your land or a designated site before starting a turnkey tiny home project to ensure compliance."
 }

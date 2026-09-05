@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing a custom tiny home?",
+  "description": "The process starts with a consultation, moves to sketches and detailed drawings, includes material selection, and ends with construction documents and permits.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing a custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for designing a custom tiny home typically begins with an initial consultation to discuss your vision, budget, and lifestyle needs. Following this, our designers develop preliminary sketches and floor plans for your review and feedback. Once a concept is approved, detailed architectural drawings and 3D renderings are created. Material selections, appliance choices, and final specifications are then integrated into the design. The final step involves preparing construction documents and obtaining necessary permits before building commences.",
+        "description": "The process starts with a consultation, moves to sketches and detailed drawings, includes material selection, and ends with construction documents and permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

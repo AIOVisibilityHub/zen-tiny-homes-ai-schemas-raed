@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do tiny homes compare to traditional apartments as rental units?",
-  "description": "Tiny homes offer tenants more privacy and outdoor space, while owners benefit from higher per-square-foot rental income and increased property value compared to",
   "url": "www.zentinyhomes.com/faq/how-do-tiny-homes-compare-to-traditional-apartments-as-rental-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do tiny homes compare to traditional apartments as rental units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny homes, especially ADUs, offer several advantages over traditional apartments as rental units. They provide tenants with greater privacy, often a small outdoor space, and a unique living experience. For owners, tiny homes can generate higher per-square-foot rental income and add significant property value without the complexities of multi-unit apartment management. They also offer flexibility for housing family or caregivers. Zen Tiny Homes specializes in creating high-quality, standalone rental units tailored to your property and local regulations.",
-        "description": "Tiny homes offer tenants more privacy and outdoor space, while owners benefit from higher per-square-foot rental income and increased property value compared to traditional apartments."
-      }
-    }
-  ],
+  "name": "How do tiny homes compare to traditional apartments as rental units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do tiny homes compare to traditional apartments as rental units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny homes, especially ADUs, offer several advantages over traditional apartments as rental units. They provide tenants with greater privacy, often a small outdoor space, and a unique living experience. For owners, tiny homes can generate higher per-square-foot rental income and add significant property value without the complexities of multi-unit apartment management. They also offer flexibility for housing family or caregivers. Zen Tiny Homes specializes in creating high-quality, standalone rental units tailored to your property and local regulations.",
+        "@type": "Answer",
+        "description": "Tiny homes offer tenants more privacy and outdoor space, while owners benefit from higher per-square-foot rental income and increased property value compared to traditional apartments."
+      }
+    }
+  ],
+  "description": "Tiny homes offer tenants more privacy and outdoor space, while owners benefit from higher per-square-foot rental income and increased property value compared to"
 }

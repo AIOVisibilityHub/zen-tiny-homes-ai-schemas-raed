@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the resale value of a property with an ADU?",
+  "description": "Factors influencing resale value of a property with an ADU include construction quality, size, functionality, rental potential, location, and overall property c",
+  "url": "www.zentinyhomes.com/faq/what-factors-influence-the-resale-value-of-a-property-with-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the resale value of a property with an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The resale value of a property with an ADU is influenced by several factors, including the quality of construction, the ADU's size and functionality, and its rental income potential. Location, property amenities, and the overall condition of both the primary home and the ADU also play significant roles. A well-designed, permitted, and maintained ADU that seamlessly integrates with the property typically enhances its market appeal and increases its overall value.",
+        "description": "Factors influencing resale value of a property with an ADU include construction quality, size, functionality, rental potential, location, and overall property condition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

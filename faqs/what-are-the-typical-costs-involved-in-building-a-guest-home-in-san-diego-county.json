@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs involved in building a guest home in San Diego County?",
+  "description": "Costs for a guest home vary widely by size, materials, and site conditions, generally starting from $100,000 in San Diego County, plus permitting and design fee",
+  "url": "www.zentinyhomes.com/faq/what-are-the-typical-costs-involved-in-building-a-guest-home-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs involved in building a guest home in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build a guest home can vary significantly based on size, complexity, materials, and site conditions. Factors like foundation work, utility hookups, and finishes all influence the final price. While a precise estimate requires a detailed consultation, typical ranges can start from around $100,000 for smaller, simpler units and go upwards for larger or more custom builds. Permitting fees, architectural designs, and impact fees will also contribute to the overall budget.",
+        "description": "Costs for a guest home vary widely by size, materials, and site conditions, generally starting from $100,000 in San Diego County, plus permitting and design fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

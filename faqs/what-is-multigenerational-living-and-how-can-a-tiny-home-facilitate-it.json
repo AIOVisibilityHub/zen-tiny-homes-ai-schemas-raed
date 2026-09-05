@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is multigenerational living and how can a tiny home facilitate it?",
+  "description": "Multigenerational living is when multiple generations live together. A tiny home as an ADU offers a private, compact space on the same property, supporting fami",
+  "url": "www.zentinyhomes.com/faq/what-is-multigenerational-living-and-how-can-a-tiny-home-facilitate-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is multigenerational living and how can a tiny home facilitate it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multigenerational living involves multiple generations of a family residing together, either in one home or on the same property. A tiny home, often used as an accessory dwelling unit (ADU), provides a private, compact living space that supports this arrangement. It allows elderly parents to live close to adult children for support, or adult children to have independence while saving on housing costs. This setup promotes family connection while maintaining personal space, making it a flexible solution for various family needs.",
+        "description": "Multigenerational living is when multiple generations live together. A tiny home as an ADU offers a private, compact space on the same property, supporting family connection while maintaining independence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

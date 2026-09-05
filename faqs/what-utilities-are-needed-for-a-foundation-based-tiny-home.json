@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities are needed for a foundation-based tiny home?",
-  "description": "Foundation-based tiny homes require standard utilities: electricity, potable water, and a connection to either a municipal sewer or a septic system.",
   "url": "www.zentinyhomes.com/faq/what-utilities-are-needed-for-a-foundation-based-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities are needed for a foundation-based tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A foundation-based tiny home requires the same essential utilities as a standard house: electricity, water, and sewer or septic systems. Electricity provides power for lighting, appliances, and heating/cooling. A potable water supply is necessary for drinking, bathing, and cooking. Wastewater removal typically involves connecting to a municipal sewer line or installing a septic system, depending on the property's location and available infrastructure. Proper utility hookups are critical for habitability and must comply with local codes and safety standards.",
-        "description": "Foundation-based tiny homes require standard utilities: electricity, potable water, and a connection to either a municipal sewer or a septic system."
-      }
-    }
-  ],
+  "name": "What utilities are needed for a foundation-based tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are needed for a foundation-based tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foundation-based tiny home requires the same essential utilities as a standard house: electricity, water, and sewer or septic systems. Electricity provides power for lighting, appliances, and heating/cooling. A potable water supply is necessary for drinking, bathing, and cooking. Wastewater removal typically involves connecting to a municipal sewer line or installing a septic system, depending on the property's location and available infrastructure. Proper utility hookups are critical for habitability and must comply with local codes and safety standards.",
+        "@type": "Answer",
+        "description": "Foundation-based tiny homes require standard utilities: electricity, potable water, and a connection to either a municipal sewer or a septic system."
+      }
+    }
+  ],
+  "description": "Foundation-based tiny homes require standard utilities: electricity, potable water, and a connection to either a municipal sewer or a septic system."
 }

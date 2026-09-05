@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do tiny home customizations need to comply with local building codes in San Marcos?",
+  "description": "Yes, tiny home customizations must comply with local building codes and zoning regulations in San Marcos. Our process ensures adherence to these standards and a",
+  "url": "www.zentinyhomes.com/faq/do-tiny-home-customizations-need-to-comply-with-local-building-codes-in-san-marc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do tiny home customizations need to comply with local building codes in San Marcos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all tiny home customizations and new builds must comply with relevant local building codes and zoning regulations, including those specific to San Marcos. This ensures the safety, structural integrity, and habitability of your tiny home. Our design and construction process includes careful consideration of these regulations, and we guide you through obtaining necessary permits for any custom features or structural modifications. It's crucial to adhere to these standards to avoid potential issues with placement or future resale.",
+        "description": "Yes, tiny home customizations must comply with local building codes and zoning regulations in San Marcos. Our process ensures adherence to these standards and assists with permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

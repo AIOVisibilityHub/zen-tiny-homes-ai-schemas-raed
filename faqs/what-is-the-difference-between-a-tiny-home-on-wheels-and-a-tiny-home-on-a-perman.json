@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a tiny home on wheels and a tiny home on a permanent foundation for permitting?",
-  "description": "Tiny homes on wheels may face fewer building codes but have occupancy restrictions, while those on foundations are considered permanent structures and require f",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-on-wheels-and-a-tiny-home-on-a-perman",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a tiny home on wheels and a tiny home on a permanent foundation for permitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For permitting, the primary difference lies in classification and applicable regulations. A tiny home on wheels, if considered a recreational vehicle (RV) and not a permanent dwelling, may have fewer building code requirements but might face restrictions on long-term occupancy or placement. A tiny home on a permanent foundation, however, is typically considered a stick-built home or an Accessory Dwelling Unit (ADU) and must fully comply with all local building codes, zoning ordinances, and utility connection standards, requiring comprehensive building permits. The intent of use and duration of stay are key factors.",
-        "description": "Tiny homes on wheels may face fewer building codes but have occupancy restrictions, while those on foundations are considered permanent structures and require full building permits and code compliance."
-      }
-    }
-  ],
+  "name": "What is the difference between a tiny home on wheels and a tiny home on a permanent foundation for permitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tiny home on wheels and a tiny home on a permanent foundation for permitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For permitting, the primary difference lies in classification and applicable regulations. A tiny home on wheels, if considered a recreational vehicle (RV) and not a permanent dwelling, may have fewer building code requirements but might face restrictions on long-term occupancy or placement. A tiny home on a permanent foundation, however, is typically considered a stick-built home or an Accessory Dwelling Unit (ADU) and must fully comply with all local building codes, zoning ordinances, and utility connection standards, requiring comprehensive building permits. The intent of use and duration of stay are key factors.",
+        "@type": "Answer",
+        "description": "Tiny homes on wheels may face fewer building codes but have occupancy restrictions, while those on foundations are considered permanent structures and require full building permits and code compliance."
+      }
+    }
+  ],
+  "description": "Tiny homes on wheels may face fewer building codes but have occupancy restrictions, while those on foundations are considered permanent structures and require f"
 }

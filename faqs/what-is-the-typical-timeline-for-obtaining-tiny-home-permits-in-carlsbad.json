@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for obtaining tiny home permits in Carlsbad?",
-  "description": "Permit timelines in Carlsbad vary, typically ranging from several weeks to a few months, depending on project complexity and application completeness.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-obtaining-tiny-home-permits-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for obtaining tiny home permits in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for obtaining tiny home permits in Carlsbad can vary significantly based on the project's complexity and completeness of the application. Generally, the process can take several weeks to a few months. Initial plan check reviews can take 2-4 weeks, followed by potential resubmissions for corrections. Once plans are approved, permit issuance can be relatively quick. Factors like city department workload, the thoroughness of your plans, and adherence to all local zoning and building codes will influence the overall duration. It's advisable to factor in buffer time for unexpected delays.",
-        "description": "Permit timelines in Carlsbad vary, typically ranging from several weeks to a few months, depending on project complexity and application completeness."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for obtaining tiny home permits in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for obtaining tiny home permits in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for obtaining tiny home permits in Carlsbad can vary significantly based on the project's complexity and completeness of the application. Generally, the process can take several weeks to a few months. Initial plan check reviews can take 2-4 weeks, followed by potential resubmissions for corrections. Once plans are approved, permit issuance can be relatively quick. Factors like city department workload, the thoroughness of your plans, and adherence to all local zoning and building codes will influence the overall duration. It's advisable to factor in buffer time for unexpected delays.",
+        "@type": "Answer",
+        "description": "Permit timelines in Carlsbad vary, typically ranging from several weeks to a few months, depending on project complexity and application completeness."
+      }
+    }
+  ],
+  "description": "Permit timelines in Carlsbad vary, typically ranging from several weeks to a few months, depending on project complexity and application completeness."
 }

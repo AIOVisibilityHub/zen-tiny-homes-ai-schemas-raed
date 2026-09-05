@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for adding upgrades to my tiny home design?",
+  "description": "The upgrade process starts with a design consultation to discuss options. Selections are incorporated into architectural plans, and a revised cost estimate is p",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-adding-upgrades-to-my-tiny-home-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for adding upgrades to my tiny home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for adding upgrades begins during the initial design consultation. After discussing your vision and functional needs, our team will present available options for customization. You'll review material samples, design renderings, and appliance catalogs. Once selections are made, they are incorporated into the detailed architectural plans and a revised cost estimate is provided. Any subsequent changes require formal approval to ensure all modifications are documented and properly integrated into the build schedule. Our goal is to make the upgrade process clear and collaborative from start to finish.",
+        "description": "The upgrade process starts with a design consultation to discuss options. Selections are incorporated into architectural plans, and a revised cost estimate is provided for approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

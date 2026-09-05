@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of adding a rental tiny home to my property?",
+  "description": "Benefits of a rental tiny home include rental income, increased property value, flexible living space, and efficient land use. They can also be more energy-effi",
+  "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-adding-a-rental-tiny-home-to-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of adding a rental tiny home to my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a rental tiny home offers several benefits for property owners. Financially, it provides a source of rental income, which can help offset mortgage payments or increase property value. It also offers flexible living space that can serve as a home for family members, a guest house, or a dedicated workspace. Environmentally, tiny homes often have a smaller footprint and can be more energy-efficient. They maximize existing land use without requiring a new land purchase.",
+        "description": "Benefits of a rental tiny home include rental income, increased property value, flexible living space, and efficient land use. They can also be more energy-efficient."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

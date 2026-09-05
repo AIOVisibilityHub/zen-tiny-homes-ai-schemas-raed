@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits and regulations are required for building a guest home in areas like Vista or Carlsbad?",
+  "description": "Building a guest home in areas like Vista or Carlsbad requires obtaining building, zoning, and utility permits, and adhering to local regulations regarding size",
+  "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-are-required-for-building-a-guest-home-in-areas-lik",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits and regulations are required for building a guest home in areas like Vista or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a guest home in San Diego County, including cities like Vista or Carlsbad, requires obtaining specific permits from the local planning and building departments. This typically includes a building permit, and may also involve zoning clearance, design review, and utility permits. Regulations dictate aspects like setbacks, height limits, unit size, parking requirements, and owner occupancy rules. We assist clients in navigating these requirements to ensure compliance with local ordinances.",
+        "description": "Building a guest home in areas like Vista or Carlsbad requires obtaining building, zoning, and utility permits, and adhering to local regulations regarding size, setbacks, and parking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

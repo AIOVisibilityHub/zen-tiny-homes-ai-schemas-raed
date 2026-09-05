@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a tiny home on wheels and a permanent foundation tiny home for rental?",
+  "description": "Tiny homes on wheels are often RVs with rental limitations, while permanent foundation tiny homes (ADUs) are built on-site, adhere to building codes, and are ty",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-on-wheels-and-a-permanent-foundation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a tiny home on wheels and a permanent foundation tiny home for rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in their classification and permanence. A tiny home on wheels (THOW) is often considered a recreational vehicle (RV) and may face different zoning restrictions, often limiting its use for long-term rentals in residential areas. A permanent foundation tiny home, however, is built directly on-site and is typically classified as an Accessory Dwelling Unit (ADU). ADUs are subject to traditional building codes and are generally more widely permitted for long-term rental income, offering greater stability and value as real property.",
+        "description": "Tiny homes on wheels are often RVs with rental limitations, while permanent foundation tiny homes (ADUs) are built on-site, adhere to building codes, and are typically permitted for long-term rentals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

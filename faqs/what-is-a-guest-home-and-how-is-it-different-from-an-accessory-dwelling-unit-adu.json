@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a guest home and how is it different from an accessory dwelling unit (ADU)?",
+  "description": "A guest home is typically an Accessory Dwelling Unit (ADU), a complete secondary living space on a single-family property, distinct from the primary home but bu",
+  "url": "www.zentinyhomes.com/faq/what-is-a-guest-home-and-how-is-it-different-from-an-accessory-dwelling-unit-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a guest home and how is it different from an accessory dwelling unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A guest home, often referred to as an Accessory Dwelling Unit (ADU), is a secondary residential structure on the same property as a primary single-family home. While 'guest home' might imply a temporary living space, in construction terms, it generally refers to a fully independent living unit. ADUs include a kitchen, bathroom, and sleeping area, functioning as a complete home. They offer benefits like housing for family members, rental income, or a dedicated workspace, and are built to code just like primary residences.",
+        "description": "A guest home is typically an Accessory Dwelling Unit (ADU), a complete secondary living space on a single-family property, distinct from the primary home but built to the same codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

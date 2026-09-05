@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a custom tiny home in Oceanside?",
+  "description": "In Oceanside, permits for planning, zoning, building, electrical, plumbing, and mechanical systems are typically needed for custom tiny homes.",
+  "url": "www.zentinyhomes.com/faq/what-permits-are-needed-for-a-custom-tiny-home-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a custom tiny home in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a custom tiny home in Oceanside, specific permits are typically required, which can vary based on whether the home is on a foundation or on wheels. Generally, you may need permits for planning and zoning, building, electrical, plumbing, and mechanical systems. The City of Oceanside has specific regulations concerning Accessory Dwelling Units (ADUs) and other forms of tiny homes. We assist clients in navigating these requirements, ensuring all necessary documentation is submitted and approved before construction begins.",
+        "description": "In Oceanside, permits for planning, zoning, building, electrical, plumbing, and mechanical systems are typically needed for custom tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

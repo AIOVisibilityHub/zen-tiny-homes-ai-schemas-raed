@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Zen Tiny Homes offer personalized storage design consultations for clients in Carlsbad?",
+  "description": "Yes, Zen Tiny Homes offers personalized storage design consultations in Carlsbad to create custom, functional solutions for your tiny home.",
+  "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-offer-personalized-storage-design-consultations-for-clients-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Zen Tiny Homes offer personalized storage design consultations for clients in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes offers personalized storage design consultations tailored to client needs, including those in Carlsbad. Our design process involves understanding your specific lifestyle, belongings, and aesthetic preferences to create custom storage solutions. During a consultation, we explore options for built-ins, multi-functional furniture, and clever space-saving techniques that maximize every inch of your tiny home, ensuring it is both beautiful and highly functional for your unique requirements.",
+        "description": "Yes, Zen Tiny Homes offers personalized storage design consultations in Carlsbad to create custom, functional solutions for your tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

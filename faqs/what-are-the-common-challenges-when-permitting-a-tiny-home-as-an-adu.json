@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges when permitting a tiny home as an ADU?",
-  "description": "Challenges often involve meeting setbacks, utility connections, parking mandates, and specific design standards, alongside navigating local zoning ordinances.",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-when-permitting-a-tiny-home-as-an-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges when permitting a tiny home as an ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges when permitting a tiny home as an ADU often include meeting specific setback requirements, ensuring proper utility connections (sewer, water, electricity), and complying with local parking mandates. Design standards, such as minimum ceiling heights or window-to-floor ratios, can also pose hurdles. Additionally, navigating the application process and understanding the nuances of local zoning ordinances for lot coverage or maximum ADU size can be complex. Thorough planning and professional guidance can help address these challenges effectively.",
-        "description": "Challenges often involve meeting setbacks, utility connections, parking mandates, and specific design standards, alongside navigating local zoning ordinances."
-      }
-    }
-  ],
+  "name": "What are the common challenges when permitting a tiny home as an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when permitting a tiny home as an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges when permitting a tiny home as an ADU often include meeting specific setback requirements, ensuring proper utility connections (sewer, water, electricity), and complying with local parking mandates. Design standards, such as minimum ceiling heights or window-to-floor ratios, can also pose hurdles. Additionally, navigating the application process and understanding the nuances of local zoning ordinances for lot coverage or maximum ADU size can be complex. Thorough planning and professional guidance can help address these challenges effectively.",
+        "@type": "Answer",
+        "description": "Challenges often involve meeting setbacks, utility connections, parking mandates, and specific design standards, alongside navigating local zoning ordinances."
+      }
+    }
+  ],
+  "description": "Challenges often involve meeting setbacks, utility connections, parking mandates, and specific design standards, alongside navigating local zoning ordinances."
 }

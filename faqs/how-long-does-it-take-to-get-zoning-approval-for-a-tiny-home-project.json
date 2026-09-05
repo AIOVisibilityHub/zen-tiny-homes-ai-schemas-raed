@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get zoning approval for a tiny home project?",
+  "description": "Zoning approval times vary by project complexity and local planning department workload, typically ranging from a few weeks to several months. Accurate document",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-get-zoning-approval-for-a-tiny-home-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get zoning approval for a tiny home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for obtaining zoning approval can vary significantly based on the complexity of your project, the specific city or county (e.g., Vista, Oceanside, Escondido), and the current workload of the planning department. Simple ADU applications might be processed in a few weeks to a couple of months. More complex projects requiring variances or special permits could take several months. It's important to have all necessary documentation prepared accurately to avoid delays. We can help prepare and submit your applications efficiently.",
+        "description": "Zoning approval times vary by project complexity and local planning department workload, typically ranging from a few weeks to several months. Accurate documentation speeds up the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

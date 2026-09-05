@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered a rental-unit tiny home?",
+  "description": "A rental-unit tiny home is a compact dwelling, usually 150-500 square feet, built for residential rental purposes like an ADU, featuring a full living space.",
+  "url": "www.zentinyhomes.com/faq/what-is-considered-a-rental-unit-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered a rental-unit tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A rental-unit tiny home is a compact dwelling designed for residential rental purposes, often serving as an Accessory Dwelling Unit (ADU) or a standalone rental property. These units typically range from 150 to 500 square feet and are built to meet local building codes for permanent occupancy. They provide an independent living space, including a kitchen, bathroom, and sleeping area, making them suitable for long-term tenants or short-term vacation rentals, depending on local zoning. Zen Tiny Homes constructs these units to maximize efficiency and comfort within a smaller footprint.",
+        "description": "A rental-unit tiny home is a compact dwelling, usually 150-500 square feet, built for residential rental purposes like an ADU, featuring a full living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

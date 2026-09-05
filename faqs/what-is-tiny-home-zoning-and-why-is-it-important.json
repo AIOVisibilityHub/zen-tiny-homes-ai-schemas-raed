@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What is tiny home zoning and why is it important?",
-  "description": "Tiny home zoning outlines local rules for building and occupying tiny homes, including size, foundation, and utility requirements. It's important to understand",
+  "description": "Tiny home zoning defines local rules for placing tiny homes, covering aspects like lot size and foundation. It's important for legal compliance and to ensure yo",
   "url": "www.zentinyhomes.com/faq/what-is-tiny-home-zoning-and-why-is-it-important",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What is tiny home zoning and why is it important?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tiny home zoning refers to the specific local regulations that dictate where and how tiny homes can be built and occupied. These regulations vary significantly by city and county, covering aspects like minimum dwelling size, foundation requirements, utility connections, and whether a tiny home can be a primary residence or an accessory dwelling unit (ADU). Understanding these rules is crucial because they determine the feasibility and legality of placing a tiny home on a property. Non-compliance can lead to fines, forced removal, or an inability to obtain necessary permits.",
-        "description": "Tiny home zoning outlines local rules for building and occupying tiny homes, including size, foundation, and utility requirements. It's important to understand these rules to ensure your tiny home project is legal and compliant."
+        "text": "Tiny home zoning refers to local regulations that dictate where and how tiny homes can be legally placed. These rules cover aspects like minimum lot size, foundation requirements, and whether a tiny home can be considered a primary residence or an accessory dwelling unit (ADU). Understanding zoning is crucial because it determines if you can legally build or place a tiny home on a specific property, ensuring compliance and avoiding potential fines or demolition orders.",
+        "description": "Tiny home zoning defines local rules for placing tiny homes, covering aspects like lot size and foundation. It's important for legal compliance and to ensure your tiny home can be built or placed where you intend."
       }
     }
   ],

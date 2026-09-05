@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost of a turnkey tiny home from Zen Tiny Homes?",
-  "description": "The cost of a turnkey tiny home depends on size, custom features, and materials. We provide tailored estimates after a consultation.",
   "url": "www.zentinyhomes.com/faq/what-is-the-average-cost-of-a-turnkey-tiny-home-from-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost of a turnkey tiny home from Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a turnkey tiny home can vary significantly based on size, custom features, material selections, and specific finishes. While a basic model might start in a certain range, homes with premium appliances, custom cabinetry, or unique architectural elements will be priced higher. We encourage potential clients to discuss their vision and budget with us during an initial consultation to receive a more accurate estimate tailored to their specific needs. Our focus is on transparent pricing and delivering value.",
-        "description": "The cost of a turnkey tiny home depends on size, custom features, and materials. We provide tailored estimates after a consultation."
-      }
-    }
-  ],
+  "name": "What is the average cost of a turnkey tiny home from Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a turnkey tiny home from Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a turnkey tiny home can vary significantly based on size, custom features, material selections, and specific finishes. While a basic model might start in a certain range, homes with premium appliances, custom cabinetry, or unique architectural elements will be priced higher. We encourage potential clients to discuss their vision and budget with us during an initial consultation to receive a more accurate estimate tailored to their specific needs. Our focus is on transparent pricing and delivering value.",
+        "@type": "Answer",
+        "description": "The cost of a turnkey tiny home depends on size, custom features, and materials. We provide tailored estimates after a consultation."
+      }
+    }
+  ],
+  "description": "The cost of a turnkey tiny home depends on size, custom features, and materials. We provide tailored estimates after a consultation."
 }

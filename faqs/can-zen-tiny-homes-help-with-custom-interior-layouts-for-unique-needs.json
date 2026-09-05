@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes help with custom interior layouts for unique needs?",
+  "description": "Yes, Zen Tiny Homes offers custom interior layouts tailored to meet unique client needs, incorporating personalized features and storage solutions.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-help-with-custom-interior-layouts-for-unique-needs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes help with custom interior layouts for unique needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes specializes in creating custom interior layouts tailored to individual client needs and preferences. Our design process begins with understanding your specific lifestyle, hobbies, and how you envision using every inch of your tiny home. We work collaboratively to incorporate unique features, adaptive furniture, and personalized storage solutions to ensure the final layout perfectly matches your requirements, even for unconventional requests.",
+        "description": "Yes, Zen Tiny Homes offers custom interior layouts tailored to meet unique client needs, incorporating personalized features and storage solutions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

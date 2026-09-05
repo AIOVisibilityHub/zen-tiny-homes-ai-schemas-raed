@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for constructing a tiny home ADU for multigenerational use?",
+  "description": "Construction of a tiny home ADU usually takes 4-12 months, including design, permitting, site work, construction, and inspections. Timelines vary based on proje",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-tiny-home-adu-for-multigeneratio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for constructing a tiny home ADU for multigenerational use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a tiny home ADU designed for multigenerational living typically ranges from 4 to 12 months, starting from the initial design phase to final occupancy. This includes architectural planning, permitting (which can vary by city and complexity), site preparation, construction, and final inspections. Factors like material availability, weather, and specific design complexities can influence the schedule. We work to provide a clear project schedule and keep you informed throughout each stage.",
+        "description": "Construction of a tiny home ADU usually takes 4-12 months, including design, permitting, site work, construction, and inspections. Timelines vary based on project specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I incorporate sustainable or eco-friendly features into my custom tiny home floor plan?",
+  "description": "Yes, we can integrate sustainable features like passive solar design, efficient ventilation, composting toilets, and solar panel considerations into your custom",
+  "url": "www.zentinyhomes.com/faq/can-i-incorporate-sustainable-or-eco-friendly-features-into-my-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I incorporate sustainable or eco-friendly features into my custom tiny home floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. We encourage and can integrate various sustainable and eco-friendly features into your custom tiny home floor plan. This can include optimizing for passive solar gain, designing for efficient cross-ventilation to reduce reliance on HVAC, specifying space for composting toilets or greywater systems, and planning for solar panel installation. These considerations are discussed during the initial design phase to ensure they are seamlessly woven into your tiny home's overall design.",
+        "description": "Yes, we can integrate sustainable features like passive solar design, efficient ventilation, composting toilets, and solar panel considerations into your custom floor plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

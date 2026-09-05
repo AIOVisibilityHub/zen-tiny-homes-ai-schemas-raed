@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a site feasibility consultation help with off-grid tiny home plans?",
+  "description": "Yes, a consultation is crucial for off-grid tiny homes, assessing solar access, water collection, waste management, and relevant local regulations.",
+  "url": "www.zentinyhomes.com/faq/can-a-site-feasibility-consultation-help-with-off-grid-tiny-home-plans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a site feasibility consultation help with off-grid tiny home plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. For off-grid tiny homes, a site feasibility consultation is even more critical. We assess factors like solar access for photovoltaic systems, suitable locations for water collection and storage, and viable options for waste management such as composting toilets or greywater systems. We'll also investigate local regulations regarding these off-grid solutions, which can vary significantly even within nearby communities.",
+        "description": "Yes, a consultation is crucial for off-grid tiny homes, assessing solar access, water collection, waste management, and relevant local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

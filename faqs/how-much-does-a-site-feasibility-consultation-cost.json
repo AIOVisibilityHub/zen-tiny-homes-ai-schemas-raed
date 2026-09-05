@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a site feasibility consultation cost?",
+  "description": "The cost of a site feasibility consultation varies by location and property complexity. We provide an upfront quote based on your specific project needs.",
+  "url": "www.zentinyhomes.com/faq/how-much-does-a-site-feasibility-consultation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a site feasibility consultation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a site feasibility consultation can vary based on the location and complexity of the property. Factors influencing the price include the need for extensive research into zoning archives, travel distance, and the level of detail required in the final report. We provide a clear, upfront quote after an initial discussion about your specific property and project scope, ensuring transparency without hidden fees.",
+        "description": "The cost of a site feasibility consultation varies by location and property complexity. We provide an upfront quote based on your specific project needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

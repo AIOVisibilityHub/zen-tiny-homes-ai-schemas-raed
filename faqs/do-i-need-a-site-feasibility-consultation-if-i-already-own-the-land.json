@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a site feasibility consultation if I already own the land?",
+  "description": "Yes, even if you own the land, a consultation ensures compliance with zoning and building codes, and identifies potential site-specific issues.",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-site-feasibility-consultation-if-i-already-own-the-land",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a site feasibility consultation if I already own the land?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, even if you already own the land, a site feasibility consultation is highly recommended. Land ownership does not automatically guarantee that a tiny home can be built on it as you envision. The consultation ensures your property complies with current zoning laws, building codes, and environmental regulations specific to tiny homes. It helps identify potential issues related to utilities, access, or site preparation that could impact your budget and timeline.",
+        "description": "Yes, even if you own the land, a consultation ensures compliance with zoning and building codes, and identifies potential site-specific issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

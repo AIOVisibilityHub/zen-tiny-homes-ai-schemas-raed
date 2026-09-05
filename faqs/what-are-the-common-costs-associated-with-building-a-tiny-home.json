@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common costs associated with building a tiny home?",
+  "description": "Common tiny home costs include design, materials, labor, appliances, utility hookups, and potentially land, site prep, and permitting.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-costs-associated-with-building-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common costs associated with building a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost of building a tiny home can vary widely based on size, materials, level of customization, and whether it's on wheels or a foundation. Key cost categories include design and architectural plans, raw materials, labor, specialized appliances, and utility hookups. If placed on a foundation, land acquisition, site preparation, and foundation work will add to the expense. Permitting and inspection fees are also factors to consider. We provide detailed cost breakdowns after understanding your project scope, helping you budget effectively.",
+        "description": "Common tiny home costs include design, materials, labor, appliances, utility hookups, and potentially land, site prep, and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

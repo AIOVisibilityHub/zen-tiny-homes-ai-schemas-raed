@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utilities are needed for a backyard tiny home?",
+  "description": "Backyard tiny homes need connections to water, sewer/septic, and electricity, often tying into the main house's existing utilities.",
+  "url": "www.zentinyhomes.com/faq/what-utilities-are-needed-for-a-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utilities are needed for a backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A backyard tiny home typically requires connections to essential utilities, including water, sewer or septic, electricity, and sometimes gas. These connections often tie into the existing main house's utilities, though sometimes separate meters are installed. Zen Tiny Homes evaluates your property's existing infrastructure and plans for all necessary utility extensions and connections to ensure your new tiny home is fully functional and up to code.",
+        "description": "Backyard tiny homes need connections to water, sewer/septic, and electricity, often tying into the main house's existing utilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

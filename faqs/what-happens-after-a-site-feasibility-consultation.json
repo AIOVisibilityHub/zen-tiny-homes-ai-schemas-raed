@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens after a site feasibility consultation?",
+  "description": "After the consultation, you'll receive a detailed report with findings and recommendations. We can then discuss design, permits, and next steps.",
+  "url": "www.zentinyhomes.com/faq/what-happens-after-a-site-feasibility-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens after a site feasibility consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Following the consultation, you will receive a detailed report summarizing our findings, including potential challenges, recommended next steps, and estimated costs for site preparation or utility connections. This report empowers you to make informed decisions about your property and tiny home project. We can then discuss design adjustments, permit requirements, and connect you with relevant professionals if further specialized assessments are needed.",
+        "description": "After the consultation, you'll receive a detailed report with findings and recommendations. We can then discuss design, permits, and next steps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

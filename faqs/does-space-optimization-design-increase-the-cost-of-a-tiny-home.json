@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does space-optimization design increase the cost of a tiny home?",
+  "description": "Space-optimization design can impact cost; custom features may be more expensive but reduce external furniture needs. It can offer long-term value and functiona",
+  "url": "www.zentinyhomes.com/faq/does-space-optimization-design-increase-the-cost-of-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does space-optimization design increase the cost of a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Space-optimization design can influence the cost of a tiny home, but it's not always a direct increase. While custom built-ins, specialized cabinetry, and multi-functional furniture might have a higher initial price point than standard options, they reduce the need for separate furniture purchases. Furthermore, efficient use of space can sometimes allow for a slightly smaller overall footprint, potentially offsetting some costs. The investment in thoughtful design often pays off in long-term comfort and functionality, enhancing the home's value.",
+        "description": "Space-optimization design can impact cost; custom features may be more expensive but reduce external furniture needs. It can offer long-term value and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

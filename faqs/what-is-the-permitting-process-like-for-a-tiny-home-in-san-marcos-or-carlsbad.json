@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the permitting process like for a tiny home in San Marcos or Carlsbad?",
+  "description": "Permitting for tiny homes in San Marcos or Carlsbad involves submitting detailed plans for zoning and building code review; Zen Tiny Homes assists with this pro",
+  "url": "www.zentinyhomes.com/faq/what-is-the-permitting-process-like-for-a-tiny-home-in-san-marcos-or-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the permitting process like for a tiny home in San Marcos or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permitting process for a tiny home in San Marcos or Carlsbad involves adhering to specific local zoning ordinances and building codes. This typically includes submitting detailed architectural plans, site plans, and utility connection diagrams for review. Zen Tiny Homes assists clients throughout this process, helping prepare the necessary documentation and navigating local municipal requirements to ensure all permits are secured before construction begins, which can take several weeks or months.",
+        "description": "Permitting for tiny homes in San Marcos or Carlsbad involves submitting detailed plans for zoning and building code review; Zen Tiny Homes assists with this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

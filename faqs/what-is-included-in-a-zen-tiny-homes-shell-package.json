@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a Zen Tiny Homes shell package?",
+  "description": "A Zen Tiny Homes shell package generally includes the trailer, subfloor, framing, roof, siding, windows, and an exterior door, forming a complete weather-tight",
+  "url": "www.zentinyhomes.com/faq/what-is-included-in-a-zen-tiny-homes-shell-package",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a Zen Tiny Homes shell package?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our standard tiny-home shell package typically includes the trailer, subfloor, exterior framing, roof, exterior siding, windows, and an entrance door. The specific components can vary based on the model and any custom requests. This provides a complete exterior envelope, protecting your investment from the elements. We focus on durable, high-quality materials to ensure a solid foundation for your tiny home project, ready for your personalized interior work.",
+        "description": "A Zen Tiny Homes shell package generally includes the trailer, subfloor, framing, roof, siding, windows, and an exterior door, forming a complete weather-tight exterior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

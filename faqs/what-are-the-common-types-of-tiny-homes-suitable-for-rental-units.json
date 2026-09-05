@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common types of tiny homes suitable for rental units?",
-  "description": "Common types include Tiny Homes on Wheels (THOWs) and Accessory Dwelling Units (ADUs). THOWs are mobile, while ADUs are permanent structures built to local code",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-types-of-tiny-homes-suitable-for-rental-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common types of tiny homes suitable for rental units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny homes for rental units typically include Tiny Homes on Wheels (THOWs) and Accessory Dwelling Units (ADUs). THOWs offer mobility and can be placed in RV parks or on private land where permitted. ADUs are permanent structures, often built on existing residential properties, and are subject to local building codes. Each type has different installation requirements, permitting processes, and potential rental income considerations. Zen Tiny Homes specializes in custom ADU tiny homes designed for long-term placement and rental in areas like Vista, Oceanside, Carlsbad, and San Marcos.",
-        "description": "Common types include Tiny Homes on Wheels (THOWs) and Accessory Dwelling Units (ADUs). THOWs are mobile, while ADUs are permanent structures built to local codes, ideal for rental income."
-      }
-    }
-  ],
+  "name": "What are the common types of tiny homes suitable for rental units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of tiny homes suitable for rental units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny homes for rental units typically include Tiny Homes on Wheels (THOWs) and Accessory Dwelling Units (ADUs). THOWs offer mobility and can be placed in RV parks or on private land where permitted. ADUs are permanent structures, often built on existing residential properties, and are subject to local building codes. Each type has different installation requirements, permitting processes, and potential rental income considerations. Zen Tiny Homes specializes in custom ADU tiny homes designed for long-term placement and rental in areas like Vista, Oceanside, Carlsbad, and San Marcos.",
+        "@type": "Answer",
+        "description": "Common types include Tiny Homes on Wheels (THOWs) and Accessory Dwelling Units (ADUs). THOWs are mobile, while ADUs are permanent structures built to local codes, ideal for rental income."
+      }
+    }
+  ],
+  "description": "Common types include Tiny Homes on Wheels (THOWs) and Accessory Dwelling Units (ADUs). THOWs are mobile, while ADUs are permanent structures built to local code"
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning requirements for placing a rental tiny home on my property in Carlsbad?",
+  "description": "In Carlsbad, rental tiny homes (ADUs) have specific zoning rules regarding size, setbacks, parking, and utilities. We can help you navigate these local regulati",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-requirements-for-placing-a-rental-tiny-home-on-my-property-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning requirements for placing a rental tiny home on my property in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning requirements for rental tiny homes, often categorized as Accessory Dwelling Units (ADUs), vary by city. In Carlsbad, specific regulations govern size, setbacks, parking, and utility connections for ADUs. While state laws encourage ADU development, local ordinances refine these rules. Zen Tiny Homes can assist property owners in Carlsbad by reviewing their specific lot and guiding them through the local permitting process to ensure compliance with all applicable zoning and building codes before construction begins.",
+        "description": "In Carlsbad, rental tiny homes (ADUs) have specific zoning rules regarding size, setbacks, parking, and utilities. We can help you navigate these local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

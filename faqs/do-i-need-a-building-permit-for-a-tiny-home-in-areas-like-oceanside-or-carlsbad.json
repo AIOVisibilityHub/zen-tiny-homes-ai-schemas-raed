@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for a tiny home in areas like Oceanside or Carlsbad?",
+  "description": "Yes, permits are generally required for tiny homes in areas like Oceanside or Carlsbad, particularly for permanent foundations or utility connections. Requireme",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-building-permit-for-a-tiny-home-in-areas-like-oceanside-or-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for a tiny home in areas like Oceanside or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in cities like Oceanside or Carlsbad, building permits are typically required for tiny homes, especially if they are placed on a permanent foundation or connected to municipal utilities. The specific requirements can vary based on the home's classification (e.g., ADU, manufactured home, or recreational vehicle) and local zoning ordinances. It's crucial to consult with the local planning department early in your project. Zen Tiny Homes assists clients in navigating these permitting processes to ensure compliance with all regional regulations.",
+        "description": "Yes, permits are generally required for tiny homes in areas like Oceanside or Carlsbad, particularly for permanent foundations or utility connections. Requirements depend on local zoning and home classification."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

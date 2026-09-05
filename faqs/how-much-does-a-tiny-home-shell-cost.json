@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "How much does a tiny-home shell cost?",
-  "description": "Tiny-home shell costs vary by size, design, materials, and foundation type. They are more affordable than finished homes. Contact us for a custom quote.",
+  "description": "Tiny-home shell costs vary based on size, design, and materials, with basic models starting at a lower price point than finished homes.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-tiny-home-shell-cost",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "How much does a tiny-home shell cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The cost of a tiny-home shell varies significantly based on its size, design complexity, selected materials for the exterior, and whether it's built on a trailer or a permanent foundation. Shells are generally less expensive than a fully finished tiny home, as they exclude interior finishes, plumbing, and electrical systems. To get an accurate estimate, it's best to discuss your specific design preferences and requirements with us, as each project is custom quoted.",
-        "description": "Tiny-home shell costs vary by size, design, materials, and foundation type. They are more affordable than finished homes. Contact us for a custom quote."
+        "text": "The cost of a tiny-home shell varies significantly based on its size, design complexity, and the materials chosen. Basic shells typically start in a certain range, with prices increasing for larger dimensions or premium features like specific window types or siding materials. It's an investment that saves on the upfront cost of a finished tiny home, as you manage the interior completion. We provide detailed quotes tailored to your specific requirements.",
+        "description": "Tiny-home shell costs vary based on size, design, and materials, with basic models starting at a lower price point than finished homes."
       }
     }
   ],

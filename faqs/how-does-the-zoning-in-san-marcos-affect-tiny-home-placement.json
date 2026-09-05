@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the zoning in San Marcos affect tiny home placement?",
+  "description": "San Marcos zoning laws dictate tiny home placement, affecting whether it qualifies as an ADU, its size, setbacks, height, and utility hookups. Consult local pla",
+  "url": "www.zentinyhomes.com/faq/how-does-the-zoning-in-san-marcos-affect-tiny-home-placement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the zoning in San Marcos affect tiny home placement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Marcos, like many other cities, zoning regulations play a critical role in determining where and how a tiny home can be placed. The city's specific ordinances will dictate whether a tiny home can be considered an Accessory Dwelling Unit (ADU), a detached ADU, or a junior ADU on an existing residential property. These regulations define setbacks, size limitations, height restrictions, and utility connection requirements. It's essential to consult the City of San Marcos's planning department directly or with Zen Tiny Homes to understand the specific zoning codes applicable to your desired property.",
+        "description": "San Marcos zoning laws dictate tiny home placement, affecting whether it qualifies as an ADU, its size, setbacks, height, and utility hookups. Consult local planning for details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

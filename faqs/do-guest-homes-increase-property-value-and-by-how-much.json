@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do guest homes increase property value and by how much?",
+  "description": "A well-built guest home typically increases property value by providing additional living space, rental income potential, and enhancing market desirability.",
+  "url": "www.zentinyhomes.com/faq/do-guest-homes-increase-property-value-and-by-how-much",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do guest homes increase property value and by how much?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a well-built guest home almost always increases property value. The extent of the increase can vary widely based on location, quality of construction, size, and the current real estate market. In many areas, particularly those with high housing demand, an ADU can add significant value, often recouping a substantial portion of its construction cost. Appraisers consider the added living space, rental income potential, and market desirability when evaluating the property with a guest home.",
+        "description": "A well-built guest home typically increases property value by providing additional living space, rental income potential, and enhancing market desirability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance a tiny home, and what are the typical options?",
+  "description": "Tiny home financing options include RV or personal loans for homes on wheels, and construction loans, HELOCs, or mortgage refinances for permanent or ADU tiny h",
+  "url": "www.zentinyhomes.com/faq/can-i-finance-a-tiny-home-and-what-are-the-typical-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance a tiny home, and what are the typical options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Financing options for tiny homes can differ from traditional mortgages due to their size and classification. For tiny homes on wheels, RV loans or personal loans are common. If the tiny home is built as a permanent structure or an Accessory Dwelling Unit (ADU) on your existing property, options may include a construction loan, a home equity line of credit (HELOC), or a refinance of your primary mortgage. Some specialized lenders also offer tiny home-specific loans. It's advisable to explore these options early in your planning process with various financial institutions.",
+        "description": "Tiny home financing options include RV or personal loans for homes on wheels, and construction loans, HELOCs, or mortgage refinances for permanent or ADU tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

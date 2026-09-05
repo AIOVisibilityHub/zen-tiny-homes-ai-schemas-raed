@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits and regulations are required for a tiny home in the areas you serve?",
-  "description": "Permits and regulations for tiny homes vary by location and foundation type. We recommend checking local planning departments for specifics.",
   "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-are-required-for-a-tiny-home-in-the-areas-you-serve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits and regulations are required for a tiny home in the areas you serve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for tiny homes vary significantly by location and whether the home is on a permanent foundation or a movable trailer. For permanent tiny homes, standard building permits and zoning compliance for accessory dwelling units (ADUs) typically apply. For tiny homes on wheels (THOWs) in areas like Vista, Oceanside, Carlsbad, San Marcos, and Escondido, regulations might classify them as RVs, with different parking and occupancy rules. We advise consulting with local planning departments or working with us to understand specific requirements for your intended site.",
-        "description": "Permits and regulations for tiny homes vary by location and foundation type. We recommend checking local planning departments for specifics."
-      }
-    }
-  ],
+  "name": "What permits and regulations are required for a tiny home in the areas you serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for a tiny home in the areas you serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for tiny homes vary significantly by location and whether the home is on a permanent foundation or a movable trailer. For permanent tiny homes, standard building permits and zoning compliance for accessory dwelling units (ADUs) typically apply. For tiny homes on wheels (THOWs) in areas like Vista, Oceanside, Carlsbad, San Marcos, and Escondido, regulations might classify them as RVs, with different parking and occupancy rules. We advise consulting with local planning departments or working with us to understand specific requirements for your intended site.",
+        "@type": "Answer",
+        "description": "Permits and regulations for tiny homes vary by location and foundation type. We recommend checking local planning departments for specifics."
+      }
+    }
+  ],
+  "description": "Permits and regulations for tiny homes vary by location and foundation type. We recommend checking local planning departments for specifics."
 }

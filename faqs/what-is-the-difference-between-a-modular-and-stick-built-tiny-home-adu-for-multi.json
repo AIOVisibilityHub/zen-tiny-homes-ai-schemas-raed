@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a modular and stick-built tiny home ADU for multigenerational living?",
+  "description": "Modular tiny home ADUs are built off-site and assembled, often faster. Stick-built ADUs are constructed on-site, offering more design flexibility. The best choi",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-modular-and-stick-built-tiny-home-adu-for-multi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a modular and stick-built tiny home ADU for multigenerational living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A modular tiny home ADU is constructed off-site in a factory setting in sections, then transported and assembled on your property. This often leads to faster construction times and controlled quality due to the indoor environment. A stick-built tiny home ADU, conversely, is constructed entirely on your property from the ground up, similar to a traditional home. Stick-built offers greater flexibility in design and customization. The choice depends on your budget, timeline, and desired level of customization for your multigenerational living space.",
+        "description": "Modular tiny home ADUs are built off-site and assembled, often faster. Stick-built ADUs are constructed on-site, offering more design flexibility. The best choice depends on budget and customization needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "name": "What is a tiny-home shell?",
-  "description": "A tiny-home shell is the structural, weather-tight exterior of a tiny house, providing a foundation for owner-completed interiors.",
+  "name": "What is a tiny home shell?",
+  "description": "A tiny home shell is the completed exterior structure of a tiny house, including walls, roof, windows, and doors, allowing the owner to finish the interior.",
   "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-shell",
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is a tiny-home shell?",
+      "name": "What is a tiny home shell?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A tiny-home shell provides the basic structure of a tiny house, typically including the exterior walls, roof, subfloor, and a trailer if it's on wheels. It’s essentially a weather-tight enclosure, offering a solid foundation for homeowners to complete the interior themselves. This option allows for significant customization and can be a cost-effective way to build a tiny home by saving on professional finishing labor. Zen Tiny Homes constructs these shells, providing a crucial starting point for your project.",
-        "description": "A tiny-home shell is the structural, weather-tight exterior of a tiny house, providing a foundation for owner-completed interiors."
+        "text": "A tiny home shell is the foundational structure of a tiny house, providing the enclosed exterior. It typically includes the framed walls, roof, subfloor, exterior siding, windows, and doors. This allows homeowners to complete the interior finishing themselves, such as plumbing, electrical, insulation, and custom interior design. It's a common option for those who want to save on labor costs and personalize their tiny home's interior to their specific tastes and needs.",
+        "description": "A tiny home shell is the completed exterior structure of a tiny house, including walls, roof, windows, and doors, allowing the owner to finish the interior."
       }
     }
   ],

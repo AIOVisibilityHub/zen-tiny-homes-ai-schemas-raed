@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a tiny home on wheels and one with a permanent foundation?",
+  "description": "A tiny home on wheels is mobile and often classified as an RV, while one with a permanent foundation is fixed to land, classified as an ADU or home, and subject",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-on-wheels-and-one-with-a-permanent-fo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a tiny home on wheels and one with a permanent foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main difference lies in mobility and classification. A tiny home on wheels, often referred to as a Tiny House on Wheels (THOW), is typically built to RVIA standards and designed to be movable. It's often classified as a recreational vehicle or park model, impacting where it can be legally parked. A tiny home with a permanent foundation is affixed to land, similar to a traditional house. These are usually classified as Accessory Dwelling Units (ADUs) or single-family homes and must comply with local building codes. Each type has distinct permitting, zoning, and utility connection requirements.",
+        "description": "A tiny home on wheels is mobile and often classified as an RV, while one with a permanent foundation is fixed to land, classified as an ADU or home, and subject to traditional building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

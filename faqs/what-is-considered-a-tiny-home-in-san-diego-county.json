@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered a tiny home in San Diego County?",
+  "description": "Tiny homes in San Diego County are typically under 400 sq ft for park models or 600 sq ft for foundation homes, with regulations varying by type and location.",
+  "url": "www.zentinyhomes.com/faq/what-is-considered-a-tiny-home-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered a tiny home in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego County, a tiny home is generally defined by its size and can be either a park model RV (on wheels) or a small dwelling on a permanent foundation. While there isn't one universal legal definition, most tiny homes are less than 400 square feet for park models and under 600 square feet for foundation homes. Regulations vary depending on whether it's an Accessory Dwelling Unit (ADU) or a standalone structure. Zen Tiny Homes can help clarify specific zoning and building codes for your property in areas like Vista or Carlsbad.",
+        "description": "Tiny homes in San Diego County are typically under 400 sq ft for park models or 600 sq ft for foundation homes, with regulations varying by type and location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of building a tiny home as an Accessory Dwelling Unit (ADU)?",
+  "description": "ADU tiny homes increase property value, generate rental income, offer flexible living space, and benefit from streamlined permitting.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-building-a-tiny-home-as-an-accessory-dwelling-unit-ad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of building a tiny home as an Accessory Dwelling Unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a tiny home as an ADU offers several advantages, including increasing property value, generating rental income, or providing flexible living space for family members. ADUs are typically easier to permit than standalone tiny homes due to specific state and local incentives aimed at addressing housing shortages. They can also offer significant cost savings compared to traditional home additions. Zen Tiny Homes specializes in ADU construction, guiding you through the benefits and requirements.",
+        "description": "ADU tiny homes increase property value, generate rental income, offer flexible living space, and benefit from streamlined permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance a foundation-based tiny home with a traditional mortgage?",
-  "description": "Yes, foundation-based tiny homes can often be financed with traditional mortgages because they are permanent real property and meet lending criteria.",
   "url": "www.zentinyhomes.com/faq/can-i-finance-a-foundation-based-tiny-home-with-a-traditional-mortgage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance a foundation-based tiny home with a traditional mortgage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, foundation-based tiny homes can often be financed with traditional mortgages, unlike tiny homes on wheels. Because they are permanently affixed to land and considered real property, they qualify for conventional loans, FHA loans, or even construction loans, provided they meet minimum square footage requirements and local appraisal standards. Lenders assess the property's value, your creditworthiness, and the home's compliance with building codes. It's advisable to speak with lenders experienced in financing ADUs or smaller permanent structures.",
-        "description": "Yes, foundation-based tiny homes can often be financed with traditional mortgages because they are permanent real property and meet lending criteria."
-      }
-    }
-  ],
+  "name": "Can I finance a foundation-based tiny home with a traditional mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a foundation-based tiny home with a traditional mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foundation-based tiny homes can often be financed with traditional mortgages, unlike tiny homes on wheels. Because they are permanently affixed to land and considered real property, they qualify for conventional loans, FHA loans, or even construction loans, provided they meet minimum square footage requirements and local appraisal standards. Lenders assess the property's value, your creditworthiness, and the home's compliance with building codes. It's advisable to speak with lenders experienced in financing ADUs or smaller permanent structures.",
+        "@type": "Answer",
+        "description": "Yes, foundation-based tiny homes can often be financed with traditional mortgages because they are permanent real property and meet lending criteria."
+      }
+    }
+  ],
+  "description": "Yes, foundation-based tiny homes can often be financed with traditional mortgages because they are permanent real property and meet lending criteria."
 }

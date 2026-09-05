@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of choosing a foundation-based tiny home for a permanent residence?",
+  "description": "Foundation-based tiny homes offer stability, durability, code compliance, and real property status, facilitating financing and potential appreciation. They inte",
+  "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-choosing-a-foundation-based-tiny-home-for-a-permanent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of choosing a foundation-based tiny home for a permanent residence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a foundation-based tiny home for a permanent residence offers several advantages. These homes provide greater stability and durability compared to mobile alternatives. They are built to local building codes, ensuring safety and compliance, and are considered real property, which can appreciate in value. This also allows for easier financing options, including traditional mortgages. Furthermore, integration with municipal utilities is more straightforward, offering a permanent and secure living solution.",
+        "description": "Foundation-based tiny homes offer stability, durability, code compliance, and real property status, facilitating financing and potential appreciation. They integrate well with utilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

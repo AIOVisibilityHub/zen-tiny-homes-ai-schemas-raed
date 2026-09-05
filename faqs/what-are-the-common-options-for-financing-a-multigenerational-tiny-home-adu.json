@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common options for financing a multigenerational tiny home ADU?",
+  "description": "Common financing options for a multigenerational tiny home ADU include construction loans, home equity lines of credit (HELOCs), or cash-out refinancing. Consul",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-options-for-financing-a-multigenerational-tiny-home-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common options for financing a multigenerational tiny home ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are several financing options available for building a multigenerational tiny home ADU. These commonly include construction loans, which are specifically designed for new builds and disbursed in stages. Home equity lines of credit (HELOCs) or home equity loans can also be utilized, leveraging the equity in your existing property. Some homeowners may also consider cash-out refinancing. It's advisable to consult with a financial institution to determine the best option for your individual financial situation and project scope.",
+        "description": "Common financing options for a multigenerational tiny home ADU include construction loans, home equity lines of credit (HELOCs), or cash-out refinancing. Consult a financial institution for the best fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

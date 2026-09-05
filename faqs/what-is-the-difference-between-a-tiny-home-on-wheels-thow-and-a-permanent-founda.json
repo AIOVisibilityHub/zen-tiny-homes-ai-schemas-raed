@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a tiny home on wheels (THOW) and a permanent foundation tiny home for zoning purposes?",
-  "description": "A tiny home on a permanent foundation is typically seen as real property, subject to building codes like an ADU. A tiny home on wheels is often regulated like a",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-on-wheels-thow-and-a-permanent-founda",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a tiny home on wheels (THOW) and a permanent foundation tiny home for zoning purposes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For zoning purposes, the distinction between a tiny home on wheels (THOW) and a permanent foundation tiny home is significant. A permanent foundation tiny home is typically considered real property, subject to local building codes for conventional homes and often classified as an ADU. A THOW, due to its mobility, is often regulated more like a recreational vehicle (RV) or park model. This can mean THOWs face stricter limitations on long-term occupancy or may only be permitted in designated RV parks, unless specific local ordinances allow them as ADUs or primary residences under certain conditions. Most cities in our service area do not permit THOWs for permanent residency outside of specific RV park settings.",
-        "description": "A tiny home on a permanent foundation is typically seen as real property, subject to building codes like an ADU. A tiny home on wheels is often regulated like an RV, with different rules for long-term occupancy."
-      }
-    }
-  ],
+  "name": "What is the difference between a tiny home on wheels (THOW) and a permanent foundation tiny home for zoning purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tiny home on wheels (THOW) and a permanent foundation tiny home for zoning purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For zoning purposes, the distinction between a tiny home on wheels (THOW) and a permanent foundation tiny home is significant. A permanent foundation tiny home is typically considered real property, subject to local building codes for conventional homes and often classified as an ADU. A THOW, due to its mobility, is often regulated more like a recreational vehicle (RV) or park model. This can mean THOWs face stricter limitations on long-term occupancy or may only be permitted in designated RV parks, unless specific local ordinances allow them as ADUs or primary residences under certain conditions. Most cities in our service area do not permit THOWs for permanent residency outside of specific RV park settings.",
+        "@type": "Answer",
+        "description": "A tiny home on a permanent foundation is typically seen as real property, subject to building codes like an ADU. A tiny home on wheels is often regulated like an RV, with different rules for long-term occupancy."
+      }
+    }
+  ],
+  "description": "A tiny home on a permanent foundation is typically seen as real property, subject to building codes like an ADU. A tiny home on wheels is often regulated like a"
 }

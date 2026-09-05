@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local zoning laws in Carlsbad affect building an ADU for multigenerational living?",
+  "description": "Carlsbad zoning laws affect ADU size, location, setbacks, and utility connections. Understanding these local ordinances is crucial for permit approval for multi",
+  "url": "www.zentinyhomes.com/faq/how-do-local-zoning-laws-in-carlsbad-affect-building-an-adu-for-multigenerationa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local zoning laws in Carlsbad affect building an ADU for multigenerational living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning laws in Carlsbad dictate what type of ADUs can be built, where they can be located on your property, and their maximum size. These regulations are designed to ensure ADUs comply with local planning and safety standards. Carlsbad, like many cities, has specific requirements regarding setbacks, height limits, parking, and utility connections for ADUs. Understanding these local ordinances is crucial for a smooth permit approval process. We assist in navigating these specific Carlsbad zoning requirements to ensure compliance for your multigenerational living solution.",
+        "description": "Carlsbad zoning laws affect ADU size, location, setbacks, and utility connections. Understanding these local ordinances is crucial for permit approval for multigenerational ADUs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

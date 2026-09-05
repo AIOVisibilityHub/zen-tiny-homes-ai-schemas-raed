@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is required for a tiny home compared to a traditional house?",
+  "description": "Tiny homes require similar maintenance to traditional houses, such as checking roofing, plumbing, and electrical. Off-grid systems and trailers (for mobile tiny",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-maintenance-is-required-for-a-tiny-home-compared-to-a-traditional-h",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is required for a tiny home compared to a traditional house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny homes generally require similar types of maintenance as traditional houses, but often on a smaller scale. This includes routine checks of roofing, siding, windows, and foundations for wear or damage. Plumbing and electrical systems need periodic inspection. If your tiny home incorporates off-grid systems like solar panels or composting toilets, these will have their own specific maintenance schedules. Homes on wheels require additional attention to the trailer, tires, and undercarriage. The compact size can make some tasks easier, but consistent upkeep is still crucial for longevity.",
+        "description": "Tiny homes require similar maintenance to traditional houses, such as checking roofing, plumbing, and electrical. Off-grid systems and trailers (for mobile tiny homes) have additional specific maintenance needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

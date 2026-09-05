@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What is a foundation-based tiny home?",
-  "description": "A foundation-based tiny home is a small dwelling permanently built on a fixed foundation, adhering to local building codes and zoning laws.",
+  "description": "A foundation-based tiny home is a permanent dwelling built on a concrete foundation, adhering to local building codes.",
   "url": "www.zentinyhomes.com/faq/what-is-a-foundation-based-tiny-home",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What is a foundation-based tiny home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A foundation-based tiny home is a small dwelling built on a permanent foundation, similar to a traditional house. Unlike tiny homes on wheels, these structures are considered real property and are subject to local building codes and zoning regulations. They offer long-term stability and are often integrated into existing residential communities, providing a more conventional living experience while embracing the benefits of a smaller footprint. This type of tiny home requires a building permit and compliance with local ordinances.",
-        "description": "A foundation-based tiny home is a small dwelling permanently built on a fixed foundation, adhering to local building codes and zoning laws."
+        "text": "A foundation-based tiny home is a small, permanent dwelling constructed on a traditional concrete foundation, similar to a standard house. Unlike tiny homes on wheels, these structures are considered real property and are subject to local building codes and zoning regulations. This type of tiny home offers greater stability, a longer lifespan, and often qualifies for traditional mortgages, providing a more permanent housing solution than a mobile alternative. They are designed for long-term residency and integration into a community.",
+        "description": "A foundation-based tiny home is a permanent dwelling built on a concrete foundation, adhering to local building codes."
       }
     }
   ],

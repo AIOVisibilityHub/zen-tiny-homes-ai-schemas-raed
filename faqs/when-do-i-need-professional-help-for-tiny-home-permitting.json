@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need professional help for tiny home permitting?",
-  "description": "Professional help is beneficial for complex zoning, unique site challenges, or when unfamiliar with local building codes, ensuring compliance and avoiding delay",
   "url": "www.zentinyhomes.com/faq/when-do-i-need-professional-help-for-tiny-home-permitting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need professional help for tiny home permitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider professional help for tiny home permitting when your project involves complex zoning interpretations, unique site challenges, or when you are unfamiliar with local building codes and regulations. Architects, designers specializing in tiny homes, or permit expediters can provide invaluable assistance in drafting compliant plans, navigating the submission process, and communicating with city officials. Their expertise can help avoid costly delays and ensure your tiny home meets all necessary legal requirements, especially if you plan to use it as an Accessory Dwelling Unit (ADU).",
-        "description": "Professional help is beneficial for complex zoning, unique site challenges, or when unfamiliar with local building codes, ensuring compliance and avoiding delays."
-      }
-    }
-  ],
+  "name": "When do I need professional help for tiny home permitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for tiny home permitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional help for tiny home permitting when your project involves complex zoning interpretations, unique site challenges, or when you are unfamiliar with local building codes and regulations. Architects, designers specializing in tiny homes, or permit expediters can provide invaluable assistance in drafting compliant plans, navigating the submission process, and communicating with city officials. Their expertise can help avoid costly delays and ensure your tiny home meets all necessary legal requirements, especially if you plan to use it as an Accessory Dwelling Unit (ADU).",
+        "@type": "Answer",
+        "description": "Professional help is beneficial for complex zoning, unique site challenges, or when unfamiliar with local building codes, ensuring compliance and avoiding delays."
+      }
+    }
+  ],
+  "description": "Professional help is beneficial for complex zoning, unique site challenges, or when unfamiliar with local building codes, ensuring compliance and avoiding delay"
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for a foundation-based tiny home?",
+  "description": "Maintenance for a foundation-based tiny home is similar to a conventional house, involving routine checks of the roof, exterior, foundation, and utilities. Regu",
+  "url": "www.zentinyhomes.com/faq/what-maintenance-is-required-for-a-foundation-based-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for a foundation-based tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a foundation-based tiny home is similar to that of a conventional house, scaled down due to its smaller size. This includes routine checks of the roof, exterior siding, foundation, plumbing, and electrical systems. Regular cleaning, painting, and addressing any minor repairs promptly will help preserve the home's condition and value. Specific maintenance needs will also depend on the materials used and the local climate. Proactive care ensures longevity and prevents larger issues.",
+        "description": "Maintenance for a foundation-based tiny home is similar to a conventional house, involving routine checks of the roof, exterior, foundation, and utilities. Regular care ensures longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

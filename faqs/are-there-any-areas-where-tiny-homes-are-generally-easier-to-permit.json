@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there any areas where tiny homes are generally easier to permit?",
+  "description": "Tiny homes are generally easier to permit in areas with progressive ADU ordinances or more flexible rural zoning, but local regulations always apply.",
+  "url": "www.zentinyhomes.com/faq/are-there-any-areas-where-tiny-homes-are-generally-easier-to-permit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there any areas where tiny homes are generally easier to permit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permitting ease for tiny homes largely depends on state and local regulations. Generally, areas with progressive ADU (Accessory Dwelling Unit) ordinances tend to be more accommodating, as they streamline the process for smaller secondary dwellings. Rural areas or counties with less stringent building codes might also be more flexible, especially for tiny homes on wheels. However, even in these areas, specific regulations on sanitation, utility connections, and minimum dwelling sizes still apply. It's crucial to research the specific jurisdiction.",
+        "description": "Tiny homes are generally easier to permit in areas with progressive ADU ordinances or more flexible rural zoning, but local regulations always apply."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

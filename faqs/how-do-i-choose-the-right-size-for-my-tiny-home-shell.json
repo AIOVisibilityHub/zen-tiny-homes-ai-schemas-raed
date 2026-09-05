@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "name": "How do I choose the right size for my tiny-home shell?",
-  "description": "Consider your lifestyle, occupants, intended use, and local dimension regulations to choose the right shell size. We can help guide you.",
+  "name": "How do I choose the right size for my tiny home shell?",
+  "description": "Choose your tiny home shell size based on occupants, lifestyle, intended use, and local zoning; consider storage and essential amenities.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-size-for-my-tiny-home-shell",
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How do I choose the right size for my tiny-home shell?",
+      "name": "How do I choose the right size for my tiny home shell?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Choosing the right size depends on your lifestyle, intended use, and the number of occupants. Consider what furniture, appliances, and personal belongings you need to accommodate. Also, think about any local regulations regarding tiny home dimensions, especially for tiny houses on wheels where width and length are often restricted for road legality. We can guide you through common dimensions and help assess how much space you genuinely require.",
-        "description": "Consider your lifestyle, occupants, intended use, and local dimension regulations to choose the right shell size. We can help guide you."
+        "text": "Choosing the right size for your tiny home shell depends on several factors: the number of occupants, your lifestyle, intended use (full-time living, guest house, office), and local zoning restrictions. Consider how much storage space you need, if you require a dedicated workspace, and what amenities are essential. Think about future needs as well. We can help you evaluate different dimensions and layouts during our consultation to ensure the shell meets your functional and aesthetic requirements.",
+        "description": "Choose your tiny home shell size based on occupants, lifestyle, intended use, and local zoning; consider storage and essential amenities."
       }
     }
   ],

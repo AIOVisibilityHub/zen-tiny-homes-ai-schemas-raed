@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a tiny home project from planning to move-in?",
+  "description": "A tiny home project can typically take 6-12 months from initial planning to move-in, depending on design, permitting, and construction complexity.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-a-tiny-home-project-from-planning-to-move-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a tiny home project from planning to move-in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a tiny home project can vary significantly based on factors like design complexity, permitting processes, and whether it's a custom build or a pre-fabricated model. Generally, planning and design can take 1-3 months. Permitting, especially for a permanent foundation, might add another 1-4 months. Construction itself typically ranges from 3-6 months. Therefore, a complete project can often span 6-12 months, or sometimes longer, depending on local regulations and custom features. Zen Tiny Homes can provide a more accurate estimate after an initial consultation about your specific vision and site.",
+        "description": "A tiny home project can typically take 6-12 months from initial planning to move-in, depending on design, permitting, and construction complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you develop custom floor plans for tiny homes on wheels?",
+  "description": "Yes, we develop custom floor plans for tiny homes on wheels, accounting for unique mobile structure considerations like weight and dimensions.",
+  "url": "www.zentinyhomes.com/faq/do-you-develop-custom-floor-plans-for-tiny-homes-on-wheels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you develop custom floor plans for tiny homes on wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we specialize in developing custom floor plans for tiny homes on wheels. Designing for a mobile structure presents unique considerations, such as weight distribution, road legality dimensions, and securing interior elements for travel. Our designs ensure your tiny home is not only functional and aesthetically pleasing but also safe and compliant for transport, allowing you to enjoy both mobility and custom comfort.",
+        "description": "Yes, we develop custom floor plans for tiny homes on wheels, accounting for unique mobile structure considerations like weight and dimensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

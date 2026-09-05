@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best spot on my property for a tiny home?",
+  "description": "Choose a tiny home spot by evaluating setbacks, utility access, sun exposure, drainage, privacy, and aesthetics. A site assessment helps find the optimal locati",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-best-spot-on-my-property-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best spot on my property for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the best spot involves evaluating several factors: zoning setbacks, utility access points, sun exposure, natural drainage, privacy, and aesthetic appeal. Consider how the tiny home will integrate with existing structures and landscaping. A professional site assessment can help identify optimal locations by mapping out these elements, ensuring compliance, functionality, and maximizing the property's potential. Prioritize access to essential services and desirable views.",
+        "description": "Choose a tiny home spot by evaluating setbacks, utility access, sun exposure, drainage, privacy, and aesthetics. A site assessment helps find the optimal location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

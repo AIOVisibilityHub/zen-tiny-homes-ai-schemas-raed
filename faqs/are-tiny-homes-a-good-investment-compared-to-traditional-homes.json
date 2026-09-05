@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are tiny homes a good investment compared to traditional homes?",
+  "description": "Tiny homes can be a good investment by offering lower costs of ownership and financial flexibility, though appreciation rates may vary compared to traditional h",
+  "url": "www.zentinyhomes.com/faq/are-tiny-homes-a-good-investment-compared-to-traditional-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are tiny homes a good investment compared to traditional homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny homes can be a good investment, offering a more affordable entry into homeownership and significantly reduced ongoing costs like utilities and property taxes. While their appreciation rate might differ from traditional homes, they provide financial freedom and flexibility. The value of a tiny home is influenced by its quality, location, and demand in the specific market. Many view them as an investment in a sustainable and minimalist lifestyle.",
+        "description": "Tiny homes can be a good investment by offering lower costs of ownership and financial flexibility, though appreciation rates may vary compared to traditional homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

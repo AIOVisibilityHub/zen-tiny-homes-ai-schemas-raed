@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for constructing a custom tiny home?",
+  "description": "Custom tiny homes typically take 4-8 weeks for design and 3-6 months for construction, not including permit processing time.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for constructing a custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a custom tiny home depends on its complexity, material availability, and permit processing times. On average, the design phase can take 4-8 weeks, while the actual construction process typically spans 3-6 months. This does not include potential delays in obtaining necessary permits, which can add several weeks or months. Zen Tiny Homes works to streamline the process, providing clear timelines from design to completion.",
+        "description": "Custom tiny homes typically take 4-8 weeks for design and 3-6 months for construction, not including permit processing time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

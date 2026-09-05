@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a primary residence tiny home in Oceanside?",
+  "description": "In Oceanside, you'll need zoning approval, building permits, and permits for plumbing, electrical, and mechanical systems for a primary residence tiny home.",
+  "url": "www.zentinyhomes.com/faq/what-permits-are-required-for-a-primary-residence-tiny-home-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a primary residence tiny home in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a primary residence tiny home in Oceanside, you will typically need several permits from the City of Oceanside, including zoning approval, a building permit, and permits for plumbing, electrical, and mechanical systems. An initial zoning review determines if your property is suitable for a tiny home as a primary residence. Our team assists clients in navigating the local permitting process, preparing necessary documentation, and coordinating with city officials to ensure compliance with all applicable building codes and ordinances specific to Oceanside.",
+        "description": "In Oceanside, you'll need zoning approval, building permits, and permits for plumbing, electrical, and mechanical systems for a primary residence tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

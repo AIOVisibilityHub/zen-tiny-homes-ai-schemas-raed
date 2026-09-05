@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a junior ADU and a standard ADU?",
-  "description": "JADUs are smaller, interior units within a home, usually under 500 sq ft, with an efficiency kitchen. Standard ADUs are larger, self-contained units with full f",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-junior-adu-and-a-standard-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a junior ADU and a standard ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A Junior Accessory Dwelling Unit (JADU) is a smaller, interior ADU typically created within the existing footprint of a single-family home. JADUs are generally limited to 500 square feet and must include an efficiency kitchen, but they may share a bathroom with the main house or have a separate entrance. Standard ADUs are separate, self-contained living units that can be attached, detached, or converted from existing space. They typically have a full kitchen and bathroom and are often larger, offering more independence and flexibility.",
-        "description": "JADUs are smaller, interior units within a home, usually under 500 sq ft, with an efficiency kitchen. Standard ADUs are larger, self-contained units with full facilities."
-      }
-    }
-  ],
+  "name": "What is the difference between a junior ADU and a standard ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a junior ADU and a standard ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior Accessory Dwelling Unit (JADU) is a smaller, interior ADU typically created within the existing footprint of a single-family home. JADUs are generally limited to 500 square feet and must include an efficiency kitchen, but they may share a bathroom with the main house or have a separate entrance. Standard ADUs are separate, self-contained living units that can be attached, detached, or converted from existing space. They typically have a full kitchen and bathroom and are often larger, offering more independence and flexibility.",
+        "@type": "Answer",
+        "description": "JADUs are smaller, interior units within a home, usually under 500 sq ft, with an efficiency kitchen. Standard ADUs are larger, self-contained units with full facilities."
+      }
+    }
+  ],
+  "description": "JADUs are smaller, interior units within a home, usually under 500 sq ft, with an efficiency kitchen. Standard ADUs are larger, self-contained units with full f"
 }

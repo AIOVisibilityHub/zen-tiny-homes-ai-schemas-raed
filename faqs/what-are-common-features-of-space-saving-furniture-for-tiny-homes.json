@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common features of space-saving furniture for tiny homes?",
+  "description": "Space-saving furniture in tiny homes is multi-functional, such as sofa beds or folding tables, and often includes integrated storage. It maximizes utility in co",
+  "url": "www.zentinyhomes.com/faq/what-are-common-features-of-space-saving-furniture-for-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common features of space-saving furniture for tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Space-saving furniture for tiny homes is designed with versatility and compactness in mind. Common features include multi-functional pieces like sofa beds that convert from seating to sleeping, or dining tables that fold down or extend. Storage is often integrated, such as beds with drawers underneath or ottomans with hidden compartments. Nesting tables, stackable chairs, and wall-mounted desks also exemplify this design principle, allowing spaces to adapt to various activities throughout the day without requiring permanent dedicated areas.",
+        "description": "Space-saving furniture in tiny homes is multi-functional, such as sofa beds or folding tables, and often includes integrated storage. It maximizes utility in compact areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

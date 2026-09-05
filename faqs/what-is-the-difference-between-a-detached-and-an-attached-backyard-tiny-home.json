@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a detached and an attached backyard tiny home?",
+  "description": "A detached backyard tiny home is a separate structure, while an attached one shares a wall with the main house. Detached offers more privacy; attached can be mo",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-detached-and-an-attached-backyard-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a detached and an attached backyard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A detached backyard tiny home is a standalone structure separate from the primary residence, offering maximum privacy and flexibility in design and placement. An attached backyard tiny home, conversely, shares a wall with the existing primary dwelling. While potentially more cost-effective due to shared utilities or foundations, attached ADUs may offer less privacy and have different fire separation requirements.",
+        "description": "A detached backyard tiny home is a separate structure, while an attached one shares a wall with the main house. Detached offers more privacy; attached can be more cost-effective."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

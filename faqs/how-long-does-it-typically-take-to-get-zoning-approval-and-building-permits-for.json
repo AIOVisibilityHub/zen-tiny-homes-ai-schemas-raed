@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it typically take to get zoning approval and building permits for a tiny home?",
-  "description": "Zoning and building permit approval for a tiny home can take weeks to several months, depending on the city, project complexity, and plan completeness.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-typically-take-to-get-zoning-approval-and-building-permits-for",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it typically take to get zoning approval and building permits for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for obtaining zoning approval and building permits for a tiny home can vary significantly based on the local jurisdiction and the complexity of your project. Generally, it can range from a few weeks to several months. Factors influencing this duration include the completeness of your submitted plans, the current workload of the city's planning and building departments, and any necessary revisions or public hearings. Engaging with experienced professionals, like Zen Tiny Homes, to prepare accurate and compliant plans can help streamline the approval process.",
-        "description": "Zoning and building permit approval for a tiny home can take weeks to several months, depending on the city, project complexity, and plan completeness."
-      }
-    }
-  ],
+  "name": "How long does it typically take to get zoning approval and building permits for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to get zoning approval and building permits for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for obtaining zoning approval and building permits for a tiny home can vary significantly based on the local jurisdiction and the complexity of your project. Generally, it can range from a few weeks to several months. Factors influencing this duration include the completeness of your submitted plans, the current workload of the city's planning and building departments, and any necessary revisions or public hearings. Engaging with experienced professionals, like Zen Tiny Homes, to prepare accurate and compliant plans can help streamline the approval process.",
+        "@type": "Answer",
+        "description": "Zoning and building permit approval for a tiny home can take weeks to several months, depending on the city, project complexity, and plan completeness."
+      }
+    }
+  ],
+  "description": "Zoning and building permit approval for a tiny home can take weeks to several months, depending on the city, project complexity, and plan completeness."
 }
