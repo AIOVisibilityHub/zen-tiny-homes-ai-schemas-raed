@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:10:17.786Z",
+  "generatedAt": "2026-09-05T21:10:37.596Z",
   "client": {
     "name": "Zen Tiny Homes",
     "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
@@ -139,7 +139,7 @@
   },
   "package": {
     "totalFiles": 1577,
-    "totalBytes": 10055293,
+    "totalBytes": 8527692,
     "stats": {
       "qna": 0,
       "faqs": 1088,
@@ -6814,1187 +6814,1187 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 24407,
+        "bytes": 18651,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 31708,
+        "bytes": 26080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 36108,
+        "bytes": 30360,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18739,
+        "bytes": 13218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 817785,
+        "bytes": 812259,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 204229,
+        "bytes": 198772,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 19864,
+        "bytes": 14248,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-designing-your-tiny-home.html",
-        "bytes": 20392,
+        "bytes": 13888,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-your-tiny-home-design-work-for-you-mistakes-to-avoid.html",
-        "bytes": 18828,
+        "bytes": 12238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-bring-in-a-professional-for-your-tiny-home-design.html",
-        "bytes": 19296,
+        "bytes": 12652,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-tiny-home-construction-different.html",
-        "bytes": 18391,
+        "bytes": 11947,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-tiny-home-building-process.html",
-        "bytes": 18310,
+        "bytes": 11828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-tiny-home-construction.html",
-        "bytes": 19187,
+        "bytes": 12754,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-property-right-for-a-tiny-home-what-to-consider-first.html",
-        "bytes": 19622,
+        "bytes": 13038,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-tiny-home-placement-on-your-land.html",
-        "bytes": 20642,
+        "bytes": 14166,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-your-tiny-home-site-assessment.html",
-        "bytes": 21282,
+        "bytes": 14674,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-tiny-home-site-plans-are-confusing.html",
-        "bytes": 20322,
+        "bytes": 13757,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/don-t-make-these-mistakes-when-choosing-your-tiny-home-location.html",
-        "bytes": 22471,
+        "bytes": 15856,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-site-feasibility-consultations-are-key-to-your-tiny-home-dream.html",
-        "bytes": 22794,
+        "bytes": 16146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-small-space-feel-so-cluttered.html",
-        "bytes": 18914,
+        "bytes": 12459,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-planning-for-a-tiny-home.html",
-        "bytes": 19089,
+        "bytes": 12595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-get-professional-help-with-small-space-planning.html",
-        "bytes": 19914,
+        "bytes": 13281,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-custom-tiny-home-design-feels-too-restrictive-what-can-i-do.html",
-        "bytes": 19630,
+        "bytes": 13016,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-developing-a-custom-tiny-home-floor-plan.html",
-        "bytes": 19670,
+        "bytes": 12981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-professional-for-custom-floor-plan-development.html",
-        "bytes": 20401,
+        "bytes": 13726,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-tiny-home-layout-feels-off.html",
-        "bytes": 19814,
+        "bytes": 13404,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/debunking-tiny-home-interior-design-myths.html",
-        "bytes": 20141,
+        "bytes": 13680,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-does-a-professional-designer-become-essential-for-your-tiny-home-interior.html",
-        "bytes": 21062,
+        "bytes": 14345,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-optimizing-space-in-your-tiny-home.html",
-        "bytes": 19850,
+        "bytes": 13283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-maximize-every-inch-in-your-tiny-home.html",
-        "bytes": 20376,
+        "bytes": 13900,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-tiny-home-storage-working-against-you.html",
-        "bytes": 19684,
+        "bytes": 13198,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-tiny-home-feel-so-cramped.html",
-        "bytes": 18745,
+        "bytes": 12315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-tiny-home-storage-optimized.html",
-        "bytes": 19322,
+        "bytes": 12920,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-storage-optimization-design.html",
-        "bytes": 19245,
+        "bytes": 12772,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-do-my-tiny-home-spaces-feel-disconnected.html",
-        "bytes": 19029,
+        "bytes": 12538,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-my-tiny-home-needs-to-serve-multiple-purposes.html",
-        "bytes": 19995,
+        "bytes": 13453,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-for-multifunctional-living-space-design.html",
-        "bytes": 19957,
+        "bytes": 13407,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-your-tiny-home-won-t-fit-your-lifestyle.html",
-        "bytes": 18066,
+        "bytes": 11566,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-overwhelmed-starting-your-tiny-home-project.html",
-        "bytes": 18461,
+        "bytes": 11930,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-you-making-these-mistakes-planning-your-tiny-home.html",
-        "bytes": 19313,
+        "bytes": 12771,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unsure-if-a-tiny-home-is-right-for-your-property.html",
-        "bytes": 18294,
+        "bytes": 11790,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/confused-about-where-to-put-your-tiny-home-legally.html",
-        "bytes": 18532,
+        "bytes": 12011,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/do-you-know-the-truth-about-tiny-home-placement-regulations.html",
-        "bytes": 19463,
+        "bytes": 12879,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-customizing-my-tiny-home-too-complicated.html",
-        "bytes": 19414,
+        "bytes": 12942,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-tiny-home-customization.html",
-        "bytes": 21716,
+        "bytes": 15303,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-hire-a-professional-for-tiny-home-upgrades.html",
-        "bytes": 20551,
+        "bytes": 13988,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-a-backyard-tiny-home-add-value-to-my-property.html",
-        "bytes": 20132,
+        "bytes": 13611,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-difference-between-an-adu-and-a-tiny-home.html",
-        "bytes": 19826,
+        "bytes": 13285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-really-build-a-tiny-home-in-my-backyard.html",
-        "bytes": 19714,
+        "bytes": 13228,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-your-guest-home-won-t-feel-private.html",
-        "bytes": 19036,
+        "bytes": 12571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-building-a-guest-tiny-home.html",
-        "bytes": 19460,
+        "bytes": 12945,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-guest-home-the-right-solution-for-my-property.html",
-        "bytes": 19455,
+        "bytes": 12934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-my-primary-tiny-home-be-legal-in-san-diego.html",
-        "bytes": 19535,
+        "bytes": 13035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-ensure-your-primary-tiny-home-maximizes-space.html",
-        "bytes": 19414,
+        "bytes": 12876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-to-design-a-functional-primary-tiny-home.html",
-        "bytes": 19403,
+        "bytes": 12875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-tiny-home-vision-coming-together.html",
-        "bytes": 18327,
+        "bytes": 11835,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-even-start-designing-a-custom-tiny-home.html",
-        "bytes": 21830,
+        "bytes": 15617,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-common-mistakes-in-tiny-home-design-to-avoid.html",
-        "bytes": 20465,
+        "bytes": 13975,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-consider-before-building-a-tiny-home.html",
-        "bytes": 22029,
+        "bytes": 15496,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-typical-timeline-for-building-a-custom-tiny-home.html",
-        "bytes": 20726,
+        "bytes": 14442,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-custom-tiny-home-construction-right-for-my-property.html",
-        "bytes": 22385,
+        "bytes": 15822,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-where-to-put-your-tiny-home.html",
-        "bytes": 21024,
+        "bytes": 14554,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-property-right-for-a-tiny-home.html",
-        "bytes": 24539,
+        "bytes": 18402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-sense-of-zoning-for-your-tiny-home.html",
-        "bytes": 22665,
+        "bytes": 16210,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-really-have-a-tiny-home-on-my-land.html",
-        "bytes": 22512,
+        "bytes": 16015,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-expect-during-a-tiny-home-feasibility-consultation.html",
-        "bytes": 22445,
+        "bytes": 15859,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-do-tiny-home-site-assessments-matter-so-much.html",
-        "bytes": 22678,
+        "bytes": 16165,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-make-my-small-space-feel-bigger.html",
-        "bytes": 19392,
+        "bytes": 12941,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-designing-a-tiny-home.html",
-        "bytes": 20517,
+        "bytes": 13964,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-really-right-for-my-lifestyle.html",
-        "bytes": 19905,
+        "bytes": 13426,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-goes-into-creating-a-custom-floor-plan.html",
-        "bytes": 22425,
+        "bytes": 16236,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-customize-my-tiny-home-s-layout.html",
-        "bytes": 20188,
+        "bytes": 13724,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-long-does-it-actually-take-to-build-a-custom-tiny-home.html",
-        "bytes": 24596,
+        "bytes": 18299,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-claustrophobic-in-your-tiny-home.html",
-        "bytes": 18710,
+        "bytes": 12259,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-tiny-home-interior-for-your-lifestyle.html",
-        "bytes": 20655,
+        "bytes": 14403,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-tiny-home-layout-working-against-you.html",
-        "bytes": 19963,
+        "bytes": 13484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-with-storage-in-your-small-space.html",
-        "bytes": 18760,
+        "bytes": 12288,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-functionality-in-a-compact-footprint.html",
-        "bytes": 20053,
+        "bytes": 13535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-get-expert-help-with-your-tiny-home-interior.html",
-        "bytes": 19920,
+        "bytes": 13382,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-maximize-every-inch-a-tiny-home-storage-checklist.html",
-        "bytes": 25266,
+        "bytes": 18691,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-your-tiny-home-design-not-working-for-you.html",
-        "bytes": 20470,
+        "bytes": 13956,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-right-for-my-multifaceted-life.html",
-        "bytes": 20656,
+        "bytes": 14164,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-tiny-kitchen-feel-so-small-and-unusable.html",
-        "bytes": 20061,
+        "bytes": 13533,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-create-a-multipurpose-living-space-in-your-tiny-home.html",
-        "bytes": 21664,
+        "bytes": 15377,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-before-planning-your-tiny-home-project.html",
-        "bytes": 19205,
+        "bytes": 12691,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-custom-tiny-home-build.html",
-        "bytes": 21660,
+        "bytes": 15519,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-tiny-home-design-so-important.html",
-        "bytes": 19576,
+        "bytes": 13153,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/where-can-i-legally-place-my-tiny-home.html",
-        "bytes": 20095,
+        "bytes": 13612,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-for-your-tiny-home-site-plan.html",
-        "bytes": 21116,
+        "bytes": 14630,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adu-vs-tiny-house-what-s-the-difference-for-placement.html",
-        "bytes": 22522,
+        "bytes": 15876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-tiny-home-doesn-t-feel-quite-right.html",
-        "bytes": 20503,
+        "bytes": 14034,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-make-your-tiny-home-truly-yours.html",
-        "bytes": 20396,
+        "bytes": 14262,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-designing-your-tiny-home.html",
-        "bytes": 18056,
+        "bytes": 11535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-a-backyard-tiny-home-where-do-i-start.html",
-        "bytes": 19964,
+        "bytes": 13468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-backyard-tiny-homes-worth-the-effort.html",
-        "bytes": 21149,
+        "bytes": 14692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-regulations-for-your-backyard-tiny-home.html",
-        "bytes": 21034,
+        "bytes": 14802,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-guest-home-right-for-your-property.html",
-        "bytes": 19151,
+        "bytes": 12701,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-when-designing-a-tiny-home-for-guests.html",
-        "bytes": 19462,
+        "bytes": 12910,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-building-a-guest-tiny-home.html",
-        "bytes": 19508,
+        "bytes": 12985,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-san-diego-regulations-for-your-primary-tiny-home.html",
-        "bytes": 19660,
+        "bytes": 13073,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-your-primary-tiny-home-a-real-estate-investment.html",
-        "bytes": 19532,
+        "bytes": 12980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-for-a-foundation-built-primary-tiny-home.html",
-        "bytes": 21608,
+        "bytes": 15364,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-custom-tiny-home-design-matter.html",
-        "bytes": 19736,
+        "bytes": 13286,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-perfect-tiny-home-layout.html",
-        "bytes": 21432,
+        "bytes": 15271,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-in-tiny-home-design-to-avoid.html",
-        "bytes": 20149,
+        "bytes": 13710,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-the-tiny-home-construction-process.html",
-        "bytes": 22610,
+        "bytes": 16421,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-long-does-tiny-home-construction-really-take.html",
-        "bytes": 20015,
+        "bytes": 13490,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-choose-a-custom-builder-for-your-tiny-home.html",
-        "bytes": 20218,
+        "bytes": 13719,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-property-suitable-for-a-tiny-home.html",
-        "bytes": 18211,
+        "bytes": 11767,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-goes-into-a-thorough-tiny-home-property-assessment.html",
-        "bytes": 17948,
+        "bytes": 11392,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-steps-to-assess-my-land-for-a-tiny-home.html",
-        "bytes": 21911,
+        "bytes": 15670,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-site-feasibility-crucial-for-my-tiny-home-project.html",
-        "bytes": 18741,
+        "bytes": 12178,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-tiny-home-site-selection.html",
-        "bytes": 20180,
+        "bytes": 13645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-get-a-professional-site-assessment-for-my-tiny-home.html",
-        "bytes": 20023,
+        "bytes": 13397,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-claustrophobic-in-a-small-space.html",
-        "bytes": 18638,
+        "bytes": 12191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-every-inch-small-space-planning-checklist.html",
-        "bytes": 22753,
+        "bytes": 16206,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-tiny-home-feels-cramped-what-went-wrong.html",
-        "bytes": 18935,
+        "bytes": 12458,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-design-a-tiny-home-that-feels-huge.html",
-        "bytes": 19793,
+        "bytes": 13641,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-tiny-home-layout-limiting-your-lifestyle.html",
-        "bytes": 18736,
+        "bytes": 12229,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-customizing-your-tiny-home-floor-plan.html",
-        "bytes": 19111,
+        "bytes": 12510,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-tiny-home-feel-cramped.html",
-        "bytes": 19222,
+        "bytes": 12813,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/designing-your-tiny-home-where-do-you-even-begin.html",
-        "bytes": 19439,
+        "bytes": 12929,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-tiny-home-layout-design.html",
-        "bytes": 19886,
+        "bytes": 13361,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-every-inch-the-tiny-home-challenge.html",
-        "bytes": 19664,
+        "bytes": 13172,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-create-smart-storage-in-your-tiny-home.html",
-        "bytes": 19377,
+        "bytes": 13194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-professional-necessary-for-tiny-home-space-design.html",
-        "bytes": 20122,
+        "bytes": 13538,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-with-clutter-in-your-tiny-home.html",
-        "bytes": 21194,
+        "bytes": 14739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/where-do-i-put-everything-in-a-tiny-home.html",
-        "bytes": 20592,
+        "bytes": 14444,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-tiny-homes-really-liveable.html",
-        "bytes": 20490,
+        "bytes": 14103,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-my-tiny-home-needs-to-do-it-all.html",
-        "bytes": 21024,
+        "bytes": 14510,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-design-a-tiny-home-for-multiple-uses.html",
-        "bytes": 21790,
+        "bytes": 15615,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-overwhelmed-by-tiny-home-decisions.html",
-        "bytes": 18962,
+        "bytes": 12497,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-best-way-to-plan-my-tiny-home-project.html",
-        "bytes": 21854,
+        "bytes": 15647,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-to-envision-your-tiny-home-layout.html",
-        "bytes": 19243,
+        "bytes": 12764,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-the-legal-side-of-your-tiny-home-placement.html",
-        "bytes": 19890,
+        "bytes": 13330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-right-for-my-property-in-san-diego.html",
-        "bytes": 20557,
+        "bytes": 14043,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-figure-out-where-my-tiny-home-can-go.html",
-        "bytes": 21125,
+        "bytes": 14942,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-tiny-home-design-feels-cramped-how-can-i-make-it-feel-bigger.html",
-        "bytes": 20227,
+        "bytes": 13609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-legally-add-a-tiny-home-to-my-backyard.html",
-        "bytes": 21360,
+        "bytes": 14860,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-customizing-your-tiny-home-design.html",
-        "bytes": 20453,
+        "bytes": 13886,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-to-avoid-when-planning-a-backyard-tiny-home.html",
-        "bytes": 22108,
+        "bytes": 15541,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-customize-your-tiny-home-for-maximum-livability.html",
-        "bytes": 23793,
+        "bytes": 17547,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-need-a-local-expert-for-your-backyard-adu-project.html",
-        "bytes": 20622,
+        "bytes": 14055,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-the-right-primary-residence-for-you.html",
-        "bytes": 18133,
+        "bytes": 11612,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-custom-tiny-home-for-full-time-living.html",
-        "bytes": 24337,
+        "bytes": 18085,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-tiny-home-living-as-a-primary-residence.html",
-        "bytes": 20511,
+        "bytes": 13974,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-a-guest-home-what-you-need-to-know.html",
-        "bytes": 19555,
+        "bytes": 13035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-building-a-tiny-guest-home.html",
-        "bytes": 21688,
+        "bytes": 15165,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-bring-in-experts-for-your-guest-home-project.html",
-        "bytes": 21106,
+        "bytes": 14574,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-overwhelmed-by-tiny-home-design-choices.html",
-        "bytes": 18958,
+        "bytes": 12461,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-makes-a-tiny-home-truly-custom.html",
-        "bytes": 20722,
+        "bytes": 14294,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-mistakes-in-tiny-home-design.html",
-        "bytes": 21030,
+        "bytes": 14554,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-construction-process-for-a-tiny-home.html",
-        "bytes": 21316,
+        "bytes": 15033,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-on-a-foundation-the-right-choice-for-you.html",
-        "bytes": 21754,
+        "bytes": 15192,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-before-starting-your-tiny-home-construction.html",
-        "bytes": 24919,
+        "bytes": 18370,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-buying-land-for-a-tiny-home.html",
-        "bytes": 19897,
+        "bytes": 13366,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-figure-out-if-your-property-can-host-a-tiny-home.html",
-        "bytes": 20859,
+        "bytes": 14603,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-property-assessments-crucial-for-tiny-home-success.html",
-        "bytes": 20645,
+        "bytes": 14065,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-during-a-tiny-home-site-feasibility-consultation.html",
-        "bytes": 19835,
+        "bytes": 13191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-do-i-need-a-site-plan-for-my-tiny-home-project.html",
-        "bytes": 19399,
+        "bytes": 12820,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-zoning-for-your-tiny-home-in-san-diego.html",
-        "bytes": 21453,
+        "bytes": 15204,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-tiny-home-feels-cramped-what-am-i-doing-wrong.html",
-        "bytes": 19375,
+        "bytes": 12856,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-tiny-home-vision-just-isn-t-coming-together.html",
-        "bytes": 19703,
+        "bytes": 13164,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-right-for-my-lifestyle-what-to-consider.html",
-        "bytes": 20427,
+        "bytes": 13875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-to-design-a-functional-tiny-house-layout.html",
-        "bytes": 21179,
+        "bytes": 14948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-biggest-mistakes-people-make-with-tiny-home-layouts.html",
-        "bytes": 21089,
+        "bytes": 14536,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-an-interior-layout-that-feels-spacious-and-functional.html",
-        "bytes": 19577,
+        "bytes": 12948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-when-designing-your-tiny-home-interior.html",
-        "bytes": 19275,
+        "bytes": 12660,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-your-tiny-home-interior-layout-design.html",
-        "bytes": 21360,
+        "bytes": 14706,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-maximize-every-square-inch-in-your-tiny-home-with-space-optimization.html",
-        "bytes": 21177,
+        "bytes": 14784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-right-for-me-if-i-need-lots-of-storage.html",
-        "bytes": 19941,
+        "bytes": 13399,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-the-most-of-your-tiny-home-a-space-optimization-checklist.html",
-        "bytes": 25245,
+        "bytes": 18626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-make-every-inch-count-in-your-tiny-home.html",
-        "bytes": 18628,
+        "bytes": 12138,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tired-of-clutter-smart-storage-solutions-for-small-spaces.html",
-        "bytes": 18837,
+        "bytes": 12267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-storage-headaches-in-your-tiny-home.html",
-        "bytes": 15524,
+        "bytes": 9531,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-makes-a-tiny-home-feel-spacious-not-cramped.html",
-        "bytes": 18768,
+        "bytes": 12240,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-tiny-home-needs-a-dynamic-floor-plan.html",
-        "bytes": 18492,
+        "bytes": 12009,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-limited-space-multifunctional-design-to-the-rescue.html",
-        "bytes": 18929,
+        "bytes": 12311,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-overwhelmed-starting-your-tiny-home-journey.html",
-        "bytes": 19993,
+        "bytes": 13465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-make-sure-my-tiny-home-project-stays-on-track.html",
-        "bytes": 22050,
+        "bytes": 15795,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-planning-my-tiny-home-project.html",
-        "bytes": 21787,
+        "bytes": 15169,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/confused-about-adu-vs-tiny-house-for-your-property.html",
-        "bytes": 21267,
+        "bytes": 14737,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-where-to-put-your-tiny-home-legally.html",
-        "bytes": 20712,
+        "bytes": 14198,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-steps-do-i-need-to-take-before-placing-a-tiny-home.html",
-        "bytes": 22700,
+        "bytes": 16447,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-tiny-home-doesn-t-feel-personalized-enough-what-can-i-do.html",
-        "bytes": 20664,
+        "bytes": 14080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-approach-customizing-your-tiny-home-for-ultimate-comfort.html",
-        "bytes": 23365,
+        "bytes": 17050,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-upgrading-your-tiny-home.html",
-        "bytes": 21187,
+        "bytes": 14684,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-putting-a-tiny-home-in-your-backyard.html",
-        "bytes": 21096,
+        "bytes": 14499,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-backyard-tiny-home-project.html",
-        "bytes": 24382,
+        "bytes": 18207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-tiny-homes-legal-in-my-san-diego-backyard.html",
-        "bytes": 21101,
+        "bytes": 14603,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/confused-about-tiny-home-regulations-in-san-diego.html",
-        "bytes": 18136,
+        "bytes": 11570,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-tiny-home-really-feel-spacious.html",
-        "bytes": 18565,
+        "bytes": 12145,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/guest-home-or-adu-which-is-right-for-your-property.html",
-        "bytes": 18224,
+        "bytes": 11694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-permitting-for-your-tiny-guest-home.html",
-        "bytes": 18219,
+        "bytes": 11723,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/considering-a-tiny-home-for-rental-income.html",
-        "bytes": 18917,
+        "bytes": 12459,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-make-your-tiny-home-feel-spacious.html",
-        "bytes": 21732,
+        "bytes": 15578,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/getting-started-with-your-custom-tiny-home-build.html",
-        "bytes": 21504,
+        "bytes": 15294,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-build-a-custom-tiny-home-on-my-property.html",
-        "bytes": 20718,
+        "bytes": 14232,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-tiny-home-construction.html",
-        "bytes": 21106,
+        "bytes": 14588,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-your-property-is-tiny-home-ready.html",
-        "bytes": 19692,
+        "bytes": 13195,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-first-steps-to-placing-a-tiny-home-on-my-land.html",
-        "bytes": 23227,
+        "bytes": 16944,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/do-i-need-a-professional-for-my-tiny-home-site-assessment.html",
-        "bytes": 22179,
+        "bytes": 15609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-does-a-site-feasibility-consultation-actually-cover.html",
-        "bytes": 20407,
+        "bytes": 13838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-local-regulations-for-tiny-homes.html",
-        "bytes": 22843,
+        "bytes": 16630,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-planning-my-tiny-home-space.html",
-        "bytes": 17491,
+        "bytes": 10875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-tiny-home-design-actually-practical.html",
-        "bytes": 20084,
+        "bytes": 13623,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-get-started-designing-my-custom-tiny-home.html",
-        "bytes": 23001,
+        "bytes": 16768,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-to-design-a-functional-tiny-home-layout.html",
-        "bytes": 21547,
+        "bytes": 15008,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-are-tiny-home-floor-plans-so-hard-to-get-right.html",
-        "bytes": 20022,
+        "bytes": 13504,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/struggling-to-visualize-your-tiny-home-layout-before-it-s-built.html",
-        "bytes": 19709,
+        "bytes": 13097,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-create-an-optimized-interior-layout-for-your-tiny-home.html",
-        "bytes": 21195,
+        "bytes": 14900,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-your-tiny-home-interior-design.html",
-        "bytes": 21102,
+        "bytes": 14500,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-wasted-space-in-your-tiny-home.html",
-        "bytes": 19565,
+        "bytes": 13080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-maximizing-every-square-foot-in-your-tiny-home.html",
-        "bytes": 24808,
+        "bytes": 18233,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-you-create-a-seamless-flow-in-a-small-living-area.html",
-        "bytes": 20760,
+        "bytes": 14497,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/where-can-i-put-all-my-stuff-in-a-tiny-home.html",
-        "bytes": 19499,
+        "bytes": 12981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-planning-tiny-home-storage.html",
-        "bytes": 20523,
+        "bytes": 13935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-maximize-every-inch-of-my-tiny-home.html",
-        "bytes": 22727,
+        "bytes": 16535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-tiny-home-really-feel-spacious-and-open.html",
-        "bytes": 19673,
+        "bytes": 13187,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-design-a-tiny-home-that-adapts-to-my-daily-needs.html",
-        "bytes": 17965,
+        "bytes": 11695,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-it-possible-to-have-a-functional-kitchen-in-a-tiny-house.html",
-        "bytes": 19981,
+        "bytes": 13397,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-tiny-home-project-stuck-before-it-even-starts.html",
-        "bytes": 21570,
+        "bytes": 15014,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-first-step-to-building-a-custom-tiny-home.html",
-        "bytes": 22563,
+        "bytes": 16316,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-for-a-tiny-home-that-truly-fits-your-life.html",
-        "bytes": 22038,
+        "bytes": 15461,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-know-before-picking-a-spot-for-my-tiny-home.html",
-        "bytes": 22838,
+        "bytes": 16256,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-tiny-homes-legal-everywhere-in-san-diego-county.html",
-        "bytes": 22837,
+        "bytes": 16297,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-placing-my-tiny-home.html",
-        "bytes": 23968,
+        "bytes": 17419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-customizing-your-tiny-home.html",
-        "bytes": 20697,
+        "bytes": 14170,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-tiny-home-right-for-my-property.html",
-        "bytes": 21797,
+        "bytes": 15328,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-upgrades-really-add-value-to-a-tiny-home.html",
-        "bytes": 21176,
+        "bytes": 14690,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-bring-in-an-expert-for-your-tiny-home-customization.html",
-        "bytes": 22675,
+        "bytes": 16094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-can-t-i-just-buy-a-pre-built-tiny-home-for-my-backyard.html",
-        "bytes": 20182,
+        "bytes": 13605,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-real-difference-between-an-adu-and-a-tiny-house.html",
-        "bytes": 19686,
+        "bytes": 13103,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-know-if-my-property-can-have-a-guest-home.html",
-        "bytes": 19763,
+        "bytes": 13224,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-consider-before-committing-to-a-primary-residence-tiny-home.html",
-        "bytes": 19788,
+        "bytes": 13106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-tiny-homes-really-legal-in-san-diego.html",
-        "bytes": 18811,
+        "bytes": 12348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-first-steps-to-building-a-custom-tiny-home.html",
-        "bytes": 23105,
+        "bytes": 16837,
         "purpose": "LLM-optimized public page"
       }
     ],
