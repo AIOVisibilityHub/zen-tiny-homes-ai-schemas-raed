@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I place a tiny home on my property without connecting to utilities?",
+  "description": "Whether you can place a tiny home without utility connections depends on local zoning and intended use. Permanent dwellings usually require permits and utility-",
+  "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-my-property-without-connecting-to-utilities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I place a tiny home on my property without connecting to utilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Placing a tiny home on your property without connecting to utilities depends heavily on local zoning ordinances and the intended use of the tiny home. If it is considered a permanent dwelling, even if off-grid, most jurisdictions will still require permits and adherence to specific health and safety standards, including proper waste disposal and water sources. For tiny homes used as temporary guest quarters or storage, rules might be more lenient, but permanent residency usually necessitates utility connections. Always consult your local planning department to understand the specific regulations in your area regarding off-grid tiny homes and utility hookups.",
+        "description": "Whether you can place a tiny home without utility connections depends on local zoning and intended use. Permanent dwellings usually require permits and utility-like standards, even if off-grid."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

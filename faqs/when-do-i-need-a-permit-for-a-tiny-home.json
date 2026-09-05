@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a permit for a tiny home?",
+  "description": "A permit is typically required for tiny homes intended for permanent residency or long-term placement, even if on wheels, to ensure safety and code compliance.",
+  "url": "www.zentinyhomes.com/faq/when-do-i-need-a-permit-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a permit for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You generally need a permit for a tiny home if it is intended for permanent residency or long-term placement on a property, regardless of whether it has wheels. Permits ensure the structure meets safety, health, and zoning standards. This applies to tiny homes built on foundations as well as those on wheels that are connected to utilities and used as a fixed dwelling. Some jurisdictions may have specific rules for tiny homes on wheels used as temporary dwellings or RVs, but for most permanent uses, permits are required to ensure compliance with local building and zoning codes.",
+        "description": "A permit is typically required for tiny homes intended for permanent residency or long-term placement, even if on wheels, to ensure safety and code compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

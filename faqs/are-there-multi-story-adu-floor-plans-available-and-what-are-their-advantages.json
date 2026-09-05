@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there multi-story ADU floor plans available, and what are their advantages?",
+  "description": "Multi-story ADU floor plans maximize living space on small footprints and can offer better views. They may have higher costs and complexity, and depend on local",
+  "url": "www.zentinyhomes.com/faq/are-there-multi-story-adu-floor-plans-available-and-what-are-their-advantages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there multi-story ADU floor plans available, and what are their advantages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, multi-story ADU floor plans are available and can be an excellent option for properties with limited ground space or specific view requirements. Their primary advantage is maximizing living area on a smaller footprint, preserving more yard space. They can also offer better views from upper levels and provide a clear separation between living and sleeping areas. However, multi-story ADUs may require more complex engineering and construction, potentially impacting cost and build time compared to single-story designs. Local zoning rules will dictate if a multi-story ADU is permissible.",
+        "description": "Multi-story ADU floor plans maximize living space on small footprints and can offer better views. They may have higher costs and complexity, and depend on local zoning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

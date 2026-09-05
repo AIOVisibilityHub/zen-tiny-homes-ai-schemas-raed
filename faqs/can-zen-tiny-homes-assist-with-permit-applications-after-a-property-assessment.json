@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes assist with permit applications after a property assessment?",
+  "description": "Yes, Zen Tiny Homes can help you navigate permit applications after an assessment, assisting with documentation for local authorities.",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-assist-with-permit-applications-after-a-property-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes assist with permit applications after a property assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes can assist with navigating the permit application process after completing your property assessment. Our team understands the requirements and can help you compile the necessary documentation, including site plans and relevant reports, to submit to local authorities. While we don't issue permits ourselves, we aim to streamline the process, making it easier for you to obtain the approvals needed for your tiny home project. This support is crucial for a smooth transition from assessment to construction.",
+        "description": "Yes, Zen Tiny Homes can help you navigate permit applications after an assessment, assisting with documentation for local authorities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

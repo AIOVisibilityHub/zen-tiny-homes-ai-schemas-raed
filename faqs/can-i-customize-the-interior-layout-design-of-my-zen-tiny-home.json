@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize the interior layout design of my Zen Tiny Home?",
+  "description": "Yes, Zen Tiny Homes offers extensive customization for interior layout designs, tailoring every detail from kitchen configurations to material choices to fit yo",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-the-interior-layout-design-of-my-zen-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize the interior layout design of my Zen Tiny Home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customization is a cornerstone of our tiny home design process at Zen Tiny Homes. We understand that each client has unique needs and preferences for their living space. Our design team works closely with you to tailor the interior layout to your lifestyle, storage requirements, and aesthetic vision. From kitchen configurations to sleeping arrangements and material choices, we offer extensive options for personalization. The goal is to create a tiny home that truly reflects you.",
+        "description": "Yes, Zen Tiny Homes offers extensive customization for interior layout designs, tailoring every detail from kitchen configurations to material choices to fit your unique lifestyle and aesthetic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

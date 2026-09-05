@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance a primary-residence tiny home?",
+  "description": "Financing for primary-residence tiny homes can include conventional mortgages, construction loans, or personal loans, depending on the home's classification and",
+  "url": "www.zentinyhomes.com/faq/can-i-finance-a-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance a primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, financing options are available for primary-residence tiny homes, though they may differ from traditional mortgages. Since these homes are permanent structures built to code, they can sometimes qualify for conventional mortgages, especially if they are built on a permanent foundation and meet appraisal standards. Other options include construction loans, personal loans, or specialized tiny home lenders. We recommend discussing your financial situation with a lender experienced in alternative housing options to explore the best path for your project.",
+        "description": "Financing for primary-residence tiny homes can include conventional mortgages, construction loans, or personal loans, depending on the home's classification and foundation type."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to secure zoning approval and building permits for a tiny home?",
+  "description": "Securing tiny home permits can take weeks to several months, depending on the local jurisdiction, application completeness, and project complexity.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-typically-take-to-secure-zoning-approval-and-building-permits-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to secure zoning approval and building permits for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for securing zoning approval and building permits for a tiny home varies significantly based on the local jurisdiction and the complexity of the project. In San Diego County, this process can range from a few weeks to several months. Factors like the completeness of your application, the responsiveness of city departments, and the need for any variances can influence the duration. Zen Tiny Homes works to streamline this process by preparing thorough documentation and proactively addressing potential issues.",
+        "description": "Securing tiny home permits can take weeks to several months, depending on the local jurisdiction, application completeness, and project complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

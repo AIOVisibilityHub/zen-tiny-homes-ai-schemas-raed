@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to place a tiny home in San Diego County?",
+  "description": "Yes, permits are generally required for tiny home placement in San Diego County. Specific requirements depend on the home's classification and local zoning.",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-place-a-tiny-home-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to place a tiny home in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in San Diego County, placing a tiny home typically requires permits. The specific type of permit depends on how the tiny home is classified (e.g., permanent dwelling, Accessory Dwelling Unit, or recreational vehicle) and where it will be located. For tiny homes intended as permanent residences or ADUs, building permits, planning permits, and potentially grading or utility permits are usually necessary. Zoning ordinances in cities like Vista, Oceanside, Carlsbad, and San Marcos dictate where and how tiny homes can be placed. It's essential to consult with your local planning department for precise requirements.",
+        "description": "Yes, permits are generally required for tiny home placement in San Diego County. Specific requirements depend on the home's classification and local zoning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

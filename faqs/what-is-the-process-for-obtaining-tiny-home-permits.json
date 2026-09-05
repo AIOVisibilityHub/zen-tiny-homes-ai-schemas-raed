@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for obtaining tiny home permits?",
+  "description": "The permitting process involves researching zoning, developing detailed plans, submitting applications for review, obtaining permits, and undergoing inspections",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-obtaining-tiny-home-permits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for obtaining tiny home permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permitting process typically starts with a pre-application meeting or research into local zoning ordinances to understand requirements specific to your property and tiny home design. Next, plans are drawn up, often by a licensed architect or designer, detailing structural, electrical, plumbing, and mechanical systems. These plans, along with completed application forms, are submitted to the local building department for review. After plan approval, permits are issued, allowing construction to begin. Throughout construction, inspections will be conducted at various stages to ensure compliance with approved plans and building codes. Final inspection leads to occupancy approval.",
+        "description": "The permitting process involves researching zoning, developing detailed plans, submitting applications for review, obtaining permits, and undergoing inspections during construction for final approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for getting a tiny home permitted in San Diego County?",
+  "description": "Permitting a tiny home in San Diego County typically involves submitting detailed plans to the local planning department for review of zoning, building codes, a",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-process-for-getting-a-tiny-home-permitted-in-san-diego-count",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for getting a tiny home permitted in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permitting process in San Diego County for a tiny home, particularly if it's an ADU, generally involves submitting plans to your local city planning department or the County of San Diego. This includes architectural drawings, site plans, and details on utility connections. An application fee is required, followed by reviews for zoning compliance, building codes, and environmental impacts. Zen Tiny Homes assists clients throughout this process, from initial design to final permit approval, ensuring all documentation meets local requirements.",
+        "description": "Permitting a tiny home in San Diego County typically involves submitting detailed plans to the local planning department for review of zoning, building codes, and environmental impacts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

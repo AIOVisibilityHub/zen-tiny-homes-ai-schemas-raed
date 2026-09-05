@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for custom tiny home floor-plan development?",
+  "description": "The process involves consultation, preliminary sketches, 2D layouts, 3D renderings, revisions, and final construction-ready plans.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-process-for-custom-tiny-home-floor-plan-development",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for custom tiny home floor-plan development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an initial consultation to understand your vision, needs, and budget. Next, our designers develop preliminary concept sketches and 2D layouts for your review and feedback. Following revisions, we create detailed 3D renderings to help visualize the space. Once the design is finalized and approved, we prepare the comprehensive construction-ready plans. Throughout this process, we maintain open communication to ensure the final design meets all your expectations.",
+        "description": "The process involves consultation, preliminary sketches, 2D layouts, 3D renderings, revisions, and final construction-ready plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

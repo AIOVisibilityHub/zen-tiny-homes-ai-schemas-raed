@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common tiny house floor plan styles available?",
+  "description": "Common tiny house floor plan styles include single-level, lofted, and gooseneck designs, each with unique layouts for living and sleeping.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-tiny-house-floor-plan-styles-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common tiny house floor plan styles available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny house floor plans typically fall into several main styles, each offering unique layouts and features. Common styles include: single-level layouts, which prioritize accessibility and open space; lofted designs, which maximize vertical space for sleeping or storage; and 'gooseneck' tiny homes, built on specialized trailers with a raised section over the truck hitch for an additional room. Other variations include designs with dedicated office spaces, large living areas, or multiple sleeping zones, tailored to individual needs and preferences. The choice often depends on the owner's lifestyle, mobility requirements, and desired functionality within a compact footprint.",
+        "description": "Common tiny house floor plan styles include single-level, lofted, and gooseneck designs, each with unique layouts for living and sleeping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

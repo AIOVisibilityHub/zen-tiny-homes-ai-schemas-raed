@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to schedule a site feasibility consultation?",
+  "description": "Schedule a consultation before purchasing property or early in the design phase to inform decisions and avoid future complications.",
+  "url": "www.zentinyhomes.com/faq/when-is-the-best-time-to-schedule-a-site-feasibility-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to schedule a site feasibility consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal time to schedule a site feasibility consultation is before you finalize your property purchase or very early in the design phase of your tiny home project. This allows you to make informed decisions about land acquisition or adjust your tiny home plans based on the site's characteristics and local regulations. Identifying potential issues proactively saves time and resources later in the construction process. It ensures your chosen site can accommodate your vision.",
+        "description": "Schedule a consultation before purchasing property or early in the design phase to inform decisions and avoid future complications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

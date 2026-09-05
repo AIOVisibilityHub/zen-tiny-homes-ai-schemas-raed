@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing an ADU floor plan for my property in Oceanside?",
+  "description": "In Oceanside, consider lot size, local zoning, intended use, and architectural style when choosing an ADU floor plan. These factors influence design and complia",
+  "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-an-adu-floor-plan-for-my-property-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing an ADU floor plan for my property in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an ADU floor plan in Oceanside, consider your property's specific characteristics, such as lot size, setbacks, and available space for construction. Local zoning ordinances may influence maximum height, square footage, and parking requirements. Think about the ADU's intended use—will it be a rental, a guesthouse, or a home office? This will guide decisions on the number of bedrooms, bathrooms, and overall layout. Also, evaluate the architectural style to ensure it complements your existing home and neighborhood.",
+        "description": "In Oceanside, consider lot size, local zoning, intended use, and architectural style when choosing an ADU floor plan. These factors influence design and compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

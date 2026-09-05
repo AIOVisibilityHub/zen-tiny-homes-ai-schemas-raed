@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a tiny home serve as an Accessory Dwelling Unit (ADU) on my property?",
+  "description": "Yes, a tiny home can function as an ADU if it meets local zoning, building codes, and is on a permanent foundation with utility connections.",
+  "url": "www.zentinyhomes.com/faq/can-a-tiny-home-serve-as-an-accessory-dwelling-unit-adu-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a tiny home serve as an Accessory Dwelling Unit (ADU) on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a tiny home can often serve as an Accessory Dwelling Unit (ADU) on your property, provided it meets local zoning and building code requirements. This typically means the tiny home must be on a permanent foundation, connected to utilities, and comply with size, setback, and occupancy rules specific to ADUs in your municipality. Utilizing a tiny home as an ADU can provide additional living space for family, rental income, or a dedicated home office. We can help assess ADU feasibility.",
+        "description": "Yes, a tiny home can function as an ADU if it meets local zoning, building codes, and is on a permanent foundation with utility connections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

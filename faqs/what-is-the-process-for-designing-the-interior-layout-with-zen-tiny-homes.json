@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing the interior layout with Zen Tiny Homes?",
+  "description": "Our interior layout design process involves an initial consultation, developing concepts and floor plans, revisions based on your feedback, and final material s",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-the-interior-layout-with-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing the interior layout with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process typically begins with an initial consultation to understand your vision, lifestyle, and specific needs for your tiny home. We then develop preliminary design concepts and floor plans, incorporating your feedback through several revision rounds. Once a layout is approved, we move into selecting materials, finishes, and fixtures. This collaborative approach ensures that the final design is both functional and aesthetically pleasing, aligning perfectly with your expectations. We guide you through each step, making the experience seamless.",
+        "description": "Our interior layout design process involves an initial consultation, developing concepts and floor plans, revisions based on your feedback, and final material selections, ensuring a collaborative and tailored outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

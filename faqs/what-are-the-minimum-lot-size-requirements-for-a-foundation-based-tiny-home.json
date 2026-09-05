@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the minimum lot size requirements for a foundation-based tiny home?",
+  "description": "Minimum lot size depends on local zoning and ADU regulations; check with your specific city's planning department.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-minimum-lot-size-requirements-for-a-foundation-based-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the minimum lot size requirements for a foundation-based tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum lot size requirements for a foundation-based tiny home vary significantly by specific zoning district and municipality. These homes are often built as Accessory Dwelling Units (ADUs), which typically require an existing primary residence on the property. While state laws encourage ADU development, local jurisdictions in areas like Vista or San Marcos may have specific setbacks, maximum footprint sizes, or density rules that indirectly affect the viable minimum lot size. Always check with your local planning department for precise regulations.",
+        "description": "Minimum lot size depends on local zoning and ADU regulations; check with your specific city's planning department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

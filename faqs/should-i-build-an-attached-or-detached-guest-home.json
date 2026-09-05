@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build an attached or detached guest home?",
+  "description": "Choose detached for maximum privacy and a separate feel, or attached for potential cost savings and easier utility connections. Your property's layout and priva",
+  "url": "www.zentinyhomes.com/faq/should-i-build-an-attached-or-detached-guest-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build an attached or detached guest home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice between an attached or detached guest home depends on your property layout, budget, and desired level of privacy. Detached guest homes offer maximum privacy for both the main residents and guests, often feeling more like a separate dwelling. Attached guest homes can be more cost-effective as they share a wall with the main house, potentially simplifying utility connections and requiring less new foundation work. Consider your property's available space, setback requirements, and the desired function when making this decision. We can help you weigh these options for your specific property.",
+        "description": "Choose detached for maximum privacy and a separate feel, or attached for potential cost savings and easier utility connections. Your property's layout and privacy needs are key factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

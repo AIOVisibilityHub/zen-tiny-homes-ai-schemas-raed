@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for purchasing a tiny home shell?",
+  "description": "Purchasing a tiny home shell involves consultation, proposal, deposit, construction, updates, final inspection, and delivery.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-purchasing-a-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for purchasing a tiny home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation to discuss your vision, design preferences, and budget. Next, we develop a custom proposal outlining the shell's specifications and cost. Upon agreement, a deposit secures your build slot. We then proceed with construction of your shell. Throughout the build, we maintain communication, providing updates on progress. Once completed, a final inspection and payment are conducted, followed by delivery or pick-up of your new tiny home shell.",
+        "description": "Purchasing a tiny home shell involves consultation, proposal, deposit, construction, updates, final inspection, and delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

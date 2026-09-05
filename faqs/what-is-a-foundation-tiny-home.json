@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a foundation tiny home?",
+  "description": "A foundation tiny home is a compact dwelling built on a permanent foundation, adhering to local building codes and zoning regulations.",
+  "url": "www.zentinyhomes.com/faq/what-is-a-foundation-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a foundation tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A foundation tiny home is a compact dwelling built on a permanent foundation, similar to a traditional house. Unlike tiny homes on wheels, which are often classified as recreational vehicles, foundation tiny homes are considered real property. This means they are subject to local building codes, zoning regulations, and property taxes. They offer a permanent housing solution with the benefits of a smaller footprint, often including reduced utility costs and a simpler lifestyle. Our homes are designed and built to meet or exceed local building standards in areas like Vista, Oceanside, Carlsbad, and San Marcos.",
+        "description": "A foundation tiny home is a compact dwelling built on a permanent foundation, adhering to local building codes and zoning regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

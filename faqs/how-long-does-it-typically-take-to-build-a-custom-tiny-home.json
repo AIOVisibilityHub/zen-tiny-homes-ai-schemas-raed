@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to build a custom tiny home?",
+  "description": "Construction of a custom tiny home typically takes 3 to 6 months, depending on design complexity and material availability.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-typically-take-to-build-a-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to build a custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a custom tiny home can vary based on design complexity, material availability, and permit processing. Generally, from the initial design approval to final delivery, the process can take anywhere from 3 to 6 months. Simpler designs may be completed quicker, while highly customized homes with unique features might extend the timeframe. We provide a detailed project schedule upfront, keeping you informed at every stage to ensure transparency regarding your home's completion.",
+        "description": "Construction of a custom tiny home typically takes 3 to 6 months, depending on design complexity and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

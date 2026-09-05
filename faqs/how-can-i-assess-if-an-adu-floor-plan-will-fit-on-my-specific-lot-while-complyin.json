@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I assess if an ADU floor plan will fit on my specific lot while complying with setback requirements?",
+  "description": "Assess fit by reviewing your property survey, local zoning setback rules, and available buildable area. Compare the ADU footprint to ensure compliance and prope",
+  "url": "www.zentinyhomes.com/faq/how-can-i-assess-if-an-adu-floor-plan-will-fit-on-my-specific-lot-while-complyin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I assess if an ADU floor plan will fit on my specific lot while complying with setback requirements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To assess if an ADU floor plan fits your lot and meets setback requirements, start by consulting your property's survey and local zoning ordinances. Measure the available buildable area on your lot, considering front, side, and rear setback rules, which dictate how close you can build to property lines. Also, account for existing structures and potential utility easements. Comparing the ADU floor plan's footprint with your available space, along with understanding height restrictions, will determine feasibility. Zen Tiny Homes offers site evaluation services to help accurately determine the best placement for an ADU.",
+        "description": "Assess fit by reviewing your property survey, local zoning setback rules, and available buildable area. Compare the ADU footprint to ensure compliance and proper placement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

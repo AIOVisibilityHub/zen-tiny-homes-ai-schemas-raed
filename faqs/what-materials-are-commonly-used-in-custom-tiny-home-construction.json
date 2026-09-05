@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are commonly used in custom tiny home construction?",
+  "description": "Common materials include wood or metal siding, energy-efficient windows, lightweight interior finishes, and high-performance insulation to balance durability, e",
+  "url": "www.zentinyhomes.com/faq/what-materials-are-commonly-used-in-custom-tiny-home-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are commonly used in custom tiny home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom tiny homes utilize a variety of materials, prioritizing durability, insulation, and weight efficiency. Common exterior materials include wood siding (cedar, pine), metal siding, or composite panels, often paired with energy-efficient windows and doors. Interior finishes range from lightweight plywood or shiplap for walls to compact, multi-functional cabinetry made from sustainable wood. Insulation is typically high-performance, such as spray foam or rigid foam, to maximize energy efficiency in a small footprint. Material selection is tailored to your aesthetic preferences and budget.",
+        "description": "Common materials include wood or metal siding, energy-efficient windows, lightweight interior finishes, and high-performance insulation to balance durability, efficiency, and weight."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

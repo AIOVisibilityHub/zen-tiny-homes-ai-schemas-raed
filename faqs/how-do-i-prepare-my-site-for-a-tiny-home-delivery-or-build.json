@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my site for a tiny home delivery or build?",
+  "description": "Site preparation involves clearing, leveling, ensuring access, and potentially extending utility connections. Zen Tiny Homes offers guidance on these steps.",
+  "url": "www.zentinyhomes.com/faq/how-do-i-prepare-my-site-for-a-tiny-home-delivery-or-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my site for a tiny home delivery or build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site preparation is a critical step that ensures a smooth build or delivery process. This typically involves clearing the chosen area, ensuring it's level, and establishing access for construction equipment or delivery vehicles. Depending on your chosen foundation and utility plans, you may also need to bring in water, sewer/septic, and electrical connections to the site. Zen Tiny Homes provides guidance on specific site requirements and can recommend local contractors for groundwork if needed, especially in areas like Vista or Carlsbad.",
+        "description": "Site preparation involves clearing, leveling, ensuring access, and potentially extending utility connections. Zen Tiny Homes offers guidance on these steps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

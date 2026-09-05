@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is required for a tiny home?",
+  "description": "Tiny homes require routine maintenance including checking exterior, interior systems, and, for homes on wheels, axles and tie-downs. Off-grid systems have speci",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-maintenance-is-required-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is required for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny homes, like any dwelling, require regular maintenance. This includes routine checks of roofing, siding, and foundations to prevent weather damage. Interior systems such as plumbing, electrical, and HVAC (if applicable) should be inspected periodically. For tiny homes on wheels, tire pressure, axle maintenance, and ensuring secure tie-downs are also important. Off-grid systems, like solar panels or composting toilets, will have their own specific maintenance schedules. Proactive care extends the life of your home.",
+        "description": "Tiny homes require routine maintenance including checking exterior, interior systems, and, for homes on wheels, axles and tie-downs. Off-grid systems have specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

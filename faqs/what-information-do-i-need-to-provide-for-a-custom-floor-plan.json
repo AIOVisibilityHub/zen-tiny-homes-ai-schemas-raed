@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide for a custom floor plan?",
+  "description": "Provide details on your lifestyle, occupants, space functions, storage needs, appliance preferences, and aesthetic styles for your custom floor plan.",
+  "url": "www.zentinyhomes.com/faq/what-information-do-i-need-to-provide-for-a-custom-floor-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for a custom floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To begin developing a custom floor plan, we'll need a clear understanding of your lifestyle, preferences, and specific requirements. This includes the number of occupants, desired functionality for different spaces (e.g., dedicated office, large kitchen), storage needs, appliance preferences, and any aesthetic styles you prefer. Photos of inspiration or existing layouts you like are also helpful. The more detail you provide, the more accurately we can translate your vision into a functional design.",
+        "description": "Provide details on your lifestyle, occupants, space functions, storage needs, appliance preferences, and aesthetic styles for your custom floor plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

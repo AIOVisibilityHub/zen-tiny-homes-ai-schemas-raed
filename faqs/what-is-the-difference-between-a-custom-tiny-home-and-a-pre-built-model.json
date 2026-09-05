@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom tiny home and a pre-built model?",
+  "description": "Custom tiny homes are uniquely designed to your specifications, while pre-built models use standardized plans with limited customization. Custom designs offer f",
+  "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-custom-tiny-home-and-a-pre-built-model",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom tiny home and a pre-built model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom tiny home is designed from scratch to meet your exact specifications, offering complete control over the layout, materials, and features. This results in a truly personalized space optimized for your lifestyle. A pre-built model, conversely, is constructed based on a standardized floor plan and material selection, often with limited customization options. While pre-built models can be faster and potentially less expensive upfront, custom designs provide unparalleled flexibility and ensure your tiny home is unique and perfectly suited to your needs.",
+        "description": "Custom tiny homes are uniquely designed to your specifications, while pre-built models use standardized plans with limited customization. Custom designs offer full control and personalization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

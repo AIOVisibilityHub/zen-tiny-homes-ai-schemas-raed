@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the consultation reveals my site is not suitable for my tiny home plans?",
+  "description": "If a site is unsuitable, we'll identify obstacles and discuss solutions like plan modifications or alternative building methods to proceed.",
+  "url": "www.zentinyhomes.com/faq/what-if-the-consultation-reveals-my-site-is-not-suitable-for-my-tiny-home-plans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the consultation reveals my site is not suitable for my tiny home plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a consultation reveals your site isn't fully suitable for your initial tiny home plans, it doesn't necessarily mean the project is impossible. We will identify the specific obstacles, such as zoning restrictions or utility limitations, and discuss potential solutions or modifications. This might involve adjusting your tiny home design, exploring alternative building methods, or understanding necessary variances. The goal is to provide clear options and help you make an informed decision, whether that's adapting your plans or considering a different site.",
+        "description": "If a site is unsuitable, we'll identify obstacles and discuss solutions like plan modifications or alternative building methods to proceed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I place a tiny home on a property without an existing primary residence?",
+  "description": "Placing a tiny home on a vacant lot depends on local zoning. Many areas require a primary dwelling first, but some allow tiny homes as primary residences.",
+  "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-a-property-without-an-existing-primary-residence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I place a tiny home on a property without an existing primary residence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Placing a tiny home on a vacant lot without an existing primary residence is often more complex and depends entirely on local zoning regulations. In many areas, zoning ordinances require a primary dwelling before an accessory structure, such as a tiny home or ADU, can be permitted. Some jurisdictions may allow tiny homes as primary residences under specific zoning classifications or in designated tiny home communities. It's crucial to verify the specific zoning requirements for your chosen parcel of land with the relevant city or county planning department.",
+        "description": "Placing a tiny home on a vacant lot depends on local zoning. Many areas require a primary dwelling first, but some allow tiny homes as primary residences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

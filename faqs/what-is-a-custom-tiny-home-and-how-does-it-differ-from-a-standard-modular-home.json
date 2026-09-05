@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a custom tiny home and how does it differ from a standard modular home?",
+  "description": "A custom tiny home is a personalized dwelling under 400 sq ft, designed to owner specifications. It differs from a standard modular home by offering unique arch",
+  "url": "www.zentinyhomes.com/faq/what-is-a-custom-tiny-home-and-how-does-it-differ-from-a-standard-modular-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a custom tiny home and how does it differ from a standard modular home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom tiny home is a dwelling typically under 400 square feet, designed and built to the specific preferences and needs of the owner. Unlike standard modular homes, which are often built to pre-designed floor plans and transported in sections, custom tiny homes offer unique architectural features, personalized layouts, and material choices. This allows for greater flexibility in adapting to individual lifestyles, specific site requirements, and aesthetic visions, resulting in a truly bespoke living space. Zen Tiny Homes focuses on crafting these personalized dwellings.",
+        "description": "A custom tiny home is a personalized dwelling under 400 sq ft, designed to owner specifications. It differs from a standard modular home by offering unique architecture and layouts rather than pre-designed plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

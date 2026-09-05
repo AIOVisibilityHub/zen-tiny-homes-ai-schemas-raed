@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations are important for a primary-residence tiny home?",
+  "description": "Design for a primary-residence tiny home prioritizes maximizing space, functionality, natural light, ventilation, and energy efficiency to fit the occupants' li",
+  "url": "www.zentinyhomes.com/faq/what-design-considerations-are-important-for-a-primary-residence-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations are important for a primary-residence tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designing a primary-residence tiny home involves maximizing functionality and comfort within a limited space. Key considerations include efficient use of vertical space with lofts or clever storage solutions, multi-functional furniture, and strategic placement of windows for natural light and ventilation. Energy efficiency is also crucial, impacting insulation, appliance choices, and potentially solar integration. Personal lifestyle, number of occupants, and specific needs for cooking, sleeping, and sanitation should guide the design to create a livable and comfortable environment.",
+        "description": "Design for a primary-residence tiny home prioritizes maximizing space, functionality, natural light, ventilation, and energy efficiency to fit the occupants' lifestyle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

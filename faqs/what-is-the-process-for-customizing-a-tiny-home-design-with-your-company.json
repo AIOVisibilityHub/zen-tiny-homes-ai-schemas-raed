@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for customizing a tiny home design with your company?",
+  "description": "Our customization process starts with a consultation, moves to concept development and detailed architectural drawings with revisions, ending with a finalized d",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-customizing-a-tiny-home-design-with-your-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for customizing a tiny home design with your company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process for customizing a tiny home design typically begins with an initial consultation to understand your vision, budget, and specific requirements. We then move to concept development, presenting preliminary sketches and floor plans. Once a concept is approved, we create detailed architectural drawings, including 3D renderings, and help with material selections. Revisions are incorporated until the design is finalized and ready for engineering and permitting. Throughout, we maintain open communication to ensure the design truly reflects your desires.",
+        "description": "Our customization process starts with a consultation, moves to concept development and detailed architectural drawings with revisions, ending with a finalized design ready for construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

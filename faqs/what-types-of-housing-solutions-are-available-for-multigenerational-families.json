@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of housing solutions are available for multigenerational families?",
+  "description": "Solutions include accessory dwelling units (ADUs), detached guest houses, or custom homes with integrated suites, offering independent living spaces on the same",
+  "url": "www.zentinyhomes.com/faq/what-types-of-housing-solutions-are-available-for-multigenerational-families",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of housing solutions are available for multigenerational families?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multigenerational housing solutions range from accessory dwelling units (ADUs) and detached guest houses to custom homes with integrated suites or separate living areas. ADUs, often called granny flats or in-law units, provide independent living spaces on the same property as the main house. Other options include converting existing garages or basements into self-contained apartments. The best solution depends on your family's specific needs, privacy preferences, local zoning regulations, and budget. Each option aims to provide both communal space and individual privacy.",
+        "description": "Solutions include accessory dwelling units (ADUs), detached guest houses, or custom homes with integrated suites, offering independent living spaces on the same property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

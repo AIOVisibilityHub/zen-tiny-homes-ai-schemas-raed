@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a multigenerational housing project, like an ADU?",
+  "description": "Completion time for a multigenerational housing project or ADU typically ranges from 7 to 21 months, encompassing design, permitting, and construction.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-complete-a-multigenerational-housing-project-like-an-ad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a multigenerational housing project, like an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for completing a multigenerational housing project, such as an ADU, can vary. Typically, the design and permitting phases can take anywhere from 3 to 9 months, depending on the complexity of the design and the efficiency of local planning departments. Actual construction can then take an additional 4 to 12 months, influenced by the size of the unit, weather conditions, material availability, and the specific contractor's schedule. Overall, it's reasonable to expect a project to be completed within 7 to 21 months from initial design to move-in, though this can vary.",
+        "description": "Completion time for a multigenerational housing project or ADU typically ranges from 7 to 21 months, encompassing design, permitting, and construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

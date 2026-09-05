@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use a guest home for rental income?",
+  "description": "Yes, guest homes can be used for long-term rental income. Check local ordinances for short-term rental rules, as these vary by city.",
+  "url": "www.zentinyhomes.com/faq/can-i-use-a-guest-home-for-rental-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use a guest home for rental income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, guest homes are an excellent option for generating rental income. Many homeowners choose to build ADUs specifically to rent them out on a long-term basis, providing a consistent revenue stream. This can help offset mortgage costs or provide additional financial stability. Local regulations regarding short-term rentals (like Airbnb) can vary, so it's essential to check specific city ordinances if you plan to use it for short-term stays. We recommend understanding your local municipality's specific rental guidelines.",
+        "description": "Yes, guest homes can be used for long-term rental income. Check local ordinances for short-term rental rules, as these vary by city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

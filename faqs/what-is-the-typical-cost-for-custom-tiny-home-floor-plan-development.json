@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for custom tiny home floor-plan development?",
+  "description": "The cost for custom floor-plan development varies based on design complexity and required detail; we provide a quote after an initial consultation.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-for-custom-tiny-home-floor-plan-development",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for custom tiny home floor-plan development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for custom floor-plan development is determined by several factors, including the size and complexity of the tiny home, the level of detail required in the plans, and the number of design iterations. It is generally a fixed fee based on the scope of work. We provide a detailed quote after an initial consultation where we understand your vision and requirements. This fee is separate from the construction cost of the tiny home itself.",
+        "description": "The cost for custom floor-plan development varies based on design complexity and required detail; we provide a quote after an initial consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

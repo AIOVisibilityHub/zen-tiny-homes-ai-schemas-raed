@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a tiny home property assessment take to complete?",
+  "description": "Assessments typically take 1 to 3 weeks, depending on property complexity and the need for external reports.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-a-tiny-home-property-assessment-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a tiny home property assessment take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a tiny home property assessment can vary, but most are completed within 1 to 3 weeks. This timeline depends on factors like the availability of property records, the complexity of the site, and the turnaround time for any necessary third-party reports, such as surveys or soil tests. We strive to complete assessments efficiently while ensuring thoroughness to provide you with accurate and comprehensive information.",
+        "description": "Assessments typically take 1 to 3 weeks, depending on property complexity and the need for external reports."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add upgrades to my tiny home after construction is complete?",
+  "description": "Some minor upgrades are possible post-construction, but major structural or system changes are more complex and costly after the home is built.",
+  "url": "www.zentinyhomes.com/faq/can-i-add-upgrades-to-my-tiny-home-after-construction-is-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add upgrades to my tiny home after construction is complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While many upgrades are best integrated during the initial construction phase for efficiency and cost-effectiveness, some modifications can be made post-construction. Minor additions like shelving, certain appliances, or aesthetic enhancements are often feasible. However, major structural changes, significant plumbing or electrical work, or the installation of large off-grid systems are generally more complex and costly to implement after the home is built. It's always best to discuss future upgrade considerations with our team during the design phase.",
+        "description": "Some minor upgrades are possible post-construction, but major structural or system changes are more complex and costly after the home is built."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

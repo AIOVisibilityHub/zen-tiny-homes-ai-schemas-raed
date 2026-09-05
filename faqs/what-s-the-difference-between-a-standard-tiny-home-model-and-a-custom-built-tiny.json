@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a standard tiny home model and a custom-built tiny home?",
+  "description": "A standard model has fixed designs with limited changes, while a custom-built tiny home is fully personalized to your specific vision, leading to a longer timel",
+  "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-a-standard-tiny-home-model-and-a-custom-built-tiny",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a standard tiny home model and a custom-built tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard tiny home model typically comes with pre-selected layouts, finishes, and features, offering a more streamlined and often quicker build process. While there might be limited options for minor changes, the core design remains fixed. A custom-built tiny home, conversely, is designed from the ground up to your specific vision and requirements. Every aspect, from the floor plan and materials to unique features and systems, can be tailored. This allows for ultimate personalization but generally involves a longer design and construction timeline and a higher cost.",
+        "description": "A standard model has fixed designs with limited changes, while a custom-built tiny home is fully personalized to your specific vision, leading to a longer timeline and higher cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

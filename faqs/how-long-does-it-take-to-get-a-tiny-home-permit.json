@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get a tiny home permit?",
+  "description": "Permit timelines for tiny homes vary from weeks to months, depending on project complexity, plan completeness, and local jurisdiction workload. Expedited ADU pr",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-get-a-tiny-home-permit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get a tiny home permit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration to obtain a tiny home permit can vary significantly based on the complexity of your project, the completeness of your submitted plans, and the specific jurisdiction's workload. Generally, the review process for plans can take several weeks to a few months. Some cities offer expedited review processes for ADUs, which tiny homes often fall under. Factors such as the need for revisions, environmental reviews, or coordination with multiple departments can extend the timeline. It is advisable to budget ample time for permitting and to engage with your local planning department early in the process.",
+        "description": "Permit timelines for tiny homes vary from weeks to months, depending on project complexity, plan completeness, and local jurisdiction workload. Expedited ADU processes may be available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right size for my custom tiny home?",
+  "description": "Choose your tiny home size by balancing lifestyle needs, budget, and intended use, typically ranging from 100 to 400 square feet, optimizing every inch for comf",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-size-for-my-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right size for my custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right size for your custom tiny home involves balancing your lifestyle needs with practical considerations like budget, intended use, and parking or foundation space. Consider how many occupants, what personal belongings you'll need, and what activities you plan to do inside. Typical tiny homes range from 100 to 400 square feet. Our design team will work with you to optimize every inch, ensuring the size you select provides comfortable living without unnecessary space, while also meeting any local dimensional restrictions for tiny homes on wheels or permanent structures.",
+        "description": "Choose your tiny home size by balancing lifestyle needs, budget, and intended use, typically ranging from 100 to 400 square feet, optimizing every inch for comfort and function."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

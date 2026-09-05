@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting started with Zen Tiny Homes for a custom build?",
+  "description": "Start by scheduling an initial consultation to discuss your vision, budget, and requirements. We'll then provide a detailed proposal before moving to the design",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-getting-started-with-zen-tiny-homes-for-a-custom-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting started with Zen Tiny Homes for a custom build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To begin your custom tiny home journey with Zen Tiny Homes, we recommend scheduling an initial consultation. During this meeting, we'll discuss your vision, budget, and specific requirements. This helps us understand your project goals and determine the best approach. Following the consultation, we'll provide a detailed proposal outlining the design process, estimated costs, and timeline. Once approved, we move into the design phase, where your dream tiny home truly begins to take shape.",
+        "description": "Start by scheduling an initial consultation to discuss your vision, budget, and requirements. We'll then provide a detailed proposal before moving to the design phase."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

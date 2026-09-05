@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of a tiny home shell from Zen Tiny Homes?",
+  "description": "Tiny home shells from Zen Tiny Homes generally cost between $25,000 and $60,000, varying by size, materials, and customization.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-average-cost-of-a-tiny-home-shell-from-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of a tiny home shell from Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a tiny home shell can vary widely based on several factors, including its size, chosen materials for the exterior (e.g., siding, roofing), window and door selections, and any specific structural customizations. While we can't give an exact figure without a consultation, our shells generally range from $25,000 to $60,000. This price typically includes the trailer, subfloor, framed walls, exterior sheathing, weather barrier, roofing, and standard windows and an entry door. We provide detailed quotes based on your specific project scope.",
+        "description": "Tiny home shells from Zen Tiny Homes generally cost between $25,000 and $60,000, varying by size, materials, and customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

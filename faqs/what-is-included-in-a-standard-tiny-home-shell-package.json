@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a standard tiny home shell package?",
+  "description": "A standard tiny home shell package includes a framed structure, roof, exterior siding, windows, doors, and the foundation.",
+  "url": "www.zentinyhomes.com/faq/what-is-included-in-a-standard-tiny-home-shell-package",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a standard tiny home shell package?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our standard tiny home shell package typically includes a professionally framed structure, a weather-tight roof, exterior siding, and installed windows and doors. The foundation (skid or trailer base) is also included. We focus on providing a secure and durable exterior envelope, ready for you to complete the interior systems like plumbing, electrical, insulation, and all finishes. Specific inclusions can be detailed in a custom proposal.",
+        "description": "A standard tiny home shell package includes a framed structure, roof, exterior siding, windows, doors, and the foundation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

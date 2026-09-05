@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Zen Tiny Homes integrate off-grid capabilities into a custom tiny home design?",
+  "description": "Yes, we can integrate off-grid capabilities like solar power, rainwater harvesting, and composting toilets. We discuss your needs to design the most efficient s",
+  "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-integrate-off-grid-capabilities-into-a-custom-tiny-home-desig",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Zen Tiny Homes integrate off-grid capabilities into a custom tiny home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Zen Tiny Homes can integrate various off-grid solutions into your custom tiny home. Options include solar panel systems for electricity, rainwater harvesting systems for water supply, composting toilets, and propane or wood-burning heating solutions. We discuss your specific off-grid goals during the design phase to incorporate the most suitable and efficient systems, allowing your tiny home to operate independently of traditional utility connections where desired.",
+        "description": "Yes, we can integrate off-grid capabilities like solar power, rainwater harvesting, and composting toilets. We discuss your needs to design the most efficient systems for your tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

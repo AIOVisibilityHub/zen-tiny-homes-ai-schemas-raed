@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build an accessory dwelling unit (ADU) for multigenerational living?",
+  "description": "ADU construction costs range from $150,000 to over $300,000, depending on size, complexity, materials, and site conditions.",
+  "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-an-accessory-dwelling-unit-adu-for-multigeneratio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build an accessory dwelling unit (ADU) for multigenerational living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build an ADU for multigenerational living varies significantly based on size, complexity, materials, and site conditions. A basic detached ADU might range from $150,000 to $300,000 or more. Factors like utility hookups, foundation type, interior finishes, and permits influence the final price. Converting an existing structure, like a garage, can sometimes be less expensive than new construction, but still requires planning and proper permits. It's essential to get a detailed quote for your specific project.",
+        "description": "ADU construction costs range from $150,000 to over $300,000, depending on size, complexity, materials, and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

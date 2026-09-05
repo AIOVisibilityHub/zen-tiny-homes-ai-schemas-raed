@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits do I need for a tiny home shell in Carlsbad?",
+  "description": "In Carlsbad, tiny home shells require specific permits, which depend on foundation type and use; consult the City of Carlsbad Planning and Building Departments.",
+  "url": "www.zentinyhomes.com/faq/what-permits-do-i-need-for-a-tiny-home-shell-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits do I need for a tiny home shell in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Carlsbad, tiny homes, even as shells, are subject to local zoning ordinances and building codes. Depending on whether your tiny home will be on a permanent foundation or a trailer, and its intended use, different permits may apply. You'll likely need to consult with the City of Carlsbad Planning Department and Building Division to understand specific requirements, such as accessory dwelling unit (ADU) regulations or recreational vehicle (RV) classifications. It's crucial to verify all local regulations before starting your project.",
+        "description": "In Carlsbad, tiny home shells require specific permits, which depend on foundation type and use; consult the City of Carlsbad Planning and Building Departments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

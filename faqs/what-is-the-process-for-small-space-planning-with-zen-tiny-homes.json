@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for small-space planning with Zen Tiny Homes?",
+  "description": "Our process starts with understanding your needs, then moves to concept development with layouts and 3D renderings, and ends with refined plans after your feedb",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-small-space-planning-with-zen-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for small-space planning with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our small-space planning process typically begins with an initial consultation to understand your needs, lifestyle, and budget. We then move to concept development, creating preliminary layouts and 3D renderings that incorporate multi-functional elements and storage solutions. After your feedback, we refine the design and prepare detailed plans and specifications. This collaborative approach ensures the final design maximizes every inch of your space while reflecting your personal style and meeting all practical requirements for a comfortable tiny home.",
+        "description": "Our process starts with understanding your needs, then moves to concept development with layouts and 3D renderings, and ends with refined plans after your feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a custom tiny home cost, and what factors influence the price?",
+  "description": "Custom tiny home costs vary from $80,000 upwards, depending on size, design complexity, materials, and features. An initial consultation provides a personalized",
+  "url": "www.zentinyhomes.com/faq/how-much-does-a-custom-tiny-home-cost-and-what-factors-influence-the-price",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a custom tiny home cost, and what factors influence the price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom tiny home can range significantly, typically starting from $80,000 to over $200,000. Key factors influencing the price include the home's size, complexity of the design, chosen materials and finishes, and integrated features like off-grid systems or custom cabinetry. Our initial consultation helps define your vision and provides a more accurate cost estimate based on your specific requirements and budget. We provide transparent pricing throughout the design process.",
+        "description": "Custom tiny home costs vary from $80,000 upwards, depending on size, design complexity, materials, and features. An initial consultation provides a personalized cost estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

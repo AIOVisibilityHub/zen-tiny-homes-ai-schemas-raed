@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a site feasibility consultation help me choose between multiple potential properties?",
+  "description": "Yes, consultations on multiple properties help compare suitability, zoning, utilities, and challenges to make an informed purchase decision.",
+  "url": "www.zentinyhomes.com/faq/can-a-site-feasibility-consultation-help-me-choose-between-multiple-potential-pr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a site feasibility consultation help me choose between multiple potential properties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. If you are considering multiple properties for your tiny home, conducting feasibility consultations for each can be an invaluable decision-making tool. By comparing the detailed reports for each site regarding zoning, utility access, potential challenges, and overall buildability, you can make an informed choice that best aligns with your project goals and budget. This proactive step helps mitigate risks and ensures you select the most viable and cost-effective property.",
+        "description": "Yes, consultations on multiple properties help compare suitability, zoning, utilities, and challenges to make an informed purchase decision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

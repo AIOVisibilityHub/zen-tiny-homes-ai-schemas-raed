@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common challenges in obtaining tiny home permits?",
+  "description": "Challenges include navigating complex local regulations, meeting zoning and utility requirements, ensuring building code compliance, and sometimes securing fina",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-in-obtaining-tiny-home-permits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common challenges in obtaining tiny home permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common challenges in obtaining tiny home permits include navigating complex and sometimes evolving local regulations, which can differ significantly between cities. Issues often arise with meeting zoning setback requirements, ensuring adequate utility connections (water, sewer, electricity), and demonstrating compliance with specific building codes for smaller spaces. Another hurdle can be securing financing that recognizes tiny homes as legitimate dwellings for permitting purposes. Additionally, homeowners may face difficulties with plan approval if their designs do not strictly adhere to all applicable fire, health, and safety codes, requiring multiple revisions.",
+        "description": "Challenges include navigating complex local regulations, meeting zoning and utility requirements, ensuring building code compliance, and sometimes securing financing for tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

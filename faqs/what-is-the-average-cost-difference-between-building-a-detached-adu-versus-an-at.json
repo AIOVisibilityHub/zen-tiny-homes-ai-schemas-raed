@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost difference between building a detached ADU versus an attached ADU with a similar floor plan?",
+  "description": "Detached ADUs typically cost more than attached ADUs due to independent foundations, roofing, and utility connections. Attached units can leverage existing stru",
+  "url": "www.zentinyhomes.com/faq/what-is-the-average-cost-difference-between-building-a-detached-adu-versus-an-at",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost difference between building a detached ADU versus an attached ADU with a similar floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a detached ADU generally incurs higher costs than an attached ADU with a similar floor plan. Detached units require independent foundation, roofing, and utility trenching (electrical, plumbing, sewer), which are significant expenses. Attached ADUs, often built as garage conversions or additions, can leverage existing walls, foundations, and utility connections, leading to potential savings. However, attached ADUs may require more intricate structural modifications to integrate seamlessly with the main house. The exact difference varies by project scope and local labor rates.",
+        "description": "Detached ADUs typically cost more than attached ADUs due to independent foundations, roofing, and utility connections. Attached units can leverage existing structures for savings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

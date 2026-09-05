@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize a pre-existing tiny house floor plan?",
+  "description": "Yes, most pre-existing tiny house floor plans can be customized, ranging from minor adjustments like window placement to significant layout alterations, dependi",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-a-pre-existing-tiny-house-floor-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize a pre-existing tiny house floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most pre-existing tiny house floor plans can be customized to better suit your individual needs and preferences. Customization options can range from minor adjustments like moving a window or changing a built-in storage unit to more significant modifications, such as altering the kitchen layout, adding a half-bath, or redesigning a loft area. The extent of customization possible depends on the original plan's flexibility and the designer's capabilities. Discuss your specific requirements with the design team, as extensive changes may incur additional design fees and potentially impact the construction timeline.",
+        "description": "Yes, most pre-existing tiny house floor plans can be customized, ranging from minor adjustments like window placement to significant layout alterations, depending on the plan's flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local building codes in Vista impact small-space planning for tiny homes?",
+  "description": "Local building codes in Vista impact small-space planning by dictating minimum room sizes, ceiling heights, and egress for permanently placed tiny homes or ADUs",
+  "url": "www.zentinyhomes.com/faq/how-do-local-building-codes-in-vista-impact-small-space-planning-for-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local building codes in Vista impact small-space planning for tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local building codes in Vista, like any municipality, significantly influence small-space planning, particularly for permanently placed tiny homes or ADUs. These codes dictate minimum room sizes, ceiling heights, egress requirements, and plumbing/electrical specifications. For instance, an ADU in Vista will need to meet specific square footage limits and setback requirements. Understanding these regulations early is crucial, as they determine what is permissible and can impact design choices for kitchens, bathrooms, and sleeping areas to ensure safety and compliance.",
+        "description": "Local building codes in Vista impact small-space planning by dictating minimum room sizes, ceiling heights, and egress for permanently placed tiny homes or ADUs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

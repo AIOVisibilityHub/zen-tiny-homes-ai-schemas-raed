@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning and permitting requirements for tiny homes in areas like Vista or Carlsbad?",
+  "description": "Zoning and permitting for tiny homes in areas like Vista or Carlsbad depend on if it's a foundation ADU or a home on wheels, each with distinct local regulation",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-and-permitting-requirements-for-tiny-homes-in-areas-like-vis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning and permitting requirements for tiny homes in areas like Vista or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning and permitting for tiny homes depend on whether it's a permanent foundation dwelling, an accessory dwelling unit (ADU), or a recreational vehicle (RV) style home on wheels. In areas like Vista or Carlsbad, ADU regulations often apply to tiny homes on foundations, requiring adherence to local building codes, setback rules, and utility connections. Tiny homes on wheels may be subject to RV parking regulations or limitations on long-term residency. We assist clients in navigating these specific local requirements.",
+        "description": "Zoning and permitting for tiny homes in areas like Vista or Carlsbad depend on if it's a foundation ADU or a home on wheels, each with distinct local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

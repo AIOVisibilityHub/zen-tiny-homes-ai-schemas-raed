@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does interior layout design cost for a tiny home?",
+  "description": "The cost of interior layout design for a tiny home varies based on project scope, customization, and design complexity. Detailed quotes are provided after initi",
+  "url": "www.zentinyhomes.com/faq/how-much-does-interior-layout-design-cost-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does interior layout design cost for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for interior layout design for a tiny home varies based on the scope of work, level of customization, and the detail required. Factors influencing price include the complexity of the design, the number of revisions, and whether specialized elements or custom furniture designs are needed. Zen Tiny Homes provides detailed quotes after an initial consultation to understand your specific requirements. We aim to offer transparent pricing that reflects the value and expertise provided in optimizing your small living space.",
+        "description": "The cost of interior layout design for a tiny home varies based on project scope, customization, and design complexity. Detailed quotes are provided after initial consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

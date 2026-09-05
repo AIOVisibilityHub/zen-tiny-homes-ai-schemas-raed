@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I begin the custom tiny home design process?",
+  "description": "Begin the custom tiny home design process well before your desired move-in date, ideally after securing your land, to allow for thorough planning, permitting, a",
+  "url": "www.zentinyhomes.com/faq/when-should-i-begin-the-custom-tiny-home-design-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I begin the custom tiny home design process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is best to begin the custom tiny home design process well in advance of your desired move-in date. Starting early allows ample time for thorough planning, site preparation, obtaining permits, and construction. Ideally, you should initiate design discussions once you have secured your land or identified a specific location, as site characteristics significantly influence design decisions. Early engagement also helps in budgeting accurately and avoiding potential delays.",
+        "description": "Begin the custom tiny home design process well before your desired move-in date, ideally after securing your land, to allow for thorough planning, permitting, and construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

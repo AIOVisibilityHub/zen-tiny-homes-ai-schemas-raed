@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do tiny home shells come with plumbing or electrical rough-ins?",
+  "description": "Tiny home shells from Zen Tiny Homes do not typically include plumbing or electrical rough-ins, allowing for owner customization.",
+  "url": "www.zentinyhomes.com/faq/do-tiny-home-shells-come-with-plumbing-or-electrical-rough-ins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do tiny home shells come with plumbing or electrical rough-ins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our standard tiny home shells do not typically include plumbing or electrical rough-ins. This allows homeowners maximum flexibility to design and install these critical systems according to their specific needs, local codes, and chosen appliances. We provide a complete exterior shell, creating a weatherproof envelope ready for all interior work, including insulation, wiring, and plumbing. We can offer guidance on considerations for these systems during the design phase.",
+        "description": "Tiny home shells from Zen Tiny Homes do not typically include plumbing or electrical rough-ins, allowing for owner customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

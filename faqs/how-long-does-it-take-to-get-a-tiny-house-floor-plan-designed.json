@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get a tiny house floor plan designed?",
+  "description": "Designing a tiny house floor plan can take days for pre-existing plans or 2-8 weeks for custom designs, depending on complexity and revisions.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-get-a-tiny-house-floor-plan-designed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get a tiny house floor plan designed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for designing a tiny house floor plan varies depending on whether you choose a pre-existing plan or a custom design. Opting for a pre-designed plan typically involves minimal waiting, often just a few days to a week for customization and delivery. For a fully custom floor plan, the process can take anywhere from 2 to 8 weeks. This includes initial consultations, drafting preliminary layouts, incorporating feedback through several revision cycles, and finalizing detailed construction-ready blueprints. Factors like the complexity of the design, designer's availability, and your responsiveness to reviews can influence the overall duration.",
+        "description": "Designing a tiny house floor plan can take days for pre-existing plans or 2-8 weeks for custom designs, depending on complexity and revisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in the 'turnkey' price for utilities and hookups?",
+  "description": "The turnkey price includes internal utility systems (plumbing, electrical) within the home. External utility hookups to the site are typically a separate cost.",
+  "url": "www.zentinyhomes.com/faq/what-is-included-in-the-turnkey-price-for-utilities-and-hookups",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in the 'turnkey' price for utilities and hookups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The turnkey price typically includes the installation of all internal plumbing and electrical systems, ready for connection to external utilities. This means internal wiring, outlets, lighting, water heaters, and plumbing fixtures are integrated. However, the cost of bringing external utility lines (e.g., water, sewer, electricity) from the street or main property connection point to your tiny home site is usually separate, as these vary greatly by location and existing infrastructure. We can advise on these site-specific utility considerations.",
+        "description": "The turnkey price includes internal utility systems (plumbing, electrical) within the home. External utility hookups to the site are typically a separate cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

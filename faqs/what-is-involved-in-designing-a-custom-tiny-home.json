@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in designing a custom tiny home?",
+  "description": "Designing a custom tiny home involves collaborating with our team to define floor plans, materials, and features, followed by creating and refining 3D rendering",
+  "url": "www.zentinyhomes.com/faq/what-is-involved-in-designing-a-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in designing a custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designing a custom tiny home with Zen Tiny Homes begins with understanding your vision and lifestyle needs. We collaborate closely with you to establish the floor plan, material preferences, and specific features you desire. This stage includes detailed discussions about space optimization, appliance integration, and exterior aesthetics. Our design team creates preliminary sketches and 3D renderings, allowing you to visualize your tiny home before construction starts. Revisions are made until the design perfectly aligns with your expectations, ensuring your home is both functional and reflects your personal style.",
+        "description": "Designing a custom tiny home involves collaborating with our team to define floor plans, materials, and features, followed by creating and refining 3D renderings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

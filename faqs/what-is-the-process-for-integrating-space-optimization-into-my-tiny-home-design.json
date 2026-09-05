@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for integrating space-optimization into my tiny home design with Zen Tiny Homes?",
+  "description": "Our process involves an initial consultation, developing customized floor plans and 3D renderings with space-saving features, and refining the design based on y",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-integrating-space-optimization-into-my-tiny-home-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for integrating space-optimization into my tiny home design with Zen Tiny Homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to understand your lifestyle, needs, and priorities for your tiny home. We then develop preliminary floor plans and 3D renderings that incorporate various space-saving strategies, multi-functional elements, and storage solutions tailored to your preferences. We iterate on these designs with your feedback, refining layouts and material choices to optimize every inch, ensuring the final design is both practical and reflective of your aesthetic vision before construction begins.",
+        "description": "Our process involves an initial consultation, developing customized floor plans and 3D renderings with space-saving features, and refining the design based on your feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

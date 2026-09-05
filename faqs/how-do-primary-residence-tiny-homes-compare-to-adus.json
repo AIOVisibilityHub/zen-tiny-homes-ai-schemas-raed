@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do primary-residence tiny homes compare to ADUs?",
+  "description": "Primary-residence tiny homes are main dwellings, while ADUs are secondary units on a property, each with distinct legal designations and use cases.",
+  "url": "www.zentinyhomes.com/faq/how-do-primary-residence-tiny-homes-compare-to-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do primary-residence tiny homes compare to ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Primary-residence tiny homes and Accessory Dwelling Units (ADUs) both offer compact living solutions but serve different primary purposes. A primary-residence tiny home is designed to be the main dwelling on a property, while an ADU is a secondary, independent living unit on the same lot as an existing primary home. ADUs are often built to provide additional housing for family, guests, or rental income, adhering to specific ADU regulations. Both require permits and compliance with local building codes, but their legal designation and use cases differ.",
+        "description": "Primary-residence tiny homes are main dwellings, while ADUs are secondary units on a property, each with distinct legal designations and use cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

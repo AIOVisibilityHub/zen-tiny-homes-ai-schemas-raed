@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a small-space planning project?",
+  "description": "Small-space planning can take 2-4 weeks for concepts or 6-12 weeks for a full design package, depending on project complexity and feedback.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-complete-a-small-space-planning-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a small-space planning project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a small-space planning project depends on its scope and complexity. For a standard tiny home, initial conceptual designs might be ready within 2-4 weeks. A full design package, including detailed drawings and material specifications, could take 6-12 weeks from the initial consultation to final approval. Factors such as client feedback cycles, the need for custom furniture design, and permit considerations can all influence the overall timeline. We strive to provide a clear timeline estimate after understanding your project specifics.",
+        "description": "Small-space planning can take 2-4 weeks for concepts or 6-12 weeks for a full design package, depending on project complexity and feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

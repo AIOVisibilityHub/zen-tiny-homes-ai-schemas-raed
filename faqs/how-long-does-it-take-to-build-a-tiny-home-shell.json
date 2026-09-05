@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a tiny home shell?",
+  "description": "Building a tiny home shell typically takes 4 to 8 weeks, depending on design complexity and size.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a tiny home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction time for a tiny home shell typically varies based on the design complexity, size, and current project queue. Generally, a standard shell build at Zen Tiny Homes can take approximately 4 to 8 weeks from the start of construction to completion. This timeline accounts for acquiring materials, framing, roofing, window installation, and ensuring the structure is fully weather-tight. We provide a more precise estimate after understanding your specific design requirements and current lead times.",
+        "description": "Building a tiny home shell typically takes 4 to 8 weeks, depending on design complexity and size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

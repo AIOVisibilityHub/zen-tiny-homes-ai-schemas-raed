@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a tiny home and how does it differ from an Accessory Dwelling Unit (ADU) for permitting purposes?",
+  "description": "A tiny home is generally under 400 sq ft; an ADU is a permitted, permanent secondary dwelling unit on a property. Permitting varies based on classification.",
+  "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-and-how-does-it-differ-from-an-accessory-dwelling-unit-adu-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a tiny home and how does it differ from an Accessory Dwelling Unit (ADU) for permitting purposes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny home is typically defined by its size, often under 400 square feet, and can be built on a foundation or on wheels. For permitting, the key distinction often lies in whether it's considered a permanent structure with utilities connected to a main dwelling (like an ADU) or a recreational vehicle. ADUs are permanent structures permitted as secondary dwelling units on a property with an existing single-family home. Understanding this difference is crucial as permitting requirements for each can vary significantly regarding zoning, foundation, and utility connections. Local regulations dictate how each is classified and permitted.",
+        "description": "A tiny home is generally under 400 sq ft; an ADU is a permitted, permanent secondary dwelling unit on a property. Permitting varies based on classification."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

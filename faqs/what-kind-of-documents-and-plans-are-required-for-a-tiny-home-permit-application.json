@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of documents and plans are required for a tiny home permit application?",
+  "description": "Required documents include site plans, architectural plans (floor, elevation), structural plans, and utility diagrams (plumbing, electrical) to meet code.",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-documents-and-plans-are-required-for-a-tiny-home-permit-application",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of documents and plans are required for a tiny home permit application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical tiny home permit application requires a comprehensive set of documents and plans. These generally include a site plan showing the location of the tiny home on the property, distances from property lines, and utility connections. You'll also need architectural plans, such as floor plans, elevations, and sections, detailing the home's design, dimensions, and materials. Structural engineering plans might be required for foundation designs. Additionally, energy calculations, plumbing diagrams, electrical schematics, and sometimes a landscape plan are necessary to ensure compliance with local building codes.",
+        "description": "Required documents include site plans, architectural plans (floor, elevation), structural plans, and utility diagrams (plumbing, electrical) to meet code."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

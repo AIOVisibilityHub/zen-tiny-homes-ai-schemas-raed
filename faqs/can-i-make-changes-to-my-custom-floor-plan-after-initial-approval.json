@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I make changes to my custom floor plan after initial approval?",
+  "description": "Changes to your custom floor plan after initial approval are possible but may incur extra costs and extend the timeline.",
+  "url": "www.zentinyhomes.com/faq/can-i-make-changes-to-my-custom-floor-plan-after-initial-approval",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I make changes to my custom floor plan after initial approval?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is possible to make changes to your custom floor plan after initial approval, but this may incur additional costs and extend the development timeline. Our process typically includes a set number of revisions within the initial scope. Significant changes beyond these revisions often require re-drafting and re-evaluation, which will be discussed and quoted transparently. We encourage clients to be thorough during the initial review stages to minimize such adjustments later on.",
+        "description": "Changes to your custom floor plan after initial approval are possible but may incur extra costs and extend the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do backyard tiny homes compare to traditional home additions?",
+  "description": "Backyard tiny homes are detached units offering privacy, while additions expand the main house. ADUs can be a more independent and cost-effective space solution",
+  "url": "www.zentinyhomes.com/faq/how-do-backyard-tiny-homes-compare-to-traditional-home-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do backyard tiny homes compare to traditional home additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Backyard tiny homes (ADUs) are detached structures, offering complete separation and privacy from the main house, which can be ideal for renters or family members seeking independence. Home additions, conversely, expand the existing footprint of your primary residence. While both can add value and space, ADUs often have distinct permitting processes and can be a more cost-effective way to add independent living quarters or rental income without altering your main home's structure.",
+        "description": "Backyard tiny homes are detached units offering privacy, while additions expand the main house. ADUs can be a more independent and cost-effective space solution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

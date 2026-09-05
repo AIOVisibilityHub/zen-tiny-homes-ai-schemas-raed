@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a tiny home property assessment and why do I need one?",
+  "description": "A tiny home property assessment evaluates land suitability, zoning, and utility access to ensure a property can legally and practically accommodate a tiny home.",
+  "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-property-assessment-and-why-do-i-need-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a tiny home property assessment and why do I need one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny home property assessment evaluates a piece of land to determine its suitability for a tiny home. This includes checking for zoning compliance, utility access (water, sewer, electricity), septic system requirements, and potential site preparation needs. It's crucial for ensuring the property can legally and practically accommodate your tiny home, helping you avoid costly issues or delays in the future. The assessment helps identify any potential challenges before you commit to a purchase or placement.",
+        "description": "A tiny home property assessment evaluates land suitability, zoning, and utility access to ensure a property can legally and practically accommodate a tiny home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

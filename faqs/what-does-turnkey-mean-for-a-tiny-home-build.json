@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does 'turnkey' mean for a tiny home build?",
+  "description": "Turnkey means Zen Tiny Homes manages all aspects of your tiny home build, delivering a ready-to-move-in dwelling. This covers everything from foundation to fini",
+  "url": "www.zentinyhomes.com/faq/what-does-turnkey-mean-for-a-tiny-home-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does 'turnkey' mean for a tiny home build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A turnkey tiny home build means that Zen Tiny Homes handles the entire construction process from start to finish. This includes site preparation, foundation work, framing, roofing, electrical and plumbing installation, interior finishing, and appliance installation. When the project is complete, your tiny home is ready for you to move in without needing additional contractors or major DIY work. Our goal is to deliver a fully functional and livable home, minimizing stress and coordination for the homeowner.",
+        "description": "Turnkey means Zen Tiny Homes manages all aspects of your tiny home build, delivering a ready-to-move-in dwelling. This covers everything from foundation to finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

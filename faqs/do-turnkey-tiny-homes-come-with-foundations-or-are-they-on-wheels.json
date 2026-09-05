@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do turnkey tiny homes come with foundations, or are they on wheels?",
+  "description": "Turnkey tiny homes can be built on permanent foundations or on wheels, depending on your needs and local regulations.",
+  "url": "www.zentinyhomes.com/faq/do-turnkey-tiny-homes-come-with-foundations-or-are-they-on-wheels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do turnkey tiny homes come with foundations, or are they on wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turnkey tiny homes can be built on either a permanent foundation or a trailer chassis (on wheels). The choice depends on your specific needs, local regulations, and intended use. Homes on foundations are typically considered permanent structures and may require different permitting than those on wheels, which are often classified as recreational vehicles. We offer both options and can discuss which best suits your long-term plans and property requirements in your area.",
+        "description": "Turnkey tiny homes can be built on permanent foundations or on wheels, depending on your needs and local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

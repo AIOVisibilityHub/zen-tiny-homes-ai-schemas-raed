@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does customization add to the tiny home construction timeline?",
+  "description": "Customization can add to the timeline; minor changes have minimal impact, while complex upgrades or unique materials may extend the build period.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-customization-add-to-the-tiny-home-construction-timeline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does customization add to the tiny home construction timeline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The impact of customization on the construction timeline depends on the complexity and scope of your chosen upgrades. Minor aesthetic changes, like specific paint colors or flooring, typically add minimal time. More significant structural modifications, custom cabinetry, sourcing unique materials, or integrating advanced off-grid systems can extend the build period. During the design phase, we provide an estimated timeline based on your specific customization requests, aiming for efficiency without compromising quality.",
+        "description": "Customization can add to the timeline; minor changes have minimal impact, while complex upgrades or unique materials may extend the build period."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

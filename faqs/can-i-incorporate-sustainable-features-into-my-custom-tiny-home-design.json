@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I incorporate sustainable features into my custom tiny home design?",
+  "description": "Yes, custom tiny home design allows for integration of sustainable features like solar panels, rainwater harvesting, composting toilets, and energy-efficient ma",
+  "url": "www.zentinyhomes.com/faq/can-i-incorporate-sustainable-features-into-my-custom-tiny-home-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I incorporate sustainable features into my custom tiny home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Custom tiny home design is an ideal opportunity to integrate sustainable features. This can include options like solar panels for energy independence, rainwater harvesting systems for water conservation, composting toilets, and energy-efficient windows and appliances. We can also design with reclaimed or recycled materials and optimize the home's orientation for passive heating and cooling. Our design process prioritizes creating an environmentally conscious and resource-efficient living space tailored to your sustainability goals.",
+        "description": "Yes, custom tiny home design allows for integration of sustainable features like solar panels, rainwater harvesting, composting toilets, and energy-efficient materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

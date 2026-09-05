@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is required for a rental-unit tiny home?",
+  "description": "Maintenance for a rental-unit tiny home involves routine checks of plumbing, roof, HVAC, and general interior upkeep, often less extensive due to smaller size.",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-maintenance-is-required-for-a-rental-unit-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is required for a rental-unit tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance for a rental-unit tiny home is similar to that of a conventional home but on a smaller scale. Regular tasks include checking plumbing for leaks, inspecting the roof and exterior for wear, maintaining HVAC systems, and ensuring proper drainage around the foundation. Interior maintenance involves general upkeep like cleaning, painting, and appliance checks. Due to their compact size, routine maintenance can often be less time-consuming and costly than for a larger property. Zen Tiny Homes uses durable materials to minimize long-term maintenance needs for our units.",
+        "description": "Maintenance for a rental-unit tiny home involves routine checks of plumbing, roof, HVAC, and general interior upkeep, often less extensive due to smaller size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

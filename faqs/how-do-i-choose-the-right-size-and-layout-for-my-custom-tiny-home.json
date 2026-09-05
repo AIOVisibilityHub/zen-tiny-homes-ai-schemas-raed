@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right size and layout for my custom tiny home?",
+  "description": "To choose, assess your lifestyle, belongings, and space usage. Our team helps prioritize features, optimize space, and balance desires with practical and regula",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-size-and-layout-for-my-custom-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right size and layout for my custom tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right size and layout involves evaluating your lifestyle, essential belongings, and how you intend to use the space. Consider if you need dedicated work areas, sleeping lofts, or specific storage solutions. Our design team works with you to prioritize features, optimize every square foot, and create a functional layout that maximizes comfort and efficiency. We help balance your desires with practical considerations and local regulations to achieve your ideal tiny home.",
+        "description": "To choose, assess your lifestyle, belongings, and space usage. Our team helps prioritize features, optimize space, and balance desires with practical and regulatory considerations for your ideal layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

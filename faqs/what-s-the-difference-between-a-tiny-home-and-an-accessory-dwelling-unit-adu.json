@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a tiny home and an Accessory Dwelling Unit (ADU)?",
+  "description": "A tiny home is defined by its small size, while an ADU is a legal classification for a secondary dwelling. A tiny home can be an ADU if it meets local regulatio",
+  "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-a-tiny-home-and-an-accessory-dwelling-unit-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a tiny home and an Accessory Dwelling Unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tiny home refers to the small size and often minimalist lifestyle it supports, typically under 400 square feet. An Accessory Dwelling Unit (ADU) is a specific legal classification for a secondary dwelling on a property with a primary home. While a tiny home can function as an ADU if it meets local ADU regulations regarding size, foundation, and utilities, not all tiny homes are ADUs. ADU rules vary by city and are crucial for understanding legality and property value implications.",
+        "description": "A tiny home is defined by its small size, while an ADU is a legal classification for a secondary dwelling. A tiny home can be an ADU if it meets local regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

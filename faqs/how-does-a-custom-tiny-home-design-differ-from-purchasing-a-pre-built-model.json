@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a custom tiny home design differ from purchasing a pre-built model?",
+  "description": "Custom design offers complete personalization of layout and materials, while pre-built models have fixed designs with limited customization.",
+  "url": "www.zentinyhomes.com/faq/how-does-a-custom-tiny-home-design-differ-from-purchasing-a-pre-built-model",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a custom tiny home design differ from purchasing a pre-built model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom tiny home design offers complete personalization, allowing you to tailor every aspect of the home to your exact preferences, from layout and materials to aesthetic details. In contrast, a pre-built model comes with a fixed design, offering limited to no customization options. While pre-built homes can be quicker to acquire, custom designs ensure the space perfectly aligns with your lifestyle, maximizing functionality and personal expression. The design phase for custom homes provides a unique opportunity to craft a truly bespoke living environment.",
+        "description": "Custom design offers complete personalization of layout and materials, while pre-built models have fixed designs with limited customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why choose Zen Tiny Homes for my backyard tiny home project in Carlsbad?",
+  "description": "Zen Tiny Homes offers specialized ADU construction in Carlsbad, ensuring local compliance, quality craftsmanship, and a streamlined project from design to compl",
+  "url": "www.zentinyhomes.com/faq/why-choose-zen-tiny-homes-for-my-backyard-tiny-home-project-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why choose Zen Tiny Homes for my backyard tiny home project in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes specializes in custom backyard tiny home (ADU) construction, offering a streamlined process from design to completion specifically for San Diego County. Our expertise ensures compliance with local Carlsbad regulations, efficient project management, and high-quality craftsmanship. We focus on creating functional, beautiful, and code-compliant living spaces that enhance your property's value and meet your unique needs, providing a seamless building experience.",
+        "description": "Zen Tiny Homes offers specialized ADU construction in Carlsbad, ensuring local compliance, quality craftsmanship, and a streamlined project from design to completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size backyard tiny home can I build on my property?",
+  "description": "The permissible size for a backyard tiny home depends on local zoning, lot size, and existing structures; we conduct a site analysis to determine this.",
+  "url": "www.zentinyhomes.com/faq/what-size-backyard-tiny-home-can-i-build-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size backyard tiny home can I build on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The maximum size for a backyard tiny home is governed by local zoning ordinances and your property's specific characteristics. Factors include lot size, existing dwelling footprint, and local regulations concerning ADUs. In many San Diego County areas, there are specific limits on square footage and height. Zen Tiny Homes will conduct a site analysis to determine the optimal and permissible size for your backyard tiny home.",
+        "description": "The permissible size for a backyard tiny home depends on local zoning, lot size, and existing structures; we conduct a site analysis to determine this."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

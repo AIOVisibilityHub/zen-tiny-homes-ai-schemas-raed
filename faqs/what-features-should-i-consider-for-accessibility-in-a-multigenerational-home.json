@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features should I consider for accessibility in a multigenerational home?",
+  "description": "Key accessibility features include zero-step entries, wider doorways, roll-in showers, grab bars, and lever-style handles to enhance safety and independence.",
+  "url": "www.zentinyhomes.com/faq/what-features-should-i-consider-for-accessibility-in-a-multigenerational-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features should I consider for accessibility in a multigenerational home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When designing a multigenerational home, especially with elders or those with mobility challenges in mind, accessibility features are crucial. Consider zero-step entries, wider doorways (at least 36 inches), and hallways to accommodate wheelchairs or walkers. Bathrooms should include roll-in showers, grab bars, and accessible vanity heights. Other features like lever-style door handles, lower light switches, higher electrical outlets, and non-slip flooring can significantly improve safety and independence. Planning for these elements during the design phase is more efficient and cost-effective than retrofitting later.",
+        "description": "Key accessibility features include zero-step entries, wider doorways, roll-in showers, grab bars, and lever-style handles to enhance safety and independence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

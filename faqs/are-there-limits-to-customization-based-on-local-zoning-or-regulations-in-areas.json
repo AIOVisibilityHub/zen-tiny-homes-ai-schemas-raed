@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there limits to customization based on local zoning or regulations in areas like Vista or Carlsbad?",
+  "description": "Local zoning in areas like Vista or Carlsbad can limit customization, affecting dimensions, weight, and utility systems for tiny homes.",
+  "url": "www.zentinyhomes.com/faq/are-there-limits-to-customization-based-on-local-zoning-or-regulations-in-areas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there limits to customization based on local zoning or regulations in areas like Vista or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customization options can be influenced by local zoning and building regulations, particularly concerning dimensions, weight, and certain utility connections. For instance, the maximum height or width of a tiny home might be restricted if it's considered an Accessory Dwelling Unit (ADU) or if it needs to be road-legal. Specific requirements for plumbing, electrical, and waste disposal systems can also impact upgrade choices, especially for off-grid solutions. Our team is familiar with regulations in Vista, Carlsbad, and surrounding areas, and we'll guide you on compliant customization options.",
+        "description": "Local zoning in areas like Vista or Carlsbad can limit customization, affecting dimensions, weight, and utility systems for tiny homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

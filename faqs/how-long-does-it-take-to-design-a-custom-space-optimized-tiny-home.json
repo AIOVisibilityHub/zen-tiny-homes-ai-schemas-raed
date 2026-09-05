@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design a custom space-optimized tiny home?",
+  "description": "Designing a custom space-optimized tiny home usually takes 4 to 8 weeks, covering consultations, concept development, renderings, and final approvals.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-a-custom-space-optimized-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design a custom space-optimized tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The design phase for a custom space-optimized tiny home typically takes 4 to 8 weeks, depending on the complexity of the design and the number of revisions requested. This timeline includes initial consultations, concept development, creation of floor plans and 3D renderings, and final approval of all design elements. Our goal is to ensure every detail is meticulously planned to maximize your living experience before moving to the construction phase.",
+        "description": "Designing a custom space-optimized tiny home usually takes 4 to 8 weeks, covering consultations, concept development, renderings, and final approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the right time to consider multigenerational living solutions?",
+  "description": "Consider multigenerational living during major family transitions like aging parents needing support, adult children returning, or when seeking stronger family",
+  "url": "www.zentinyhomes.com/faq/when-is-the-right-time-to-consider-multigenerational-living-solutions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the right time to consider multigenerational living solutions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right time to consider multigenerational living solutions often arises during significant life changes for your family. This could be when aging parents require more support, adult children are returning home, or families desire to pool resources for financial stability. It's also a consideration when you want to strengthen family bonds or gain support with childcare. Proactively planning allows for thoughtful design that caters to everyone's needs and preferences, avoiding rushed decisions during a crisis. Evaluating your family's current and future needs will help determine the optimal timing for such a transition.",
+        "description": "Consider multigenerational living during major family transitions like aging parents needing support, adult children returning, or when seeking stronger family bonds and shared resources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

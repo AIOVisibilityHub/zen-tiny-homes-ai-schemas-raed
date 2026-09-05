@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right builder for my multigenerational living project?",
+  "description": "Choose a builder with relevant experience, strong references, proper licensing, and transparent communication, ensuring they understand your specific multigener",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-builder-for-my-multigenerational-living-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right builder for my multigenerational living project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right builder for your multigenerational living project involves researching local contractors with experience in ADUs or custom homes. Look for builders with strong portfolios, positive client testimonials, and proper licensing and insurance. Request detailed bids from several companies and compare their proposed timelines, costs, and communication styles. Ensure the builder understands your specific needs for privacy, accessibility, and shared spaces. A good builder should be transparent, communicative, and able to navigate local zoning and permitting processes effectively. Interview potential builders to assess their fit for your project.",
+        "description": "Choose a builder with relevant experience, strong references, proper licensing, and transparent communication, ensuring they understand your specific multigenerational needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

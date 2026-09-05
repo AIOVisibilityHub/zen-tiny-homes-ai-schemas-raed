@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the zoning requirements for primary-residence tiny homes in Oceanside?",
+  "description": "Oceanside's zoning requirements for primary-residence tiny homes cover minimum lot size, setbacks, and height restrictions. Always verify your specific parcel's",
+  "url": "www.zentinyhomes.com/faq/what-are-the-zoning-requirements-for-primary-residence-tiny-homes-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the zoning requirements for primary-residence tiny homes in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning requirements for primary-residence tiny homes in Oceanside dictate where these structures can be legally placed and what standards they must meet. These requirements often include minimum lot size, setback distances from property lines, height restrictions, and potentially specific residential zoning designations. It's crucial to verify the zoning for your specific parcel and understand any overlays or special conditions that might apply. Consulting with the City of Oceanside Planning Department or a knowledgeable builder is recommended to confirm compliance.",
+        "description": "Oceanside's zoning requirements for primary-residence tiny homes cover minimum lot size, setbacks, and height restrictions. Always verify your specific parcel's zoning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

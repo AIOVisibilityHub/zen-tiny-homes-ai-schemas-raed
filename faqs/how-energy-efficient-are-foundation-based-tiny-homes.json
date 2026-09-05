@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How energy efficient are foundation-based tiny homes?",
+  "description": "Foundation-based tiny homes are very energy efficient due to their small size, modern insulation, and adherence to building codes.",
+  "url": "www.zentinyhomes.com/faq/how-energy-efficient-are-foundation-based-tiny-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How energy efficient are foundation-based tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foundation-based tiny homes can be highly energy efficient due to their smaller footprint and modern construction techniques. Their compact size naturally reduces heating and cooling demands. Builders often incorporate advanced insulation, energy-efficient windows and doors, and options for solar panels or other renewable energy sources. Compliance with current building codes also ensures adherence to energy efficiency standards. This focus on efficiency results in lower utility bills and a reduced environmental impact for homeowners.",
+        "description": "Foundation-based tiny homes are very energy efficient due to their small size, modern insulation, and adherence to building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

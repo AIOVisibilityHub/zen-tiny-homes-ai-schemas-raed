@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits and regulations are needed for a turnkey tiny home in San Diego County?",
+  "description": "Permits in San Diego County depend on whether the tiny home is on a foundation or wheels, and its intended use.",
+  "url": "www.zentinyhomes.com/faq/what-permits-and-regulations-are-needed-for-a-turnkey-tiny-home-in-san-diego-cou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits and regulations are needed for a turnkey tiny home in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permitting and regulations for tiny homes in San Diego County can vary based on whether the home is on a foundation or wheels, and its intended use (e.g., ADU, primary residence). For foundation tiny homes or Accessory Dwelling Units (ADUs), standard building permits are required, adhering to local zoning and construction codes. Tiny homes on wheels may fall under different classifications, potentially as recreational vehicles or temporary dwellings, with different rules. We can assist in understanding the specific requirements for your location.",
+        "description": "Permits in San Diego County depend on whether the tiny home is on a foundation or wheels, and its intended use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

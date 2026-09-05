@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a turnkey tiny home?",
+  "description": "Turnkey tiny homes typically range from $70,000 to $150,000+, depending on size, design, and features.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-a-turnkey-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a turnkey tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a turnkey tiny home varies significantly based on size, design complexity, materials, and included features. Generally, prices can range from approximately $70,000 to $150,000 or more. Factors like high-end finishes, custom layouts, off-grid capabilities, and premium appliances will increase the overall price. It's important to consider what's included in the base price and any potential add-ons to get an accurate estimate for your specific needs.",
+        "description": "Turnkey tiny homes typically range from $70,000 to $150,000+, depending on size, design, and features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

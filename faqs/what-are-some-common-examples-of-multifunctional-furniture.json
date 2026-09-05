@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are some common examples of multifunctional furniture?",
+  "description": "Sofa beds, extendable tables, storage ottomans, and custom wall units are common examples of furniture designed for multiple uses.",
+  "url": "www.zentinyhomes.com/faq/what-are-some-common-examples-of-multifunctional-furniture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some common examples of multifunctional furniture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common examples of multifunctional furniture include sofa beds or futons that convert from seating to sleeping, and dining tables that collapse or extend to accommodate different numbers of guests. Ottomans with storage capability, nesting tables, and benches that double as storage chests are also popular. Additionally, custom-built pieces like wall units with integrated desks, beds that lift to reveal storage underneath, or kitchen islands that serve as dining areas and workspaces are frequently used in multifunctional designs.",
+        "description": "Sofa beds, extendable tables, storage ottomans, and custom wall units are common examples of furniture designed for multiple uses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

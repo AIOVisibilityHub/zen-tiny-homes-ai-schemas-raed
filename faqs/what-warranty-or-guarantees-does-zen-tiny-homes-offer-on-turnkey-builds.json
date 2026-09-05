@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What warranty or guarantees does Zen Tiny Homes offer on turnkey builds?",
+  "description": "Zen Tiny Homes offers a comprehensive warranty on turnkey builds, covering structural components, materials, and workmanship. Details are provided in the contra",
+  "url": "www.zentinyhomes.com/faq/what-warranty-or-guarantees-does-zen-tiny-homes-offer-on-turnkey-builds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What warranty or guarantees does Zen Tiny Homes offer on turnkey builds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes provides a comprehensive warranty on our turnkey tiny home builds, covering structural components, materials, and workmanship for a specified period. The exact terms and duration of the warranty are detailed in your contract. We stand by the quality of our construction and are committed to addressing any issues that may arise post-completion. Our goal is to ensure your peace of mind and long-term satisfaction with your new tiny home.",
+        "description": "Zen Tiny Homes offers a comprehensive warranty on turnkey builds, covering structural components, materials, and workmanship. Details are provided in the contract."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a rental-unit tiny home?",
+  "description": "Construction of a rental-unit tiny home usually takes 4-8 months after permits are issued, depending on design complexity, materials, and site conditions.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-construct-a-rental-unit-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a rental-unit tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a rental-unit tiny home typically ranges from 4 to 8 months, starting from the issuance of permits. This duration includes site preparation, foundation work, framing, interior and exterior finishes, and final inspections. Factors such as the complexity of the design, availability of materials, weather conditions, and the efficiency of the permitting process can influence the overall project length. Zen Tiny Homes works to streamline this process, providing clear timelines and managing all stages of construction efficiently.",
+        "description": "Construction of a rental-unit tiny home usually takes 4-8 months after permits are issued, depending on design complexity, materials, and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

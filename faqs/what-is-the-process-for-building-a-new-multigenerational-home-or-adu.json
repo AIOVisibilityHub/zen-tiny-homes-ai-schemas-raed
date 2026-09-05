@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building a new multigenerational home or ADU?",
+  "description": "The process includes consultation, design, permitting, construction, and final inspections, ensuring a tailored and compliant multigenerational living space.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-building-a-new-multigenerational-home-or-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building a new multigenerational home or ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a multigenerational home or ADU typically involves several key steps. First, an initial consultation helps define your needs and budget. Next, design and architectural planning develop blueprints tailored to your family and property. This is followed by navigating local permitting and zoning approvals. Once permits are secured, construction begins, covering foundation, framing, utilities, interior finishes, and landscaping. Finally, a series of inspections ensure compliance and safety before the project is completed. Throughout the process, communication and clear expectations are vital for a successful outcome.",
+        "description": "The process includes consultation, design, permitting, construction, and final inspections, ensuring a tailored and compliant multigenerational living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

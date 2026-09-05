@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build a new detached ADU or convert an existing garage for multigenerational living?",
+  "description": "Choose a detached ADU for greater independence and design flexibility, or a garage conversion for a more cost-effective and quicker solution, based on your need",
+  "url": "www.zentinyhomes.com/faq/should-i-build-a-new-detached-adu-or-convert-an-existing-garage-for-multigenerat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build a new detached ADU or convert an existing garage for multigenerational living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice between building a new detached ADU and converting an existing garage depends on several factors. A detached ADU offers complete independence, potentially more design flexibility, and often better privacy. However, it usually involves higher construction costs and requires sufficient yard space. Garage conversions are generally more cost-effective and quicker to complete, as they utilize an existing structure and utilities. They might have limitations on size and layout, and parking considerations. Evaluate your budget, available space, desired level of privacy, and specific family needs to determine the most suitable option.",
+        "description": "Choose a detached ADU for greater independence and design flexibility, or a garage conversion for a more cost-effective and quicker solution, based on your needs and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

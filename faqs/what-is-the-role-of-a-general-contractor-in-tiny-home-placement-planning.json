@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the role of a general contractor in tiny home placement planning?",
+  "description": "A general contractor helps navigate permits, coordinates utilities and site work, and ensures compliance with building codes for safe and proper tiny home place",
+  "url": "www.zentinyhomes.com/faq/what-is-the-role-of-a-general-contractor-in-tiny-home-placement-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of a general contractor in tiny home placement planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor plays a crucial role in tiny home placement planning by overseeing the entire site preparation and installation process. They can help navigate local permitting and zoning challenges, coordinate with subcontractors for utility connections (plumbing, electrical), manage site grading and foundation work, and ensure the project adheres to all safety and building codes. Their expertise helps streamline the process, identify potential issues before they arise, and ensure the tiny home is correctly and safely placed according to local regulations and the client's vision.",
+        "description": "A general contractor helps navigate permits, coordinates utilities and site work, and ensures compliance with building codes for safe and proper tiny home placement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

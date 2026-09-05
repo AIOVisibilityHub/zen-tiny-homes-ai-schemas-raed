@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build a tiny home on a foundation or on wheels?",
+  "description": "Choose a foundation tiny home for permanence and easier financing, or a tiny home on wheels for mobility and potential flexibility, depending on your use and lo",
+  "url": "www.zentinyhomes.com/faq/should-i-build-a-tiny-home-on-a-foundation-or-on-wheels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build a tiny home on a foundation or on wheels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice between a tiny home on a foundation and one on wheels depends on your intended use and local regulations. Foundation tiny homes are considered permanent structures, subject to traditional building codes and often easier to finance, making them suitable for long-term residences or ADUs. Tiny homes on wheels offer mobility and may fall under RV regulations, potentially providing more flexibility in placement. However, they may have limitations on long-term occupancy and financing options. Consider your needs for permanence versus portability.",
+        "description": "Choose a foundation tiny home for permanence and easier financing, or a tiny home on wheels for mobility and potential flexibility, depending on your use and local rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

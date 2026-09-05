@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different permitting requirements for tiny homes on wheels versus foundation-built tiny homes?",
+  "description": "Yes, foundation-built tiny homes follow traditional building codes, while tiny homes on wheels are often classified as RVs with different, more restrictive perm",
+  "url": "www.zentinyhomes.com/faq/are-there-different-permitting-requirements-for-tiny-homes-on-wheels-versus-foun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different permitting requirements for tiny homes on wheels versus foundation-built tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are distinct permitting requirements for tiny homes on wheels (THOWs) compared to foundation-built tiny homes. Foundation-built tiny homes are typically treated as traditional structures or Accessory Dwelling Units (ADUs) and must comply with state and local building codes, including foundation, utility connections, and setbacks. Tiny homes on wheels are often classified differently, sometimes as recreational vehicles (RVs), which fall under different regulations and may not be permitted for permanent occupancy in all residential zones. Check local ordinances for specific classification and use rules.",
+        "description": "Yes, foundation-built tiny homes follow traditional building codes, while tiny homes on wheels are often classified as RVs with different, more restrictive permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

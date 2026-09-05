@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get a mortgage for a foundation-based tiny home?",
+  "description": "Yes, foundation-based tiny homes can often qualify for traditional mortgages because they are considered real property.",
+  "url": "www.zentinyhomes.com/faq/can-i-get-a-mortgage-for-a-foundation-based-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a mortgage for a foundation-based tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is generally easier to obtain traditional mortgage financing for a foundation-based tiny home than for a tiny home on wheels. Since they are built on a permanent foundation and adhere to local building codes, they are considered real property, similar to conventional homes. Lenders typically offer conventional mortgages or construction loans. Eligibility depends on factors like your credit history, down payment, and the appraised value of the property. We recommend consulting with lenders experienced in financing ADUs or custom small homes.",
+        "description": "Yes, foundation-based tiny homes can often qualify for traditional mortgages because they are considered real property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

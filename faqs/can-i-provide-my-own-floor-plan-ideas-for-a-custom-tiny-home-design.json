@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I provide my own floor plan ideas for a custom tiny home design?",
+  "description": "Yes, you can provide your own floor plan ideas; our designers will refine them to be functional, structurally sound, and code-compliant.",
+  "url": "www.zentinyhomes.com/faq/can-i-provide-my-own-floor-plan-ideas-for-a-custom-tiny-home-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I provide my own floor plan ideas for a custom tiny home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Your input is crucial for a truly custom tiny home design. We encourage clients to share any sketches, inspiration photos, or specific floor plan ideas they have. These initial concepts serve as a valuable starting point for our designers. Our team will then work with you to refine these ideas, ensuring they are structurally sound, code-compliant, and optimized for space and functionality. The goal is to translate your vision into a practical and beautiful living space.",
+        "description": "Yes, you can provide your own floor plan ideas; our designers will refine them to be functional, structurally sound, and code-compliant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

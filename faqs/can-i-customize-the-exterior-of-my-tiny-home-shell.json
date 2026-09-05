@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I customize the exterior of my tiny home shell?",
+  "description": "Yes, you can customize the exterior of your tiny home shell with various siding materials, window styles, door types, and roof designs.",
+  "url": "www.zentinyhomes.com/faq/can-i-customize-the-exterior-of-my-tiny-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I customize the exterior of my tiny home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customization of the exterior of your tiny home shell is a key benefit we offer. You can choose from various siding materials such as cedar, metal, or composite, select different window styles and door types, and even specify roof pitches or materials. This allows you to achieve a distinct aesthetic that aligns with your personal style or complements the surrounding environment. Our team will work with you to integrate your preferred exterior finishes into the shell design.",
+        "description": "Yes, you can customize the exterior of your tiny home shell with various siding materials, window styles, door types, and roof designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

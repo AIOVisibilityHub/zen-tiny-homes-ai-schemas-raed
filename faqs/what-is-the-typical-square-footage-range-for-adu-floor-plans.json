@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical square footage range for ADU floor plans?",
+  "description": "ADU floor plans typically range from 400 to 1,200 square feet, though smaller JADUs and larger options exist. Size depends on regulations and homeowner needs.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-square-footage-range-for-adu-floor-plans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical square footage range for ADU floor plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ADU floor plans commonly range from 400 to 1,200 square feet, depending on local regulations and the homeowner's needs. Smaller ADUs, often called junior ADUs (JADUs), can be as compact as 150 square feet. Larger ADUs provide more living space, potentially including multiple bedrooms or dedicated work areas. The ideal size considers factors like lot size, available space, and the intended use of the ADU, such as rental income or housing for family members. Zen Tiny Homes can help determine the optimal size for your property and goals.",
+        "description": "ADU floor plans typically range from 400 to 1,200 square feet, though smaller JADUs and larger options exist. Size depends on regulations and homeowner needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

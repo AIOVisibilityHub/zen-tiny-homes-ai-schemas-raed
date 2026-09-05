@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there specific floor plan considerations for tiny homes on wheels versus foundation tiny homes?",
+  "description": "Tiny homes on wheels require floor plans that manage weight distribution and adhere to road size limits, while foundation tiny homes allow for more design flexi",
+  "url": "www.zentinyhomes.com/faq/are-there-specific-floor-plan-considerations-for-tiny-homes-on-wheels-versus-fou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there specific floor plan considerations for tiny homes on wheels versus foundation tiny homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are distinct floor plan considerations for tiny homes on wheels (THOWs) versus foundation tiny homes. For THOWs, weight distribution is paramount; the design must ensure even weight across the trailer axles for safe towing. Floor plans often feature lighter materials and compact, built-in furniture to reduce overall mass. Height and width restrictions dictated by road regulations also influence the overall dimensions and interior layouts. Foundation tiny homes offer more flexibility, allowing for larger footprints, greater ceiling heights, and more conventional plumbing and electrical systems without the same weight or size constraints, enabling more elaborate multi-story or expansive single-level designs.",
+        "description": "Tiny homes on wheels require floor plans that manage weight distribution and adhere to road size limits, while foundation tiny homes allow for more design flexibility in size and layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

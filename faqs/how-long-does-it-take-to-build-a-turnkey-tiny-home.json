@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a turnkey tiny home?",
+  "description": "A turnkey tiny home build usually takes 3 to 6 months, depending on design complexity and material availability. A detailed schedule is provided after design fi",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-turnkey-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a turnkey tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for a turnkey tiny home typically ranges from 3 to 6 months, depending on the complexity of the design, material availability, and current project queue. This estimate includes planning, obtaining necessary permits, site preparation, and the actual build process. Custom designs or homes with unique features may require a longer lead time. We provide a detailed project schedule after the initial design and specification phase, keeping you informed every step of the way.",
+        "description": "A turnkey tiny home build usually takes 3 to 6 months, depending on design complexity and material availability. A detailed schedule is provided after design finalization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

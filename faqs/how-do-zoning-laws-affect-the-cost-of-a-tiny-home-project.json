@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do zoning laws affect the cost of a tiny home project?",
+  "description": "Zoning laws can increase tiny home project costs through requirements for site preparation, utility connections, and specific permits. Early understanding helps",
+  "url": "www.zentinyhomes.com/faq/how-do-zoning-laws-affect-the-cost-of-a-tiny-home-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do zoning laws affect the cost of a tiny home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning laws can significantly impact the overall cost of a tiny home project. For instance, specific setback requirements might necessitate a larger foundation or more complex site preparation. Utility connection requirements, such as tying into existing sewer or water lines, can also add substantial costs. Additionally, the type of permit required, driven by zoning, can influence architectural and engineering expenses. Understanding these factors early helps in accurate budgeting and avoids unexpected expenditures.",
+        "description": "Zoning laws can increase tiny home project costs through requirements for site preparation, utility connections, and specific permits. Early understanding helps with budgeting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
