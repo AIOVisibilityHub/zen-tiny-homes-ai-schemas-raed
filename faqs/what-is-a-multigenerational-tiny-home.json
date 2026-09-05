@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a multigenerational tiny home?",
-  "description": "A multigenerational tiny home is a compact dwelling designed for multiple generations of a family, featuring flexible layouts and accessibility considerations.",
   "url": "www.zentinyhomes.com/faq/what-is-a-multigenerational-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a multigenerational tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A multigenerational tiny home is a compact dwelling designed to comfortably accommodate multiple generations of a family, such as parents, children, and grandparents. These homes often feature flexible layouts, separate living areas, and accessibility considerations to meet the diverse needs of different age groups while promoting togetherness and shared living. They can be standalone units, accessory dwelling units (ADUs), or specially designed internal spaces within a larger property.",
-        "description": "A multigenerational tiny home is a compact dwelling designed for multiple generations of a family, featuring flexible layouts and accessibility considerations."
-      }
-    }
-  ],
+  "name": "What is a multigenerational tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multigenerational tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multigenerational tiny home is a compact dwelling designed to comfortably accommodate multiple generations of a family, such as parents, children, and grandparents. These homes often feature flexible layouts, separate living areas, and accessibility considerations to meet the diverse needs of different age groups while promoting togetherness and shared living. They can be standalone units, accessory dwelling units (ADUs), or specially designed internal spaces within a larger property.",
+        "@type": "Answer",
+        "description": "A multigenerational tiny home is a compact dwelling designed for multiple generations of a family, featuring flexible layouts and accessibility considerations."
+      }
+    }
+  ],
+  "description": "A multigenerational tiny home is a compact dwelling designed for multiple generations of a family, featuring flexible layouts and accessibility considerations."
 }

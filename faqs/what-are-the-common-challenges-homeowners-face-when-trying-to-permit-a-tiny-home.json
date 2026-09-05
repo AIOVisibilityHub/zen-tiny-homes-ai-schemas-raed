@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges homeowners face when trying to permit a tiny home?",
-  "description": "Common challenges include understanding complex local zoning codes, securing proper utility hookups, meeting setback and parking requirements, and navigating th",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-homeowners-face-when-trying-to-permit-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges homeowners face when trying to permit a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Homeowners often face several challenges when permitting a tiny home. A primary hurdle is understanding the complex and varying local zoning codes, especially the distinction between tiny homes on wheels and foundation-built units. Utility hookups, including water, sewer, and electrical, can also be challenging, particularly if the property lacks existing infrastructure or if codes require specific types of connections. Meeting setback requirements, securing necessary parking, and navigating the sometimes lengthy and multi-departmental review process are also common obstacles that require careful planning and persistence.",
-        "description": "Common challenges include understanding complex local zoning codes, securing proper utility hookups, meeting setback and parking requirements, and navigating the multi-departmental permitting process."
-      }
-    }
-  ],
+  "name": "What are the common challenges homeowners face when trying to permit a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges homeowners face when trying to permit a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners often face several challenges when permitting a tiny home. A primary hurdle is understanding the complex and varying local zoning codes, especially the distinction between tiny homes on wheels and foundation-built units. Utility hookups, including water, sewer, and electrical, can also be challenging, particularly if the property lacks existing infrastructure or if codes require specific types of connections. Meeting setback requirements, securing necessary parking, and navigating the sometimes lengthy and multi-departmental review process are also common obstacles that require careful planning and persistence.",
+        "@type": "Answer",
+        "description": "Common challenges include understanding complex local zoning codes, securing proper utility hookups, meeting setback and parking requirements, and navigating the multi-departmental permitting process."
+      }
+    }
+  ],
+  "description": "Common challenges include understanding complex local zoning codes, securing proper utility hookups, meeting setback and parking requirements, and navigating th"
 }

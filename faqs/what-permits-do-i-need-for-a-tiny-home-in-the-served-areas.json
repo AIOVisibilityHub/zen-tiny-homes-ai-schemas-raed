@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits do I need for a tiny home in the served areas?",
-  "description": "Permits vary based on whether your tiny home is on a foundation or wheels, and its location. Foundation tiny homes often require standard building permits; tiny",
   "url": "www.zentinyhomes.com/faq/what-permits-do-i-need-for-a-tiny-home-in-the-served-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits do I need for a tiny home in the served areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The specific permits required for a tiny home depend on its classification and location. For tiny homes on a permanent foundation, you'll generally need building permits, electrical, plumbing, and mechanical permits, similar to a traditional home or ADU. If the tiny home is considered an ADU, it will need to meet specific ADU ordinances. If it's a tiny home on wheels intended for permanent placement, the permitting process can be more complex, as many jurisdictions classify them as RVs. We can help you navigate the requirements for Vista, Oceanside, Carlsbad, San Marcos, and Escondido.",
-        "description": "Permits vary based on whether your tiny home is on a foundation or wheels, and its location. Foundation tiny homes often require standard building permits; tiny homes on wheels have more complex classifications. We assist with local permitting."
-      }
-    }
-  ],
+  "name": "What permits do I need for a tiny home in the served areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a tiny home in the served areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The specific permits required for a tiny home depend on its classification and location. For tiny homes on a permanent foundation, you'll generally need building permits, electrical, plumbing, and mechanical permits, similar to a traditional home or ADU. If the tiny home is considered an ADU, it will need to meet specific ADU ordinances. If it's a tiny home on wheels intended for permanent placement, the permitting process can be more complex, as many jurisdictions classify them as RVs. We can help you navigate the requirements for Vista, Oceanside, Carlsbad, San Marcos, and Escondido.",
+        "@type": "Answer",
+        "description": "Permits vary based on whether your tiny home is on a foundation or wheels, and its location. Foundation tiny homes often require standard building permits; tiny homes on wheels have more complex classifications. We assist with local permitting."
+      }
+    }
+  ],
+  "description": "Permits vary based on whether your tiny home is on a foundation or wheels, and its location. Foundation tiny homes often require standard building permits; tiny"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for adding an extra sleeping loft to my tiny home?",
-  "description": "The process for adding a sleeping loft involves assessing the structure, designing the loft, and then performing the necessary structural modifications and fini",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-adding-an-extra-sleeping-loft-to-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for adding an extra sleeping loft to my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Adding an extra sleeping loft involves several steps, starting with an assessment of your existing tiny home's structure and available vertical space. Our team will review design options, considering ceiling height, natural light, and access points like ladders or stairs. Once a design is approved, we handle the necessary structural modifications, framing, and finishing work, including flooring, railings, and lighting. The process typically requires detailed planning to ensure the addition is structurally sound, safe, and integrates seamlessly with your current layout. We aim to complete the project with minimal disruption.",
-        "description": "The process for adding a sleeping loft involves assessing the structure, designing the loft, and then performing the necessary structural modifications and finishing work to integrate it safely and seamlessly."
-      }
-    }
-  ],
+  "name": "What is the process for adding an extra sleeping loft to my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding an extra sleeping loft to my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an extra sleeping loft involves several steps, starting with an assessment of your existing tiny home's structure and available vertical space. Our team will review design options, considering ceiling height, natural light, and access points like ladders or stairs. Once a design is approved, we handle the necessary structural modifications, framing, and finishing work, including flooring, railings, and lighting. The process typically requires detailed planning to ensure the addition is structurally sound, safe, and integrates seamlessly with your current layout. We aim to complete the project with minimal disruption.",
+        "@type": "Answer",
+        "description": "The process for adding a sleeping loft involves assessing the structure, designing the loft, and then performing the necessary structural modifications and finishing work to integrate it safely and seamlessly."
+      }
+    }
+  ],
+  "description": "The process for adding a sleeping loft involves assessing the structure, designing the loft, and then performing the necessary structural modifications and fini"
 }

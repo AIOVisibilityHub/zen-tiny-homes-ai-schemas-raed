@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required to build a multigenerational tiny home in Vista?",
-  "description": "In Vista, permits for ADUs, building, grading, and utilities are typically required. We manage the entire permitting process.",
   "url": "www.zentinyhomes.com/faq/what-permits-are-required-to-build-a-multigenerational-tiny-home-in-vista",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required to build a multigenerational tiny home in Vista?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a multigenerational tiny home in Vista typically requires various permits, including planning permits (such as an ADU permit), building permits, and potentially grading or utility permits depending on your site. The City of Vista's zoning ordinances dictate specific requirements for setbacks, maximum size, lot coverage, and architectural review. Our team will handle the entire permitting process, preparing and submitting all necessary documentation to ensure your project complies with local regulations and progresses smoothly.",
-        "description": "In Vista, permits for ADUs, building, grading, and utilities are typically required. We manage the entire permitting process."
-      }
-    }
-  ],
+  "name": "What permits are required to build a multigenerational tiny home in Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required to build a multigenerational tiny home in Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a multigenerational tiny home in Vista typically requires various permits, including planning permits (such as an ADU permit), building permits, and potentially grading or utility permits depending on your site. The City of Vista's zoning ordinances dictate specific requirements for setbacks, maximum size, lot coverage, and architectural review. Our team will handle the entire permitting process, preparing and submitting all necessary documentation to ensure your project complies with local regulations and progresses smoothly.",
+        "@type": "Answer",
+        "description": "In Vista, permits for ADUs, building, grading, and utilities are typically required. We manage the entire permitting process."
+      }
+    }
+  ],
+  "description": "In Vista, permits for ADUs, building, grading, and utilities are typically required. We manage the entire permitting process."
 }

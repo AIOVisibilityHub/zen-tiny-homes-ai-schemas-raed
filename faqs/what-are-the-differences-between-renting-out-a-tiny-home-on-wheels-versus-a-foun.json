@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the differences between renting out a tiny home on wheels versus a foundation tiny home?",
-  "description": "THOWs (on wheels) are often regulated as RVs, while foundation tiny homes are typically ADUs with clearer long-term rental paths under building codes.",
   "url": "www.zentinyhomes.com/faq/what-are-the-differences-between-renting-out-a-tiny-home-on-wheels-versus-a-foun",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the differences between renting out a tiny home on wheels versus a foundation tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Renting out a tiny home on wheels (THOW) typically faces different regulations than a foundation-built tiny home, which is usually classified as an ADU. THOWs are often considered RVs and may be restricted to RV parks or require specific permits for longer-term placement on private land. Foundation tiny homes, as ADUs, usually have clearer paths for long-term rental and are subject to traditional building codes. Understanding these distinctions is crucial for legal rental. Zen Tiny Homes specializes in foundation tiny homes suitable for ADU regulations.",
-        "description": "THOWs (on wheels) are often regulated as RVs, while foundation tiny homes are typically ADUs with clearer long-term rental paths under building codes."
-      }
-    }
-  ],
+  "name": "What are the differences between renting out a tiny home on wheels versus a foundation tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between renting out a tiny home on wheels versus a foundation tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renting out a tiny home on wheels (THOW) typically faces different regulations than a foundation-built tiny home, which is usually classified as an ADU. THOWs are often considered RVs and may be restricted to RV parks or require specific permits for longer-term placement on private land. Foundation tiny homes, as ADUs, usually have clearer paths for long-term rental and are subject to traditional building codes. Understanding these distinctions is crucial for legal rental. Zen Tiny Homes specializes in foundation tiny homes suitable for ADU regulations.",
+        "@type": "Answer",
+        "description": "THOWs (on wheels) are often regulated as RVs, while foundation tiny homes are typically ADUs with clearer long-term rental paths under building codes."
+      }
+    }
+  ],
+  "description": "THOWs (on wheels) are often regulated as RVs, while foundation tiny homes are typically ADUs with clearer long-term rental paths under building codes."
 }

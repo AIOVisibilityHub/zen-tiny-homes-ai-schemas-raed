@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of foundation is needed for a tiny home on a permanent lot?",
-  "description": "A permanent tiny home typically requires a concrete slab, stem wall, or pier-and-beam foundation, chosen based on design and local codes.",
   "url": "www.zentinyhomes.com/faq/what-kind-of-foundation-is-needed-for-a-tiny-home-on-a-permanent-lot",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of foundation is needed for a tiny home on a permanent lot?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a tiny home intended for permanent placement on a lot, a traditional foundation is typically required. This could be a concrete slab foundation, a stem wall foundation with a crawl space, or a pier-and-beam foundation. The choice of foundation depends on the tiny home's design, local soil conditions, and specific building codes. Zen Tiny Homes builds tiny homes designed for various permanent foundation types.",
-        "description": "A permanent tiny home typically requires a concrete slab, stem wall, or pier-and-beam foundation, chosen based on design and local codes."
-      }
-    }
-  ],
+  "name": "What kind of foundation is needed for a tiny home on a permanent lot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation is needed for a tiny home on a permanent lot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a tiny home intended for permanent placement on a lot, a traditional foundation is typically required. This could be a concrete slab foundation, a stem wall foundation with a crawl space, or a pier-and-beam foundation. The choice of foundation depends on the tiny home's design, local soil conditions, and specific building codes. Zen Tiny Homes builds tiny homes designed for various permanent foundation types.",
+        "@type": "Answer",
+        "description": "A permanent tiny home typically requires a concrete slab, stem wall, or pier-and-beam foundation, chosen based on design and local codes."
+      }
+    }
+  ],
+  "description": "A permanent tiny home typically requires a concrete slab, stem wall, or pier-and-beam foundation, chosen based on design and local codes."
 }

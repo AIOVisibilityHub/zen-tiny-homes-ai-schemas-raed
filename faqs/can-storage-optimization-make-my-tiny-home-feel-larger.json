@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can storage-optimization make my tiny home feel larger?",
-  "description": "Yes, by minimizing clutter and utilizing multi-functional, built-in, and vertical storage, optimization makes tiny homes feel more spacious and organized.",
   "url": "www.zentinyhomes.com/faq/can-storage-optimization-make-my-tiny-home-feel-larger",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can storage-optimization make my tiny home feel larger?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, effective storage-optimization can significantly enhance the perception of space in a tiny home. By providing dedicated places for all belongings, clutter is minimized, which instantly makes an area feel more open and organized. Built-in, multi-functional furniture, such as beds with integrated drawers or dining tables that fold away, frees up floor space. Vertical storage draws the eye upwards, creating an illusion of height. These strategies collectively contribute to a sense of spaciousness and reduce visual noise.",
-        "description": "Yes, by minimizing clutter and utilizing multi-functional, built-in, and vertical storage, optimization makes tiny homes feel more spacious and organized."
-      }
-    }
-  ],
+  "name": "Can storage-optimization make my tiny home feel larger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can storage-optimization make my tiny home feel larger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, effective storage-optimization can significantly enhance the perception of space in a tiny home. By providing dedicated places for all belongings, clutter is minimized, which instantly makes an area feel more open and organized. Built-in, multi-functional furniture, such as beds with integrated drawers or dining tables that fold away, frees up floor space. Vertical storage draws the eye upwards, creating an illusion of height. These strategies collectively contribute to a sense of spaciousness and reduce visual noise.",
+        "@type": "Answer",
+        "description": "Yes, by minimizing clutter and utilizing multi-functional, built-in, and vertical storage, optimization makes tiny homes feel more spacious and organized."
+      }
+    }
+  ],
+  "description": "Yes, by minimizing clutter and utilizing multi-functional, built-in, and vertical storage, optimization makes tiny homes feel more spacious and organized."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I connect utilities (water, sewer, electricity) to my tiny home?",
-  "description": "Utility connections require licensed professionals to extend existing lines or install new ones for water, sewer, and electricity according to local codes.",
   "url": "www.zentinyhomes.com/faq/how-do-i-connect-utilities-water-sewer-electricity-to-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I connect utilities (water, sewer, electricity) to my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Connecting utilities involves professional installation by licensed contractors to meet local codes. Water and sewer lines typically extend from existing connections on the property or require new tap-ins if available. Electrical connections usually tie into the main service panel of the primary residence or a new separate service, depending on local regulations and the tiny home's power needs. Zen Tiny Homes can coordinate with utility providers and contractors to ensure proper and compliant hookups.",
-        "description": "Utility connections require licensed professionals to extend existing lines or install new ones for water, sewer, and electricity according to local codes."
-      }
-    }
-  ],
+  "name": "How do I connect utilities (water, sewer, electricity) to my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I connect utilities (water, sewer, electricity) to my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting utilities involves professional installation by licensed contractors to meet local codes. Water and sewer lines typically extend from existing connections on the property or require new tap-ins if available. Electrical connections usually tie into the main service panel of the primary residence or a new separate service, depending on local regulations and the tiny home's power needs. Zen Tiny Homes can coordinate with utility providers and contractors to ensure proper and compliant hookups.",
+        "@type": "Answer",
+        "description": "Utility connections require licensed professionals to extend existing lines or install new ones for water, sewer, and electricity according to local codes."
+      }
+    }
+  ],
+  "description": "Utility connections require licensed professionals to extend existing lines or install new ones for water, sewer, and electricity according to local codes."
 }

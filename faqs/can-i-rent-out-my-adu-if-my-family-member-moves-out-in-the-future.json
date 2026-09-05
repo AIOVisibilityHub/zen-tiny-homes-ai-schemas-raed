@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I rent out my ADU if my family member moves out in the future?",
-  "description": "Yes, ADUs can often be rented out to non-family members, providing income, but local regulations should be checked for specific requirements or restrictions.",
   "url": "www.zentinyhomes.com/faq/can-i-rent-out-my-adu-if-my-family-member-moves-out-in-the-future",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I rent out my ADU if my family member moves out in the future?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in many jurisdictions, including California, ADUs are increasingly allowed to be rented out to non-family members, providing a potential income stream. Local regulations, however, can vary, impacting aspects like short-term rental allowances or specific occupancy requirements. It's important to verify current city ordinances with your local planning department at the time of construction or rental to ensure compliance with any specific rental criteria or restrictions that may apply to your ADU.",
-        "description": "Yes, ADUs can often be rented out to non-family members, providing income, but local regulations should be checked for specific requirements or restrictions."
-      }
-    }
-  ],
+  "name": "Can I rent out my ADU if my family member moves out in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my ADU if my family member moves out in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many jurisdictions, including California, ADUs are increasingly allowed to be rented out to non-family members, providing a potential income stream. Local regulations, however, can vary, impacting aspects like short-term rental allowances or specific occupancy requirements. It's important to verify current city ordinances with your local planning department at the time of construction or rental to ensure compliance with any specific rental criteria or restrictions that may apply to your ADU.",
+        "@type": "Answer",
+        "description": "Yes, ADUs can often be rented out to non-family members, providing income, but local regulations should be checked for specific requirements or restrictions."
+      }
+    }
+  ],
+  "description": "Yes, ADUs can often be rented out to non-family members, providing income, but local regulations should be checked for specific requirements or restrictions."
 }

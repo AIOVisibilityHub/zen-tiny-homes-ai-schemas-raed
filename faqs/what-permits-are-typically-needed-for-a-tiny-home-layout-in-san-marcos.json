@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are typically needed for a tiny home layout in San Marcos?",
-  "description": "Permit needs for a tiny home layout in San Marcos depend on its classification (ADU, JADU, or RV). Permanent dwellings or ADUs require building and zoning permi",
   "url": "www.zentinyhomes.com/faq/what-permits-are-typically-needed-for-a-tiny-home-layout-in-san-marcos",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are typically needed for a tiny home layout in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In San Marcos, the need for permits for a tiny home layout depends significantly on whether it's classified as an Accessory Dwelling Unit (ADU), Junior Accessory Dwelling Unit (JADU), or a recreational vehicle. If intended as a permanent dwelling or an ADU, it will require building permits, zoning compliance, and possibly other specific permits related to utilities, septic, and foundational elements. It's crucial to consult with the City of San Marcos Planning Department early in your project to understand all applicable local regulations and permit requirements before beginning any construction.",
-        "description": "Permit needs for a tiny home layout in San Marcos depend on its classification (ADU, JADU, or RV). Permanent dwellings or ADUs require building and zoning permits, so check with the City of San Marcos Planning Department."
-      }
-    }
-  ],
+  "name": "What permits are typically needed for a tiny home layout in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically needed for a tiny home layout in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Marcos, the need for permits for a tiny home layout depends significantly on whether it's classified as an Accessory Dwelling Unit (ADU), Junior Accessory Dwelling Unit (JADU), or a recreational vehicle. If intended as a permanent dwelling or an ADU, it will require building permits, zoning compliance, and possibly other specific permits related to utilities, septic, and foundational elements. It's crucial to consult with the City of San Marcos Planning Department early in your project to understand all applicable local regulations and permit requirements before beginning any construction.",
+        "@type": "Answer",
+        "description": "Permit needs for a tiny home layout in San Marcos depend on its classification (ADU, JADU, or RV). Permanent dwellings or ADUs require building and zoning permits, so check with the City of San Marcos Planning Department."
+      }
+    }
+  ],
+  "description": "Permit needs for a tiny home layout in San Marcos depend on its classification (ADU, JADU, or RV). Permanent dwellings or ADUs require building and zoning permi"
 }

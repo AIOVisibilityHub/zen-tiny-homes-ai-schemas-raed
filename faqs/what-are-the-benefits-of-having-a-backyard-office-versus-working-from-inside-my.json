@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of having a backyard office versus working from inside my home?",
-  "description": "A backyard office offers clear work-life separation, reduces distractions, and provides a dedicated, professional space, enhancing productivity compared to work",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-having-a-backyard-office-versus-working-from-inside-my",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of having a backyard office versus working from inside my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A backyard office provides a clear separation between work and home life, reducing distractions and improving focus. It eliminates commute time and costs, offering a dedicated, professional space that can enhance productivity. Unlike working from inside your home, a backyard office can be designed to your specific professional needs, often includes superior soundproofing, and may offer tax benefits as a legitimate home office expense, depending on your individual circumstances.",
-        "description": "A backyard office offers clear work-life separation, reduces distractions, and provides a dedicated, professional space, enhancing productivity compared to working inside your home."
-      }
-    }
-  ],
+  "name": "What are the benefits of having a backyard office versus working from inside my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of having a backyard office versus working from inside my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard office provides a clear separation between work and home life, reducing distractions and improving focus. It eliminates commute time and costs, offering a dedicated, professional space that can enhance productivity. Unlike working from inside your home, a backyard office can be designed to your specific professional needs, often includes superior soundproofing, and may offer tax benefits as a legitimate home office expense, depending on your individual circumstances.",
+        "@type": "Answer",
+        "description": "A backyard office offers clear work-life separation, reduces distractions, and provides a dedicated, professional space, enhancing productivity compared to working inside your home."
+      }
+    }
+  ],
+  "description": "A backyard office offers clear work-life separation, reduces distractions, and provides a dedicated, professional space, enhancing productivity compared to work"
 }

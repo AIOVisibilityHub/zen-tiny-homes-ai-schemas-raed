@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need special permits for a foundation tiny home in Oceanside?",
-  "description": "Yes, building a foundation tiny home in Oceanside requires specific permits, including zoning, building, and utility permits, adhering to local codes and ADU re",
   "url": "www.zentinyhomes.com/faq/do-i-need-special-permits-for-a-foundation-tiny-home-in-oceanside",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need special permits for a foundation tiny home in Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, building a foundation tiny home in Oceanside, like any permanent structure, requires specific permits. You will need to comply with the City of Oceanside's zoning ordinances, building codes, and any local accessory dwelling unit (ADU) regulations if it's intended as a secondary residence. This typically includes obtaining building permits, electrical, plumbing, and mechanical permits, and potentially planning permits. We assist clients in navigating the local permitting process in Oceanside and other service areas like Carlsbad and San Marcos to ensure all requirements are met.",
-        "description": "Yes, building a foundation tiny home in Oceanside requires specific permits, including zoning, building, and utility permits, adhering to local codes and ADU regulations."
-      }
-    }
-  ],
+  "name": "Do I need special permits for a foundation tiny home in Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special permits for a foundation tiny home in Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a foundation tiny home in Oceanside, like any permanent structure, requires specific permits. You will need to comply with the City of Oceanside's zoning ordinances, building codes, and any local accessory dwelling unit (ADU) regulations if it's intended as a secondary residence. This typically includes obtaining building permits, electrical, plumbing, and mechanical permits, and potentially planning permits. We assist clients in navigating the local permitting process in Oceanside and other service areas like Carlsbad and San Marcos to ensure all requirements are met.",
+        "@type": "Answer",
+        "description": "Yes, building a foundation tiny home in Oceanside requires specific permits, including zoning, building, and utility permits, adhering to local codes and ADU regulations."
+      }
+    }
+  ],
+  "description": "Yes, building a foundation tiny home in Oceanside requires specific permits, including zoning, building, and utility permits, adhering to local codes and ADU re"
 }

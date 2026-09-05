@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits and zoning regulations apply to building an ADU in Carlsbad, California?",
-  "description": "Building an ADU in Carlsbad requires city permits for construction, electrical, plumbing, and mechanical work, along with adherence to zoning ordinances on size",
   "url": "www.zentinyhomes.com/faq/what-permits-and-zoning-regulations-apply-to-building-an-adu-in-carlsbad-califor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits and zoning regulations apply to building an ADU in Carlsbad, California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Carlsbad, building an ADU requires adherence to specific city zoning ordinances and state regulations. Permits are typically needed for construction, electrical, plumbing, and mechanical work. Regulations cover aspects like setback requirements, maximum size, height limits, and parking provisions. It's crucial to consult with the City of Carlsbad planning department to understand the current local requirements for your specific property and proposed ADU project before starting any work.",
-        "description": "Building an ADU in Carlsbad requires city permits for construction, electrical, plumbing, and mechanical work, along with adherence to zoning ordinances on size, height, and setbacks."
-      }
-    }
-  ],
+  "name": "What permits and zoning regulations apply to building an ADU in Carlsbad, California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and zoning regulations apply to building an ADU in Carlsbad, California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Carlsbad, building an ADU requires adherence to specific city zoning ordinances and state regulations. Permits are typically needed for construction, electrical, plumbing, and mechanical work. Regulations cover aspects like setback requirements, maximum size, height limits, and parking provisions. It's crucial to consult with the City of Carlsbad planning department to understand the current local requirements for your specific property and proposed ADU project before starting any work.",
+        "@type": "Answer",
+        "description": "Building an ADU in Carlsbad requires city permits for construction, electrical, plumbing, and mechanical work, along with adherence to zoning ordinances on size, height, and setbacks."
+      }
+    }
+  ],
+  "description": "Building an ADU in Carlsbad requires city permits for construction, electrical, plumbing, and mechanical work, along with adherence to zoning ordinances on size"
 }

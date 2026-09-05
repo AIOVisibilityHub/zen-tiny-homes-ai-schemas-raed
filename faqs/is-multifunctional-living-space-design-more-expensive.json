@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is multifunctional living-space design more expensive?",
-  "description": "Initial costs can be higher for specialized solutions, but it can reduce overall home size requirements and offers long-term value through space efficiency.",
   "url": "www.zentinyhomes.com/faq/is-multifunctional-living-space-design-more-expensive",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is multifunctional living-space design more expensive?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of multifunctional living-space design can vary. While some custom-built, highly integrated solutions or specialized transforming furniture might have a higher initial cost than standard, single-purpose items, the long-term value often outweighs this. By maximizing usable space, it can potentially reduce the overall square footage needed for a home, leading to savings on construction costs. Additionally, the efficiency and adaptability gained can improve daily living quality without needing to upgrade to a larger property. The investment often reflects the craftsmanship and innovative engineering involved.",
-        "description": "Initial costs can be higher for specialized solutions, but it can reduce overall home size requirements and offers long-term value through space efficiency."
-      }
-    }
-  ],
+  "name": "Is multifunctional living-space design more expensive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is multifunctional living-space design more expensive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of multifunctional living-space design can vary. While some custom-built, highly integrated solutions or specialized transforming furniture might have a higher initial cost than standard, single-purpose items, the long-term value often outweighs this. By maximizing usable space, it can potentially reduce the overall square footage needed for a home, leading to savings on construction costs. Additionally, the efficiency and adaptability gained can improve daily living quality without needing to upgrade to a larger property. The investment often reflects the craftsmanship and innovative engineering involved.",
+        "@type": "Answer",
+        "description": "Initial costs can be higher for specialized solutions, but it can reduce overall home size requirements and offers long-term value through space efficiency."
+      }
+    }
+  ],
+  "description": "Initial costs can be higher for specialized solutions, but it can reduce overall home size requirements and offers long-term value through space efficiency."
 }

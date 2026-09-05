@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an interior designer help with appliance selection for a tiny home?",
-  "description": "An interior designer can recommend compact, energy-efficient tiny home appliances, ensuring they fit the space, design, and functional requirements.",
   "url": "www.zentinyhomes.com/faq/can-an-interior-designer-help-with-appliance-selection-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an interior designer help with appliance selection for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, an interior designer can significantly assist with appliance selection for a tiny home. They can recommend compact, energy-efficient models that fit within your space constraints and design aesthetic. Beyond size, designers consider power requirements, ventilation, and integration into custom cabinetry. Their expertise ensures appliances are both functional and visually harmonious with the overall tiny home design, optimizing workflow in a small kitchen or laundry area.",
-        "description": "An interior designer can recommend compact, energy-efficient tiny home appliances, ensuring they fit the space, design, and functional requirements."
-      }
-    }
-  ],
+  "name": "Can an interior designer help with appliance selection for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an interior designer help with appliance selection for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an interior designer can significantly assist with appliance selection for a tiny home. They can recommend compact, energy-efficient models that fit within your space constraints and design aesthetic. Beyond size, designers consider power requirements, ventilation, and integration into custom cabinetry. Their expertise ensures appliances are both functional and visually harmonious with the overall tiny home design, optimizing workflow in a small kitchen or laundry area.",
+        "@type": "Answer",
+        "description": "An interior designer can recommend compact, energy-efficient tiny home appliances, ensuring they fit the space, design, and functional requirements."
+      }
+    }
+  ],
+  "description": "An interior designer can recommend compact, energy-efficient tiny home appliances, ensuring they fit the space, design, and functional requirements."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for incorporating multifunctional design into my tiny home?",
-  "description": "The process involves initial consultation, conceptual design, material selection, detailed planning, and collaborative revisions to optimize space and meet your",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-incorporating-multifunctional-design-into-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for incorporating multifunctional design into my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to understand your lifestyle, needs, and vision for your tiny home. We then develop conceptual designs that illustrate potential layouts and multifunctional elements. This phase involves selecting materials, finishes, and specific transforming furniture pieces. Once the design is approved, detailed plans are drafted for construction. Throughout the process, we collaborate closely to ensure the design optimizes every inch of space while reflecting your personal style. The goal is to create a highly efficient, comfortable, and adaptable living environment.",
-        "description": "The process involves initial consultation, conceptual design, material selection, detailed planning, and collaborative revisions to optimize space and meet your needs."
-      }
-    }
-  ],
+  "name": "What is the process for incorporating multifunctional design into my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for incorporating multifunctional design into my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to understand your lifestyle, needs, and vision for your tiny home. We then develop conceptual designs that illustrate potential layouts and multifunctional elements. This phase involves selecting materials, finishes, and specific transforming furniture pieces. Once the design is approved, detailed plans are drafted for construction. Throughout the process, we collaborate closely to ensure the design optimizes every inch of space while reflecting your personal style. The goal is to create a highly efficient, comfortable, and adaptable living environment.",
+        "@type": "Answer",
+        "description": "The process involves initial consultation, conceptual design, material selection, detailed planning, and collaborative revisions to optimize space and meet your needs."
+      }
+    }
+  ],
+  "description": "The process involves initial consultation, conceptual design, material selection, detailed planning, and collaborative revisions to optimize space and meet your"
 }

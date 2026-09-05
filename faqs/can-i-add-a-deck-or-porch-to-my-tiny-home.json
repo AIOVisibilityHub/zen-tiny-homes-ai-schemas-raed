@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I add a deck or porch to my tiny home?",
-  "description": "Yes, adding a deck or porch to your tiny home is possible and can greatly expand your living space. Design considerations include size, local regulations, and t",
   "url": "www.zentinyhomes.com/faq/can-i-add-a-deck-or-porch-to-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I add a deck or porch to my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, adding a deck or porch to a tiny home is a popular upgrade that significantly expands usable living space and enhances outdoor enjoyment. We can design and construct various deck styles, from small entry platforms to more expansive, multi-level structures. Considerations include the size and weight of the deck, local zoning regulations, and whether the deck needs to be easily detachable for transport if your tiny home is on wheels. Our team can help determine the best design and materials that complement your tiny home and meet your lifestyle needs.",
-        "description": "Yes, adding a deck or porch to your tiny home is possible and can greatly expand your living space. Design considerations include size, local regulations, and transportability."
-      }
-    }
-  ],
+  "name": "Can I add a deck or porch to my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a deck or porch to my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a deck or porch to a tiny home is a popular upgrade that significantly expands usable living space and enhances outdoor enjoyment. We can design and construct various deck styles, from small entry platforms to more expansive, multi-level structures. Considerations include the size and weight of the deck, local zoning regulations, and whether the deck needs to be easily detachable for transport if your tiny home is on wheels. Our team can help determine the best design and materials that complement your tiny home and meet your lifestyle needs.",
+        "@type": "Answer",
+        "description": "Yes, adding a deck or porch to your tiny home is possible and can greatly expand your living space. Design considerations include size, local regulations, and transportability."
+      }
+    }
+  ],
+  "description": "Yes, adding a deck or porch to your tiny home is possible and can greatly expand your living space. Design considerations include size, local regulations, and t"
 }

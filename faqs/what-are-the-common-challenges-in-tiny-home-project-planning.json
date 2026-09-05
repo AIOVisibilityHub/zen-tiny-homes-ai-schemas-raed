@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges in tiny home project planning?",
-  "description": "Challenges include zoning, financing, maximizing small spaces, utility integration, and finding compliant land. Professional guidance helps overcome these.",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-in-tiny-home-project-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges in tiny home project planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges in tiny home planning include navigating local zoning and building codes, especially regarding minimum dwelling size and foundation requirements. Securing appropriate financing and insurance can also be complex. Design considerations for maximizing small spaces, choosing durable and efficient materials, and integrating utilities (water, sewer, electricity) are critical. Additionally, finding suitable land or a permanent parking spot that complies with regulations can be a significant hurdle. Thorough research and professional guidance are key to overcoming these challenges.",
-        "description": "Challenges include zoning, financing, maximizing small spaces, utility integration, and finding compliant land. Professional guidance helps overcome these."
-      }
-    }
-  ],
+  "name": "What are the common challenges in tiny home project planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges in tiny home project planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in tiny home planning include navigating local zoning and building codes, especially regarding minimum dwelling size and foundation requirements. Securing appropriate financing and insurance can also be complex. Design considerations for maximizing small spaces, choosing durable and efficient materials, and integrating utilities (water, sewer, electricity) are critical. Additionally, finding suitable land or a permanent parking spot that complies with regulations can be a significant hurdle. Thorough research and professional guidance are key to overcoming these challenges.",
+        "@type": "Answer",
+        "description": "Challenges include zoning, financing, maximizing small spaces, utility integration, and finding compliant land. Professional guidance helps overcome these."
+      }
+    }
+  ],
+  "description": "Challenges include zoning, financing, maximizing small spaces, utility integration, and finding compliant land. Professional guidance helps overcome these."
 }

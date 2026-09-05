@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for upgrading features during tiny home construction?",
-  "description": "Upgrades are typically chosen during the initial design phase and integrated into the construction plan. Minor changes may be possible early in construction.",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-upgrading-features-during-tiny-home-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for upgrading features during tiny home construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The upgrade process typically begins during the initial design and consultation phase. You'll work with our design team to select specific finishes, fixtures, and technologies. Once the design is finalized and approved, these selections are integrated into the construction plan. While it's best to finalize upgrades upfront, minor cosmetic changes might be possible early in the construction phase, though they could incur additional costs and potentially affect the timeline. Major structural or system changes are difficult to accommodate once construction is underway.",
-        "description": "Upgrades are typically chosen during the initial design phase and integrated into the construction plan. Minor changes may be possible early in construction."
-      }
-    }
-  ],
+  "name": "What is the process for upgrading features during tiny home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for upgrading features during tiny home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The upgrade process typically begins during the initial design and consultation phase. You'll work with our design team to select specific finishes, fixtures, and technologies. Once the design is finalized and approved, these selections are integrated into the construction plan. While it's best to finalize upgrades upfront, minor cosmetic changes might be possible early in the construction phase, though they could incur additional costs and potentially affect the timeline. Major structural or system changes are difficult to accommodate once construction is underway.",
+        "@type": "Answer",
+        "description": "Upgrades are typically chosen during the initial design phase and integrated into the construction plan. Minor changes may be possible early in construction."
+      }
+    }
+  ],
+  "description": "Upgrades are typically chosen during the initial design phase and integrated into the construction plan. Minor changes may be possible early in construction."
 }

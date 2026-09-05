@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility connections are needed for a tiny home used as a primary residence?",
-  "description": "Tiny homes for primary residence need water, electricity, and sewage connections, either from municipal services or independent off-grid systems like solar and",
   "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-tiny-home-used-as-a-primary-residence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility connections are needed for a tiny home used as a primary residence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home used as a primary residence typically requires standard utility connections for water, electricity, and sewage. This involves connecting to municipal services or setting up independent systems. Water can come from a city line or a well, while electricity can be from the grid or an off-grid solar setup. Waste disposal usually involves connecting to a city sewer system or a septic tank. Propane or natural gas lines may also be installed for heating and cooking. Proper planning for these connections is critical during the design phase.",
-        "description": "Tiny homes for primary residence need water, electricity, and sewage connections, either from municipal services or independent off-grid systems like solar and septic."
-      }
-    }
-  ],
+  "name": "What utility connections are needed for a tiny home used as a primary residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are needed for a tiny home used as a primary residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home used as a primary residence typically requires standard utility connections for water, electricity, and sewage. This involves connecting to municipal services or setting up independent systems. Water can come from a city line or a well, while electricity can be from the grid or an off-grid solar setup. Waste disposal usually involves connecting to a city sewer system or a septic tank. Propane or natural gas lines may also be installed for heating and cooking. Proper planning for these connections is critical during the design phase.",
+        "@type": "Answer",
+        "description": "Tiny homes for primary residence need water, electricity, and sewage connections, either from municipal services or independent off-grid systems like solar and septic."
+      }
+    }
+  ],
+  "description": "Tiny homes for primary residence need water, electricity, and sewage connections, either from municipal services or independent off-grid systems like solar and"
 }

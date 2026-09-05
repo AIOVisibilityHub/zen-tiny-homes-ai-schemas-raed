@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there local regulations in Carlsbad that impact multifunctional tiny home designs?",
-  "description": "Local regulations in Carlsbad, including zoning and building codes, can impact tiny home designs. It's crucial to ensure multifunctional solutions comply with m",
   "url": "www.zentinyhomes.com/faq/are-there-local-regulations-in-carlsbad-that-impact-multifunctional-tiny-home-de",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there local regulations in Carlsbad that impact multifunctional tiny home designs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Local regulations in Carlsbad, like other cities, often govern aspects such as zoning, building codes, and minimum square footage requirements, which can impact tiny home designs, including those with multifunctional elements. While multifunctional design itself isn't typically regulated, how it affects building footprints, habitable space calculations, and safety standards is. It's crucial to consult with local planning departments or Zen Tiny Homes, who are familiar with Carlsbad's specific ordinances. This ensures your innovative space-saving solutions comply with all municipal and county building and safety codes for your project.",
-        "description": "Local regulations in Carlsbad, including zoning and building codes, can impact tiny home designs. It's crucial to ensure multifunctional solutions comply with municipal ordinances."
-      }
-    }
-  ],
+  "name": "Are there local regulations in Carlsbad that impact multifunctional tiny home designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there local regulations in Carlsbad that impact multifunctional tiny home designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local regulations in Carlsbad, like other cities, often govern aspects such as zoning, building codes, and minimum square footage requirements, which can impact tiny home designs, including those with multifunctional elements. While multifunctional design itself isn't typically regulated, how it affects building footprints, habitable space calculations, and safety standards is. It's crucial to consult with local planning departments or Zen Tiny Homes, who are familiar with Carlsbad's specific ordinances. This ensures your innovative space-saving solutions comply with all municipal and county building and safety codes for your project.",
+        "@type": "Answer",
+        "description": "Local regulations in Carlsbad, including zoning and building codes, can impact tiny home designs. It's crucial to ensure multifunctional solutions comply with municipal ordinances."
+      }
+    }
+  ],
+  "description": "Local regulations in Carlsbad, including zoning and building codes, can impact tiny home designs. It's crucial to ensure multifunctional solutions comply with m"
 }

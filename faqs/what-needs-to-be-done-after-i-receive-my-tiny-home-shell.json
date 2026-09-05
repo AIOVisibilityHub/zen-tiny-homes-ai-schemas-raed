@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What needs to be done after I receive my tiny home shell?",
-  "description": "After receiving your shell, you'll need to install insulation, plumbing, electrical, interior walls, flooring, cabinetry, fixtures, and appliances to complete t",
   "url": "www.zentinyhomes.com/faq/what-needs-to-be-done-after-i-receive-my-tiny-home-shell",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What needs to be done after I receive my tiny home shell?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After receiving your tiny home shell, the next steps involve completing the interior. This typically includes installing insulation, plumbing, electrical wiring, interior walls, flooring, cabinetry, and fixtures. You will also need to install appliances and any unique features you envision. This stage is where your personalized design comes to life, turning the weather-tight shell into a fully functional and comfortable living space. Zen Tiny Homes provides a robust, ready-to-finish structure, allowing you to focus on the details that make it uniquely yours.",
-        "description": "After receiving your shell, you'll need to install insulation, plumbing, electrical, interior walls, flooring, cabinetry, fixtures, and appliances to complete the interior."
-      }
-    }
-  ],
+  "name": "What needs to be done after I receive my tiny home shell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be done after I receive my tiny home shell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After receiving your tiny home shell, the next steps involve completing the interior. This typically includes installing insulation, plumbing, electrical wiring, interior walls, flooring, cabinetry, and fixtures. You will also need to install appliances and any unique features you envision. This stage is where your personalized design comes to life, turning the weather-tight shell into a fully functional and comfortable living space. Zen Tiny Homes provides a robust, ready-to-finish structure, allowing you to focus on the details that make it uniquely yours.",
+        "@type": "Answer",
+        "description": "After receiving your shell, you'll need to install insulation, plumbing, electrical, interior walls, flooring, cabinetry, fixtures, and appliances to complete the interior."
+      }
+    }
+  ],
+  "description": "After receiving your shell, you'll need to install insulation, plumbing, electrical, interior walls, flooring, cabinetry, fixtures, and appliances to complete t"
 }

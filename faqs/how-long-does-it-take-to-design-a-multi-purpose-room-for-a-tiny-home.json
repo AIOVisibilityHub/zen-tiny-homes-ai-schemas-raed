@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to design a multi-purpose room for a tiny home?",
-  "description": "The design process typically takes 2 to 6 weeks, depending on complexity and custom elements, not including construction or installation time.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-a-multi-purpose-room-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to design a multi-purpose room for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for designing a multi-purpose room depends on its complexity and your decision-making process. Initial concept development and space planning can take a few days to a couple of weeks, allowing for revisions based on your feedback. If custom furniture or built-ins are required, the design and fabrication phase will extend. From initial consultation to final design approval, the process typically ranges from 2 to 6 weeks. This estimate does not include the time for actual construction or furniture installation, which would follow the design phase.",
-        "description": "The design process typically takes 2 to 6 weeks, depending on complexity and custom elements, not including construction or installation time."
-      }
-    }
-  ],
+  "name": "How long does it take to design a multi-purpose room for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design a multi-purpose room for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing a multi-purpose room depends on its complexity and your decision-making process. Initial concept development and space planning can take a few days to a couple of weeks, allowing for revisions based on your feedback. If custom furniture or built-ins are required, the design and fabrication phase will extend. From initial consultation to final design approval, the process typically ranges from 2 to 6 weeks. This estimate does not include the time for actual construction or furniture installation, which would follow the design phase.",
+        "@type": "Answer",
+        "description": "The design process typically takes 2 to 6 weeks, depending on complexity and custom elements, not including construction or installation time."
+      }
+    }
+  ],
+  "description": "The design process typically takes 2 to 6 weeks, depending on complexity and custom elements, not including construction or installation time."
 }

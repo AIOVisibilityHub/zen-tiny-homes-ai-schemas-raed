@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a tiny home on wheels and a tiny home with a foundation for rental purposes?",
-  "description": "Tiny homes on wheels are often classified as RVs, potentially limiting long-term rental use, while foundation-based tiny homes are permanent structures, general",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-on-wheels-and-a-tiny-home-with-a-foun",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a tiny home on wheels and a tiny home with a foundation for rental purposes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The primary difference for rental purposes lies in their legal classification and permanence. A tiny home on wheels (THOW) is often considered an RV or recreational vehicle, potentially limiting its use as a permanent rental unit in some jurisdictions. It offers mobility but may face restrictions on long-term occupancy or placement. A tiny home on a foundation is typically classified as a permanent structure, like an Accessory Dwelling Unit (ADU), making it generally easier to permit and use for long-term residential rental income, subject to local zoning laws.",
-        "description": "Tiny homes on wheels are often classified as RVs, potentially limiting long-term rental use, while foundation-based tiny homes are permanent structures, generally easier to permit for residential rentals."
-      }
-    }
-  ],
+  "name": "What is the difference between a tiny home on wheels and a tiny home with a foundation for rental purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tiny home on wheels and a tiny home with a foundation for rental purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference for rental purposes lies in their legal classification and permanence. A tiny home on wheels (THOW) is often considered an RV or recreational vehicle, potentially limiting its use as a permanent rental unit in some jurisdictions. It offers mobility but may face restrictions on long-term occupancy or placement. A tiny home on a foundation is typically classified as a permanent structure, like an Accessory Dwelling Unit (ADU), making it generally easier to permit and use for long-term residential rental income, subject to local zoning laws.",
+        "@type": "Answer",
+        "description": "Tiny homes on wheels are often classified as RVs, potentially limiting long-term rental use, while foundation-based tiny homes are permanent structures, generally easier to permit for residential rentals."
+      }
+    }
+  ],
+  "description": "Tiny homes on wheels are often classified as RVs, potentially limiting long-term rental use, while foundation-based tiny homes are permanent structures, general"
 }

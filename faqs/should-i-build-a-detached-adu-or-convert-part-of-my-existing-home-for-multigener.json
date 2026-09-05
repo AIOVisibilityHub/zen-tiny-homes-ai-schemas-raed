@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I build a detached ADU or convert part of my existing home for multigenerational living?",
-  "description": "A detached ADU offers more privacy and independence, while an attached conversion can be more cost-effective, depending on budget and property layout.",
   "url": "www.zentinyhomes.com/faq/should-i-build-a-detached-adu-or-convert-part-of-my-existing-home-for-multigener",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I build a detached ADU or convert part of my existing home for multigenerational living?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing between a detached ADU and an attached conversion depends on your property layout, budget, and desired level of privacy. A detached ADU typically offers more independence and privacy for occupants, and potentially greater rental value. A conversion, like transforming a garage, might be more cost-effective and quicker to complete, leveraging existing structures and utilities. Consider factors such as available space, noise transfer, and long-term family needs when making this decision.",
-        "description": "A detached ADU offers more privacy and independence, while an attached conversion can be more cost-effective, depending on budget and property layout."
-      }
-    }
-  ],
+  "name": "Should I build a detached ADU or convert part of my existing home for multigenerational living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a detached ADU or convert part of my existing home for multigenerational living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a detached ADU and an attached conversion depends on your property layout, budget, and desired level of privacy. A detached ADU typically offers more independence and privacy for occupants, and potentially greater rental value. A conversion, like transforming a garage, might be more cost-effective and quicker to complete, leveraging existing structures and utilities. Consider factors such as available space, noise transfer, and long-term family needs when making this decision.",
+        "@type": "Answer",
+        "description": "A detached ADU offers more privacy and independence, while an attached conversion can be more cost-effective, depending on budget and property layout."
+      }
+    }
+  ],
+  "description": "A detached ADU offers more privacy and independence, while an attached conversion can be more cost-effective, depending on budget and property layout."
 }

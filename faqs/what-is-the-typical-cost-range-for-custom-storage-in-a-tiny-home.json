@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for custom storage in a tiny home?",
-  "description": "Custom storage costs vary widely, from hundreds for basic shelving to several thousands for complex built-ins like multi-functional staircases. Materials and de",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-custom-storage-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for custom storage in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of custom storage in a tiny home varies significantly based on complexity, materials, and extent. Simple shelving or basic built-in cabinets might add a few hundred dollars. More intricate solutions like multi-functional staircases with drawers, hidden compartments, or custom-designed transforming furniture can range from a few thousand to upwards of $5,000 or more. The final price depends on the types of wood, finishes, hardware, and the labor involved in crafting and installing bespoke solutions. It's best to discuss specific design ideas with your builder for an accurate quote.",
-        "description": "Custom storage costs vary widely, from hundreds for basic shelving to several thousands for complex built-ins like multi-functional staircases. Materials and design complexity are key cost factors."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for custom storage in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for custom storage in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom storage in a tiny home varies significantly based on complexity, materials, and extent. Simple shelving or basic built-in cabinets might add a few hundred dollars. More intricate solutions like multi-functional staircases with drawers, hidden compartments, or custom-designed transforming furniture can range from a few thousand to upwards of $5,000 or more. The final price depends on the types of wood, finishes, hardware, and the labor involved in crafting and installing bespoke solutions. It's best to discuss specific design ideas with your builder for an accurate quote.",
+        "@type": "Answer",
+        "description": "Custom storage costs vary widely, from hundreds for basic shelving to several thousands for complex built-ins like multi-functional staircases. Materials and design complexity are key cost factors."
+      }
+    }
+  ],
+  "description": "Custom storage costs vary widely, from hundreds for basic shelving to several thousands for complex built-ins like multi-functional staircases. Materials and de"
 }

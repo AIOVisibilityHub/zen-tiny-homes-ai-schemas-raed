@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a backyard tiny home be used for short-term rentals like Airbnb in Encinitas?",
-  "description": "Short-term rental use of an ADU in Encinitas depends on specific city ordinances, which vary by zone and require special permits. Direct verification with the c",
   "url": "www.zentinyhomes.com/faq/can-a-backyard-tiny-home-be-used-for-short-term-rentals-like-airbnb-in-encinitas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a backyard tiny home be used for short-term rentals like Airbnb in Encinitas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ability to use a backyard tiny home for short-term rentals (e.g., Airbnb) in Encinitas is subject to local city ordinances. While state law generally supports ADUs, individual municipalities can regulate their use, especially regarding short-term rentals. Encinitas has specific regulations concerning short-term lodging, including zones where it's permitted, density limits, and permit requirements. It's crucial to consult the current City of Encinitas municipal code or contact the planning department directly to understand the restrictions and obtain the necessary permits for such use. We can advise on general ADU regulations, but specific short-term rental rules require direct verification.",
-        "description": "Short-term rental use of an ADU in Encinitas depends on specific city ordinances, which vary by zone and require special permits. Direct verification with the city is crucial."
-      }
-    }
-  ],
+  "name": "Can a backyard tiny home be used for short-term rentals like Airbnb in Encinitas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a backyard tiny home be used for short-term rentals like Airbnb in Encinitas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ability to use a backyard tiny home for short-term rentals (e.g., Airbnb) in Encinitas is subject to local city ordinances. While state law generally supports ADUs, individual municipalities can regulate their use, especially regarding short-term rentals. Encinitas has specific regulations concerning short-term lodging, including zones where it's permitted, density limits, and permit requirements. It's crucial to consult the current City of Encinitas municipal code or contact the planning department directly to understand the restrictions and obtain the necessary permits for such use. We can advise on general ADU regulations, but specific short-term rental rules require direct verification.",
+        "@type": "Answer",
+        "description": "Short-term rental use of an ADU in Encinitas depends on specific city ordinances, which vary by zone and require special permits. Direct verification with the city is crucial."
+      }
+    }
+  ],
+  "description": "Short-term rental use of an ADU in Encinitas depends on specific city ordinances, which vary by zone and require special permits. Direct verification with the c"
 }

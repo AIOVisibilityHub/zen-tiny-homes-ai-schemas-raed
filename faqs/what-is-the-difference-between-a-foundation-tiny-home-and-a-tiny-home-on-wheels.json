@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a foundation tiny home and a tiny home on wheels?",
-  "description": "Foundation tiny homes are permanent structures on a fixed foundation, classified as real property, while tiny homes on wheels are mobile, often classified as RV",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-foundation-tiny-home-and-a-tiny-home-on-wheels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a foundation tiny home and a tiny home on wheels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The primary difference lies in their permanence and classification. A foundation tiny home is built on a fixed foundation and is considered real property, subject to local building codes and zoning laws, similar to a traditional house. A tiny home on wheels, conversely, is built on a trailer chassis, designed for mobility, and typically classified as a recreational vehicle (RV). This means tiny homes on wheels are often not subject to the same strict building codes or permanent dwelling regulations, but their placement is restricted by RV park rules or specific ordinances allowing them as ADUs.",
-        "description": "Foundation tiny homes are permanent structures on a fixed foundation, classified as real property, while tiny homes on wheels are mobile, often classified as RVs."
-      }
-    }
-  ],
+  "name": "What is the difference between a foundation tiny home and a tiny home on wheels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a foundation tiny home and a tiny home on wheels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their permanence and classification. A foundation tiny home is built on a fixed foundation and is considered real property, subject to local building codes and zoning laws, similar to a traditional house. A tiny home on wheels, conversely, is built on a trailer chassis, designed for mobility, and typically classified as a recreational vehicle (RV). This means tiny homes on wheels are often not subject to the same strict building codes or permanent dwelling regulations, but their placement is restricted by RV park rules or specific ordinances allowing them as ADUs.",
+        "@type": "Answer",
+        "description": "Foundation tiny homes are permanent structures on a fixed foundation, classified as real property, while tiny homes on wheels are mobile, often classified as RVs."
+      }
+    }
+  ],
+  "description": "Foundation tiny homes are permanent structures on a fixed foundation, classified as real property, while tiny homes on wheels are mobile, often classified as RV"
 }

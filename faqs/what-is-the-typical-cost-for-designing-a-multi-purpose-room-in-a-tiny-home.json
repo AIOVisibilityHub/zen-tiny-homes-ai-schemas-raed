@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for designing a multi-purpose room in a tiny home?",
-  "description": "Costs vary based on design complexity, custom cabinetry, and furniture quality, ranging from hundreds to several thousand dollars; contact us for a detailed quo",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-for-designing-a-multi-purpose-room-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for designing a multi-purpose room in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for designing a multi-purpose room in a tiny home varies widely based on the complexity of the design, the type of custom cabinetry, and the quality of convertible furniture selected. Basic designs integrating off-the-shelf convertible pieces will be less expensive than those requiring custom-built solutions or advanced automation. Costs can range from a few hundred dollars for simple layout planning and furniture selection to several thousand for bespoke built-ins, custom transformable elements, and professional design consultation. Zen Tiny Homes can provide a detailed quote after understanding your specific needs and preferences.",
-        "description": "Costs vary based on design complexity, custom cabinetry, and furniture quality, ranging from hundreds to several thousand dollars; contact us for a detailed quote."
-      }
-    }
-  ],
+  "name": "What is the typical cost for designing a multi-purpose room in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for designing a multi-purpose room in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for designing a multi-purpose room in a tiny home varies widely based on the complexity of the design, the type of custom cabinetry, and the quality of convertible furniture selected. Basic designs integrating off-the-shelf convertible pieces will be less expensive than those requiring custom-built solutions or advanced automation. Costs can range from a few hundred dollars for simple layout planning and furniture selection to several thousand for bespoke built-ins, custom transformable elements, and professional design consultation. Zen Tiny Homes can provide a detailed quote after understanding your specific needs and preferences.",
+        "@type": "Answer",
+        "description": "Costs vary based on design complexity, custom cabinetry, and furniture quality, ranging from hundreds to several thousand dollars; contact us for a detailed quote."
+      }
+    }
+  ],
+  "description": "Costs vary based on design complexity, custom cabinetry, and furniture quality, ranging from hundreds to several thousand dollars; contact us for a detailed quo"
 }

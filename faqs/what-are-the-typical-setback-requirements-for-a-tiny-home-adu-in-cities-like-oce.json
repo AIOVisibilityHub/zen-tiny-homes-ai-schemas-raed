@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical setback requirements for a tiny home ADU in cities like Oceanside or Carlsbad?",
-  "description": "Setback requirements for tiny home ADUs are typically 4 feet for side and rear, with front setbacks varying by city zoning like Oceanside or Carlsbad.",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-setback-requirements-for-a-tiny-home-adu-in-cities-like-oce",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical setback requirements for a tiny home ADU in cities like Oceanside or Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Setback requirements for tiny home ADUs, and all ADUs, vary by specific city and lot characteristics, but state law has standardized some aspects. Generally, side and rear setbacks for ADUs are a minimum of 4 feet in California, and front setbacks depend on the primary dwelling. Specific zoning codes for Oceanside or Carlsbad will dictate these minimum distances from property lines, and fire safety access might also influence placement. Zen Tiny Homes verifies these requirements for your specific property.",
-        "description": "Setback requirements for tiny home ADUs are typically 4 feet for side and rear, with front setbacks varying by city zoning like Oceanside or Carlsbad."
-      }
-    }
-  ],
+  "name": "What are the typical setback requirements for a tiny home ADU in cities like Oceanside or Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical setback requirements for a tiny home ADU in cities like Oceanside or Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Setback requirements for tiny home ADUs, and all ADUs, vary by specific city and lot characteristics, but state law has standardized some aspects. Generally, side and rear setbacks for ADUs are a minimum of 4 feet in California, and front setbacks depend on the primary dwelling. Specific zoning codes for Oceanside or Carlsbad will dictate these minimum distances from property lines, and fire safety access might also influence placement. Zen Tiny Homes verifies these requirements for your specific property.",
+        "@type": "Answer",
+        "description": "Setback requirements for tiny home ADUs are typically 4 feet for side and rear, with front setbacks varying by city zoning like Oceanside or Carlsbad."
+      }
+    }
+  ],
+  "description": "Setback requirements for tiny home ADUs are typically 4 feet for side and rear, with front setbacks varying by city zoning like Oceanside or Carlsbad."
 }

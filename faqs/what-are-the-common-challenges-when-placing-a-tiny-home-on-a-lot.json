@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common challenges when placing a tiny home on a lot?",
-  "description": "Challenges include zoning, permits, utility hookups, site preparation, and access for delivery.",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-challenges-when-placing-a-tiny-home-on-a-lot",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common challenges when placing a tiny home on a lot?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges include navigating local zoning ordinances, securing necessary permits, ensuring utility hookups (water, sewer, electricity), and preparing the site for the tiny home's foundation. Access for delivery, grading requirements, and ensuring compliance with setback rules are also frequent considerations. Zen Tiny Homes assists clients in understanding and addressing these challenges to facilitate a smooth placement process.",
-        "description": "Challenges include zoning, permits, utility hookups, site preparation, and access for delivery."
-      }
-    }
-  ],
+  "name": "What are the common challenges when placing a tiny home on a lot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when placing a tiny home on a lot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include navigating local zoning ordinances, securing necessary permits, ensuring utility hookups (water, sewer, electricity), and preparing the site for the tiny home's foundation. Access for delivery, grading requirements, and ensuring compliance with setback rules are also frequent considerations. Zen Tiny Homes assists clients in understanding and addressing these challenges to facilitate a smooth placement process.",
+        "@type": "Answer",
+        "description": "Challenges include zoning, permits, utility hookups, site preparation, and access for delivery."
+      }
+    }
+  ],
+  "description": "Challenges include zoning, permits, utility hookups, site preparation, and access for delivery."
 }

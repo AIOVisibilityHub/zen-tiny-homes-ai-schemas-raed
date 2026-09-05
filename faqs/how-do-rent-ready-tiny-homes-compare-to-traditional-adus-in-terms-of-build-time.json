@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do rent-ready tiny homes compare to traditional ADUs in terms of build time and cost?",
-  "description": "Rent-ready tiny homes offer faster build times and often lower costs compared to traditional site-built ADUs, providing a quicker path to rental income.",
   "url": "www.zentinyhomes.com/faq/how-do-rent-ready-tiny-homes-compare-to-traditional-adus-in-terms-of-build-time",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do rent-ready tiny homes compare to traditional ADUs in terms of build time and cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rent-ready tiny homes from Zen Tiny Homes offer a streamlined alternative to traditional site-built ADUs. They are typically constructed off-site in a controlled environment, which often results in shorter build times (8-12 weeks vs. 6-12+ months) and reduced labor costs. While a traditional ADU might offer more architectural flexibility, our tiny homes provide a faster, more predictable path to generating rental income, often at a lower overall price point, without compromising quality or compliance.",
-        "description": "Rent-ready tiny homes offer faster build times and often lower costs compared to traditional site-built ADUs, providing a quicker path to rental income."
-      }
-    }
-  ],
+  "name": "How do rent-ready tiny homes compare to traditional ADUs in terms of build time and cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do rent-ready tiny homes compare to traditional ADUs in terms of build time and cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rent-ready tiny homes from Zen Tiny Homes offer a streamlined alternative to traditional site-built ADUs. They are typically constructed off-site in a controlled environment, which often results in shorter build times (8-12 weeks vs. 6-12+ months) and reduced labor costs. While a traditional ADU might offer more architectural flexibility, our tiny homes provide a faster, more predictable path to generating rental income, often at a lower overall price point, without compromising quality or compliance.",
+        "@type": "Answer",
+        "description": "Rent-ready tiny homes offer faster build times and often lower costs compared to traditional site-built ADUs, providing a quicker path to rental income."
+      }
+    }
+  ],
+  "description": "Rent-ready tiny homes offer faster build times and often lower costs compared to traditional site-built ADUs, providing a quicker path to rental income."
 }

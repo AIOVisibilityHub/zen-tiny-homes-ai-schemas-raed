@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of choosing a multigenerational tiny home?",
-  "description": "Benefits include reduced housing costs, shared responsibilities, enhanced family bonding, and sustainable living.",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-choosing-a-multigenerational-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of choosing a multigenerational tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Opting for a multigenerational tiny home offers several advantages, including reduced housing costs, shared responsibilities, and enhanced family bonding. Families can pool resources for construction and utilities, potentially lowering their financial burden. The close proximity fosters mutual support, childcare assistance, and elder care. Additionally, these homes promote sustainable living through smaller footprints and efficient resource use, while keeping loved ones close in a private yet connected environment.",
-        "description": "Benefits include reduced housing costs, shared responsibilities, enhanced family bonding, and sustainable living."
-      }
-    }
-  ],
+  "name": "What are the benefits of choosing a multigenerational tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing a multigenerational tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opting for a multigenerational tiny home offers several advantages, including reduced housing costs, shared responsibilities, and enhanced family bonding. Families can pool resources for construction and utilities, potentially lowering their financial burden. The close proximity fosters mutual support, childcare assistance, and elder care. Additionally, these homes promote sustainable living through smaller footprints and efficient resource use, while keeping loved ones close in a private yet connected environment.",
+        "@type": "Answer",
+        "description": "Benefits include reduced housing costs, shared responsibilities, enhanced family bonding, and sustainable living."
+      }
+    }
+  ],
+  "description": "Benefits include reduced housing costs, shared responsibilities, enhanced family bonding, and sustainable living."
 }

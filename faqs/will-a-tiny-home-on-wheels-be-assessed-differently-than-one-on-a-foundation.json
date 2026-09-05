@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a tiny home on wheels be assessed differently than one on a foundation?",
-  "description": "Yes, a tiny home on wheels is often chattel property and assessed differently than one on a foundation, which is real property, impacting financing and taxes.",
   "url": "www.zentinyhomes.com/faq/will-a-tiny-home-on-wheels-be-assessed-differently-than-one-on-a-foundation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a tiny home on wheels be assessed differently than one on a foundation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a tiny home on wheels is often assessed differently than one on a permanent foundation. A tiny home on a permanent foundation is typically considered real property, similar to a traditional house, and appraised using standard real estate methodologies. A tiny home on wheels, however, may be classified as chattel property, similar to a vehicle or recreational vehicle, which falls under different valuation guidelines. This distinction impacts financing options, insurance, and how property taxes are applied, necessitating a specialized appraiser familiar with both types of classifications.",
-        "description": "Yes, a tiny home on wheels is often chattel property and assessed differently than one on a foundation, which is real property, impacting financing and taxes."
-      }
-    }
-  ],
+  "name": "Will a tiny home on wheels be assessed differently than one on a foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a tiny home on wheels be assessed differently than one on a foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a tiny home on wheels is often assessed differently than one on a permanent foundation. A tiny home on a permanent foundation is typically considered real property, similar to a traditional house, and appraised using standard real estate methodologies. A tiny home on wheels, however, may be classified as chattel property, similar to a vehicle or recreational vehicle, which falls under different valuation guidelines. This distinction impacts financing options, insurance, and how property taxes are applied, necessitating a specialized appraiser familiar with both types of classifications.",
+        "@type": "Answer",
+        "description": "Yes, a tiny home on wheels is often chattel property and assessed differently than one on a foundation, which is real property, impacting financing and taxes."
+      }
+    }
+  ],
+  "description": "Yes, a tiny home on wheels is often chattel property and assessed differently than one on a foundation, which is real property, impacting financing and taxes."
 }

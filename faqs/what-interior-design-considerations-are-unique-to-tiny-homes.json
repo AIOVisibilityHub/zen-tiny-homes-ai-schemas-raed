@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What interior design considerations are unique to tiny homes?",
-  "description": "Tiny home interior design focuses on maximizing space through multi-functional furniture, smart storage, and vertical utilization for comfort and efficiency.",
   "url": "www.zentinyhomes.com/faq/what-interior-design-considerations-are-unique-to-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What interior design considerations are unique to tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny homes require an interior design approach that maximizes every square inch for both functionality and comfort. This includes multi-functional furniture, smart storage solutions, vertical space utilization, and a cohesive color palette to make spaces feel larger. Thoughtful planning is crucial to ensure all essential needs are met without feeling cramped or cluttered, focusing on efficient layouts and adaptable elements like pull-out tables or murphy beds.",
-        "description": "Tiny home interior design focuses on maximizing space through multi-functional furniture, smart storage, and vertical utilization for comfort and efficiency."
-      }
-    }
-  ],
+  "name": "What interior design considerations are unique to tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What interior design considerations are unique to tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny homes require an interior design approach that maximizes every square inch for both functionality and comfort. This includes multi-functional furniture, smart storage solutions, vertical space utilization, and a cohesive color palette to make spaces feel larger. Thoughtful planning is crucial to ensure all essential needs are met without feeling cramped or cluttered, focusing on efficient layouts and adaptable elements like pull-out tables or murphy beds.",
+        "@type": "Answer",
+        "description": "Tiny home interior design focuses on maximizing space through multi-functional furniture, smart storage, and vertical utilization for comfort and efficiency."
+      }
+    }
+  ],
+  "description": "Tiny home interior design focuses on maximizing space through multi-functional furniture, smart storage, and vertical utilization for comfort and efficiency."
 }

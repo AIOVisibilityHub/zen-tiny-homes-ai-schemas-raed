@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does professional space-optimization design differ from DIY solutions?",
-  "description": "Professional design offers expertise in architectural principles, compliance, and custom solutions for tiny homes. It provides a more cohesive, efficient, and h",
   "url": "www.zentinyhomes.com/faq/how-does-professional-space-optimization-design-differ-from-diy-solutions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does professional space-optimization design differ from DIY solutions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional space-optimization design brings expertise in architectural principles, material science, and building codes specific to tiny homes. Designers can identify overlooked opportunities for storage and functionality, create custom blueprints, and source specialized components that DIYers might not consider. While DIY offers flexibility, a professional ensures structural integrity, compliance with regulations, and a cohesive aesthetic, often resulting in a more efficient, safer, and higher-quality final product.",
-        "description": "Professional design offers expertise in architectural principles, compliance, and custom solutions for tiny homes. It provides a more cohesive, efficient, and higher-quality result compared to DIY efforts."
-      }
-    }
-  ],
+  "name": "How does professional space-optimization design differ from DIY solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does professional space-optimization design differ from DIY solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional space-optimization design brings expertise in architectural principles, material science, and building codes specific to tiny homes. Designers can identify overlooked opportunities for storage and functionality, create custom blueprints, and source specialized components that DIYers might not consider. While DIY offers flexibility, a professional ensures structural integrity, compliance with regulations, and a cohesive aesthetic, often resulting in a more efficient, safer, and higher-quality final product.",
+        "@type": "Answer",
+        "description": "Professional design offers expertise in architectural principles, compliance, and custom solutions for tiny homes. It provides a more cohesive, efficient, and higher-quality result compared to DIY efforts."
+      }
+    }
+  ],
+  "description": "Professional design offers expertise in architectural principles, compliance, and custom solutions for tiny homes. It provides a more cohesive, efficient, and h"
 }

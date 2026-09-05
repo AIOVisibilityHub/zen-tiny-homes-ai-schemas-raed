@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I start the process of getting a tiny home shell from Zen Tiny Homes?",
-  "description": "Start by contacting Zen Tiny Homes for a consultation to discuss your vision, budget, and design, then we'll develop plans and begin construction.",
   "url": "www.zentinyhomes.com/faq/how-do-i-start-the-process-of-getting-a-tiny-home-shell-from-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I start the process of getting a tiny home shell from Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To begin, contact Zen Tiny Homes for an initial consultation. During this meeting, we'll discuss your vision, budget, and specific requirements for your tiny home shell. We'll explore design options, material choices, and provide a preliminary quote. Following this, we can develop detailed plans and specifications. Once approved, we'll proceed with scheduling the build and keeping you informed throughout the construction process until your customized shell is complete and ready for pickup or delivery. Our goal is to make the journey from concept to shell as smooth as possible.",
-        "description": "Start by contacting Zen Tiny Homes for a consultation to discuss your vision, budget, and design, then we'll develop plans and begin construction."
-      }
-    }
-  ],
+  "name": "How do I start the process of getting a tiny home shell from Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the process of getting a tiny home shell from Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To begin, contact Zen Tiny Homes for an initial consultation. During this meeting, we'll discuss your vision, budget, and specific requirements for your tiny home shell. We'll explore design options, material choices, and provide a preliminary quote. Following this, we can develop detailed plans and specifications. Once approved, we'll proceed with scheduling the build and keeping you informed throughout the construction process until your customized shell is complete and ready for pickup or delivery. Our goal is to make the journey from concept to shell as smooth as possible.",
+        "@type": "Answer",
+        "description": "Start by contacting Zen Tiny Homes for a consultation to discuss your vision, budget, and design, then we'll develop plans and begin construction."
+      }
+    }
+  ],
+  "description": "Start by contacting Zen Tiny Homes for a consultation to discuss your vision, budget, and design, then we'll develop plans and begin construction."
 }

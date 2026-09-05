@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for adding an ADU for family members to my property?",
-  "description": "The process involves feasibility, design, permitting, construction with inspections, and finally obtaining a certificate of occupancy.",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-adding-an-adu-for-family-members-to-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for adding an ADU for family members to my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with a feasibility study to check local zoning and property suitability. Next, engage a designer or architect to create plans, which then undergo a permitting review with the local city planning department. Once permits are approved, construction can begin. Throughout the construction phase, inspections will be conducted by city officials. Finally, after all inspections pass, a certificate of occupancy is issued, allowing the ADU to be used. Zen Tiny Homes assists with all these steps.",
-        "description": "The process involves feasibility, design, permitting, construction with inspections, and finally obtaining a certificate of occupancy."
-      }
-    }
-  ],
+  "name": "What is the process for adding an ADU for family members to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding an ADU for family members to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a feasibility study to check local zoning and property suitability. Next, engage a designer or architect to create plans, which then undergo a permitting review with the local city planning department. Once permits are approved, construction can begin. Throughout the construction phase, inspections will be conducted by city officials. Finally, after all inspections pass, a certificate of occupancy is issued, allowing the ADU to be used. Zen Tiny Homes assists with all these steps.",
+        "@type": "Answer",
+        "description": "The process involves feasibility, design, permitting, construction with inspections, and finally obtaining a certificate of occupancy."
+      }
+    }
+  ],
+  "description": "The process involves feasibility, design, permitting, construction with inspections, and finally obtaining a certificate of occupancy."
 }

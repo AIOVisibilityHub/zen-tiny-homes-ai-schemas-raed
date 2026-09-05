@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between standard cabinetry and optimized storage for a tiny home?",
-  "description": "Standard cabinetry has pre-defined sizes; optimized storage is custom-designed to use every space, featuring multi-functional elements and precise dimensions to",
   "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-standard-cabinetry-and-optimized-storage-for-a-tin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between standard cabinetry and optimized storage for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard cabinetry typically offers pre-defined sizes and configurations, often prioritizing aesthetics over hyper-efficiency in small spaces. Optimized storage, in contrast, is custom-designed to utilize every available nook and cranny. It often incorporates multi-functional elements, hidden compartments, vertical pull-outs, and precise dimensions to fit specific items or areas. While standard cabinetry provides basic storage, optimized solutions are integral to the tiny home's structure, enhancing livability by making the most of every square inch. It’s about smart integration versus off-the-shelf solutions.",
-        "description": "Standard cabinetry has pre-defined sizes; optimized storage is custom-designed to use every space, featuring multi-functional elements and precise dimensions to maximize efficiency in tiny homes."
-      }
-    }
-  ],
+  "name": "What's the difference between standard cabinetry and optimized storage for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between standard cabinetry and optimized storage for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard cabinetry typically offers pre-defined sizes and configurations, often prioritizing aesthetics over hyper-efficiency in small spaces. Optimized storage, in contrast, is custom-designed to utilize every available nook and cranny. It often incorporates multi-functional elements, hidden compartments, vertical pull-outs, and precise dimensions to fit specific items or areas. While standard cabinetry provides basic storage, optimized solutions are integral to the tiny home's structure, enhancing livability by making the most of every square inch. It’s about smart integration versus off-the-shelf solutions.",
+        "@type": "Answer",
+        "description": "Standard cabinetry has pre-defined sizes; optimized storage is custom-designed to use every space, featuring multi-functional elements and precise dimensions to maximize efficiency in tiny homes."
+      }
+    }
+  ],
+  "description": "Standard cabinetry has pre-defined sizes; optimized storage is custom-designed to use every space, featuring multi-functional elements and precise dimensions to"
 }

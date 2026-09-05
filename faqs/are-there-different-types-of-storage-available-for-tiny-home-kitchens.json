@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there different types of storage available for tiny home kitchens?",
-  "description": "Tiny home kitchens use pull-out pantries, toe-kick drawers, vertical racks, and integrated appliance storage. Overhead shelving and magnetic strips also maximiz",
   "url": "www.zentinyhomes.com/faq/are-there-different-types-of-storage-available-for-tiny-home-kitchens",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there different types of storage available for tiny home kitchens?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home kitchens often feature smart, compact storage. Options include pull-out pantry shelves, toe-kick drawers under cabinets, vertical plate racks, and magnetic knife strips to save counter space. Overhead shelving and hooks for pots and pans are also common. Consider built-in organizers for utensils and spices, and stackable containers to make the most of every cabinet. Appliances might be integrated or designed to serve multiple functions, further reducing the need for extensive dedicated storage for individual items.",
-        "description": "Tiny home kitchens use pull-out pantries, toe-kick drawers, vertical racks, and integrated appliance storage. Overhead shelving and magnetic strips also maximize space."
-      }
-    }
-  ],
+  "name": "Are there different types of storage available for tiny home kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of storage available for tiny home kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home kitchens often feature smart, compact storage. Options include pull-out pantry shelves, toe-kick drawers under cabinets, vertical plate racks, and magnetic knife strips to save counter space. Overhead shelving and hooks for pots and pans are also common. Consider built-in organizers for utensils and spices, and stackable containers to make the most of every cabinet. Appliances might be integrated or designed to serve multiple functions, further reducing the need for extensive dedicated storage for individual items.",
+        "@type": "Answer",
+        "description": "Tiny home kitchens use pull-out pantries, toe-kick drawers, vertical racks, and integrated appliance storage. Overhead shelving and magnetic strips also maximize space."
+      }
+    }
+  ],
+  "description": "Tiny home kitchens use pull-out pantries, toe-kick drawers, vertical racks, and integrated appliance storage. Overhead shelving and magnetic strips also maximiz"
 }

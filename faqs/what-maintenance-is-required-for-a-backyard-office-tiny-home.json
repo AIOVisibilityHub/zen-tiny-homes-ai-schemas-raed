@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for a backyard office tiny home?",
-  "description": "Maintenance includes exterior cleaning, roof and siding checks, window/door inspections, and HVAC servicing, similar to a small conventional home.",
   "url": "www.zentinyhomes.com/faq/what-maintenance-is-required-for-a-backyard-office-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for a backyard office tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maintenance for a backyard office tiny home is similar to that of a conventional home, scaled down. Regular tasks include exterior cleaning, checking roofing and siding for wear, inspecting windows and doors for seals, and maintaining any landscaping around the unit. If the unit has plumbing, seasonal checks for leaks or freezing pipes are important. For HVAC systems, routine filter changes and professional servicing ensure efficiency. Adhering to a consistent maintenance schedule helps preserve the unit's longevity and appearance.",
-        "description": "Maintenance includes exterior cleaning, roof and siding checks, window/door inspections, and HVAC servicing, similar to a small conventional home."
-      }
-    }
-  ],
+  "name": "What maintenance is required for a backyard office tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a backyard office tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a backyard office tiny home is similar to that of a conventional home, scaled down. Regular tasks include exterior cleaning, checking roofing and siding for wear, inspecting windows and doors for seals, and maintaining any landscaping around the unit. If the unit has plumbing, seasonal checks for leaks or freezing pipes are important. For HVAC systems, routine filter changes and professional servicing ensure efficiency. Adhering to a consistent maintenance schedule helps preserve the unit's longevity and appearance.",
+        "@type": "Answer",
+        "description": "Maintenance includes exterior cleaning, roof and siding checks, window/door inspections, and HVAC servicing, similar to a small conventional home."
+      }
+    }
+  ],
+  "description": "Maintenance includes exterior cleaning, roof and siding checks, window/door inspections, and HVAC servicing, similar to a small conventional home."
 }

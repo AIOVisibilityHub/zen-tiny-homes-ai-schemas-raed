@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I maximize storage in a tiny home without sacrificing aesthetics?",
-  "description": "Maximize tiny home storage with built-in solutions, multi-functional furniture, and vertical shelving that blend into the design.",
   "url": "www.zentinyhomes.com/faq/how-can-i-maximize-storage-in-a-tiny-home-without-sacrificing-aesthetics",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I maximize storage in a tiny home without sacrificing aesthetics?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maximizing storage in a tiny home involves creative solutions that blend seamlessly with the design. Built-in storage, such as under-stair drawers, wall-mounted shelving, and furniture with hidden compartments, can significantly increase capacity. Utilizing vertical space with tall cabinets or loft storage is also effective. The key is to integrate storage into the structure and design, keeping it tidy and aesthetically pleasing rather than an afterthought.",
-        "description": "Maximize tiny home storage with built-in solutions, multi-functional furniture, and vertical shelving that blend into the design."
-      }
-    }
-  ],
+  "name": "How can I maximize storage in a tiny home without sacrificing aesthetics?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maximize storage in a tiny home without sacrificing aesthetics?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maximizing storage in a tiny home involves creative solutions that blend seamlessly with the design. Built-in storage, such as under-stair drawers, wall-mounted shelving, and furniture with hidden compartments, can significantly increase capacity. Utilizing vertical space with tall cabinets or loft storage is also effective. The key is to integrate storage into the structure and design, keeping it tidy and aesthetically pleasing rather than an afterthought.",
+        "@type": "Answer",
+        "description": "Maximize tiny home storage with built-in solutions, multi-functional furniture, and vertical shelving that blend into the design."
+      }
+    }
+  ],
+  "description": "Maximize tiny home storage with built-in solutions, multi-functional furniture, and vertical shelving that blend into the design."
 }

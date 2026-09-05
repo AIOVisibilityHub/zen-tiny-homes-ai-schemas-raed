@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time to engage a small-space planner for a tiny home project?",
-  "description": "Engage a small-space planner at the project's outset, before construction or detailed design, to integrate needs into the foundational layout and avoid costly r",
   "url": "www.zentinyhomes.com/faq/when-is-the-best-time-to-engage-a-small-space-planner-for-a-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time to engage a small-space planner for a tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ideal time to engage a small-space planner is at the very beginning of your tiny home project, preferably before any construction or even detailed design work commences. Bringing in a planner early ensures that your vision, lifestyle needs, and functional requirements are integrated into the foundational layout. This proactive approach helps avoid costly revisions later in the process, streamlines decision-making regarding materials and features, and ensures the final tiny home is optimized for efficiency and comfort from the ground up. Early planning sets a strong foundation for a successful build.",
-        "description": "Engage a small-space planner at the project's outset, before construction or detailed design, to integrate needs into the foundational layout and avoid costly revisions."
-      }
-    }
-  ],
+  "name": "When is the best time to engage a small-space planner for a tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to engage a small-space planner for a tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to engage a small-space planner is at the very beginning of your tiny home project, preferably before any construction or even detailed design work commences. Bringing in a planner early ensures that your vision, lifestyle needs, and functional requirements are integrated into the foundational layout. This proactive approach helps avoid costly revisions later in the process, streamlines decision-making regarding materials and features, and ensures the final tiny home is optimized for efficiency and comfort from the ground up. Early planning sets a strong foundation for a successful build.",
+        "@type": "Answer",
+        "description": "Engage a small-space planner at the project's outset, before construction or detailed design, to integrate needs into the foundational layout and avoid costly revisions."
+      }
+    }
+  ],
+  "description": "Engage a small-space planner at the project's outset, before construction or detailed design, to integrate needs into the foundational layout and avoid costly r"
 }

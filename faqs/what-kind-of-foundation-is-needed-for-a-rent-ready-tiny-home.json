@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of foundation is needed for a rent-ready tiny home?",
-  "description": "A permanent foundation like a concrete slab or pier and beam system is typically needed for our rent-ready tiny homes.",
   "url": "www.zentinyhomes.com/faq/what-kind-of-foundation-is-needed-for-a-rent-ready-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of foundation is needed for a rent-ready tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our rent-ready tiny homes are typically designed for placement on a permanent foundation, such as a concrete slab or a pier and beam system, especially when classified as an ADU. The specific foundation type will depend on your property's soil conditions, local building codes, and the home's design. We provide foundation recommendations and specifications, working with local contractors to ensure a secure and compliant base for your new tiny home.",
-        "description": "A permanent foundation like a concrete slab or pier and beam system is typically needed for our rent-ready tiny homes."
-      }
-    }
-  ],
+  "name": "What kind of foundation is needed for a rent-ready tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation is needed for a rent-ready tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our rent-ready tiny homes are typically designed for placement on a permanent foundation, such as a concrete slab or a pier and beam system, especially when classified as an ADU. The specific foundation type will depend on your property's soil conditions, local building codes, and the home's design. We provide foundation recommendations and specifications, working with local contractors to ensure a secure and compliant base for your new tiny home.",
+        "@type": "Answer",
+        "description": "A permanent foundation like a concrete slab or pier and beam system is typically needed for our rent-ready tiny homes."
+      }
+    }
+  ],
+  "description": "A permanent foundation like a concrete slab or pier and beam system is typically needed for our rent-ready tiny homes."
 }

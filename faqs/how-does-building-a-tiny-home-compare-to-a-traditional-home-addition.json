@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does building a tiny home compare to a traditional home addition?",
-  "description": "A tiny home offers independent living space, potentially less disruption, and more privacy than a traditional home addition. It provides a separate dwelling uni",
   "url": "www.zentinyhomes.com/faq/how-does-building-a-tiny-home-compare-to-a-traditional-home-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does building a tiny home compare to a traditional home addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a separate backyard tiny home often offers greater flexibility and can be less disruptive than a traditional home addition. Additions typically involve modifying existing structures, which can be complex and impact the main home's living space during construction. Tiny homes, being detached, provide a completely independent unit with its own entrance, offering more privacy and rental income potential. While both increase living space and property value, ADUs are often a more streamlined construction process and can provide distinct dwelling separation, appealing to a wider range of uses.",
-        "description": "A tiny home offers independent living space, potentially less disruption, and more privacy than a traditional home addition. It provides a separate dwelling unit with its own entrance."
-      }
-    }
-  ],
+  "name": "How does building a tiny home compare to a traditional home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does building a tiny home compare to a traditional home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a separate backyard tiny home often offers greater flexibility and can be less disruptive than a traditional home addition. Additions typically involve modifying existing structures, which can be complex and impact the main home's living space during construction. Tiny homes, being detached, provide a completely independent unit with its own entrance, offering more privacy and rental income potential. While both increase living space and property value, ADUs are often a more streamlined construction process and can provide distinct dwelling separation, appealing to a wider range of uses.",
+        "@type": "Answer",
+        "description": "A tiny home offers independent living space, potentially less disruption, and more privacy than a traditional home addition. It provides a separate dwelling unit with its own entrance."
+      }
+    }
+  ],
+  "description": "A tiny home offers independent living space, potentially less disruption, and more privacy than a traditional home addition. It provides a separate dwelling uni"
 }

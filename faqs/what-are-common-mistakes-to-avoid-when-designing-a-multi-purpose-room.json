@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common mistakes to avoid when designing a multi-purpose room?",
-  "description": "Avoid clutter, insufficient storage, hard-to-move furniture, poor lighting, and blocked pathways to ensure functionality and smooth transitions.",
   "url": "www.zentinyhomes.com/faq/what-are-common-mistakes-to-avoid-when-designing-a-multi-purpose-room",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common mistakes to avoid when designing a multi-purpose room?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include over-cluttering the space, neglecting proper storage, and choosing furniture that isn't truly versatile or easily movable. Avoid designs that require excessive effort to transition between functions, as this can lead to frustration. Not considering lighting for each specific function is another pitfall; ensure adequate task lighting for office work and ambient lighting for relaxation. Additionally, failing to account for clear pathways and traffic flow in each configuration can make the room feel cramped and dysfunctional. Prioritize functionality, ease of transition, and smart storage.",
-        "description": "Avoid clutter, insufficient storage, hard-to-move furniture, poor lighting, and blocked pathways to ensure functionality and smooth transitions."
-      }
-    }
-  ],
+  "name": "What are common mistakes to avoid when designing a multi-purpose room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid when designing a multi-purpose room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include over-cluttering the space, neglecting proper storage, and choosing furniture that isn't truly versatile or easily movable. Avoid designs that require excessive effort to transition between functions, as this can lead to frustration. Not considering lighting for each specific function is another pitfall; ensure adequate task lighting for office work and ambient lighting for relaxation. Additionally, failing to account for clear pathways and traffic flow in each configuration can make the room feel cramped and dysfunctional. Prioritize functionality, ease of transition, and smart storage.",
+        "@type": "Answer",
+        "description": "Avoid clutter, insufficient storage, hard-to-move furniture, poor lighting, and blocked pathways to ensure functionality and smooth transitions."
+      }
+    }
+  ],
+  "description": "Avoid clutter, insufficient storage, hard-to-move furniture, poor lighting, and blocked pathways to ensure functionality and smooth transitions."
 }

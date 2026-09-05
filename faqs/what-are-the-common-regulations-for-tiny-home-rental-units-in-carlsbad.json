@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common regulations for tiny home rental units in Carlsbad?",
-  "description": "Carlsbad's tiny home rental unit regulations typically follow ADU rules, covering lot size, setbacks, height, parking, and utility hook-ups. Check with the city",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-regulations-for-tiny-home-rental-units-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common regulations for tiny home rental units in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Carlsbad, tiny home rental units often fall under Accessory Dwelling Unit (ADU) regulations. These regulations address aspects such as lot size, setbacks, height limits, parking requirements, and owner-occupancy rules. Specific zoning ordinances may dictate the maximum size, design compatibility with the primary residence, and utility hook-ups. It's crucial to consult Carlsbad's planning department or a local expert to understand the precise requirements and ensure your project complies with all local codes before beginning construction.",
-        "description": "Carlsbad's tiny home rental unit regulations typically follow ADU rules, covering lot size, setbacks, height, parking, and utility hook-ups. Check with the city's planning department for specifics."
-      }
-    }
-  ],
+  "name": "What are the common regulations for tiny home rental units in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common regulations for tiny home rental units in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Carlsbad, tiny home rental units often fall under Accessory Dwelling Unit (ADU) regulations. These regulations address aspects such as lot size, setbacks, height limits, parking requirements, and owner-occupancy rules. Specific zoning ordinances may dictate the maximum size, design compatibility with the primary residence, and utility hook-ups. It's crucial to consult Carlsbad's planning department or a local expert to understand the precise requirements and ensure your project complies with all local codes before beginning construction.",
+        "@type": "Answer",
+        "description": "Carlsbad's tiny home rental unit regulations typically follow ADU rules, covering lot size, setbacks, height, parking, and utility hook-ups. Check with the city's planning department for specifics."
+      }
+    }
+  ],
+  "description": "Carlsbad's tiny home rental unit regulations typically follow ADU rules, covering lot size, setbacks, height, parking, and utility hook-ups. Check with the city"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time to plan for tiny home upgrades – during initial build or later?",
-  "description": "Major tiny home upgrades like solar or custom built-ins are generally best planned during the initial build. Smaller, less intrusive upgrades can be done later,",
   "url": "www.zentinyhomes.com/faq/when-is-the-best-time-to-plan-for-tiny-home-upgrades-during-initial-build-or-lat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time to plan for tiny home upgrades – during initial build or later?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to plan for tiny home upgrades depends on the nature of the upgrade. Integrating major systems like solar power, custom built-ins, or significant layout changes is often more efficient and cost-effective during the initial build phase, as it avoids retrofitting challenges. This allows for seamless integration of plumbing, electrical, and structural elements. However, smaller, less intrusive upgrades like appliance replacements, smart home additions, or minor cosmetic changes can easily be done later. Discussing potential future upgrades during the initial design helps ensure your tiny home is future-proofed for easier modifications.",
-        "description": "Major tiny home upgrades like solar or custom built-ins are generally best planned during the initial build. Smaller, less intrusive upgrades can be done later, but early planning can future-proof your home."
-      }
-    }
-  ],
+  "name": "When is the best time to plan for tiny home upgrades – during initial build or later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to plan for tiny home upgrades – during initial build or later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to plan for tiny home upgrades depends on the nature of the upgrade. Integrating major systems like solar power, custom built-ins, or significant layout changes is often more efficient and cost-effective during the initial build phase, as it avoids retrofitting challenges. This allows for seamless integration of plumbing, electrical, and structural elements. However, smaller, less intrusive upgrades like appliance replacements, smart home additions, or minor cosmetic changes can easily be done later. Discussing potential future upgrades during the initial design helps ensure your tiny home is future-proofed for easier modifications.",
+        "@type": "Answer",
+        "description": "Major tiny home upgrades like solar or custom built-ins are generally best planned during the initial build. Smaller, less intrusive upgrades can be done later, but early planning can future-proof your home."
+      }
+    }
+  ],
+  "description": "Major tiny home upgrades like solar or custom built-ins are generally best planned during the initial build. Smaller, less intrusive upgrades can be done later,"
 }

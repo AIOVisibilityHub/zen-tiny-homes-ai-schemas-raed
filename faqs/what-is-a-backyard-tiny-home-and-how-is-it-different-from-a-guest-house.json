@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a backyard tiny home and how is it different from a guest house?",
-  "description": "A backyard tiny home (ADU/JADU) is a legally permitted, independent living space on an existing property, including a kitchen, bath, and sleeping area, unlike a",
   "url": "www.zentinyhomes.com/faq/what-is-a-backyard-tiny-home-and-how-is-it-different-from-a-guest-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a backyard tiny home and how is it different from a guest house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A backyard tiny home, often referred to as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU), is a secondary dwelling on a property with an existing single-family home. Unlike a traditional guest house, ADUs and JADUs are legally permitted, independent living spaces that include a kitchen, bathroom, and sleeping area. They are typically smaller than the main home and adhere to specific local zoning and building codes. This allows for diverse uses, such as housing for family members, rental income, or a dedicated home office, while ensuring all structures meet safety and habitability standards.",
-        "description": "A backyard tiny home (ADU/JADU) is a legally permitted, independent living space on an existing property, including a kitchen, bath, and sleeping area, unlike a non-permitted guest house."
-      }
-    }
-  ],
+  "name": "What is a backyard tiny home and how is it different from a guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backyard tiny home and how is it different from a guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard tiny home, often referred to as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU), is a secondary dwelling on a property with an existing single-family home. Unlike a traditional guest house, ADUs and JADUs are legally permitted, independent living spaces that include a kitchen, bathroom, and sleeping area. They are typically smaller than the main home and adhere to specific local zoning and building codes. This allows for diverse uses, such as housing for family members, rental income, or a dedicated home office, while ensuring all structures meet safety and habitability standards.",
+        "@type": "Answer",
+        "description": "A backyard tiny home (ADU/JADU) is a legally permitted, independent living space on an existing property, including a kitchen, bath, and sleeping area, unlike a non-permitted guest house."
+      }
+    }
+  ],
+  "description": "A backyard tiny home (ADU/JADU) is a legally permitted, independent living space on an existing property, including a kitchen, bath, and sleeping area, unlike a"
 }

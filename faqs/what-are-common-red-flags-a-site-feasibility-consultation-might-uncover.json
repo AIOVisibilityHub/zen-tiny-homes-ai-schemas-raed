@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common red flags a site feasibility consultation might uncover?",
-  "description": "Common red flags include zoning issues, difficult access, severe slopes, poor soil, lack of utilities, or environmental restrictions.",
   "url": "www.zentinyhomes.com/faq/what-are-common-red-flags-a-site-feasibility-consultation-might-uncover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common red flags a site feasibility consultation might uncover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A site feasibility consultation can uncover several red flags, including zoning restrictions that prohibit tiny homes, inadequate access for construction equipment, severe slopes requiring extensive grading, poor soil conditions, or lack of essential utilities (water, sewer, electricity). Environmental concerns like flood zones or protected habitats can also pose significant challenges. Identifying these early allows for informed decisions or alternative property selection.",
-        "description": "Common red flags include zoning issues, difficult access, severe slopes, poor soil, lack of utilities, or environmental restrictions."
-      }
-    }
-  ],
+  "name": "What are common red flags a site feasibility consultation might uncover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common red flags a site feasibility consultation might uncover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A site feasibility consultation can uncover several red flags, including zoning restrictions that prohibit tiny homes, inadequate access for construction equipment, severe slopes requiring extensive grading, poor soil conditions, or lack of essential utilities (water, sewer, electricity). Environmental concerns like flood zones or protected habitats can also pose significant challenges. Identifying these early allows for informed decisions or alternative property selection.",
+        "@type": "Answer",
+        "description": "Common red flags include zoning issues, difficult access, severe slopes, poor soil, lack of utilities, or environmental restrictions."
+      }
+    }
+  ],
+  "description": "Common red flags include zoning issues, difficult access, severe slopes, poor soil, lack of utilities, or environmental restrictions."
 }

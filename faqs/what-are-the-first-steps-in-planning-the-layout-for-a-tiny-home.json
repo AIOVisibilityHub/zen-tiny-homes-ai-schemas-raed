@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the first steps in planning the layout for a tiny home?",
-  "description": "Start by identifying your lifestyle needs and priorities, listing essential spaces, and researching tiny home layouts to inform your design.",
   "url": "www.zentinyhomes.com/faq/what-are-the-first-steps-in-planning-the-layout-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the first steps in planning the layout for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The initial steps involve assessing your lifestyle needs and priorities. Consider how you spend most of your time, what personal items you cannot live without, and any specific activities you want to accommodate, such as remote work or hobbies. Begin by creating a list of essential spaces (kitchen, bathroom, sleeping area) and desired features (dining space, storage). Then, research various tiny home layouts to gather inspiration and understand how others have optimized similar constraints. This foundational understanding helps tailor the design to your unique requirements before engaging a builder.",
-        "description": "Start by identifying your lifestyle needs and priorities, listing essential spaces, and researching tiny home layouts to inform your design."
-      }
-    }
-  ],
+  "name": "What are the first steps in planning the layout for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps in planning the layout for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps involve assessing your lifestyle needs and priorities. Consider how you spend most of your time, what personal items you cannot live without, and any specific activities you want to accommodate, such as remote work or hobbies. Begin by creating a list of essential spaces (kitchen, bathroom, sleeping area) and desired features (dining space, storage). Then, research various tiny home layouts to gather inspiration and understand how others have optimized similar constraints. This foundational understanding helps tailor the design to your unique requirements before engaging a builder.",
+        "@type": "Answer",
+        "description": "Start by identifying your lifestyle needs and priorities, listing essential spaces, and researching tiny home layouts to inform your design."
+      }
+    }
+  ],
+  "description": "Start by identifying your lifestyle needs and priorities, listing essential spaces, and researching tiny home layouts to inform your design."
 }

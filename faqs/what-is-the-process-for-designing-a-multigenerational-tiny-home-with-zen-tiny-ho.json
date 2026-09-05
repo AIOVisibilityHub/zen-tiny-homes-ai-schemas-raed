@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing a multigenerational tiny home with Zen Tiny Homes?",
-  "description": "The process involves an initial consultation, collaborative design and rendering, material selection, permitting, and construction.",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-multigenerational-tiny-home-with-zen-tiny-ho",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing a multigenerational tiny home with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our design process for multigenerational tiny homes begins with a consultation to understand your family's specific needs, preferences, and lifestyle. We then develop preliminary floor plans and 3D renderings to visualize the space, ensuring functionality and privacy for each generation. This collaborative phase allows for adjustments and material selections. Once the design is finalized and approved, we handle all necessary permitting and move into the construction phase, keeping you informed at every step.",
-        "description": "The process involves an initial consultation, collaborative design and rendering, material selection, permitting, and construction."
-      }
-    }
-  ],
+  "name": "What is the process for designing a multigenerational tiny home with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a multigenerational tiny home with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design process for multigenerational tiny homes begins with a consultation to understand your family's specific needs, preferences, and lifestyle. We then develop preliminary floor plans and 3D renderings to visualize the space, ensuring functionality and privacy for each generation. This collaborative phase allows for adjustments and material selections. Once the design is finalized and approved, we handle all necessary permitting and move into the construction phase, keeping you informed at every step.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, collaborative design and rendering, material selection, permitting, and construction."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, collaborative design and rendering, material selection, permitting, and construction."
 }

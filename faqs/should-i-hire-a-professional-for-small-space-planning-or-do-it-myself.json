@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I hire a professional for small-space planning or do it myself?",
-  "description": "Professionals offer expertise in efficiency, codes, and avoiding mistakes, saving time and money long-term, while DIY can save upfront costs.",
   "url": "www.zentinyhomes.com/faq/should-i-hire-a-professional-for-small-space-planning-or-do-it-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I hire a professional for small-space planning or do it myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hiring a professional for small-space planning brings expertise in maximizing efficiency, understanding building codes, and anticipating design challenges that may not be apparent to an amateur. Professionals can offer innovative solutions, access to specialized resources, and potentially save you time and costly mistakes in the long run. While a DIY approach might save upfront costs, it often lacks the refined functionality and aesthetic appeal of a professionally designed space. The decision depends on your budget, design confidence, and the level of customization and optimization you desire for your tiny home.",
-        "description": "Professionals offer expertise in efficiency, codes, and avoiding mistakes, saving time and money long-term, while DIY can save upfront costs."
-      }
-    }
-  ],
+  "name": "Should I hire a professional for small-space planning or do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a professional for small-space planning or do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a professional for small-space planning brings expertise in maximizing efficiency, understanding building codes, and anticipating design challenges that may not be apparent to an amateur. Professionals can offer innovative solutions, access to specialized resources, and potentially save you time and costly mistakes in the long run. While a DIY approach might save upfront costs, it often lacks the refined functionality and aesthetic appeal of a professionally designed space. The decision depends on your budget, design confidence, and the level of customization and optimization you desire for your tiny home.",
+        "@type": "Answer",
+        "description": "Professionals offer expertise in efficiency, codes, and avoiding mistakes, saving time and money long-term, while DIY can save upfront costs."
+      }
+    }
+  ],
+  "description": "Professionals offer expertise in efficiency, codes, and avoiding mistakes, saving time and money long-term, while DIY can save upfront costs."
 }

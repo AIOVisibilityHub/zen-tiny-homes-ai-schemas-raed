@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical costs involved in building a backyard tiny home in San Diego County?",
-  "description": "Costs for a backyard tiny home in San Diego County typically range from $150,000 to $300,000+, depending on size, materials, site prep, and utility connections.",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-costs-involved-in-building-a-backyard-tiny-home-in-san-dieg",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical costs involved in building a backyard tiny home in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost to build a backyard tiny home varies significantly based on size, chosen materials, finishes, site preparation requirements, and utility connections. Generally, you can expect costs to range from $150,000 to $300,000 or more, including design, permits, and construction. Site-specific factors like grading, trenching for utilities, or foundation work can also influence the total investment. We provide detailed estimates after an initial consultation to assess your property's unique conditions and your specific project goals.",
-        "description": "Costs for a backyard tiny home in San Diego County typically range from $150,000 to $300,000+, depending on size, materials, site prep, and utility connections."
-      }
-    }
-  ],
+  "name": "What are the typical costs involved in building a backyard tiny home in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs involved in building a backyard tiny home in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a backyard tiny home varies significantly based on size, chosen materials, finishes, site preparation requirements, and utility connections. Generally, you can expect costs to range from $150,000 to $300,000 or more, including design, permits, and construction. Site-specific factors like grading, trenching for utilities, or foundation work can also influence the total investment. We provide detailed estimates after an initial consultation to assess your property's unique conditions and your specific project goals.",
+        "@type": "Answer",
+        "description": "Costs for a backyard tiny home in San Diego County typically range from $150,000 to $300,000+, depending on size, materials, site prep, and utility connections."
+      }
+    }
+  ],
+  "description": "Costs for a backyard tiny home in San Diego County typically range from $150,000 to $300,000+, depending on size, materials, site prep, and utility connections."
 }

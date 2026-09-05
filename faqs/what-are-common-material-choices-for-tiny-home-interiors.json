@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common material choices for tiny home interiors?",
-  "description": "Common tiny home interior materials include lightweight plywood, bamboo, engineered wood, and compact laminate, prioritizing durability and sustainability.",
   "url": "www.zentinyhomes.com/faq/what-are-common-material-choices-for-tiny-home-interiors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common material choices for tiny home interiors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Material choices for tiny home interiors often prioritize durability, light weight, and sustainability. Popular options include lightweight plywood or tongue-and-groove for walls and ceilings, bamboo or engineered wood for flooring, and compact laminate or butcher block for countertops. Considerations also include low-VOC finishes for air quality and multi-purpose materials that can withstand wear while contributing to a bright, open feel.",
-        "description": "Common tiny home interior materials include lightweight plywood, bamboo, engineered wood, and compact laminate, prioritizing durability and sustainability."
-      }
-    }
-  ],
+  "name": "What are common material choices for tiny home interiors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common material choices for tiny home interiors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material choices for tiny home interiors often prioritize durability, light weight, and sustainability. Popular options include lightweight plywood or tongue-and-groove for walls and ceilings, bamboo or engineered wood for flooring, and compact laminate or butcher block for countertops. Considerations also include low-VOC finishes for air quality and multi-purpose materials that can withstand wear while contributing to a bright, open feel.",
+        "@type": "Answer",
+        "description": "Common tiny home interior materials include lightweight plywood, bamboo, engineered wood, and compact laminate, prioritizing durability and sustainability."
+      }
+    }
+  ],
+  "description": "Common tiny home interior materials include lightweight plywood, bamboo, engineered wood, and compact laminate, prioritizing durability and sustainability."
 }

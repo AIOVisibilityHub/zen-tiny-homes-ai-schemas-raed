@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do costs for different tiny home layout complexities compare?",
-  "description": "Simpler, open-concept layouts are less expensive. Complex designs with extensive custom built-ins, multi-functional furniture, and specialized features will inc",
   "url": "www.zentinyhomes.com/faq/how-do-costs-for-different-tiny-home-layout-complexities-compare",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do costs for different tiny home layout complexities compare?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs for tiny home layouts can vary significantly based on complexity. Simpler, open-concept layouts with fewer custom built-ins and standard finishes are generally less expensive. Designs incorporating extensive multi-functional furniture, complex cabinetry, multiple loft areas, or specialized compact appliances will incur higher costs due to increased material expenses and labor for custom fabrication. The more bespoke and intricate the design elements, the greater the investment. It's important to balance desired features with budget early in the design process.",
-        "description": "Simpler, open-concept layouts are less expensive. Complex designs with extensive custom built-ins, multi-functional furniture, and specialized features will increase overall costs."
-      }
-    }
-  ],
+  "name": "How do costs for different tiny home layout complexities compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do costs for different tiny home layout complexities compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for tiny home layouts can vary significantly based on complexity. Simpler, open-concept layouts with fewer custom built-ins and standard finishes are generally less expensive. Designs incorporating extensive multi-functional furniture, complex cabinetry, multiple loft areas, or specialized compact appliances will incur higher costs due to increased material expenses and labor for custom fabrication. The more bespoke and intricate the design elements, the greater the investment. It's important to balance desired features with budget early in the design process.",
+        "@type": "Answer",
+        "description": "Simpler, open-concept layouts are less expensive. Complex designs with extensive custom built-ins, multi-functional furniture, and specialized features will increase overall costs."
+      }
+    }
+  ],
+  "description": "Simpler, open-concept layouts are less expensive. Complex designs with extensive custom built-ins, multi-functional furniture, and specialized features will inc"
 }

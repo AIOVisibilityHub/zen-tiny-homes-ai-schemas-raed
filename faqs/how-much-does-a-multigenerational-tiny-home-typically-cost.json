@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a multigenerational tiny home typically cost?",
-  "description": "Costs range from $80,000 to over $300,000, depending on size, design, materials, and features.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-multigenerational-tiny-home-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a multigenerational tiny home typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a multigenerational tiny home varies significantly based on size, design complexity, materials, and features. Factors such as custom layouts, specialized accessibility modifications, and high-end finishes will impact the final price. While a basic model might start around $80,000 to $120,000, more elaborate or larger units designed for multiple families could range from $150,000 to over $300,000. It's essential to consider site preparation, utility connections, and permit fees in the overall budget.",
-        "description": "Costs range from $80,000 to over $300,000, depending on size, design, materials, and features."
-      }
-    }
-  ],
+  "name": "How much does a multigenerational tiny home typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a multigenerational tiny home typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a multigenerational tiny home varies significantly based on size, design complexity, materials, and features. Factors such as custom layouts, specialized accessibility modifications, and high-end finishes will impact the final price. While a basic model might start around $80,000 to $120,000, more elaborate or larger units designed for multiple families could range from $150,000 to over $300,000. It's essential to consider site preparation, utility connections, and permit fees in the overall budget.",
+        "@type": "Answer",
+        "description": "Costs range from $80,000 to over $300,000, depending on size, design, materials, and features."
+      }
+    }
+  ],
+  "description": "Costs range from $80,000 to over $300,000, depending on size, design, materials, and features."
 }

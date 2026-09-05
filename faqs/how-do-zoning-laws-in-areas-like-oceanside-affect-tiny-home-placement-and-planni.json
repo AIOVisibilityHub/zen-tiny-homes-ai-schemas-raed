@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do zoning laws in areas like Oceanside affect tiny home placement and planning?",
-  "description": "Zoning laws in Oceanside dictate tiny home placement, type (primary, ADU), and design elements, directly impacting project feasibility and requiring specific pe",
   "url": "www.zentinyhomes.com/faq/how-do-zoning-laws-in-areas-like-oceanside-affect-tiny-home-placement-and-planni",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do zoning laws in areas like Oceanside affect tiny home placement and planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zoning laws in areas such as Oceanside regulate where tiny homes can be placed and under what conditions. These laws dictate whether a tiny home can be considered a primary dwelling, an accessory dwelling unit (ADU), or if it's restricted to specific zones like RV parks. Regulations can cover minimum lot sizes, setback requirements, utility connections, and even foundation types. Understanding Oceanside's specific zoning ordinances is critical early in the planning process, as they directly impact the feasibility and design of your tiny home project, potentially requiring specific permits or modifications.",
-        "description": "Zoning laws in Oceanside dictate tiny home placement, type (primary, ADU), and design elements, directly impacting project feasibility and requiring specific permits."
-      }
-    }
-  ],
+  "name": "How do zoning laws in areas like Oceanside affect tiny home placement and planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do zoning laws in areas like Oceanside affect tiny home placement and planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning laws in areas such as Oceanside regulate where tiny homes can be placed and under what conditions. These laws dictate whether a tiny home can be considered a primary dwelling, an accessory dwelling unit (ADU), or if it's restricted to specific zones like RV parks. Regulations can cover minimum lot sizes, setback requirements, utility connections, and even foundation types. Understanding Oceanside's specific zoning ordinances is critical early in the planning process, as they directly impact the feasibility and design of your tiny home project, potentially requiring specific permits or modifications.",
+        "@type": "Answer",
+        "description": "Zoning laws in Oceanside dictate tiny home placement, type (primary, ADU), and design elements, directly impacting project feasibility and requiring specific permits."
+      }
+    }
+  ],
+  "description": "Zoning laws in Oceanside dictate tiny home placement, type (primary, ADU), and design elements, directly impacting project feasibility and requiring specific pe"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design considerations are important for a comfortable multigenerational living space?",
-  "description": "Important design considerations include accessibility, distinct private spaces, comfortable common areas, sound insulation, efficient layouts, and natural light",
   "url": "www.zentinyhomes.com/faq/what-design-considerations-are-important-for-a-comfortable-multigenerational-liv",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design considerations are important for a comfortable multigenerational living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key design considerations include ensuring accessibility features like wider doorways, zero-entry showers, or ramps if needed for elderly family members. Creating distinct private spaces, such as separate entrances, bathrooms, and kitchenettes, is crucial for maintaining independence. Common areas should be designed for comfort and accessibility, fostering interaction without sacrificing individual privacy. Prioritize good sound insulation, efficient layouts, and natural light to enhance the living experience for all generations.",
-        "description": "Important design considerations include accessibility, distinct private spaces, comfortable common areas, sound insulation, efficient layouts, and natural light."
-      }
-    }
-  ],
+  "name": "What design considerations are important for a comfortable multigenerational living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a comfortable multigenerational living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations include ensuring accessibility features like wider doorways, zero-entry showers, or ramps if needed for elderly family members. Creating distinct private spaces, such as separate entrances, bathrooms, and kitchenettes, is crucial for maintaining independence. Common areas should be designed for comfort and accessibility, fostering interaction without sacrificing individual privacy. Prioritize good sound insulation, efficient layouts, and natural light to enhance the living experience for all generations.",
+        "@type": "Answer",
+        "description": "Important design considerations include accessibility, distinct private spaces, comfortable common areas, sound insulation, efficient layouts, and natural light."
+      }
+    }
+  ],
+  "description": "Important design considerations include accessibility, distinct private spaces, comfortable common areas, sound insulation, efficient layouts, and natural light"
 }

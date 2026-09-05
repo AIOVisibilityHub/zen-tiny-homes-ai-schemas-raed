@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a detached and attached backyard guest house?",
-  "description": "Detached guest houses are separate structures offering more privacy, while attached units share walls with the main home. The choice depends on privacy needs an",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-detached-and-attached-backyard-guest-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a detached and attached backyard guest house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A detached backyard guest house is a completely separate structure from the main residence, offering maximum privacy and independence. An attached guest house, while still a distinct living space, shares one or more walls with the primary home, often utilizing existing utility connections. Detached units may offer more design flexibility and higher rental income potential due to greater privacy. Attached units can sometimes be more cost-effective to build due to shared infrastructure. The choice depends on lot size, budget, and desired level of separation.",
-        "description": "Detached guest houses are separate structures offering more privacy, while attached units share walls with the main home. The choice depends on privacy needs and budget."
-      }
-    }
-  ],
+  "name": "What is the difference between a detached and attached backyard guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a detached and attached backyard guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached backyard guest house is a completely separate structure from the main residence, offering maximum privacy and independence. An attached guest house, while still a distinct living space, shares one or more walls with the primary home, often utilizing existing utility connections. Detached units may offer more design flexibility and higher rental income potential due to greater privacy. Attached units can sometimes be more cost-effective to build due to shared infrastructure. The choice depends on lot size, budget, and desired level of separation.",
+        "@type": "Answer",
+        "description": "Detached guest houses are separate structures offering more privacy, while attached units share walls with the main home. The choice depends on privacy needs and budget."
+      }
+    }
+  ],
+  "description": "Detached guest houses are separate structures offering more privacy, while attached units share walls with the main home. The choice depends on privacy needs an"
 }

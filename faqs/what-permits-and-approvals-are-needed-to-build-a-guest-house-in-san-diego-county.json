@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits and approvals are needed to build a guest house in San Diego County?",
-  "description": "In San Diego County, permits for backyard guest houses include building, zoning, and utility permits, varying by city. Local ordinances must be followed.",
   "url": "www.zentinyhomes.com/faq/what-permits-and-approvals-are-needed-to-build-a-guest-house-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits and approvals are needed to build a guest house in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a backyard guest house in San Diego County requires various permits and approvals from the local city or county planning department. These typically include a building permit, zoning clearance, and potentially permits for plumbing, electrical, and mechanical systems. Specific requirements can vary by city within the county, such as Vista or Escondido. Homeowners must adhere to local zoning ordinances regarding setbacks, height restrictions, and lot coverage. A qualified builder can help navigate these complex regulations and ensure all necessary approvals are secured before construction begins.",
-        "description": "In San Diego County, permits for backyard guest houses include building, zoning, and utility permits, varying by city. Local ordinances must be followed."
-      }
-    }
-  ],
+  "name": "What permits and approvals are needed to build a guest house in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are needed to build a guest house in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a backyard guest house in San Diego County requires various permits and approvals from the local city or county planning department. These typically include a building permit, zoning clearance, and potentially permits for plumbing, electrical, and mechanical systems. Specific requirements can vary by city within the county, such as Vista or Escondido. Homeowners must adhere to local zoning ordinances regarding setbacks, height restrictions, and lot coverage. A qualified builder can help navigate these complex regulations and ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "In San Diego County, permits for backyard guest houses include building, zoning, and utility permits, varying by city. Local ordinances must be followed."
+      }
+    }
+  ],
+  "description": "In San Diego County, permits for backyard guest houses include building, zoning, and utility permits, varying by city. Local ordinances must be followed."
 }

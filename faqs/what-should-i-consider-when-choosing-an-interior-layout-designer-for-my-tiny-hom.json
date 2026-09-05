@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when choosing an interior layout designer for my tiny home?",
-  "description": "When choosing a tiny home interior designer, consider their small-space experience, portfolio, communication style, design process, and fee structure.",
   "url": "www.zentinyhomes.com/faq/what-should-i-consider-when-choosing-an-interior-layout-designer-for-my-tiny-hom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when choosing an interior layout designer for my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an interior layout designer for your tiny home, look for professionals with specific experience in small-space design. Review their portfolio to see examples of tiny homes or compact living spaces they've designed. Consider their communication style and ensure it aligns with your preferences. Discuss their design process, including how they incorporate client feedback and handle revisions. It's also important to clarify their fee structure and what services are included to ensure it fits your budget and expectations. A good fit will understand the unique challenges and opportunities of tiny living.",
-        "description": "When choosing a tiny home interior designer, consider their small-space experience, portfolio, communication style, design process, and fee structure."
-      }
-    }
-  ],
+  "name": "What should I consider when choosing an interior layout designer for my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing an interior layout designer for my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an interior layout designer for your tiny home, look for professionals with specific experience in small-space design. Review their portfolio to see examples of tiny homes or compact living spaces they've designed. Consider their communication style and ensure it aligns with your preferences. Discuss their design process, including how they incorporate client feedback and handle revisions. It's also important to clarify their fee structure and what services are included to ensure it fits your budget and expectations. A good fit will understand the unique challenges and opportunities of tiny living.",
+        "@type": "Answer",
+        "description": "When choosing a tiny home interior designer, consider their small-space experience, portfolio, communication style, design process, and fee structure."
+      }
+    }
+  ],
+  "description": "When choosing a tiny home interior designer, consider their small-space experience, portfolio, communication style, design process, and fee structure."
 }

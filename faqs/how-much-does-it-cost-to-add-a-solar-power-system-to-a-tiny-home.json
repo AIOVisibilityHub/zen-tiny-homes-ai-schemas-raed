@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to add a solar power system to a tiny home?",
-  "description": "Solar power system costs for tiny homes typically range from $5,000 to $15,000, depending on capacity and components. Larger systems or specific battery types c",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-add-a-solar-power-system-to-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to add a solar power system to a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of adding a solar power system to a tiny home varies significantly based on the system's capacity, components, and installation complexity. Basic off-grid setups with a few panels, batteries, and an inverter might range from $5,000 to $15,000. Larger systems designed for heavier energy consumption or grid-tied options can exceed this range. Factors like battery type (lead-acid vs. lithium), inverter quality, and the number of appliances you intend to power will influence the final price. It's best to consult with a specialist for a precise quote based on your energy needs.",
-        "description": "Solar power system costs for tiny homes typically range from $5,000 to $15,000, depending on capacity and components. Larger systems or specific battery types can increase the price."
-      }
-    }
-  ],
+  "name": "How much does it cost to add a solar power system to a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to add a solar power system to a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of adding a solar power system to a tiny home varies significantly based on the system's capacity, components, and installation complexity. Basic off-grid setups with a few panels, batteries, and an inverter might range from $5,000 to $15,000. Larger systems designed for heavier energy consumption or grid-tied options can exceed this range. Factors like battery type (lead-acid vs. lithium), inverter quality, and the number of appliances you intend to power will influence the final price. It's best to consult with a specialist for a precise quote based on your energy needs.",
+        "@type": "Answer",
+        "description": "Solar power system costs for tiny homes typically range from $5,000 to $15,000, depending on capacity and components. Larger systems or specific battery types can increase the price."
+      }
+    }
+  ],
+  "description": "Solar power system costs for tiny homes typically range from $5,000 to $15,000, depending on capacity and components. Larger systems or specific battery types c"
 }

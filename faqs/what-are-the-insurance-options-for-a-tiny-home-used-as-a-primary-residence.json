@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the insurance options for a tiny home used as a primary residence?",
-  "description": "Insurance for a tiny home as a primary residence depends on its type: foundation homes may use homeowner's insurance, while tiny homes on wheels often require R",
   "url": "www.zentinyhomes.com/faq/what-are-the-insurance-options-for-a-tiny-home-used-as-a-primary-residence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the insurance options for a tiny home used as a primary residence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Insurance for a tiny home used as a primary residence depends on whether it's on a foundation or on wheels. For tiny homes on foundations, standard homeowner's insurance policies may be available, similar to traditional houses, covering structural damage, personal property, and liability. For tiny homes on wheels, RV insurance is often the primary option, which typically covers theft, damage, and liability when the home is mobile or stationary. Some specialized insurance providers also offer specific tiny home policies that blend aspects of both homeowner's and RV insurance.",
-        "description": "Insurance for a tiny home as a primary residence depends on its type: foundation homes may use homeowner's insurance, while tiny homes on wheels often require RV insurance or specialized policies."
-      }
-    }
-  ],
+  "name": "What are the insurance options for a tiny home used as a primary residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the insurance options for a tiny home used as a primary residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance for a tiny home used as a primary residence depends on whether it's on a foundation or on wheels. For tiny homes on foundations, standard homeowner's insurance policies may be available, similar to traditional houses, covering structural damage, personal property, and liability. For tiny homes on wheels, RV insurance is often the primary option, which typically covers theft, damage, and liability when the home is mobile or stationary. Some specialized insurance providers also offer specific tiny home policies that blend aspects of both homeowner's and RV insurance.",
+        "@type": "Answer",
+        "description": "Insurance for a tiny home as a primary residence depends on its type: foundation homes may use homeowner's insurance, while tiny homes on wheels often require RV insurance or specialized policies."
+      }
+    }
+  ],
+  "description": "Insurance for a tiny home as a primary residence depends on its type: foundation homes may use homeowner's insurance, while tiny homes on wheels often require R"
 }

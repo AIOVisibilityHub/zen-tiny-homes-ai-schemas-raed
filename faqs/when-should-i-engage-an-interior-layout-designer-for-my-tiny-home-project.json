@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I engage an interior layout designer for my tiny home project?",
-  "description": "Engage an interior layout designer early in your tiny home project, ideally during initial planning, to integrate the layout with structural elements and avoid",
   "url": "www.zentinyhomes.com/faq/when-should-i-engage-an-interior-layout-designer-for-my-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I engage an interior layout designer for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is highly beneficial to engage an interior layout designer early in your tiny home project, ideally during the initial planning or architectural design phase. This allows the layout to be integrated seamlessly with the structural elements, ensuring that load-bearing walls, window placements, and utility hookups support your desired interior configuration. Early involvement helps avoid costly changes later on and allows for a more efficient use of space from the ground up. It ensures that your tiny home is not just aesthetically pleasing but also highly functional and custom-suited to your needs.",
-        "description": "Engage an interior layout designer early in your tiny home project, ideally during initial planning, to integrate the layout with structural elements and avoid costly changes."
-      }
-    }
-  ],
+  "name": "When should I engage an interior layout designer for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage an interior layout designer for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly beneficial to engage an interior layout designer early in your tiny home project, ideally during the initial planning or architectural design phase. This allows the layout to be integrated seamlessly with the structural elements, ensuring that load-bearing walls, window placements, and utility hookups support your desired interior configuration. Early involvement helps avoid costly changes later on and allows for a more efficient use of space from the ground up. It ensures that your tiny home is not just aesthetically pleasing but also highly functional and custom-suited to your needs.",
+        "@type": "Answer",
+        "description": "Engage an interior layout designer early in your tiny home project, ideally during initial planning, to integrate the layout with structural elements and avoid costly changes."
+      }
+    }
+  ],
+  "description": "Engage an interior layout designer early in your tiny home project, ideally during initial planning, to integrate the layout with structural elements and avoid"
 }

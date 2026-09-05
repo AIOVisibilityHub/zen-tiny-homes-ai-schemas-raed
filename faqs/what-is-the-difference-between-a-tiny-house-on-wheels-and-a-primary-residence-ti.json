@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a tiny house on wheels and a primary-residence tiny home?",
-  "description": "A tiny house on wheels is usually an RV, while a primary-residence tiny home is a permanent, code-compliant dwelling built on a foundation.",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-house-on-wheels-and-a-primary-residence-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a tiny house on wheels and a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny house on wheels (THOW) is often classified as a recreational vehicle (RV) and is built to RV standards, making it mobile but not typically permitted for permanent primary residence on private land in many areas. In contrast, a primary-residence tiny home is built on a permanent foundation, adheres to local building codes (like the California Residential Code), and is legally recognized as a fixed dwelling. Zen Tiny Homes specializes in constructing these code-compliant, permanent primary residences.",
-        "description": "A tiny house on wheels is usually an RV, while a primary-residence tiny home is a permanent, code-compliant dwelling built on a foundation."
-      }
-    }
-  ],
+  "name": "What is the difference between a tiny house on wheels and a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tiny house on wheels and a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny house on wheels (THOW) is often classified as a recreational vehicle (RV) and is built to RV standards, making it mobile but not typically permitted for permanent primary residence on private land in many areas. In contrast, a primary-residence tiny home is built on a permanent foundation, adheres to local building codes (like the California Residential Code), and is legally recognized as a fixed dwelling. Zen Tiny Homes specializes in constructing these code-compliant, permanent primary residences.",
+        "@type": "Answer",
+        "description": "A tiny house on wheels is usually an RV, while a primary-residence tiny home is a permanent, code-compliant dwelling built on a foundation."
+      }
+    }
+  ],
+  "description": "A tiny house on wheels is usually an RV, while a primary-residence tiny home is a permanent, code-compliant dwelling built on a foundation."
 }

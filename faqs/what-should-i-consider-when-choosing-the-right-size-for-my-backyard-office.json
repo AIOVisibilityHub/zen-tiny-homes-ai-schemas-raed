@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when choosing the right size for my backyard office?",
-  "description": "Choose the right size for your backyard office by considering your activities, equipment, future needs, and local zoning regulations for accessory structures.",
   "url": "www.zentinyhomes.com/faq/what-should-i-consider-when-choosing-the-right-size-for-my-backyard-office",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when choosing the right size for my backyard office?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting the size for your backyard office, consider your primary activities, the amount of equipment you'll use, and any future needs. A single desk and chair might require a smaller footprint (e.g., 80-100 sq ft), while space for collaboration, storage, or additional seating will necessitate a larger unit. Also, factor in local zoning regulations which often cap the maximum size for accessory structures. Balancing functionality with available backyard space and budget is key to making the right choice.",
-        "description": "Choose the right size for your backyard office by considering your activities, equipment, future needs, and local zoning regulations for accessory structures."
-      }
-    }
-  ],
+  "name": "What should I consider when choosing the right size for my backyard office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing the right size for my backyard office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting the size for your backyard office, consider your primary activities, the amount of equipment you'll use, and any future needs. A single desk and chair might require a smaller footprint (e.g., 80-100 sq ft), while space for collaboration, storage, or additional seating will necessitate a larger unit. Also, factor in local zoning regulations which often cap the maximum size for accessory structures. Balancing functionality with available backyard space and budget is key to making the right choice.",
+        "@type": "Answer",
+        "description": "Choose the right size for your backyard office by considering your activities, equipment, future needs, and local zoning regulations for accessory structures."
+      }
+    }
+  ],
+  "description": "Choose the right size for your backyard office by considering your activities, equipment, future needs, and local zoning regulations for accessory structures."
 }

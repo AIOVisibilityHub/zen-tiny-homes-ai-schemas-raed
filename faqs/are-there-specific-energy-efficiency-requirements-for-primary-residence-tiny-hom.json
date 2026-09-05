@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there specific energy efficiency requirements for primary-residence tiny homes in Carlsbad?",
-  "description": "Yes, primary-residence tiny homes in Carlsbad must comply with California's Title 24 Energy Efficiency Standards for insulation, windows, and HVAC systems.",
   "url": "www.zentinyhomes.com/faq/are-there-specific-energy-efficiency-requirements-for-primary-residence-tiny-hom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there specific energy efficiency requirements for primary-residence tiny homes in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Primary-residence tiny homes in Carlsbad, like all new permanent residential constructions, must comply with California's stringent Title 24 Energy Efficiency Standards. These standards dictate requirements for insulation, windows, HVAC systems, and other energy-related components to ensure the home is energy-efficient. Our designs integrate these requirements from the outset, using appropriate materials and technologies to meet Carlsbad's specific building codes. This results in a home that is both comfortable and environmentally responsible.",
-        "description": "Yes, primary-residence tiny homes in Carlsbad must comply with California's Title 24 Energy Efficiency Standards for insulation, windows, and HVAC systems."
-      }
-    }
-  ],
+  "name": "Are there specific energy efficiency requirements for primary-residence tiny homes in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific energy efficiency requirements for primary-residence tiny homes in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Primary-residence tiny homes in Carlsbad, like all new permanent residential constructions, must comply with California's stringent Title 24 Energy Efficiency Standards. These standards dictate requirements for insulation, windows, HVAC systems, and other energy-related components to ensure the home is energy-efficient. Our designs integrate these requirements from the outset, using appropriate materials and technologies to meet Carlsbad's specific building codes. This results in a home that is both comfortable and environmentally responsible.",
+        "@type": "Answer",
+        "description": "Yes, primary-residence tiny homes in Carlsbad must comply with California's Title 24 Energy Efficiency Standards for insulation, windows, and HVAC systems."
+      }
+    }
+  ],
+  "description": "Yes, primary-residence tiny homes in Carlsbad must comply with California's Title 24 Energy Efficiency Standards for insulation, windows, and HVAC systems."
 }

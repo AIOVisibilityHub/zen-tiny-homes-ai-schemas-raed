@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the approval and permitting process take for tiny home placement?",
-  "description": "The permitting process varies from weeks to months, depending on the city, plan completeness, and project complexity.",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-approval-and-permitting-process-take-for-tiny-home-placement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the approval and permitting process take for tiny home placement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The approval and permitting process duration for tiny home placement can vary significantly, usually ranging from a few weeks to several months. Factors influencing this timeline include the specific city or county's review speed, the completeness of your submitted plans, the complexity of the project, and current departmental workloads. Zen Tiny Homes assists with plan preparation and submission to help streamline this process.",
-        "description": "The permitting process varies from weeks to months, depending on the city, plan completeness, and project complexity."
-      }
-    }
-  ],
+  "name": "How long does the approval and permitting process take for tiny home placement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the approval and permitting process take for tiny home placement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The approval and permitting process duration for tiny home placement can vary significantly, usually ranging from a few weeks to several months. Factors influencing this timeline include the specific city or county's review speed, the completeness of your submitted plans, the complexity of the project, and current departmental workloads. Zen Tiny Homes assists with plan preparation and submission to help streamline this process.",
+        "@type": "Answer",
+        "description": "The permitting process varies from weeks to months, depending on the city, plan completeness, and project complexity."
+      }
+    }
+  ],
+  "description": "The permitting process varies from weeks to months, depending on the city, plan completeness, and project complexity."
 }

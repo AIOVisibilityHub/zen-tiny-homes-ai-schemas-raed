@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the most effective ways to maximize space in a tiny home layout?",
-  "description": "Effective tiny home layouts maximize space through built-in storage, multi-functional furniture, vertical solutions like lofts and wall-mounted shelves, and str",
   "url": "www.zentinyhomes.com/faq/what-are-the-most-effective-ways-to-maximize-space-in-a-tiny-home-layout",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the most effective ways to maximize space in a tiny home layout?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maximizing space in a tiny home involves strategic design choices. Consider built-in furniture with hidden storage, such as beds with drawers or benches with lift-top compartments. Vertical space is crucial; utilize wall-mounted shelving, tall cabinets, and loft areas for sleeping or additional storage. Multi-functional furniture, like an ottoman that doubles as a coffee table or a dining table that folds away, can significantly enhance usability without clutter. Thoughtful placement of windows and mirrors can also create an illusion of a larger, more open space.",
-        "description": "Effective tiny home layouts maximize space through built-in storage, multi-functional furniture, vertical solutions like lofts and wall-mounted shelves, and strategic window/mirror placement."
-      }
-    }
-  ],
+  "name": "What are the most effective ways to maximize space in a tiny home layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most effective ways to maximize space in a tiny home layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maximizing space in a tiny home involves strategic design choices. Consider built-in furniture with hidden storage, such as beds with drawers or benches with lift-top compartments. Vertical space is crucial; utilize wall-mounted shelving, tall cabinets, and loft areas for sleeping or additional storage. Multi-functional furniture, like an ottoman that doubles as a coffee table or a dining table that folds away, can significantly enhance usability without clutter. Thoughtful placement of windows and mirrors can also create an illusion of a larger, more open space.",
+        "@type": "Answer",
+        "description": "Effective tiny home layouts maximize space through built-in storage, multi-functional furniture, vertical solutions like lofts and wall-mounted shelves, and strategic window/mirror placement."
+      }
+    }
+  ],
+  "description": "Effective tiny home layouts maximize space through built-in storage, multi-functional furniture, vertical solutions like lofts and wall-mounted shelves, and str"
 }

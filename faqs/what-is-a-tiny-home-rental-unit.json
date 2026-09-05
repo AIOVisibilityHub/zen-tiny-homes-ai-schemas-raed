@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a tiny home rental unit?",
-  "description": "A tiny home rental unit is a compact, self-contained living space, typically under 400 square feet, designed for residential rental income.",
   "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-rental-unit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a tiny home rental unit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home rental unit is a compact, self-contained living space typically under 400 square feet, designed for residential rental purposes. These units often feature full amenities like kitchens, bathrooms, and sleeping areas within a smaller footprint. They can be a standalone structure on a property, an Accessory Dwelling Unit (ADU), or part of a larger tiny home community. Their appeal lies in their efficiency, lower maintenance, and potential for generating rental income.",
-        "description": "A tiny home rental unit is a compact, self-contained living space, typically under 400 square feet, designed for residential rental income."
-      }
-    }
-  ],
+  "name": "What is a tiny home rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tiny home rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home rental unit is a compact, self-contained living space typically under 400 square feet, designed for residential rental purposes. These units often feature full amenities like kitchens, bathrooms, and sleeping areas within a smaller footprint. They can be a standalone structure on a property, an Accessory Dwelling Unit (ADU), or part of a larger tiny home community. Their appeal lies in their efficiency, lower maintenance, and potential for generating rental income.",
+        "@type": "Answer",
+        "description": "A tiny home rental unit is a compact, self-contained living space, typically under 400 square feet, designed for residential rental income."
+      }
+    }
+  ],
+  "description": "A tiny home rental unit is a compact, self-contained living space, typically under 400 square feet, designed for residential rental income."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are tiny home assessments different from traditional home appraisals?",
-  "description": "Yes, tiny home assessments differ by considering unique factors like mobility, varied building codes, and a smaller pool of comparable sales compared to traditi",
   "url": "www.zentinyhomes.com/faq/are-tiny-home-assessments-different-from-traditional-home-appraisals",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are tiny home assessments different from traditional home appraisals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, tiny home assessments often differ from traditional home appraisals due to the unique characteristics of these dwellings. Traditional appraisals rely on a larger pool of comparable sales for standard stick-built homes. Tiny homes, especially those on wheels, may be classified differently (e.g., as recreational vehicles or manufactured homes), requiring appraisers with specific expertise. The assessment methodology must adapt to factors like mobility, varied building codes, and different financing options, which are less common in conventional appraisals.",
-        "description": "Yes, tiny home assessments differ by considering unique factors like mobility, varied building codes, and a smaller pool of comparable sales compared to traditional homes."
-      }
-    }
-  ],
+  "name": "Are tiny home assessments different from traditional home appraisals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are tiny home assessments different from traditional home appraisals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tiny home assessments often differ from traditional home appraisals due to the unique characteristics of these dwellings. Traditional appraisals rely on a larger pool of comparable sales for standard stick-built homes. Tiny homes, especially those on wheels, may be classified differently (e.g., as recreational vehicles or manufactured homes), requiring appraisers with specific expertise. The assessment methodology must adapt to factors like mobility, varied building codes, and different financing options, which are less common in conventional appraisals.",
+        "@type": "Answer",
+        "description": "Yes, tiny home assessments differ by considering unique factors like mobility, varied building codes, and a smaller pool of comparable sales compared to traditional homes."
+      }
+    }
+  ],
+  "description": "Yes, tiny home assessments differ by considering unique factors like mobility, varied building codes, and a smaller pool of comparable sales compared to traditi"
 }

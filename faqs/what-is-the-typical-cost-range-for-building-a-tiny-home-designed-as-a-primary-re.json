@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for building a tiny home designed as a primary residence?",
-  "description": "The typical cost for a tiny home as a primary residence ranges from $60,000 to over $150,000, depending on size, materials, finishes, and custom features.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-for-building-a-tiny-home-designed-as-a-primary-re",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for building a tiny home designed as a primary residence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a tiny home designed for primary residence varies widely based on size, materials, finishes, and custom features. Typically, a professionally built tiny home can range from $60,000 to over $150,000. Factors such as premium appliances, custom cabinetry, off-grid systems (solar, composting toilet), and unique architectural elements will increase the overall price. It's important to differentiate between homes on foundations and those on wheels, as the latter might have additional considerations for roadworthiness.",
-        "description": "The typical cost for a tiny home as a primary residence ranges from $60,000 to over $150,000, depending on size, materials, finishes, and custom features."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for building a tiny home designed as a primary residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for building a tiny home designed as a primary residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tiny home designed for primary residence varies widely based on size, materials, finishes, and custom features. Typically, a professionally built tiny home can range from $60,000 to over $150,000. Factors such as premium appliances, custom cabinetry, off-grid systems (solar, composting toilet), and unique architectural elements will increase the overall price. It's important to differentiate between homes on foundations and those on wheels, as the latter might have additional considerations for roadworthiness.",
+        "@type": "Answer",
+        "description": "The typical cost for a tiny home as a primary residence ranges from $60,000 to over $150,000, depending on size, materials, finishes, and custom features."
+      }
+    }
+  ],
+  "description": "The typical cost for a tiny home as a primary residence ranges from $60,000 to over $150,000, depending on size, materials, finishes, and custom features."
 }

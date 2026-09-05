@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors can increase or decrease a tiny home's assessed value?",
-  "description": "Value increases with quality construction, good location, and permanent foundation. It decreases with poor condition, unpermitted work, and challenging access t",
   "url": "www.zentinyhomes.com/faq/what-factors-can-increase-or-decrease-a-tiny-home-s-assessed-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors can increase or decrease a tiny home's assessed value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several factors influence a tiny home's assessed value. Positive influences include high-quality construction, efficient use of space, premium materials, desirable location, and permanent foundation status. Features like full-sized appliances, energy efficiency, and functional outdoor space can also increase value. Conversely, factors that can decrease value include poor construction, deferred maintenance, unpermitted modifications, limited access to utilities, a less desirable location, or being classified as a recreational vehicle without a permanent base, which can affect financing options.",
-        "description": "Value increases with quality construction, good location, and permanent foundation. It decreases with poor condition, unpermitted work, and challenging access to utilities."
-      }
-    }
-  ],
+  "name": "What factors can increase or decrease a tiny home's assessed value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors can increase or decrease a tiny home's assessed value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence a tiny home's assessed value. Positive influences include high-quality construction, efficient use of space, premium materials, desirable location, and permanent foundation status. Features like full-sized appliances, energy efficiency, and functional outdoor space can also increase value. Conversely, factors that can decrease value include poor construction, deferred maintenance, unpermitted modifications, limited access to utilities, a less desirable location, or being classified as a recreational vehicle without a permanent base, which can affect financing options.",
+        "@type": "Answer",
+        "description": "Value increases with quality construction, good location, and permanent foundation. It decreases with poor condition, unpermitted work, and challenging access to utilities."
+      }
+    }
+  ],
+  "description": "Value increases with quality construction, good location, and permanent foundation. It decreases with poor condition, unpermitted work, and challenging access t"
 }

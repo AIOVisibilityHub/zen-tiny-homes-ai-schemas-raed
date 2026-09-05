@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered a legal tiny home for placement on a lot in California?",
-  "description": "A legal tiny home in California is often an ADU or JADU, or a manufactured home, depending on its foundation and local zoning.",
   "url": "www.zentinyhomes.com/faq/what-is-considered-a-legal-tiny-home-for-placement-on-a-lot-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered a legal tiny home for placement on a lot in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, a legal tiny home can be classified in several ways, often as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU) if on a residential lot with an existing primary home. Alternatively, it might be a park model RV or a manufactured home on a foundation in designated areas. The specific classification depends on its foundation, wheels, and local zoning ordinances. Zen Tiny Homes specializes in ADU-compliant tiny homes, ensuring they meet state and local building codes for permanent placement.",
-        "description": "A legal tiny home in California is often an ADU or JADU, or a manufactured home, depending on its foundation and local zoning."
-      }
-    }
-  ],
+  "name": "What is considered a legal tiny home for placement on a lot in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a legal tiny home for placement on a lot in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, a legal tiny home can be classified in several ways, often as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU) if on a residential lot with an existing primary home. Alternatively, it might be a park model RV or a manufactured home on a foundation in designated areas. The specific classification depends on its foundation, wheels, and local zoning ordinances. Zen Tiny Homes specializes in ADU-compliant tiny homes, ensuring they meet state and local building codes for permanent placement.",
+        "@type": "Answer",
+        "description": "A legal tiny home in California is often an ADU or JADU, or a manufactured home, depending on its foundation and local zoning."
+      }
+    }
+  ],
+  "description": "A legal tiny home in California is often an ADU or JADU, or a manufactured home, depending on its foundation and local zoning."
 }

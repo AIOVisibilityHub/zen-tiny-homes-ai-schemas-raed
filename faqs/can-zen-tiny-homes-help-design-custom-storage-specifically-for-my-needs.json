@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Zen Tiny Homes help design custom storage specifically for my needs?",
-  "description": "Yes, Zen Tiny Homes designs custom storage solutions by collaborating with clients during the design phase to integrate built-in cabinetry, multi-functional fur",
   "url": "www.zentinyhomes.com/faq/can-zen-tiny-homes-help-design-custom-storage-specifically-for-my-needs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Zen Tiny Homes help design custom storage specifically for my needs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes specializes in custom tiny home builds and can absolutely design storage solutions tailored to your unique needs and lifestyle. During the design phase, our team will work closely with you to understand your habits, possessions, and preferences. We'll explore innovative options like built-in cabinetry, multi-functional furniture, hidden compartments, and optimized vertical storage to ensure every inch of your tiny home is utilized efficiently and aesthetically. Our goal is to create a functional and organized living space perfectly suited for you.",
-        "description": "Yes, Zen Tiny Homes designs custom storage solutions by collaborating with clients during the design phase to integrate built-in cabinetry, multi-functional furniture, and optimized vertical storage."
-      }
-    }
-  ],
+  "name": "Can Zen Tiny Homes help design custom storage specifically for my needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Zen Tiny Homes help design custom storage specifically for my needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes specializes in custom tiny home builds and can absolutely design storage solutions tailored to your unique needs and lifestyle. During the design phase, our team will work closely with you to understand your habits, possessions, and preferences. We'll explore innovative options like built-in cabinetry, multi-functional furniture, hidden compartments, and optimized vertical storage to ensure every inch of your tiny home is utilized efficiently and aesthetically. Our goal is to create a functional and organized living space perfectly suited for you.",
+        "@type": "Answer",
+        "description": "Yes, Zen Tiny Homes designs custom storage solutions by collaborating with clients during the design phase to integrate built-in cabinetry, multi-functional furniture, and optimized vertical storage."
+      }
+    }
+  ],
+  "description": "Yes, Zen Tiny Homes designs custom storage solutions by collaborating with clients during the design phase to integrate built-in cabinetry, multi-functional fur"
 }

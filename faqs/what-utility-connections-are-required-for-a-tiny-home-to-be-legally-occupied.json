@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility connections are required for a tiny home to be legally occupied?",
-  "description": "Legal occupation of a tiny home, particularly an ADU, requires permanent connections to water, sewer (or septic), and electricity. These must meet local codes.",
   "url": "www.zentinyhomes.com/faq/what-utility-connections-are-required-for-a-tiny-home-to-be-legally-occupied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility connections are required for a tiny home to be legally occupied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a tiny home to be legally occupied, especially if it's considered an Accessory Dwelling Unit (ADU), it typically requires permanent connections to essential utilities. This includes potable water, a sanitary sewer system (or approved septic system), and electricity. Some jurisdictions may also require natural gas hookups if available. These connections must meet local building and safety codes. For tiny homes on wheels, a",
-        "description": "Legal occupation of a tiny home, particularly an ADU, requires permanent connections to water, sewer (or septic), and electricity. These must meet local codes. Off-grid options often have specific, stricter requirements."
-      }
-    }
-  ],
+  "name": "What utility connections are required for a tiny home to be legally occupied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are required for a tiny home to be legally occupied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a tiny home to be legally occupied, especially if it's considered an Accessory Dwelling Unit (ADU), it typically requires permanent connections to essential utilities. This includes potable water, a sanitary sewer system (or approved septic system), and electricity. Some jurisdictions may also require natural gas hookups if available. These connections must meet local building and safety codes. For tiny homes on wheels, a",
+        "@type": "Answer",
+        "description": "Legal occupation of a tiny home, particularly an ADU, requires permanent connections to water, sewer (or septic), and electricity. These must meet local codes. Off-grid options often have specific, stricter requirements."
+      }
+    }
+  ],
+  "description": "Legal occupation of a tiny home, particularly an ADU, requires permanent connections to water, sewer (or septic), and electricity. These must meet local codes."
 }

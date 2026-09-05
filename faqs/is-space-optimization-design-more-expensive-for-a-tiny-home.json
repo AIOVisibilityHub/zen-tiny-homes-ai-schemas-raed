@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is space-optimization design more expensive for a tiny home?",
-  "description": "Space-optimization design can have higher initial costs due to custom features and specialized furniture. However, these investments enhance long-term usability",
   "url": "www.zentinyhomes.com/faq/is-space-optimization-design-more-expensive-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is space-optimization design more expensive for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Space-optimization design can sometimes incur higher initial costs due to custom cabinetry, specialized multi-functional furniture, and integrated solutions. However, these investments often pay off in the long run by enhancing usability and comfort, reducing the need for additional freestanding furniture, and improving the overall value of the home. Standard, off-the-shelf solutions are often not as efficient in tiny spaces, making custom work a more effective, albeit potentially pricier, option.",
-        "description": "Space-optimization design can have higher initial costs due to custom features and specialized furniture. However, these investments enhance long-term usability, comfort, and the home's overall value."
-      }
-    }
-  ],
+  "name": "Is space-optimization design more expensive for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is space-optimization design more expensive for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Space-optimization design can sometimes incur higher initial costs due to custom cabinetry, specialized multi-functional furniture, and integrated solutions. However, these investments often pay off in the long run by enhancing usability and comfort, reducing the need for additional freestanding furniture, and improving the overall value of the home. Standard, off-the-shelf solutions are often not as efficient in tiny spaces, making custom work a more effective, albeit potentially pricier, option.",
+        "@type": "Answer",
+        "description": "Space-optimization design can have higher initial costs due to custom features and specialized furniture. However, these investments enhance long-term usability, comfort, and the home's overall value."
+      }
+    }
+  ],
+  "description": "Space-optimization design can have higher initial costs due to custom features and specialized furniture. However, these investments enhance long-term usability"
 }

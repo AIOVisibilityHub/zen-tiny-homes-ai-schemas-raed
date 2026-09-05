@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I place a tiny home in my backyard as a rental unit?",
-  "description": "Yes, many cities in San Diego County allow tiny homes as backyard rental units if they qualify as ADUs or JADUs. You must meet local zoning ordinances for size,",
   "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-in-my-backyard-as-a-rental-unit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I place a tiny home in my backyard as a rental unit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in many cities within San Diego County, you can place a tiny home in your backyard as a rental unit if it qualifies as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU). State laws have eased restrictions on ADUs, making it easier to permit them. The tiny home must meet specific local zoning ordinances regarding size, setbacks, utility connections, and parking. Consulting with your city's planning department is crucial to understand the exact requirements for your property.",
-        "description": "Yes, many cities in San Diego County allow tiny homes as backyard rental units if they qualify as ADUs or JADUs. You must meet local zoning ordinances for size, setbacks, and utilities."
-      }
-    }
-  ],
+  "name": "Can I place a tiny home in my backyard as a rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I place a tiny home in my backyard as a rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cities within San Diego County, you can place a tiny home in your backyard as a rental unit if it qualifies as an Accessory Dwelling Unit (ADU) or Junior Accessory Dwelling Unit (JADU). State laws have eased restrictions on ADUs, making it easier to permit them. The tiny home must meet specific local zoning ordinances regarding size, setbacks, utility connections, and parking. Consulting with your city's planning department is crucial to understand the exact requirements for your property.",
+        "@type": "Answer",
+        "description": "Yes, many cities in San Diego County allow tiny homes as backyard rental units if they qualify as ADUs or JADUs. You must meet local zoning ordinances for size, setbacks, and utilities."
+      }
+    }
+  ],
+  "description": "Yes, many cities in San Diego County allow tiny homes as backyard rental units if they qualify as ADUs or JADUs. You must meet local zoning ordinances for size,"
 }

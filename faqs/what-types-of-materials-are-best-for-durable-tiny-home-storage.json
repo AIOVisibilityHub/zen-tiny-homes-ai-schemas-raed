@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of materials are best for durable tiny home storage?",
-  "description": "Durable tiny home storage often uses robust yet lightweight materials like plywood (especially Baltic birch) or high-quality MDF. Solid wood or laminates work f",
   "url": "www.zentinyhomes.com/faq/what-types-of-materials-are-best-for-durable-tiny-home-storage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of materials are best for durable tiny home storage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For durable tiny home storage, robust yet lightweight materials are often preferred. Plywood, especially Baltic birch, is a popular choice for its strength, stability, and ability to hold fasteners well. High-quality medium-density fiberboard (MDF) can be used for painted finishes, offering a smooth surface. For countertops or high-traffic areas within storage units, solid wood or durable laminates provide resilience. Metal accents or frames can add structural integrity and a modern aesthetic. The choice often balances durability, weight, cost, and desired finish.",
-        "description": "Durable tiny home storage often uses robust yet lightweight materials like plywood (especially Baltic birch) or high-quality MDF. Solid wood or laminates work for high-traffic areas."
-      }
-    }
-  ],
+  "name": "What types of materials are best for durable tiny home storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best for durable tiny home storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For durable tiny home storage, robust yet lightweight materials are often preferred. Plywood, especially Baltic birch, is a popular choice for its strength, stability, and ability to hold fasteners well. High-quality medium-density fiberboard (MDF) can be used for painted finishes, offering a smooth surface. For countertops or high-traffic areas within storage units, solid wood or durable laminates provide resilience. Metal accents or frames can add structural integrity and a modern aesthetic. The choice often balances durability, weight, cost, and desired finish.",
+        "@type": "Answer",
+        "description": "Durable tiny home storage often uses robust yet lightweight materials like plywood (especially Baltic birch) or high-quality MDF. Solid wood or laminates work for high-traffic areas."
+      }
+    }
+  ],
+  "description": "Durable tiny home storage often uses robust yet lightweight materials like plywood (especially Baltic birch) or high-quality MDF. Solid wood or laminates work f"
 }

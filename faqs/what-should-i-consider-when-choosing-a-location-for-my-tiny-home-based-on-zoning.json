@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when choosing a location for my tiny home based on zoning laws?",
-  "description": "When choosing a tiny home location, research permitted uses, minimum lot size, setbacks, and utility access based on zoning. Also, check for any HOA rules that",
   "url": "www.zentinyhomes.com/faq/what-should-i-consider-when-choosing-a-location-for-my-tiny-home-based-on-zoning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when choosing a location for my tiny home based on zoning laws?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a location for your tiny home, consider several zoning aspects. First, verify if tiny homes are explicitly permitted as primary dwellings or ADUs in the desired zone. Research minimum lot size requirements and setback regulations. Investigate utility access, as connecting to water, sewer, and electricity can significantly impact costs and feasibility. Also, understand if there are any homeowner association (HOA) rules that might supersede or add to municipal zoning ordinances. A thorough review of these factors will help avoid future complications and ensure a smooth project.",
-        "description": "When choosing a tiny home location, research permitted uses, minimum lot size, setbacks, and utility access based on zoning. Also, check for any HOA rules that might apply to ensure compliance."
-      }
-    }
-  ],
+  "name": "What should I consider when choosing a location for my tiny home based on zoning laws?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a location for my tiny home based on zoning laws?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a location for your tiny home, consider several zoning aspects. First, verify if tiny homes are explicitly permitted as primary dwellings or ADUs in the desired zone. Research minimum lot size requirements and setback regulations. Investigate utility access, as connecting to water, sewer, and electricity can significantly impact costs and feasibility. Also, understand if there are any homeowner association (HOA) rules that might supersede or add to municipal zoning ordinances. A thorough review of these factors will help avoid future complications and ensure a smooth project.",
+        "@type": "Answer",
+        "description": "When choosing a tiny home location, research permitted uses, minimum lot size, setbacks, and utility access based on zoning. Also, check for any HOA rules that might apply to ensure compliance."
+      }
+    }
+  ],
+  "description": "When choosing a tiny home location, research permitted uses, minimum lot size, setbacks, and utility access based on zoning. Also, check for any HOA rules that"
 }

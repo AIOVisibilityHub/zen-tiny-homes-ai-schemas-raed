@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for building a foundation tiny home?",
-  "description": "The process involves consultation, design and permitting, site preparation, construction, and final inspections, all managed with local regulatory compliance.",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-building-a-foundation-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for building a foundation tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins with an initial consultation to discuss your vision, budget, and site specifics. Following this, we move to design and permitting, where plans are developed and submitted to local authorities in your area (e.g., Vista, Oceanside) for approval. Once permits are secured, site preparation commences, including foundation laying and utility connections. The construction phase then involves framing, exterior and interior finishes, and final inspections. We guide you through each step, ensuring compliance with all local regulations and keeping you informed of progress.",
-        "description": "The process involves consultation, design and permitting, site preparation, construction, and final inspections, all managed with local regulatory compliance."
-      }
-    }
-  ],
+  "name": "What is the process for building a foundation tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a foundation tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your vision, budget, and site specifics. Following this, we move to design and permitting, where plans are developed and submitted to local authorities in your area (e.g., Vista, Oceanside) for approval. Once permits are secured, site preparation commences, including foundation laying and utility connections. The construction phase then involves framing, exterior and interior finishes, and final inspections. We guide you through each step, ensuring compliance with all local regulations and keeping you informed of progress.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design and permitting, site preparation, construction, and final inspections, all managed with local regulatory compliance."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design and permitting, site preparation, construction, and final inspections, all managed with local regulatory compliance."
 }

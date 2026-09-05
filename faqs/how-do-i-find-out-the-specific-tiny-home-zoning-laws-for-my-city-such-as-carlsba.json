@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I find out the specific tiny home zoning laws for my city, such as Carlsbad or Oceanside?",
-  "description": "Contact the planning department of your specific city, like Carlsbad or Oceanside, directly. Their official websites often provide zoning ordinances for ADUs or",
   "url": "www.zentinyhomes.com/faq/how-do-i-find-out-the-specific-tiny-home-zoning-laws-for-my-city-such-as-carlsba",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I find out the specific tiny home zoning laws for my city, such as Carlsbad or Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To determine the specific tiny home zoning laws for cities like Carlsbad or Oceanside, the best approach is to contact their respective city planning departments directly. You can typically find their contact information and zoning ordinances on the city's official website. Look for sections on Accessory Dwelling Units (ADUs), detached structures, or recreational vehicle ordinances. Be prepared with your property address and your plans for the tiny home, as specifics often depend on your exact location and intended use.",
-        "description": "Contact the planning department of your specific city, like Carlsbad or Oceanside, directly. Their official websites often provide zoning ordinances for ADUs or recreational vehicles. Have your property address ready."
-      }
-    }
-  ],
+  "name": "How do I find out the specific tiny home zoning laws for my city, such as Carlsbad or Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find out the specific tiny home zoning laws for my city, such as Carlsbad or Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine the specific tiny home zoning laws for cities like Carlsbad or Oceanside, the best approach is to contact their respective city planning departments directly. You can typically find their contact information and zoning ordinances on the city's official website. Look for sections on Accessory Dwelling Units (ADUs), detached structures, or recreational vehicle ordinances. Be prepared with your property address and your plans for the tiny home, as specifics often depend on your exact location and intended use.",
+        "@type": "Answer",
+        "description": "Contact the planning department of your specific city, like Carlsbad or Oceanside, directly. Their official websites often provide zoning ordinances for ADUs or recreational vehicles. Have your property address ready."
+      }
+    }
+  ],
+  "description": "Contact the planning department of your specific city, like Carlsbad or Oceanside, directly. Their official websites often provide zoning ordinances for ADUs or"
 }

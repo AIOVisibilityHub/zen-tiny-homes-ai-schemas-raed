@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to customize a tiny home with Zen Tiny Homes?",
-  "description": "Customization costs vary based on chosen upgrades and materials, from basic finishes to extensive structural changes or high-end appliances.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-customize-a-tiny-home-with-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to customize a tiny home with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of customizing a tiny home varies significantly based on the chosen upgrades and materials. Basic customization of finishes may add a smaller percentage to the base price, while extensive structural changes, high-end appliances, or complex smart home systems can substantially increase the overall cost. During the design phase, we provide a detailed quote outlining all customization costs before construction begins. We work with various budgets to find solutions that balance your desires with financial considerations.",
-        "description": "Customization costs vary based on chosen upgrades and materials, from basic finishes to extensive structural changes or high-end appliances."
-      }
-    }
-  ],
+  "name": "How much does it cost to customize a tiny home with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to customize a tiny home with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of customizing a tiny home varies significantly based on the chosen upgrades and materials. Basic customization of finishes may add a smaller percentage to the base price, while extensive structural changes, high-end appliances, or complex smart home systems can substantially increase the overall cost. During the design phase, we provide a detailed quote outlining all customization costs before construction begins. We work with various budgets to find solutions that balance your desires with financial considerations.",
+        "@type": "Answer",
+        "description": "Customization costs vary based on chosen upgrades and materials, from basic finishes to extensive structural changes or high-end appliances."
+      }
+    }
+  ],
+  "description": "Customization costs vary based on chosen upgrades and materials, from basic finishes to extensive structural changes or high-end appliances."
 }

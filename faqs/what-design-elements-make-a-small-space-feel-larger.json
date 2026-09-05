@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design elements make a small space feel larger?",
-  "description": "Light colors, mirrors, proportionate and multi-functional furniture, ample lighting, and an open layout make a small space feel larger.",
   "url": "www.zentinyhomes.com/faq/what-design-elements-make-a-small-space-feel-larger",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design elements make a small space feel larger?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several design elements can visually expand a small space. Incorporating light color palettes, especially on walls and ceilings, reflects more light and creates an open feel. Strategic use of mirrors can create the illusion of depth and space. Furniture that is proportionate to the room, and especially multi-functional pieces, prevents overcrowding. Good lighting, both natural and artificial, is crucial; avoid heavy window treatments that block light. Open-concept layouts and clear pathways also contribute significantly to a spacious perception. Additionally, maintaining visual simplicity and minimizing clutter helps a room feel larger and more airy.",
-        "description": "Light colors, mirrors, proportionate and multi-functional furniture, ample lighting, and an open layout make a small space feel larger."
-      }
-    }
-  ],
+  "name": "What design elements make a small space feel larger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design elements make a small space feel larger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several design elements can visually expand a small space. Incorporating light color palettes, especially on walls and ceilings, reflects more light and creates an open feel. Strategic use of mirrors can create the illusion of depth and space. Furniture that is proportionate to the room, and especially multi-functional pieces, prevents overcrowding. Good lighting, both natural and artificial, is crucial; avoid heavy window treatments that block light. Open-concept layouts and clear pathways also contribute significantly to a spacious perception. Additionally, maintaining visual simplicity and minimizing clutter helps a room feel larger and more airy.",
+        "@type": "Answer",
+        "description": "Light colors, mirrors, proportionate and multi-functional furniture, ample lighting, and an open layout make a small space feel larger."
+      }
+    }
+  ],
+  "description": "Light colors, mirrors, proportionate and multi-functional furniture, ample lighting, and an open layout make a small space feel larger."
 }

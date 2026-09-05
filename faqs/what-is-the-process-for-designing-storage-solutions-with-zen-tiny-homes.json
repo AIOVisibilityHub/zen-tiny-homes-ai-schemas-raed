@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing storage solutions with Zen Tiny Homes?",
-  "description": "Our process starts with a consultation to understand your needs, followed by preliminary concepts and 3D renderings. We refine the design based on your feedback",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-storage-solutions-with-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing storage solutions with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our storage design process begins with a detailed consultation to understand your lifestyle, belongings, and specific storage needs. We discuss how you intend to use your tiny home and what items are essential. Following this, our designers create preliminary concepts and 3D renderings to visualize potential solutions, integrating features like multi-functional furniture, vertical storage, and hidden compartments. We then refine the design based on your feedback, ensuring it aligns with your aesthetic preferences and budget before moving to the construction phase.",
-        "description": "Our process starts with a consultation to understand your needs, followed by preliminary concepts and 3D renderings. We refine the design based on your feedback before construction."
-      }
-    }
-  ],
+  "name": "What is the process for designing storage solutions with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing storage solutions with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our storage design process begins with a detailed consultation to understand your lifestyle, belongings, and specific storage needs. We discuss how you intend to use your tiny home and what items are essential. Following this, our designers create preliminary concepts and 3D renderings to visualize potential solutions, integrating features like multi-functional furniture, vertical storage, and hidden compartments. We then refine the design based on your feedback, ensuring it aligns with your aesthetic preferences and budget before moving to the construction phase.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation to understand your needs, followed by preliminary concepts and 3D renderings. We refine the design based on your feedback before construction."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation to understand your needs, followed by preliminary concepts and 3D renderings. We refine the design based on your feedback"
 }

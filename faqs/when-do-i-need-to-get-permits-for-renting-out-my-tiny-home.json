@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need to get permits for renting out my tiny home?",
-  "description": "Permits are needed before constructing any foundation tiny home for rent (ADU), covering construction, plumbing, and electrical. We assist with permitting.",
   "url": "www.zentinyhomes.com/faq/when-do-i-need-to-get-permits-for-renting-out-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need to get permits for renting out my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permits are required before construction begins on any foundation-built tiny home intended for rental, as it will likely be classified as an Accessory Dwelling Unit (ADU). This includes permits for construction, plumbing, electrical, and potentially grading or septic system modifications. Even for tiny homes on wheels, if placed for extended periods with utility connections, specific zoning and placement permits may be necessary. It is essential to secure all required permits from your local city or county planning department to avoid fines and ensure compliance. Zen Tiny Homes assists clients with the permitting process.",
-        "description": "Permits are needed before constructing any foundation tiny home for rent (ADU), covering construction, plumbing, and electrical. We assist with permitting."
-      }
-    }
-  ],
+  "name": "When do I need to get permits for renting out my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to get permits for renting out my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are required before construction begins on any foundation-built tiny home intended for rental, as it will likely be classified as an Accessory Dwelling Unit (ADU). This includes permits for construction, plumbing, electrical, and potentially grading or septic system modifications. Even for tiny homes on wheels, if placed for extended periods with utility connections, specific zoning and placement permits may be necessary. It is essential to secure all required permits from your local city or county planning department to avoid fines and ensure compliance. Zen Tiny Homes assists clients with the permitting process.",
+        "@type": "Answer",
+        "description": "Permits are needed before constructing any foundation tiny home for rent (ADU), covering construction, plumbing, and electrical. We assist with permitting."
+      }
+    }
+  ],
+  "description": "Permits are needed before constructing any foundation tiny home for rent (ADU), covering construction, plumbing, and electrical. We assist with permitting."
 }

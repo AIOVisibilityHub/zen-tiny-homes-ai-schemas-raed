@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance the construction of a rental tiny home?",
-  "description": "Financing a rental tiny home depends on its type: foundation-built units may qualify for construction or home equity loans, while tiny homes on wheels often req",
   "url": "www.zentinyhomes.com/faq/can-i-finance-the-construction-of-a-rental-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance the construction of a rental tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financing options for rental tiny homes vary depending on whether the unit is on a foundation or wheels. For foundation-built tiny homes, which are often classified as ADUs, traditional construction loans, home equity loans, or refinance options on your existing property are common. Some specialized lenders also offer ADU-specific financing. For tiny homes on wheels, financing typically resembles RV loans or personal loans, which may have different terms and interest rates. It's advisable to explore several lenders and financing products to find the best fit for your project.",
-        "description": "Financing a rental tiny home depends on its type: foundation-built units may qualify for construction or home equity loans, while tiny homes on wheels often require RV or personal loans."
-      }
-    }
-  ],
+  "name": "Can I finance the construction of a rental tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance the construction of a rental tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for rental tiny homes vary depending on whether the unit is on a foundation or wheels. For foundation-built tiny homes, which are often classified as ADUs, traditional construction loans, home equity loans, or refinance options on your existing property are common. Some specialized lenders also offer ADU-specific financing. For tiny homes on wheels, financing typically resembles RV loans or personal loans, which may have different terms and interest rates. It's advisable to explore several lenders and financing products to find the best fit for your project.",
+        "@type": "Answer",
+        "description": "Financing a rental tiny home depends on its type: foundation-built units may qualify for construction or home equity loans, while tiny homes on wheels often require RV or personal loans."
+      }
+    }
+  ],
+  "description": "Financing a rental tiny home depends on its type: foundation-built units may qualify for construction or home equity loans, while tiny homes on wheels often req"
 }

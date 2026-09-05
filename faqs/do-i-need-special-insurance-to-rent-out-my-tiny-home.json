@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need special insurance to rent out my tiny home?",
-  "description": "Yes, you'll need specialized landlord insurance or an endorsement to cover rental tiny homes, as standard homeowner's policies usually don't apply.",
   "url": "www.zentinyhomes.com/faq/do-i-need-special-insurance-to-rent-out-my-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need special insurance to rent out my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, standard homeowner's insurance typically does not cover rental properties, especially if they are separate structures like tiny homes. You will likely need a specific landlord policy or an endorsement to your existing policy that covers rental units. This insurance should protect against property damage, liability, and potentially loss of rental income. It's advisable to consult with an insurance provider specializing in rental properties or ADUs to ensure adequate coverage for your tiny home, whether it's in Escondido or Encinitas.",
-        "description": "Yes, you'll need specialized landlord insurance or an endorsement to cover rental tiny homes, as standard homeowner's policies usually don't apply."
-      }
-    }
-  ],
+  "name": "Do I need special insurance to rent out my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special insurance to rent out my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, standard homeowner's insurance typically does not cover rental properties, especially if they are separate structures like tiny homes. You will likely need a specific landlord policy or an endorsement to your existing policy that covers rental units. This insurance should protect against property damage, liability, and potentially loss of rental income. It's advisable to consult with an insurance provider specializing in rental properties or ADUs to ensure adequate coverage for your tiny home, whether it's in Escondido or Encinitas.",
+        "@type": "Answer",
+        "description": "Yes, you'll need specialized landlord insurance or an endorsement to cover rental tiny homes, as standard homeowner's policies usually don't apply."
+      }
+    }
+  ],
+  "description": "Yes, you'll need specialized landlord insurance or an endorsement to cover rental tiny homes, as standard homeowner's policies usually don't apply."
 }

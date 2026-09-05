@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of tenants typically rent tiny homes?",
-  "description": "Tiny homes attract tenants seeking affordability and minimalism, such as young professionals, students, single individuals, couples, and retirees, or as short-t",
   "url": "www.zentinyhomes.com/faq/what-kind-of-tenants-typically-rent-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of tenants typically rent tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny homes attract a diverse range of tenants, often those seeking affordability, minimalism, and a smaller environmental footprint. This can include young professionals, students, single individuals, or couples who appreciate efficient living spaces. Retirees or empty nesters looking to downsize and reduce expenses are also a common demographic. Additionally, tiny homes can serve as short-term rentals for tourists or temporary housing for those new to an area. Their appeal often lies in lower utility costs and a simpler lifestyle.",
-        "description": "Tiny homes attract tenants seeking affordability and minimalism, such as young professionals, students, single individuals, couples, and retirees, or as short-term rentals."
-      }
-    }
-  ],
+  "name": "What kind of tenants typically rent tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of tenants typically rent tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny homes attract a diverse range of tenants, often those seeking affordability, minimalism, and a smaller environmental footprint. This can include young professionals, students, single individuals, or couples who appreciate efficient living spaces. Retirees or empty nesters looking to downsize and reduce expenses are also a common demographic. Additionally, tiny homes can serve as short-term rentals for tourists or temporary housing for those new to an area. Their appeal often lies in lower utility costs and a simpler lifestyle.",
+        "@type": "Answer",
+        "description": "Tiny homes attract tenants seeking affordability and minimalism, such as young professionals, students, single individuals, couples, and retirees, or as short-term rentals."
+      }
+    }
+  ],
+  "description": "Tiny homes attract tenants seeking affordability and minimalism, such as young professionals, students, single individuals, couples, and retirees, or as short-t"
 }

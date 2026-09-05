@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there specific design considerations for a tiny home built for year-round primary residence?",
-  "description": "Year-round primary residence tiny homes need robust insulation, efficient HVAC, durable materials, and optimized natural light, ventilation, and storage for com",
   "url": "www.zentinyhomes.com/faq/are-there-specific-design-considerations-for-a-tiny-home-built-for-year-round-pr",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there specific design considerations for a tiny home built for year-round primary residence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, building a tiny home for year-round primary residence requires specific design considerations to ensure comfort, durability, and energy efficiency. This includes robust insulation for varying temperatures, a well-designed HVAC system for heating and cooling, and potentially larger fresh and grey water tanks if off-grid. High-quality, durable materials are essential to withstand continuous use. Furthermore, optimizing natural light, ventilation, and storage solutions are crucial for long-term liveability. Our design process focuses on creating efficient and comfortable spaces tailored for primary residency.",
-        "description": "Year-round primary residence tiny homes need robust insulation, efficient HVAC, durable materials, and optimized natural light, ventilation, and storage for comfort and energy efficiency."
-      }
-    }
-  ],
+  "name": "Are there specific design considerations for a tiny home built for year-round primary residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific design considerations for a tiny home built for year-round primary residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a tiny home for year-round primary residence requires specific design considerations to ensure comfort, durability, and energy efficiency. This includes robust insulation for varying temperatures, a well-designed HVAC system for heating and cooling, and potentially larger fresh and grey water tanks if off-grid. High-quality, durable materials are essential to withstand continuous use. Furthermore, optimizing natural light, ventilation, and storage solutions are crucial for long-term liveability. Our design process focuses on creating efficient and comfortable spaces tailored for primary residency.",
+        "@type": "Answer",
+        "description": "Year-round primary residence tiny homes need robust insulation, efficient HVAC, durable materials, and optimized natural light, ventilation, and storage for comfort and energy efficiency."
+      }
+    }
+  ],
+  "description": "Year-round primary residence tiny homes need robust insulation, efficient HVAC, durable materials, and optimized natural light, ventilation, and storage for com"
 }

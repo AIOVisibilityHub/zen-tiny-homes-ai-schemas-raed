@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are important when choosing a trailer for a tiny home shell?",
-  "description": "When choosing a tiny home shell trailer, consider its length, width, weight capacity, axle count, braking system, and certification for tiny homes.",
   "url": "www.zentinyhomes.com/faq/what-considerations-are-important-when-choosing-a-trailer-for-a-tiny-home-shell",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are important when choosing a trailer for a tiny home shell?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right trailer is crucial for a tiny home shell, as it forms the foundation and determines mobility. Key considerations include the trailer's length, width, and weight capacity to support your desired tiny home size and materials. Axle count and braking systems are important for safe towing. Additionally, ensure the trailer is specifically designed for tiny homes, with a sturdy frame and integrated tie-downs. Zen Tiny Homes can guide you through selecting a certified tiny home trailer that meets local road regulations and supports your build.",
-        "description": "When choosing a tiny home shell trailer, consider its length, width, weight capacity, axle count, braking system, and certification for tiny homes."
-      }
-    }
-  ],
+  "name": "What considerations are important when choosing a trailer for a tiny home shell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when choosing a trailer for a tiny home shell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trailer is crucial for a tiny home shell, as it forms the foundation and determines mobility. Key considerations include the trailer's length, width, and weight capacity to support your desired tiny home size and materials. Axle count and braking systems are important for safe towing. Additionally, ensure the trailer is specifically designed for tiny homes, with a sturdy frame and integrated tie-downs. Zen Tiny Homes can guide you through selecting a certified tiny home trailer that meets local road regulations and supports your build.",
+        "@type": "Answer",
+        "description": "When choosing a tiny home shell trailer, consider its length, width, weight capacity, axle count, braking system, and certification for tiny homes."
+      }
+    }
+  ],
+  "description": "When choosing a tiny home shell trailer, consider its length, width, weight capacity, axle count, braking system, and certification for tiny homes."
 }

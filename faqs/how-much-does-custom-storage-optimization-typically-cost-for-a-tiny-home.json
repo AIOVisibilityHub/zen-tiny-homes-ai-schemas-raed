@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does custom storage-optimization typically cost for a tiny home?",
-  "description": "Custom storage-optimization costs vary by complexity, materials, and customization extent. Intricate built-ins cost more than simple shelving. A tailored estima",
   "url": "www.zentinyhomes.com/faq/how-much-does-custom-storage-optimization-typically-cost-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does custom storage-optimization typically cost for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of custom storage-optimization for a tiny home varies significantly based on the complexity, materials chosen, and the extent of customization. Simple solutions like basic shelving or under-bed drawers might be less expensive, while intricate built-in furniture, hidden compartments, or advanced hydraulic lift systems will incur higher costs. Factors like the type of wood, hardware quality, and labor for design and installation all contribute. It's best to discuss your specific needs with a designer to get a tailored estimate.",
-        "description": "Custom storage-optimization costs vary by complexity, materials, and customization extent. Intricate built-ins cost more than simple shelving. A tailored estimate requires discussing specific needs with a designer."
-      }
-    }
-  ],
+  "name": "How much does custom storage-optimization typically cost for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does custom storage-optimization typically cost for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom storage-optimization for a tiny home varies significantly based on the complexity, materials chosen, and the extent of customization. Simple solutions like basic shelving or under-bed drawers might be less expensive, while intricate built-in furniture, hidden compartments, or advanced hydraulic lift systems will incur higher costs. Factors like the type of wood, hardware quality, and labor for design and installation all contribute. It's best to discuss your specific needs with a designer to get a tailored estimate.",
+        "@type": "Answer",
+        "description": "Custom storage-optimization costs vary by complexity, materials, and customization extent. Intricate built-ins cost more than simple shelving. A tailored estimate requires discussing specific needs with a designer."
+      }
+    }
+  ],
+  "description": "Custom storage-optimization costs vary by complexity, materials, and customization extent. Intricate built-ins cost more than simple shelving. A tailored estima"
 }

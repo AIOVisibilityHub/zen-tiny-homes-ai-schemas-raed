@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need to provide for a tiny home interior layout design project?",
-  "description": "Provide tiny home dimensions, architectural plans, lifestyle details (occupants, hobbies, storage), aesthetic preferences, and must-have features for design.",
   "url": "www.zentinyhomes.com/faq/what-information-do-i-need-to-provide-for-a-tiny-home-interior-layout-design-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need to provide for a tiny home interior layout design project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To effectively begin a tiny home interior layout design project, you'll need to provide several key pieces of information. This includes the dimensions and overall footprint of your tiny home, along with any existing architectural plans if available. Details about your lifestyle, such as how many people will live in the home, your work-from-home needs, specific hobbies, and storage requirements, are crucial. Additionally, sharing your aesthetic preferences, inspiration images, and any must-have features will guide the designer in creating a layout that truly reflects your vision and maximizes functionality for your daily life.",
-        "description": "Provide tiny home dimensions, architectural plans, lifestyle details (occupants, hobbies, storage), aesthetic preferences, and must-have features for design."
-      }
-    }
-  ],
+  "name": "What information do I need to provide for a tiny home interior layout design project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a tiny home interior layout design project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To effectively begin a tiny home interior layout design project, you'll need to provide several key pieces of information. This includes the dimensions and overall footprint of your tiny home, along with any existing architectural plans if available. Details about your lifestyle, such as how many people will live in the home, your work-from-home needs, specific hobbies, and storage requirements, are crucial. Additionally, sharing your aesthetic preferences, inspiration images, and any must-have features will guide the designer in creating a layout that truly reflects your vision and maximizes functionality for your daily life.",
+        "@type": "Answer",
+        "description": "Provide tiny home dimensions, architectural plans, lifestyle details (occupants, hobbies, storage), aesthetic preferences, and must-have features for design."
+      }
+    }
+  ],
+  "description": "Provide tiny home dimensions, architectural plans, lifestyle details (occupants, hobbies, storage), aesthetic preferences, and must-have features for design."
 }

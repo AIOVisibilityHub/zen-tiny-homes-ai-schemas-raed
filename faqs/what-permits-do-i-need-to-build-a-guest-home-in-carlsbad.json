@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits do I need to build a guest home in Carlsbad?",
-  "description": "In Carlsbad, you'll need a building permit and zoning clearance for a guest home. Additional permits like grading or coastal development may be required based o",
   "url": "www.zentinyhomes.com/faq/what-permits-do-i-need-to-build-a-guest-home-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits do I need to build a guest home in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a guest home in Carlsbad requires several permits and approvals, primarily a building permit, which encompasses structural, electrical, plumbing, and mechanical inspections. You'll also need zoning clearance to ensure your proposed guest home complies with local setback, height, and density requirements specific to Carlsbad's municipal code. Depending on your property's location and specific features, additional permits might be necessary, such as for grading, coastal development (if applicable), or utility connections. Zen Tiny Homes assists with navigating these local permitting processes.",
-        "description": "In Carlsbad, you'll need a building permit and zoning clearance for a guest home. Additional permits like grading or coastal development may be required based on your property's specifics."
-      }
-    }
-  ],
+  "name": "What permits do I need to build a guest home in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need to build a guest home in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a guest home in Carlsbad requires several permits and approvals, primarily a building permit, which encompasses structural, electrical, plumbing, and mechanical inspections. You'll also need zoning clearance to ensure your proposed guest home complies with local setback, height, and density requirements specific to Carlsbad's municipal code. Depending on your property's location and specific features, additional permits might be necessary, such as for grading, coastal development (if applicable), or utility connections. Zen Tiny Homes assists with navigating these local permitting processes.",
+        "@type": "Answer",
+        "description": "In Carlsbad, you'll need a building permit and zoning clearance for a guest home. Additional permits like grading or coastal development may be required based on your property's specifics."
+      }
+    }
+  ],
+  "description": "In Carlsbad, you'll need a building permit and zoning clearance for a guest home. Additional permits like grading or coastal development may be required based o"
 }

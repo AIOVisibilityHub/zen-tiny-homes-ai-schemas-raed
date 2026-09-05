@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of adding a tiny home as a rental unit to my property?",
-  "description": "Adding a tiny home rental unit can generate income, increase property value, offer a cost-effective way to expand living space, and provide flexible housing sol",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-adding-a-tiny-home-as-a-rental-unit-to-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of adding a tiny home as a rental unit to my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Adding a tiny home as a rental unit can offer several benefits. It provides an opportunity to generate passive income, helping offset mortgage payments or increase overall property value. Tiny homes are generally quicker to build and more affordable than traditional additions, making them a cost-effective way to expand living space. They also offer flexible housing solutions, appealing to a diverse tenant pool seeking compact, efficient living. Furthermore, they can enhance property utilization without requiring a significant land investment.",
-        "description": "Adding a tiny home rental unit can generate income, increase property value, offer a cost-effective way to expand living space, and provide flexible housing solutions."
-      }
-    }
-  ],
+  "name": "What are the benefits of adding a tiny home as a rental unit to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a tiny home as a rental unit to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a tiny home as a rental unit can offer several benefits. It provides an opportunity to generate passive income, helping offset mortgage payments or increase overall property value. Tiny homes are generally quicker to build and more affordable than traditional additions, making them a cost-effective way to expand living space. They also offer flexible housing solutions, appealing to a diverse tenant pool seeking compact, efficient living. Furthermore, they can enhance property utilization without requiring a significant land investment.",
+        "@type": "Answer",
+        "description": "Adding a tiny home rental unit can generate income, increase property value, offer a cost-effective way to expand living space, and provide flexible housing solutions."
+      }
+    }
+  ],
+  "description": "Adding a tiny home rental unit can generate income, increase property value, offer a cost-effective way to expand living space, and provide flexible housing sol"
 }

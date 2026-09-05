@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common features of a multifunctional living space?",
-  "description": "Common features include modular furniture, built-in storage, and flexible layouts that allow spaces to be easily reconfigured for different activities.",
   "url": "www.zentinyhomes.com/faq/what-are-common-features-of-a-multifunctional-living-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common features of a multifunctional living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common features include modular furniture, built-in storage, and flexible layouts. Modular furniture can be reconfigured or moved easily to suit different needs, such as sectional sofas that can become individual chairs. Built-in storage, like under-stair drawers or wall-integrated shelving, keeps items out of sight and reduces clutter. Flexible layouts often involve open-concept designs or movable partitions that allow occupants to redefine areas as needed. Other features might include pull-out tables, folding desks, and multi-purpose seating that also offers storage, all designed to enhance efficiency and adaptability.",
-        "description": "Common features include modular furniture, built-in storage, and flexible layouts that allow spaces to be easily reconfigured for different activities."
-      }
-    }
-  ],
+  "name": "What are common features of a multifunctional living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common features of a multifunctional living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common features include modular furniture, built-in storage, and flexible layouts. Modular furniture can be reconfigured or moved easily to suit different needs, such as sectional sofas that can become individual chairs. Built-in storage, like under-stair drawers or wall-integrated shelving, keeps items out of sight and reduces clutter. Flexible layouts often involve open-concept designs or movable partitions that allow occupants to redefine areas as needed. Other features might include pull-out tables, folding desks, and multi-purpose seating that also offers storage, all designed to enhance efficiency and adaptability.",
+        "@type": "Answer",
+        "description": "Common features include modular furniture, built-in storage, and flexible layouts that allow spaces to be easily reconfigured for different activities."
+      }
+    }
+  ],
+  "description": "Common features include modular furniture, built-in storage, and flexible layouts that allow spaces to be easily reconfigured for different activities."
 }

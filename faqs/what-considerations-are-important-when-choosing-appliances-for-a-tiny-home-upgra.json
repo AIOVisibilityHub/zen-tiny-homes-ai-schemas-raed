@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are important when choosing appliances for a tiny home upgrade?",
-  "description": "Key considerations for tiny home appliances include energy efficiency, compact size, power requirements (especially for off-grid living), and water-saving featu",
   "url": "www.zentinyhomes.com/faq/what-considerations-are-important-when-choosing-appliances-for-a-tiny-home-upgra",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are important when choosing appliances for a tiny home upgrade?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing appliances for a tiny home upgrade, prioritize energy efficiency, size, and specific power requirements. Look for compact, multi-functional appliances designed for small spaces, such as apartment-sized refrigerators, induction cooktops, or combination washer-dryer units. Consider their energy consumption, especially if you plan to use solar power or live off-grid. Ensure that electrical loads are compatible with your tiny home's system capacity. Water-saving features are also beneficial for conserving resources. We can guide you in selecting appliances that meet your efficiency and space-saving needs.",
-        "description": "Key considerations for tiny home appliances include energy efficiency, compact size, power requirements (especially for off-grid living), and water-saving features."
-      }
-    }
-  ],
+  "name": "What considerations are important when choosing appliances for a tiny home upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when choosing appliances for a tiny home upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing appliances for a tiny home upgrade, prioritize energy efficiency, size, and specific power requirements. Look for compact, multi-functional appliances designed for small spaces, such as apartment-sized refrigerators, induction cooktops, or combination washer-dryer units. Consider their energy consumption, especially if you plan to use solar power or live off-grid. Ensure that electrical loads are compatible with your tiny home's system capacity. Water-saving features are also beneficial for conserving resources. We can guide you in selecting appliances that meet your efficiency and space-saving needs.",
+        "@type": "Answer",
+        "description": "Key considerations for tiny home appliances include energy efficiency, compact size, power requirements (especially for off-grid living), and water-saving features."
+      }
+    }
+  ],
+  "description": "Key considerations for tiny home appliances include energy efficiency, compact size, power requirements (especially for off-grid living), and water-saving featu"
 }

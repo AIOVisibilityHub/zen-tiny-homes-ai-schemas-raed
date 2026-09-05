@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right size and layout for a rental tiny home?",
-  "description": "Choose size and layout based on target tenants, local regulations, and property space. Prioritize functional bathrooms and kitchens, and consider open layouts t",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-size-and-layout-for-a-rental-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right size and layout for a rental tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right size and layout depends on your target tenant demographic, local regulations, and the available space on your property. Consider who you want to attract: a single person might be comfortable in 200 sq ft, while a couple might prefer 300-400 sq ft. Prioritize functional spaces like a full bathroom and an efficient kitchen. Open layouts tend to feel more spacious. Also, review local ADU or tiny home size limits, which can dictate maximum dimensions. Work with a designer to optimize the floor plan for appeal and functionality.",
-        "description": "Choose size and layout based on target tenants, local regulations, and property space. Prioritize functional bathrooms and kitchens, and consider open layouts to maximize appeal and efficiency."
-      }
-    }
-  ],
+  "name": "How do I choose the right size and layout for a rental tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and layout for a rental tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and layout depends on your target tenant demographic, local regulations, and the available space on your property. Consider who you want to attract: a single person might be comfortable in 200 sq ft, while a couple might prefer 300-400 sq ft. Prioritize functional spaces like a full bathroom and an efficient kitchen. Open layouts tend to feel more spacious. Also, review local ADU or tiny home size limits, which can dictate maximum dimensions. Work with a designer to optimize the floor plan for appeal and functionality.",
+        "@type": "Answer",
+        "description": "Choose size and layout based on target tenants, local regulations, and property space. Prioritize functional bathrooms and kitchens, and consider open layouts to maximize appeal and efficiency."
+      }
+    }
+  ],
+  "description": "Choose size and layout based on target tenants, local regulations, and property space. Prioritize functional bathrooms and kitchens, and consider open layouts t"
 }

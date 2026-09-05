@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a backyard guest house and what are its common uses?",
-  "description": "A backyard guest house (ADU) is a secondary housing unit on a residential lot, used for family, rentals, or flexible living space.",
   "url": "www.zentinyhomes.com/faq/what-is-a-backyard-guest-house-and-what-are-its-common-uses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a backyard guest house and what are its common uses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A backyard guest house, also known as an Accessory Dwelling Unit (ADU) or granny flat, is a secondary housing unit on a single-family residential lot. It can be attached or detached from the primary home. Common uses include providing independent living space for family members, serving as a rental unit for additional income, or functioning as a dedicated home office, studio, or private retreat. ADUs offer flexible space solutions tailored to various homeowner needs, enhancing property utility without requiring a new land purchase.",
-        "description": "A backyard guest house (ADU) is a secondary housing unit on a residential lot, used for family, rentals, or flexible living space."
-      }
-    }
-  ],
+  "name": "What is a backyard guest house and what are its common uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backyard guest house and what are its common uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard guest house, also known as an Accessory Dwelling Unit (ADU) or granny flat, is a secondary housing unit on a single-family residential lot. It can be attached or detached from the primary home. Common uses include providing independent living space for family members, serving as a rental unit for additional income, or functioning as a dedicated home office, studio, or private retreat. ADUs offer flexible space solutions tailored to various homeowner needs, enhancing property utility without requiring a new land purchase.",
+        "@type": "Answer",
+        "description": "A backyard guest house (ADU) is a secondary housing unit on a residential lot, used for family, rentals, or flexible living space."
+      }
+    }
+  ],
+  "description": "A backyard guest house (ADU) is a secondary housing unit on a residential lot, used for family, rentals, or flexible living space."
 }

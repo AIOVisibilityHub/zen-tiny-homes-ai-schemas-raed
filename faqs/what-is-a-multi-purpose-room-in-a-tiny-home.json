@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a multi-purpose room in a tiny home?",
-  "description": "A multi-purpose room in a tiny home is a single space designed to serve several functions, maximizing utility in a compact living environment.",
   "url": "www.zentinyhomes.com/faq/what-is-a-multi-purpose-room-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a multi-purpose room in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A multi-purpose room in a tiny home is a single space designed to serve several functions throughout the day or week. This design approach is crucial for maximizing utility in compact living environments. For example, a room might function as a living area by day, convert to a dining space for meals, and then transform into a guest bedroom or home office as needed. The key is flexible furniture, smart storage solutions, and thoughtful layout that allows the space to adapt to different activities without feeling cluttered or confined.",
-        "description": "A multi-purpose room in a tiny home is a single space designed to serve several functions, maximizing utility in a compact living environment."
-      }
-    }
-  ],
+  "name": "What is a multi-purpose room in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multi-purpose room in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multi-purpose room in a tiny home is a single space designed to serve several functions throughout the day or week. This design approach is crucial for maximizing utility in compact living environments. For example, a room might function as a living area by day, convert to a dining space for meals, and then transform into a guest bedroom or home office as needed. The key is flexible furniture, smart storage solutions, and thoughtful layout that allows the space to adapt to different activities without feeling cluttered or confined.",
+        "@type": "Answer",
+        "description": "A multi-purpose room in a tiny home is a single space designed to serve several functions, maximizing utility in a compact living environment."
+      }
+    }
+  ],
+  "description": "A multi-purpose room in a tiny home is a single space designed to serve several functions, maximizing utility in a compact living environment."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a special permit to put a tiny home on my property?",
-  "description": "Yes, permits are typically required for tiny home placement, including building and utility permits, which vary by local jurisdiction.",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-special-permit-to-put-a-tiny-home-on-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a special permit to put a tiny home on my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you almost always need permits to place a tiny home on your property, especially if it's intended for permanent residence or as an ADU. This includes building permits, zoning clearance, and potentially permits for utility connections. The specific permits required vary by jurisdiction (e.g., city or county) and the tiny home's classification. Zen Tiny Homes guides clients through the permit application process relevant to their location.",
-        "description": "Yes, permits are typically required for tiny home placement, including building and utility permits, which vary by local jurisdiction."
-      }
-    }
-  ],
+  "name": "Do I need a special permit to put a tiny home on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a special permit to put a tiny home on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you almost always need permits to place a tiny home on your property, especially if it's intended for permanent residence or as an ADU. This includes building permits, zoning clearance, and potentially permits for utility connections. The specific permits required vary by jurisdiction (e.g., city or county) and the tiny home's classification. Zen Tiny Homes guides clients through the permit application process relevant to their location.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for tiny home placement, including building and utility permits, which vary by local jurisdiction."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for tiny home placement, including building and utility permits, which vary by local jurisdiction."
 }

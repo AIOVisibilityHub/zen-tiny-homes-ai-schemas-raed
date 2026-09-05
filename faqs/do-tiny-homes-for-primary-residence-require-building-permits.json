@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do tiny homes for primary residence require building permits?",
-  "description": "Yes, tiny homes used as primary residences typically require building permits to ensure they meet local safety and construction standards, even for utility conn",
   "url": "www.zentinyhomes.com/faq/do-tiny-homes-for-primary-residence-require-building-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do tiny homes for primary residence require building permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, tiny homes intended as primary residences almost always require building permits, especially if they are permanently affixed to a foundation. These permits ensure that the structure meets safety, health, and structural integrity standards set by local building codes. Even tiny homes on wheels used as primary residences might require permits for utility connections or as an accessory dwelling unit, depending on local regulations. It is essential to obtain all necessary permits before construction or placement to avoid legal issues.",
-        "description": "Yes, tiny homes used as primary residences typically require building permits to ensure they meet local safety and construction standards, even for utility connections."
-      }
-    }
-  ],
+  "name": "Do tiny homes for primary residence require building permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do tiny homes for primary residence require building permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tiny homes intended as primary residences almost always require building permits, especially if they are permanently affixed to a foundation. These permits ensure that the structure meets safety, health, and structural integrity standards set by local building codes. Even tiny homes on wheels used as primary residences might require permits for utility connections or as an accessory dwelling unit, depending on local regulations. It is essential to obtain all necessary permits before construction or placement to avoid legal issues.",
+        "@type": "Answer",
+        "description": "Yes, tiny homes used as primary residences typically require building permits to ensure they meet local safety and construction standards, even for utility connections."
+      }
+    }
+  ],
+  "description": "Yes, tiny homes used as primary residences typically require building permits to ensure they meet local safety and construction standards, even for utility conn"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average rental income for a tiny home in the San Diego area?",
-  "description": "Rental income in San Diego varies by location and features, but can range from $1,200 to $2,500+ monthly for long-term tenants in our service areas.",
   "url": "www.zentinyhomes.com/faq/what-is-the-average-rental-income-for-a-tiny-home-in-the-san-diego-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average rental income for a tiny home in the San Diego area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Average rental income for a tiny home in the San Diego area can vary widely based on location, amenities, size, and market demand. In areas like Vista, Oceanside, Carlsbad, and San Marcos, a well-appointed tiny home (ADU) can command rental rates comparable to small apartments or studios, potentially ranging from $1,200 to $2,500+ per month for long-term rentals. Short-term rental income, while often higher per night, is less consistent and subject to additional regulations. Researching local comparables is key to setting appropriate rates.",
-        "description": "Rental income in San Diego varies by location and features, but can range from $1,200 to $2,500+ monthly for long-term tenants in our service areas."
-      }
-    }
-  ],
+  "name": "What is the average rental income for a tiny home in the San Diego area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average rental income for a tiny home in the San Diego area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Average rental income for a tiny home in the San Diego area can vary widely based on location, amenities, size, and market demand. In areas like Vista, Oceanside, Carlsbad, and San Marcos, a well-appointed tiny home (ADU) can command rental rates comparable to small apartments or studios, potentially ranging from $1,200 to $2,500+ per month for long-term rentals. Short-term rental income, while often higher per night, is less consistent and subject to additional regulations. Researching local comparables is key to setting appropriate rates.",
+        "@type": "Answer",
+        "description": "Rental income in San Diego varies by location and features, but can range from $1,200 to $2,500+ monthly for long-term tenants in our service areas."
+      }
+    }
+  ],
+  "description": "Rental income in San Diego varies by location and features, but can range from $1,200 to $2,500+ monthly for long-term tenants in our service areas."
 }

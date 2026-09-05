@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I incorporate space-saving features into my tiny home design?",
-  "description": "Incorporate pull-out tables, Murphy beds, vertical shelving, and loft areas. Use pocket doors and compact appliances, with custom cabinetry to maximize every av",
   "url": "www.zentinyhomes.com/faq/how-can-i-incorporate-space-saving-features-into-my-tiny-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I incorporate space-saving features into my tiny home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can incorporate space-saving features by integrating elements like pull-out tables, Murphy beds, and sofas with hidden storage. Vertical solutions such as shelving, wall-mounted desks, and loft sleeping areas are also highly effective. Consider pocket doors or barn doors instead of traditional swinging doors to save floor space. Additionally, choosing compact, energy-efficient appliances and custom cabinetry built to fit specific nooks can significantly enhance spatial efficiency.",
-        "description": "Incorporate pull-out tables, Murphy beds, vertical shelving, and loft areas. Use pocket doors and compact appliances, with custom cabinetry to maximize every available space."
-      }
-    }
-  ],
+  "name": "How can I incorporate space-saving features into my tiny home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I incorporate space-saving features into my tiny home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can incorporate space-saving features by integrating elements like pull-out tables, Murphy beds, and sofas with hidden storage. Vertical solutions such as shelving, wall-mounted desks, and loft sleeping areas are also highly effective. Consider pocket doors or barn doors instead of traditional swinging doors to save floor space. Additionally, choosing compact, energy-efficient appliances and custom cabinetry built to fit specific nooks can significantly enhance spatial efficiency.",
+        "@type": "Answer",
+        "description": "Incorporate pull-out tables, Murphy beds, vertical shelving, and loft areas. Use pocket doors and compact appliances, with custom cabinetry to maximize every available space."
+      }
+    }
+  ],
+  "description": "Incorporate pull-out tables, Murphy beds, vertical shelving, and loft areas. Use pocket doors and compact appliances, with custom cabinetry to maximize every av"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do Zen Tiny Homes shells meet building codes for tiny homes?",
-  "description": "Zen Tiny Homes shells meet industry standards; specific building codes vary by jurisdiction and use. Consult local planning departments for details.",
   "url": "www.zentinyhomes.com/faq/do-zen-tiny-homes-shells-meet-building-codes-for-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do Zen Tiny Homes shells meet building codes for tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes constructs shells to generally accepted industry standards for tiny homes on wheels. However, specific building codes for tiny homes can vary by jurisdiction and whether the home is intended for permanent placement or as an RV. We build to a quality standard that allows for various certifications, such as RVIA, if required for your specific intended use and location. We recommend consulting with your local planning department in areas like Vista or Oceanside to understand specific regulations that may apply to your finished tiny home.",
-        "description": "Zen Tiny Homes shells meet industry standards; specific building codes vary by jurisdiction and use. Consult local planning departments for details."
-      }
-    }
-  ],
+  "name": "Do Zen Tiny Homes shells meet building codes for tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do Zen Tiny Homes shells meet building codes for tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes constructs shells to generally accepted industry standards for tiny homes on wheels. However, specific building codes for tiny homes can vary by jurisdiction and whether the home is intended for permanent placement or as an RV. We build to a quality standard that allows for various certifications, such as RVIA, if required for your specific intended use and location. We recommend consulting with your local planning department in areas like Vista or Oceanside to understand specific regulations that may apply to your finished tiny home.",
+        "@type": "Answer",
+        "description": "Zen Tiny Homes shells meet industry standards; specific building codes vary by jurisdiction and use. Consult local planning departments for details."
+      }
+    }
+  ],
+  "description": "Zen Tiny Homes shells meet industry standards; specific building codes vary by jurisdiction and use. Consult local planning departments for details."
 }

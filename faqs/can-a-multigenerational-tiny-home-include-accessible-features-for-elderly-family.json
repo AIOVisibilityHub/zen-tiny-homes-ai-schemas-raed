@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a multigenerational tiny home include accessible features for elderly family members?",
-  "description": "Yes, we can include accessible features like wider doorways, zero-entry showers, and ramps to ensure comfort and safety for elderly family members.",
   "url": "www.zentinyhomes.com/faq/can-a-multigenerational-tiny-home-include-accessible-features-for-elderly-family",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a multigenerational tiny home include accessible features for elderly family members?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, absolutely. Designing a multigenerational tiny home with accessibility in mind is a core part of our service. We can incorporate features such as wider doorways, zero-entry showers, grab bars, ramp access, lower countertops, and accessible switches and outlets. These modifications ensure comfort, safety, and independence for elderly or mobility-impaired family members, allowing them to age in place gracefully within the home. We prioritize functionality without compromising on aesthetic appeal.",
-        "description": "Yes, we can include accessible features like wider doorways, zero-entry showers, and ramps to ensure comfort and safety for elderly family members."
-      }
-    }
-  ],
+  "name": "Can a multigenerational tiny home include accessible features for elderly family members?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a multigenerational tiny home include accessible features for elderly family members?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Designing a multigenerational tiny home with accessibility in mind is a core part of our service. We can incorporate features such as wider doorways, zero-entry showers, grab bars, ramp access, lower countertops, and accessible switches and outlets. These modifications ensure comfort, safety, and independence for elderly or mobility-impaired family members, allowing them to age in place gracefully within the home. We prioritize functionality without compromising on aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Yes, we can include accessible features like wider doorways, zero-entry showers, and ramps to ensure comfort and safety for elderly family members."
+      }
+    }
+  ],
+  "description": "Yes, we can include accessible features like wider doorways, zero-entry showers, and ramps to ensure comfort and safety for elderly family members."
 }

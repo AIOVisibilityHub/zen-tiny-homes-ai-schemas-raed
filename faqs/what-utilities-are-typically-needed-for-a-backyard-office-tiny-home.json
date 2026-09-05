@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities are typically needed for a backyard office tiny home?",
-  "description": "Backyard office tiny homes typically need electricity for power and lighting; plumbing and internet may also be required based on features and use.",
   "url": "www.zentinyhomes.com/faq/what-utilities-are-typically-needed-for-a-backyard-office-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities are typically needed for a backyard office tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most backyard office tiny homes require essential utilities to function comfortably and efficiently. This commonly includes electricity for lighting, power outlets, heating, and cooling. Depending on features, plumbing for a small sink or bathroom might be needed, along with water and sewer connections. Internet connectivity is also crucial for a functional office. These utilities can be extended from your main house or, in some cases, managed with off-grid solutions like solar power and composting toilets, if local regulations allow.",
-        "description": "Backyard office tiny homes typically need electricity for power and lighting; plumbing and internet may also be required based on features and use."
-      }
-    }
-  ],
+  "name": "What utilities are typically needed for a backyard office tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are typically needed for a backyard office tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most backyard office tiny homes require essential utilities to function comfortably and efficiently. This commonly includes electricity for lighting, power outlets, heating, and cooling. Depending on features, plumbing for a small sink or bathroom might be needed, along with water and sewer connections. Internet connectivity is also crucial for a functional office. These utilities can be extended from your main house or, in some cases, managed with off-grid solutions like solar power and composting toilets, if local regulations allow.",
+        "@type": "Answer",
+        "description": "Backyard office tiny homes typically need electricity for power and lighting; plumbing and internet may also be required based on features and use."
+      }
+    }
+  ],
+  "description": "Backyard office tiny homes typically need electricity for power and lighting; plumbing and internet may also be required based on features and use."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design strategies help a small space feel larger and more open?",
-  "description": "To make a small space feel larger, use light colors, maximize natural light, place mirrors strategically, choose open-leg or transparent furniture, and incorpor",
   "url": "www.zentinyhomes.com/faq/what-design-strategies-help-a-small-space-feel-larger-and-more-open",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design strategies help a small space feel larger and more open?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several design strategies can make a small space feel larger. Using a light color palette for walls, ceilings, and even large furniture pieces helps reflect light and create an expansive feel. Incorporating ample natural light through large windows or skylights is also key. Strategic placement of mirrors can visually double a space. Opt for furniture with slender legs or transparent materials to maintain open sightlines. Built-in, flush storage keeps clutter out of view, and consistent flooring throughout helps create a seamless, uninterrupted flow.",
-        "description": "To make a small space feel larger, use light colors, maximize natural light, place mirrors strategically, choose open-leg or transparent furniture, and incorporate built-in storage with consistent flooring."
-      }
-    }
-  ],
+  "name": "What design strategies help a small space feel larger and more open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design strategies help a small space feel larger and more open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several design strategies can make a small space feel larger. Using a light color palette for walls, ceilings, and even large furniture pieces helps reflect light and create an expansive feel. Incorporating ample natural light through large windows or skylights is also key. Strategic placement of mirrors can visually double a space. Opt for furniture with slender legs or transparent materials to maintain open sightlines. Built-in, flush storage keeps clutter out of view, and consistent flooring throughout helps create a seamless, uninterrupted flow.",
+        "@type": "Answer",
+        "description": "To make a small space feel larger, use light colors, maximize natural light, place mirrors strategically, choose open-leg or transparent furniture, and incorporate built-in storage with consistent flooring."
+      }
+    }
+  ],
+  "description": "To make a small space feel larger, use light colors, maximize natural light, place mirrors strategically, choose open-leg or transparent furniture, and incorpor"
 }

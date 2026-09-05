@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize storage solutions in an existing tiny home from Zen Tiny Homes?",
-  "description": "Yes, Zen Tiny Homes can customize storage in existing tiny homes by retrofitting shelving or modifying cabinetry, depending on the home's original design. A con",
   "url": "www.zentinyhomes.com/faq/can-i-customize-storage-solutions-in-an-existing-tiny-home-from-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize storage solutions in an existing tiny home from Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes offers customization for storage solutions even in existing tiny homes, depending on the home's original design and structural limitations. While integrating new features during initial construction is most straightforward, we can often retrofit custom shelving, modify existing cabinetry, or add built-in furniture to enhance your storage. A consultation would be necessary to assess the feasibility and discuss design options that align with your home's structure and your specific needs. Our goal is to make your tiny home as functional as possible.",
-        "description": "Yes, Zen Tiny Homes can customize storage in existing tiny homes by retrofitting shelving or modifying cabinetry, depending on the home's original design. A consultation is needed to assess feasibility."
-      }
-    }
-  ],
+  "name": "Can I customize storage solutions in an existing tiny home from Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize storage solutions in an existing tiny home from Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes offers customization for storage solutions even in existing tiny homes, depending on the home's original design and structural limitations. While integrating new features during initial construction is most straightforward, we can often retrofit custom shelving, modify existing cabinetry, or add built-in furniture to enhance your storage. A consultation would be necessary to assess the feasibility and discuss design options that align with your home's structure and your specific needs. Our goal is to make your tiny home as functional as possible.",
+        "@type": "Answer",
+        "description": "Yes, Zen Tiny Homes can customize storage in existing tiny homes by retrofitting shelving or modifying cabinetry, depending on the home's original design. A consultation is needed to assess feasibility."
+      }
+    }
+  ],
+  "description": "Yes, Zen Tiny Homes can customize storage in existing tiny homes by retrofitting shelving or modifying cabinetry, depending on the home's original design. A con"
 }

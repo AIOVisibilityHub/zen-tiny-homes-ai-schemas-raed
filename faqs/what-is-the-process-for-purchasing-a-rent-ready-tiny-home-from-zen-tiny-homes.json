@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for purchasing a rent-ready tiny home from Zen Tiny Homes?",
-  "description": "The process involves consultation, quote, agreement, off-site construction, site prep, delivery, installation, utility connection, and final inspection.",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-purchasing-a-rent-ready-tiny-home-from-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for purchasing a rent-ready tiny home from Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins with an initial consultation to discuss your needs, budget, and property specifics. Next, we provide a detailed quote and design proposal. Once approved, a purchase agreement is signed, and we commence off-site construction. During this period, you prepare your site. Upon completion, the home is transported and installed, followed by utility connections and final inspections. We guide you through each step, ensuring a clear and efficient journey to owning your rent-ready tiny home.",
-        "description": "The process involves consultation, quote, agreement, off-site construction, site prep, delivery, installation, utility connection, and final inspection."
-      }
-    }
-  ],
+  "name": "What is the process for purchasing a rent-ready tiny home from Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for purchasing a rent-ready tiny home from Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your needs, budget, and property specifics. Next, we provide a detailed quote and design proposal. Once approved, a purchase agreement is signed, and we commence off-site construction. During this period, you prepare your site. Upon completion, the home is transported and installed, followed by utility connections and final inspections. We guide you through each step, ensuring a clear and efficient journey to owning your rent-ready tiny home.",
+        "@type": "Answer",
+        "description": "The process involves consultation, quote, agreement, off-site construction, site prep, delivery, installation, utility connection, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, quote, agreement, off-site construction, site prep, delivery, installation, utility connection, and final inspection."
 }

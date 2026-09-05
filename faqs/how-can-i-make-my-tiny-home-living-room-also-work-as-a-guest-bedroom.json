@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I make my tiny home living room also work as a guest bedroom?",
-  "description": "Use convertible furniture like a sofa bed or murphy bed. Incorporate smart storage for bedding and consider room dividers for privacy.",
   "url": "www.zentinyhomes.com/faq/how-can-i-make-my-tiny-home-living-room-also-work-as-a-guest-bedroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I make my tiny home living room also work as a guest bedroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To make your tiny home living room function as a guest bedroom, focus on convertible furniture and clever storage. A high-quality sofa bed or a wall-mounted murphy bed are excellent choices, as they provide comfortable sleeping without permanently occupying floor space. Consider furniture on wheels that can be easily moved to clear the area. Built-in storage or ottomans with hidden compartments can store bedding. Ensure privacy can be achieved, perhaps with a room divider or heavy curtains, and consider dimmable lighting to create a more relaxed sleeping environment.",
-        "description": "Use convertible furniture like a sofa bed or murphy bed. Incorporate smart storage for bedding and consider room dividers for privacy."
-      }
-    }
-  ],
+  "name": "How can I make my tiny home living room also work as a guest bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my tiny home living room also work as a guest bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make your tiny home living room function as a guest bedroom, focus on convertible furniture and clever storage. A high-quality sofa bed or a wall-mounted murphy bed are excellent choices, as they provide comfortable sleeping without permanently occupying floor space. Consider furniture on wheels that can be easily moved to clear the area. Built-in storage or ottomans with hidden compartments can store bedding. Ensure privacy can be achieved, perhaps with a room divider or heavy curtains, and consider dimmable lighting to create a more relaxed sleeping environment.",
+        "@type": "Answer",
+        "description": "Use convertible furniture like a sofa bed or murphy bed. Incorporate smart storage for bedding and consider room dividers for privacy."
+      }
+    }
+  ],
+  "description": "Use convertible furniture like a sofa bed or murphy bed. Incorporate smart storage for bedding and consider room dividers for privacy."
 }

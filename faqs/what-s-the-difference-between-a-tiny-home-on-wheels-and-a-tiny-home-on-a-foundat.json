@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a tiny home on wheels and a tiny home on a foundation regarding zoning?",
-  "description": "Tiny homes on wheels are often classified as RVs, limiting permanent placement. Foundation tiny homes are treated as permanent structures or ADUs, subject to bu",
   "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-a-tiny-home-on-wheels-and-a-tiny-home-on-a-foundat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a tiny home on wheels and a tiny home on a foundation regarding zoning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The primary difference in zoning for tiny homes on wheels (THOWs) versus those on foundations lies in their classification. THOWs are often considered recreational vehicles (RVs) or park models, which typically face stricter limitations on permanent residency or placement outside of designated RV parks. Tiny homes on foundations are usually treated as permanent structures or Accessory Dwelling Units (ADUs), requiring adherence to local building codes and zoning ordinances for fixed dwellings. This distinction significantly impacts where and how each type can be legally installed.",
-        "description": "Tiny homes on wheels are often classified as RVs, limiting permanent placement. Foundation tiny homes are treated as permanent structures or ADUs, subject to building codes and standard zoning."
-      }
-    }
-  ],
+  "name": "What's the difference between a tiny home on wheels and a tiny home on a foundation regarding zoning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a tiny home on wheels and a tiny home on a foundation regarding zoning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference in zoning for tiny homes on wheels (THOWs) versus those on foundations lies in their classification. THOWs are often considered recreational vehicles (RVs) or park models, which typically face stricter limitations on permanent residency or placement outside of designated RV parks. Tiny homes on foundations are usually treated as permanent structures or Accessory Dwelling Units (ADUs), requiring adherence to local building codes and zoning ordinances for fixed dwellings. This distinction significantly impacts where and how each type can be legally installed.",
+        "@type": "Answer",
+        "description": "Tiny homes on wheels are often classified as RVs, limiting permanent placement. Foundation tiny homes are treated as permanent structures or ADUs, subject to building codes and standard zoning."
+      }
+    }
+  ],
+  "description": "Tiny homes on wheels are often classified as RVs, limiting permanent placement. Foundation tiny homes are treated as permanent structures or ADUs, subject to bu"
 }
