@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between placing a tiny home as an ADU versus an RV on my property?",
+  "description": "ADUs are permanent structures with strict building codes and permits, while RVs are vehicles with different rules for occupancy and duration. This classificatio",
+  "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-placing-a-tiny-home-as-an-adu-versus-an-rv-on-my-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between placing a tiny home as an ADU versus an RV on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The classification of a tiny home as an Accessory Dwelling Unit (ADU) or an RV significantly impacts placement rules. An ADU is a permanent structure subject to strict building codes, zoning, and permitting, often requiring permanent utility connections and property taxes. An RV, even if stationary, is typically considered a vehicle and may have different limitations on occupancy, duration of stay, and hookup requirements, often falling under different local ordinances. The primary difference lies in permanence and the applicable regulatory framework.",
+        "description": "ADUs are permanent structures with strict building codes and permits, while RVs are vehicles with different rules for occupancy and duration. This classification dictates placement regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the utility connection requirements for a landlord-ready tiny home?",
+  "description": "Landlord-ready tiny homes require full utility connections (water, sewer/septic, electricity, gas) to existing property lines, with permits and inspections.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-utility-connection-requirements-for-a-landlord-ready-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the utility connection requirements for a landlord-ready tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landlord-ready tiny homes need to be fully connected to essential utilities, similar to a traditional home. This includes water, sewer or septic, electricity, and potentially natural gas. Connections are typically made to existing utility lines on your property, with proper permits and inspections required. If existing infrastructure is insufficient, upgrades may be necessary. Our team coordinates with local utility providers to ensure all connections meet safety standards and local regulations.",
+        "description": "Landlord-ready tiny homes require full utility connections (water, sewer/septic, electricity, gas) to existing property lines, with permits and inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

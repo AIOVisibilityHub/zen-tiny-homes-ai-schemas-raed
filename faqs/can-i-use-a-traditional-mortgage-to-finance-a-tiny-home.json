@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use a traditional mortgage to finance a tiny home?",
+  "description": "No, traditional mortgages typically apply to homes on permanent foundations. Most tiny homes are considered personal property and require alternative financing.",
+  "url": "www.zentinyhomes.com/faq/can-i-use-a-traditional-mortgage-to-finance-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use a traditional mortgage to finance a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, traditional mortgages are not available for tiny homes. Mortgages are typically reserved for real property, meaning a home permanently affixed to land, with a foundation. Most tiny homes, especially those on wheels, are considered personal property. If your tiny home is built on a permanent foundation on land you own, it might qualify for a traditional mortgage, but this is less common and depends on local zoning and lender criteria. You will likely need to explore other loan types.",
+        "description": "No, traditional mortgages typically apply to homes on permanent foundations. Most tiny homes are considered personal property and require alternative financing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

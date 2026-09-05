@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right location for an aging-in-place tiny home?",
+  "description": "Consider proximity to family, healthcare, and services. Verify local zoning laws for tiny homes or ADUs, and assess the terrain for accessibility.",
+  "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-location-for-an-aging-in-place-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right location for an aging-in-place tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right location involves considering several factors beyond just the land itself. Proximity to family, healthcare providers, public transportation, and essential services like grocery stores and pharmacies is crucial. Assess the terrain for ease of access and potential for ramps or pathways. Verify local zoning regulations and HOA rules regarding tiny homes and accessory dwelling units (ADUs) in your desired area, such as Vista or Oceanside, as these can vary significantly and impact feasibility. Consider community amenities and personal preferences for privacy versus social interaction.",
+        "description": "Consider proximity to family, healthcare, and services. Verify local zoning laws for tiny homes or ADUs, and assess the terrain for accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

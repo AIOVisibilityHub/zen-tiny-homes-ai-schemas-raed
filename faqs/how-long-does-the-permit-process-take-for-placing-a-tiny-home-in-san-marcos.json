@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the permit process take for placing a tiny home in San Marcos?",
+  "description": "The permit process in San Marcos for a tiny home (ADU) can take a few weeks to several months, depending on application completeness and departmental workload.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-the-permit-process-take-for-placing-a-tiny-home-in-san-marcos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the permit process take for placing a tiny home in San Marcos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permit process for placing a tiny home in San Marcos can vary, but generally, it involves several stages: plan submission, review by various departments (planning, building, fire), revisions if needed, and final approval. For an Accessory Dwelling Unit (ADU), this can typically range from a few weeks to several months, depending on the completeness of your application, the complexity of your project, and the current workload of the city departments. We always recommend starting early and being thorough with documentation.",
+        "description": "The permit process in San Marcos for a tiny home (ADU) can take a few weeks to several months, depending on application completeness and departmental workload. Start early and be thorough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

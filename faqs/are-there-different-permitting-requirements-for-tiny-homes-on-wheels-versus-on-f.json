@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different permitting requirements for tiny homes on wheels versus on foundations?",
+  "description": "Yes, tiny homes on foundations generally require building and ADU permits as permanent structures. Tiny homes on wheels used for permanent occupancy may also ne",
+  "url": "www.zentinyhomes.com/faq/are-there-different-permitting-requirements-for-tiny-homes-on-wheels-versus-on-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different permitting requirements for tiny homes on wheels versus on foundations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are distinct permitting requirements. Tiny homes on foundations are typically treated as permanent structures and usually require standard building permits and often ADU permits, adhering to residential building codes. Tiny homes on wheels, when intended for permanent occupancy, may also fall under ADU regulations in many areas, necessitating similar permits if connected to utilities. However, if a tiny home on wheels is classified purely as a recreational vehicle (RV) and not a permanent dwelling, it typically follows RV regulations rather than housing permits. The key distinction is the intended use and permanence.",
+        "description": "Yes, tiny homes on foundations generally require building and ADU permits as permanent structures. Tiny homes on wheels used for permanent occupancy may also need ADU permits, but if classified as an RV, they follow RV regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

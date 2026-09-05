@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key differences between a standard tiny home and a landlord-ready model?",
+  "description": "A landlord-ready tiny home is built to meet all local codes for permanent rental units (like ADUs), unlike standard tiny homes that may not be for rental use.",
+  "url": "www.zentinyhomes.com/faq/what-are-the-key-differences-between-a-standard-tiny-home-and-a-landlord-ready-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key differences between a standard tiny home and a landlord-ready model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in their intended use and regulatory compliance. A standard tiny home might be designed for personal use, potentially on wheels or in less regulated areas, and may not meet all permanent dwelling requirements. A landlord-ready model is specifically built to meet all local building codes and zoning ordinances for permanent rental units, often as an Accessory Dwelling Unit (ADU). It focuses on features that enhance long-term rental income, tenant appeal, and durability for rental wear and tear.",
+        "description": "A landlord-ready tiny home is built to meet all local codes for permanent rental units (like ADUs), unlike standard tiny homes that may not be for rental use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

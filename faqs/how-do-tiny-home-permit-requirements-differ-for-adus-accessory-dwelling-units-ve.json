@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do tiny home permit requirements differ for ADUs (Accessory Dwelling Units) versus primary residences?",
+  "description": "Tiny home permit requirements for ADUs differ from primary residences, with ADUs often having size limits, specific placement rules, and sometimes streamlined p",
+  "url": "www.zentinyhomes.com/faq/how-do-tiny-home-permit-requirements-differ-for-adus-accessory-dwelling-units-ve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do tiny home permit requirements differ for ADUs (Accessory Dwelling Units) versus primary residences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tiny home permit requirements often differ significantly when categorized as an Accessory Dwelling Unit (ADU) compared to a primary residence. ADUs typically have specific size limitations, parking requirements, and often specific regulations regarding their placement on a property already containing a primary home. While both require adherence to building codes, ADU regulations are often designed to facilitate affordable housing and may have streamlined processes or different fee structures. Primary tiny home residences, conversely, must meet all standard single-family dwelling requirements, which can be more stringent in terms of size, lot coverage, and utility infrastructure.",
+        "description": "Tiny home permit requirements for ADUs differ from primary residences, with ADUs often having size limits, specific placement rules, and sometimes streamlined processes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

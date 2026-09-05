@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common foundation options for a tiny home placed on a property?",
+  "description": "Common tiny home foundations are concrete slab, pier and beam, or crawl space. The best choice depends on local codes, soil conditions, and whether you need to",
+  "url": "www.zentinyhomes.com/faq/what-are-the-common-foundation-options-for-a-tiny-home-placed-on-a-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common foundation options for a tiny home placed on a property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common foundation options for tiny homes placed on a property include concrete slab, pier and beam, or a crawl space. A concrete slab provides a solid, permanent base, ideal for stable, level ground. Pier and beam foundations elevate the tiny home, suitable for uneven terrain or flood-prone areas, allowing for utility access underneath. A crawl space offers similar benefits to pier and beam but provides more enclosed space beneath the structure. The choice depends on local building codes, soil conditions, and your budget.",
+        "description": "Common tiny home foundations are concrete slab, pier and beam, or crawl space. The best choice depends on local codes, soil conditions, and whether you need to elevate the home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can Zen Tiny Homes help with the permitting process?",
+  "description": "Zen Tiny Homes provides expertly designed plans, guides clients on documentation, and advises on site-specific needs to streamline the permitting process and en",
+  "url": "www.zentinyhomes.com/faq/how-can-zen-tiny-homes-help-with-the-permitting-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can Zen Tiny Homes help with the permitting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zen Tiny Homes can assist you throughout the complex permitting process by providing expertly designed plans that meet local building codes and ADU requirements. We can guide you on necessary documentation, help prepare your application package, and advise on site-specific considerations. While we do not issue permits ourselves, our expertise helps streamline the submission and review stages, minimizing potential delays and ensuring your project complies with all regulatory standards in your specific jurisdiction.",
+        "description": "Zen Tiny Homes provides expertly designed plans, guides clients on documentation, and advises on site-specific needs to streamline the permitting process and ensure compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

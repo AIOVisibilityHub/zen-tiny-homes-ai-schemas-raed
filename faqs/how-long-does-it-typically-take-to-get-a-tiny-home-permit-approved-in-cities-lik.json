@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to get a tiny home permit approved in cities like Oceanside or Carlsbad?",
+  "description": "Permit approval in cities like Oceanside or Carlsbad typically takes several weeks to a few months, depending on project complexity and departmental workload.",
+  "url": "www.zentinyhomes.com/faq/how-long-does-it-typically-take-to-get-a-tiny-home-permit-approved-in-cities-lik",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to get a tiny home permit approved in cities like Oceanside or Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The approval timeline for a tiny home permit can vary significantly based on the complexity of your project, completeness of your submission, and the current workload of the local building department. In cities like Oceanside or Carlsbad, a typical review period can range from several weeks to a few months. Factors such as the need for multiple revisions, additional departmental reviews (e.g., environmental, fire), or public hearings can extend this timeframe. It's advisable to factor in potential delays and begin the permit process well in advance of your desired construction start date.",
+        "description": "Permit approval in cities like Oceanside or Carlsbad typically takes several weeks to a few months, depending on project complexity and departmental workload."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

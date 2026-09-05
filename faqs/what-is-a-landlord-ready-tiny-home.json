@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a landlord-ready tiny home?",
+  "description": "A landlord-ready tiny home is designed and built for rental income, featuring essential amenities and compliance with rental property codes.",
+  "url": "www.zentinyhomes.com/faq/what-is-a-landlord-ready-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a landlord-ready tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A landlord-ready tiny home is designed and constructed specifically for rental income generation. These units typically include essential amenities and features that make them suitable for immediate occupancy by tenants, such as full kitchens, bathrooms, and sleeping areas. They are built to meet local building codes and zoning requirements for rental properties, ensuring they are legally compliant and ready for the rental market. Our landlord-ready tiny homes focus on durability and low maintenance for long-term rental viability.",
+        "description": "A landlord-ready tiny home is designed and built for rental income, featuring essential amenities and compliance with rental property codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

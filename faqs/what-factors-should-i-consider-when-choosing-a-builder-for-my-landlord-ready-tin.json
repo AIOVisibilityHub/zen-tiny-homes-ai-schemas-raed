@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a builder for my landlord-ready tiny home?",
+  "description": "Choose a builder with ADU experience, local code knowledge, strong portfolio, client testimonials, comprehensive services, and clear communication for your tiny",
+  "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-landlord-ready-tin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a builder for my landlord-ready tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a builder, prioritize experience with ADUs and local building codes in San Diego County. Look for a firm with a strong portfolio of completed projects, positive client testimonials, and a clear understanding of the specific requirements for rental properties. Ensure they offer comprehensive services, from design and permitting assistance to construction and final inspection. A builder who communicates clearly and provides transparent pricing and timelines will ensure a smoother project.",
+        "description": "Choose a builder with ADU experience, local code knowledge, strong portfolio, client testimonials, comprehensive services, and clear communication for your tiny home project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

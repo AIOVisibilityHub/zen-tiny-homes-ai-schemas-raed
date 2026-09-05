@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do permits and regulations add to the cost in San Diego County?",
+  "description": "Permit costs and regulatory compliance in San Diego County vary by city and tiny home type, adding to the overall cost. These can include planning, building, an",
+  "url": "www.zentinyhomes.com/faq/how-much-do-permits-and-regulations-add-to-the-cost-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do permits and regulations add to the cost in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit costs and regulatory compliance can add a significant amount to a tiny home project in San Diego County, varying by specific city and type of tiny home. Fees can include planning, building, electrical, plumbing, and mechanical permits. Additionally, impact fees for new construction or accessory dwelling units (ADUs) can apply. Local zoning ordinances and building codes dictate requirements for foundations, setbacks, and utility connections, potentially increasing construction costs. It's essential to consult with your local planning department early in the process.",
+        "description": "Permit costs and regulatory compliance in San Diego County vary by city and tiny home type, adding to the overall cost. These can include planning, building, and impact fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

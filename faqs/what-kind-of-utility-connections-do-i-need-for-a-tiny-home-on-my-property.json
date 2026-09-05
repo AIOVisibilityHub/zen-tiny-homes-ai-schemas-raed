@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of utility connections do I need for a tiny home on my property?",
+  "description": "Utility connections for a tiny home typically include electricity, water, and sewage. Options range from municipal hookups to off-grid solutions like solar or s",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-utility-connections-do-i-need-for-a-tiny-home-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of utility connections do I need for a tiny home on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a fully functional tiny home, you'll typically need connections for electricity, water, and sewage. Electricity can be supplied via a standard hookup to the main grid, a dedicated sub-panel, or off-grid solutions like solar. Water can come from a municipal supply, a well, or a potable water storage tank. For sewage, options include connecting to a municipal sewer system, a septic tank, or composting toilets. The feasibility and cost of these connections depend on your property's existing infrastructure and local regulations.",
+        "description": "Utility connections for a tiny home typically include electricity, water, and sewage. Options range from municipal hookups to off-grid solutions like solar or septic systems, depending on your property and local rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

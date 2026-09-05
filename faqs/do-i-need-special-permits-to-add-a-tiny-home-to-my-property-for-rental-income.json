@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special permits to add a tiny home to my property for rental income?",
+  "description": "Yes, rental tiny homes (ADUs/JADUs) require specific permits for zoning, building plans, and utility connections. We can help with this process.",
+  "url": "www.zentinyhomes.com/faq/do-i-need-special-permits-to-add-a-tiny-home-to-my-property-for-rental-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special permits to add a tiny home to my property for rental income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, adding a tiny home for rental income almost always requires specific permits. These are typically associated with Accessory Dwelling Units (ADUs) or Junior Accessory Dwelling Units (JADUs), depending on the size and connection to the primary residence. The permitting process involves zoning review, building plan approval, and utility connection permits. We assist clients in navigating these requirements by providing necessary documentation and working with local authorities in your area to streamline the process.",
+        "description": "Yes, rental tiny homes (ADUs/JADUs) require specific permits for zoning, building plans, and utility connections. We can help with this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

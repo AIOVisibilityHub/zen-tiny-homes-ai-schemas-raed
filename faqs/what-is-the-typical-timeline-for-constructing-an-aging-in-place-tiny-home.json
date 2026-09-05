@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for constructing an aging-in-place tiny home?",
+  "description": "Construction usually takes 4 to 8 months, depending on design complexity, custom features, material availability, and local permitting processes.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-an-aging-in-place-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for constructing an aging-in-place tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction timeline for an aging-in-place tiny home typically ranges from 4 to 8 months, starting from the design finalization to move-in readiness. This duration can be influenced by factors such as the complexity of the design, the selection of custom accessibility features, material availability, and the permitting process in your specific city (e.g., San Marcos or Escondido). We work diligently to keep projects on schedule while ensuring quality and adherence to all safety and accessibility standards.",
+        "description": "Construction usually takes 4 to 8 months, depending on design complexity, custom features, material availability, and local permitting processes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

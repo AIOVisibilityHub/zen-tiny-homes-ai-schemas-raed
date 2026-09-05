@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an aging-in-place tiny home cost to build in the San Diego area?",
+  "description": "Costs for an aging-in-place tiny home in the San Diego area range from $150,000 to over $300,000, depending on size, features, and site preparation.",
+  "url": "www.zentinyhomes.com/faq/how-much-does-an-aging-in-place-tiny-home-cost-to-build-in-the-san-diego-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an aging-in-place tiny home cost to build in the San Diego area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an aging-in-place tiny home in the San Diego area, including cities like Vista, Oceanside, and Carlsbad, varies significantly based on size, custom features, material selections, and site preparation. Generally, a custom-designed aging-in-place tiny home can range from $150,000 to over $300,000, not including land costs. Specific accessibility features like walk-in showers, ramps, specialized fixtures, and smart home technology can influence the final price. We provide detailed estimates after an initial consultation to understand your specific needs and preferences.",
+        "description": "Costs for an aging-in-place tiny home in the San Diego area range from $150,000 to over $300,000, depending on size, features, and site preparation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

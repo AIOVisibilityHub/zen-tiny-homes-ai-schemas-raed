@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an aging-in-place tiny home and how does it differ from a standard tiny home?",
+  "description": "An aging-in-place tiny home incorporates universal design features like wider doorways, zero-threshold entries, and accessible bathrooms to allow individuals to",
+  "url": "www.zentinyhomes.com/faq/what-is-an-aging-in-place-tiny-home-and-how-does-it-differ-from-a-standard-tiny",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an aging-in-place tiny home and how does it differ from a standard tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aging-in-place tiny home is designed with specific features to support individuals as they age, allowing them to live independently and safely in their own home for longer. Key differences from standard tiny homes include universal design elements such as wider doorways, zero-threshold entries, grab bars in bathrooms, reinforced walls for future grab bar installation, accessible showers, and strategically placed outlets and light switches. These homes prioritize safety, ease of use, and adaptability, ensuring comfort and accessibility as physical needs may change over time.",
+        "description": "An aging-in-place tiny home incorporates universal design features like wider doorways, zero-threshold entries, and accessible bathrooms to allow individuals to live independently and safely as they age."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

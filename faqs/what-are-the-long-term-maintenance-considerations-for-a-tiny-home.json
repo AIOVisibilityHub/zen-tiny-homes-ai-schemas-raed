@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the long-term maintenance considerations for a tiny home?",
+  "description": "Long-term tiny home maintenance involves routine checks of exterior weatherproofing, utilities, HVAC, and the roof. For wheeled homes, tire and axle maintenance",
+  "url": "www.zentinyhomes.com/faq/what-are-the-long-term-maintenance-considerations-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the long-term maintenance considerations for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term maintenance for a tiny home is similar to a conventional house but on a smaller scale. Key considerations include routine checks of the exterior for weatherproofing, inspecting utility connections (plumbing, electrical), maintaining heating and cooling systems, and periodic roof inspections. If your tiny home is on wheels, tire and axle maintenance is also essential. Regular upkeep ensures longevity and helps prevent costly repairs. Zen Tiny Homes can advise on specific maintenance needs for your chosen model.",
+        "description": "Long-term tiny home maintenance involves routine checks of exterior weatherproofing, utilities, HVAC, and the roof. For wheeled homes, tire and axle maintenance is also crucial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

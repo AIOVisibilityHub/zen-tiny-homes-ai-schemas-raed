@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I place a tiny home on a sloped property?",
+  "description": "Yes, a tiny home can be placed on a sloped property, but it may require specialized foundations like retaining walls or pier and beam, and robust drainage solut",
+  "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-a-sloped-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I place a tiny home on a sloped property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Placing a tiny home on a sloped property is possible, but it often requires additional considerations and potential costs. You may need to invest in a more robust foundation, such as a concrete pad with retaining walls or pier and beam foundations, to ensure stability and proper leveling. Drainage is also a critical factor; proper grading and water management systems will be necessary to prevent erosion and water damage. An experienced site assessor can help determine the best approach and identify any challenges.",
+        "description": "Yes, a tiny home can be placed on a sloped property, but it may require specialized foundations like retaining walls or pier and beam, and robust drainage solutions. Site assessment is crucial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

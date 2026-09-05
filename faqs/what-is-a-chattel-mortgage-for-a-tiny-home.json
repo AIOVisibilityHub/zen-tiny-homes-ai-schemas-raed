@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a chattel mortgage for a tiny home?",
+  "description": "A chattel mortgage is a loan secured by a tiny home considered movable personal property. It uses the home as collateral and offers fixed terms, separate from r",
+  "url": "www.zentinyhomes.com/faq/what-is-a-chattel-mortgage-for-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a chattel mortgage for a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chattel mortgage is a loan secured by movable personal property, which is what many tiny homes are classified as. Unlike a traditional mortgage tied to real estate, a chattel mortgage uses the tiny home itself as collateral. This can be a viable option for tiny homes that are not considered RVs but are still movable or not permanently affixed to a foundation. These loans typically have fixed interest rates and terms, making them predictable for budgeting. Approval depends on the home's value and the borrower's credit.",
+        "description": "A chattel mortgage is a loan secured by a tiny home considered movable personal property. It uses the home as collateral and offers fixed terms, separate from real estate mortgages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I place a tiny home on a property without a permanent foundation?",
+  "description": "Placing a tiny home without a permanent foundation depends on local zoning and building codes, which classify them differently (e.g., RVs) and set specific rest",
+  "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-on-a-property-without-a-permanent-foundation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I place a tiny home on a property without a permanent foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you can place a tiny home without a permanent foundation depends entirely on local zoning ordinances and building codes. Some jurisdictions classify tiny homes on wheels as Recreational Vehicles (RVs) and allow them in designated RV parks or as accessory dwelling units (ADUs) with specific restrictions on duration and hookups. Other areas may require all tiny homes, regardless of wheels, to be affixed to a permanent foundation to be considered a legal dwelling. Always verify the specific regulations in your city or county before making plans, as requirements vary significantly.",
+        "description": "Placing a tiny home without a permanent foundation depends on local zoning and building codes, which classify them differently (e.g., RVs) and set specific restrictions or requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

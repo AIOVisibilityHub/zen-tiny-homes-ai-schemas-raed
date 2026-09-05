@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get a tiny home permit for my backyard in Oceanside?",
+  "description": "Yes, Oceanside allows tiny homes as ADUs in most residential zones, subject to city regulations. An ADU permit is required, considering factors like lot size, s",
+  "url": "www.zentinyhomes.com/faq/can-i-get-a-tiny-home-permit-for-my-backyard-in-oceanside",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a tiny home permit for my backyard in Oceanside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Oceanside allows tiny homes as Accessory Dwelling Units (ADUs) in most residential zones, subject to specific city regulations. You would need to apply for an ADU permit. Key requirements often include minimum lot size, setbacks from property lines, parking provisions, and ensuring the tiny home meets building code standards. It's essential to review the City of Oceanside's specific ADU ordinance and zoning codes, as these details can influence placement and size constraints for your tiny home.",
+        "description": "Yes, Oceanside allows tiny homes as ADUs in most residential zones, subject to city regulations. An ADU permit is required, considering factors like lot size, setbacks, and parking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to place a tiny home on my land in Carlsbad?",
+  "description": "Yes, in Carlsbad, permits are generally required for tiny homes, often under ADU regulations. Contact the City of Carlsbad Planning Department for specific requ",
+  "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-place-a-tiny-home-on-my-land-in-carlsbad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to place a tiny home on my land in Carlsbad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in Carlsbad, you will generally need permits to place a tiny home on your land, especially if it's intended for long-term residency or connection to utilities. The city's regulations for accessory dwelling units (ADUs) or junior accessory dwelling units (JADUs) typically apply to tiny homes. These permits ensure compliance with local zoning, building, and safety codes. We recommend contacting the City of Carlsbad Planning Department to understand the specific permit requirements for your property and project type, as requirements can evolve.",
+        "description": "Yes, in Carlsbad, permits are generally required for tiny homes, often under ADU regulations. Contact the City of Carlsbad Planning Department for specific requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

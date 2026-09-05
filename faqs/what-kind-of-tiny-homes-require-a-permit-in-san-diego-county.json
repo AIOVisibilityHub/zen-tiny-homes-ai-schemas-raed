@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of tiny homes require a permit in San Diego County?",
+  "description": "Tiny homes considered permanent structures or Accessory Dwelling Units (ADUs) in San Diego County generally require permits. This includes most tiny homes on fo",
+  "url": "www.zentinyhomes.com/faq/what-kind-of-tiny-homes-require-a-permit-in-san-diego-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of tiny homes require a permit in San Diego County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego County, permits are typically required for tiny homes considered permanent structures or Accessory Dwelling Units (ADUs). This includes tiny homes on foundations or those connected to utilities as a permanent residence. Tiny homes on wheels, if used as a primary dwelling and not just recreational vehicles, may also require ADU permits depending on specific local ordinances. It's important to differentiate between an RV and a tiny home built to residential code when seeking permits.",
+        "description": "Tiny homes considered permanent structures or Accessory Dwelling Units (ADUs) in San Diego County generally require permits. This includes most tiny homes on foundations or used as primary dwellings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

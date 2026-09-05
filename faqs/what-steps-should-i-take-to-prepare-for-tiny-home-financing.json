@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps should I take to prepare for tiny home financing?",
+  "description": "Prepare for tiny home financing by budgeting, improving your credit, researching loan types, gathering financial documents, and seeking pre-approval from a lend",
+  "url": "www.zentinyhomes.com/faq/what-steps-should-i-take-to-prepare-for-tiny-home-financing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps should I take to prepare for tiny home financing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for tiny home financing, start by assessing your budget and determining how much you can comfortably afford. Next, check and improve your credit score if necessary. Research different loan types (RV, chattel, personal) to understand which might suit your tiny home type. Gather financial documents such as income statements, tax returns, and bank statements. Finally, get pre-approved by a lender; this provides a clear picture of your borrowing power and streamlines the purchasing process when you find your ideal tiny home.",
+        "description": "Prepare for tiny home financing by budgeting, improving your credit, researching loan types, gathering financial documents, and seeking pre-approval from a lender."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

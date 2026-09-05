@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there hidden costs associated with building a tiny home?",
+  "description": "Potential hidden costs include site preparation, utility hookups, transportation, foundation work, and various local permit and property fees.",
+  "url": "www.zentinyhomes.com/faq/are-there-hidden-costs-associated-with-building-a-tiny-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there hidden costs associated with building a tiny home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we strive for transparency, some costs might not be immediately obvious. Potential 'hidden' costs include site preparation (clearing land, grading), utility hookups (water, sewer/septic, electricity, internet), transportation for a tiny home on wheels to its final location, and foundation work for a permanent structure. Permit fees, impact fees, and property taxes, which vary by location, are also important considerations. It's crucial to discuss all potential expenses with your builder to get a comprehensive understanding.",
+        "description": "Potential hidden costs include site preparation, utility hookups, transportation, foundation work, and various local permit and property fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe for a tiny home construction project?",
+  "description": "Professional tiny home construction typically takes 8-16 weeks, not including planning, permitting, or site preparation. DIY projects take longer.",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeframe-for-a-tiny-home-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe for a tiny home construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical timeframe for a tiny home construction project varies. A custom-built tiny home by a professional builder can take anywhere from 8 to 16 weeks, depending on the complexity of the design, material availability, and the builder's schedule. This estimate usually covers the construction phase from start to finish. However, this does not include the initial planning, permitting process, or site preparation, which can add several more weeks or even months to the overall timeline. DIY projects often take much longer, sometimes up to a year or more.",
+        "description": "Professional tiny home construction typically takes 8-16 weeks, not including planning, permitting, or site preparation. DIY projects take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

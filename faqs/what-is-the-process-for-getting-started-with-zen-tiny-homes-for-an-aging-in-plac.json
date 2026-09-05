@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting started with Zen Tiny Homes for an aging-in-place project?",
+  "description": "The process starts with a consultation, followed by site assessment, custom design development, permitting, and then construction, with continuous communication",
+  "url": "www.zentinyhomes.com/faq/what-is-the-process-for-getting-started-with-zen-tiny-homes-for-an-aging-in-plac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting started with Zen Tiny Homes for an aging-in-place project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation where we discuss your vision, specific needs, budget, and desired location. Following this, we conduct a site assessment to evaluate feasibility and discuss zoning requirements. Next, our design team develops custom plans incorporating essential aging-in-place features and your personal preferences. Once the design is approved, we handle permitting applications and then proceed with construction. Throughout the entire project, we maintain open communication, providing regular updates until your new aging-in-place tiny home is ready for you to enjoy.",
+        "description": "The process starts with a consultation, followed by site assessment, custom design development, permitting, and then construction, with continuous communication throughout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

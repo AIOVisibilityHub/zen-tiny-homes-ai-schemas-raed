@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range to build and install a tiny home on a property?",
+  "description": "Costs for building and installing a tiny home typically range from $60,000 to over $150,000, varying with size, design, materials, and site work. This includes",
+  "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-range-to-build-and-install-a-tiny-home-on-a-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range to build and install a tiny home on a property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical cost to build and install a tiny home can range widely, generally from $60,000 to over $150,000, depending on size, design complexity, materials, and features. This estimate usually includes the structure itself, but additional costs like site preparation, utility hookups, permitting fees, and landscaping also factor into the total project budget. Zen Tiny Homes provides transparent pricing based on your chosen design and property-specific requirements.",
+        "description": "Costs for building and installing a tiny home typically range from $60,000 to over $150,000, varying with size, design, materials, and site work. This includes the structure, plus additional site and permit costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
