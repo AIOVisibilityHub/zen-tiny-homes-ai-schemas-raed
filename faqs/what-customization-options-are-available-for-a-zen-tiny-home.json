@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What customization options are available for a Zen Tiny Home?",
-  "description": "Zen Tiny Homes offers extensive customization for interior layouts, finishes, appliance packages, and exterior materials to personalize your tiny home.",
+  "description": "Customization options include interior layouts, finishes, appliances, bathroom fixtures, and smart home technology integration.",
   "url": "www.zentinyhomes.com/faq/what-customization-options-are-available-for-a-zen-tiny-home",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What customization options are available for a Zen Tiny Home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Zen Tiny Homes offers a wide range of customization options to make your tiny home uniquely yours. This includes choices for interior layouts, finishes such as flooring, cabinetry, and countertops, and exterior siding materials and colors. You can also select specific appliance packages, bathroom configurations, and smart home technology integrations. Our design team works with you to incorporate personal preferences and functional needs into your tiny home's design, ensuring it reflects your lifestyle and maximizes space efficiency.",
-        "description": "Zen Tiny Homes offers extensive customization for interior layouts, finishes, appliance packages, and exterior materials to personalize your tiny home."
+        "text": "Zen Tiny Homes offers a range of customization options to tailor your tiny home to your lifestyle. This includes choices for interior layouts, finishes such as flooring, cabinetry, and countertops, and exterior siding materials. We also offer upgrades for appliances, bathroom fixtures, and smart home technology integration. Our team works with you to design a space that meets your specific needs, from maximizing storage to incorporating specific aesthetic preferences. The initial consultation helps define your vision and explore feasible options.",
+        "description": "Customization options include interior layouts, finishes, appliances, bathroom fixtures, and smart home technology integration."
       }
     }
   ],

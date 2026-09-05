@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for a tiny home on a permanent foundation in Escondido?",
-  "description": "A tiny home on a permanent foundation in Escondido requires building, structural, electrical, plumbing, mechanical, and potentially other site-specific permits,",
   "url": "www.zentinyhomes.com/faq/what-permits-are-required-for-a-tiny-home-on-a-permanent-foundation-in-escondido",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for a tiny home on a permanent foundation in Escondido?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a tiny home on a permanent foundation in Escondido, you will typically need several permits, similar to a traditional residential construction project. This includes a building permit, which encompasses structural, electrical, plumbing, and mechanical permits. Additionally, depending on the site, you may need grading permits, encroachment permits, or utility connection permits. All designs must comply with the City of Escondido's zoning ordinances and the California Residential Code. We can assist you in navigating the permit application process and ensuring your design meets all local requirements.",
-        "description": "A tiny home on a permanent foundation in Escondido requires building, structural, electrical, plumbing, mechanical, and potentially other site-specific permits, adhering to local codes."
-      }
-    }
-  ],
+  "name": "What permits are required for a tiny home on a permanent foundation in Escondido?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a tiny home on a permanent foundation in Escondido?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a tiny home on a permanent foundation in Escondido, you will typically need several permits, similar to a traditional residential construction project. This includes a building permit, which encompasses structural, electrical, plumbing, and mechanical permits. Additionally, depending on the site, you may need grading permits, encroachment permits, or utility connection permits. All designs must comply with the City of Escondido's zoning ordinances and the California Residential Code. We can assist you in navigating the permit application process and ensuring your design meets all local requirements.",
+        "@type": "Answer",
+        "description": "A tiny home on a permanent foundation in Escondido requires building, structural, electrical, plumbing, mechanical, and potentially other site-specific permits, adhering to local codes."
+      }
+    }
+  ],
+  "description": "A tiny home on a permanent foundation in Escondido requires building, structural, electrical, plumbing, mechanical, and potentially other site-specific permits,"
 }

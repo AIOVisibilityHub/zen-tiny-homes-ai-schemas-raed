@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of permits are needed for a tiny home in San Marcos?",
-  "description": "Permit needs for tiny homes in San Marcos vary. Foundation homes typically require ADU permits, while tiny homes on wheels may have different regulations. We he",
   "url": "www.zentinyhomes.com/faq/what-kind-of-permits-are-needed-for-a-tiny-home-in-san-marcos",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of permits are needed for a tiny home in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for tiny homes in San Marcos depend on whether it's on a foundation or wheels. For a tiny home on a foundation, it will likely be considered an Accessory Dwelling Unit (ADU) and require building permits, zoning clearance, and adherence to San Marcos' specific ADU ordinances regarding size, setbacks, and utility connections. Tiny homes on wheels, if parked permanently, may fall under RV regulations or require special permitting. We assist clients in understanding and applying for the necessary permits in San Marcos.",
-        "description": "Permit needs for tiny homes in San Marcos vary. Foundation homes typically require ADU permits, while tiny homes on wheels may have different regulations. We help with this."
-      }
-    }
-  ],
+  "name": "What kind of permits are needed for a tiny home in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are needed for a tiny home in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for tiny homes in San Marcos depend on whether it's on a foundation or wheels. For a tiny home on a foundation, it will likely be considered an Accessory Dwelling Unit (ADU) and require building permits, zoning clearance, and adherence to San Marcos' specific ADU ordinances regarding size, setbacks, and utility connections. Tiny homes on wheels, if parked permanently, may fall under RV regulations or require special permitting. We assist clients in understanding and applying for the necessary permits in San Marcos.",
+        "@type": "Answer",
+        "description": "Permit needs for tiny homes in San Marcos vary. Foundation homes typically require ADU permits, while tiny homes on wheels may have different regulations. We help with this."
+      }
+    }
+  ],
+  "description": "Permit needs for tiny homes in San Marcos vary. Foundation homes typically require ADU permits, while tiny homes on wheels may have different regulations. We he"
 }

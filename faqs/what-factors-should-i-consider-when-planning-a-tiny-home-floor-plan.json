@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when planning a tiny home floor plan?",
-  "description": "Consider daily routine, number of occupants, essential functions, storage, cooking/bathing needs, lofts, natural light, ventilation, climate, and future lifesty",
   "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-planning-a-tiny-home-floor-plan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when planning a tiny home floor plan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When planning your tiny home floor plan, consider your daily routine, how many people will live there, and what essential functions you need the space to support. Think about your storage needs, preferred cooking and bathing setups, and if you require dedicated areas for work or hobbies. Evaluate your comfort with vertical spaces like lofts and the importance of natural light and ventilation. Also, consider the specific climate of your location and any future needs or potential changes in your lifestyle that might impact the longevity of the design.",
-        "description": "Consider daily routine, number of occupants, essential functions, storage, cooking/bathing needs, lofts, natural light, ventilation, climate, and future lifestyle changes."
-      }
-    }
-  ],
+  "name": "What factors should I consider when planning a tiny home floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when planning a tiny home floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning your tiny home floor plan, consider your daily routine, how many people will live there, and what essential functions you need the space to support. Think about your storage needs, preferred cooking and bathing setups, and if you require dedicated areas for work or hobbies. Evaluate your comfort with vertical spaces like lofts and the importance of natural light and ventilation. Also, consider the specific climate of your location and any future needs or potential changes in your lifestyle that might impact the longevity of the design.",
+        "@type": "Answer",
+        "description": "Consider daily routine, number of occupants, essential functions, storage, cooking/bathing needs, lofts, natural light, ventilation, climate, and future lifestyle changes."
+      }
+    }
+  ],
+  "description": "Consider daily routine, number of occupants, essential functions, storage, cooking/bathing needs, lofts, natural light, ventilation, climate, and future lifesty"
 }

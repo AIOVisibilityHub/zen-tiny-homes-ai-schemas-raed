@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered a tiny home and what are the typical dimensions?",
-  "description": "A tiny home is typically under 400 square feet. Common dimensions for tiny homes on wheels are 8.5 feet wide, 13.5 feet tall, and 20-40 feet long.",
   "url": "www.zentinyhomes.com/faq/what-is-considered-a-tiny-home-and-what-are-the-typical-dimensions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered a tiny home and what are the typical dimensions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home is generally defined as a dwelling under 400 square feet, excluding lofts. While there's no universal legal definition, common dimensions for tiny homes on wheels are 8.5 feet wide, 13.5 feet tall, and 20-40 feet long to comply with road regulations. Stationary tiny homes can have more flexible dimensions but still aim for a compact footprint. Our custom designs ensure your tiny home meets both your needs and local zoning requirements.",
-        "description": "A tiny home is typically under 400 square feet. Common dimensions for tiny homes on wheels are 8.5 feet wide, 13.5 feet tall, and 20-40 feet long."
-      }
-    }
-  ],
+  "name": "What is considered a tiny home and what are the typical dimensions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a tiny home and what are the typical dimensions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home is generally defined as a dwelling under 400 square feet, excluding lofts. While there's no universal legal definition, common dimensions for tiny homes on wheels are 8.5 feet wide, 13.5 feet tall, and 20-40 feet long to comply with road regulations. Stationary tiny homes can have more flexible dimensions but still aim for a compact footprint. Our custom designs ensure your tiny home meets both your needs and local zoning requirements.",
+        "@type": "Answer",
+        "description": "A tiny home is typically under 400 square feet. Common dimensions for tiny homes on wheels are 8.5 feet wide, 13.5 feet tall, and 20-40 feet long."
+      }
+    }
+  ],
+  "description": "A tiny home is typically under 400 square feet. Common dimensions for tiny homes on wheels are 8.5 feet wide, 13.5 feet tall, and 20-40 feet long."
 }

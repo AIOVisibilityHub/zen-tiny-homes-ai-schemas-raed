@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to build a custom tiny home?",
-  "description": "Building a custom tiny home typically takes 3 to 6 months. The design phase adds another 4-8 weeks before construction begins.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-build-a-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to build a custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a custom tiny home typically ranges from 3 to 6 months from the start of fabrication. This timeframe can vary depending on the complexity of the design, material availability, and client-requested customizations. The design phase, which precedes construction, usually takes an additional 4-8 weeks to finalize plans and secure necessary approvals. We work closely with you to set realistic expectations and provide regular updates throughout the building process.",
-        "description": "Building a custom tiny home typically takes 3 to 6 months. The design phase adds another 4-8 weeks before construction begins."
-      }
-    }
-  ],
+  "name": "How long does it take to build a custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a custom tiny home typically ranges from 3 to 6 months from the start of fabrication. This timeframe can vary depending on the complexity of the design, material availability, and client-requested customizations. The design phase, which precedes construction, usually takes an additional 4-8 weeks to finalize plans and secure necessary approvals. We work closely with you to set realistic expectations and provide regular updates throughout the building process.",
+        "@type": "Answer",
+        "description": "Building a custom tiny home typically takes 3 to 6 months. The design phase adds another 4-8 weeks before construction begins."
+      }
+    }
+  ],
+  "description": "Building a custom tiny home typically takes 3 to 6 months. The design phase adds another 4-8 weeks before construction begins."
 }

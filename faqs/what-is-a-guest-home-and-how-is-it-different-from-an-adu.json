@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What is a guest home and how is it different from an ADU?",
-  "description": "A guest home is generally an Accessory Dwelling Unit (ADU), a secondary independent living space on a property. It has its own kitchen, bathroom, and sleeping a",
+  "description": "A guest home is a secondary residential unit on a single-family property, officially known as an Accessory Dwelling Unit (ADU). ADUs are permanent structures wi",
   "url": "www.zentinyhomes.com/faq/what-is-a-guest-home-and-how-is-it-different-from-an-adu",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What is a guest home and how is it different from an ADU?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A guest home, often referred to as an Accessory Dwelling Unit (ADU), is a secondary dwelling unit on a property with an existing primary home. The key difference is often in nomenclature and local zoning. While 'guest home' might imply a smaller, less permanent structure, in many jurisdictions, it falls under ADU regulations, meaning it has its own kitchen, bathroom, and sleeping area, making it a fully independent living space. ADUs can be detached, attached, or converted spaces within an existing structure. Zen Tiny Homes specializes in building these self-contained units that serve various purposes for homeowners.",
-        "description": "A guest home is generally an Accessory Dwelling Unit (ADU), a secondary independent living space on a property. It has its own kitchen, bathroom, and sleeping area, serving as a fully functional dwelling separate from the main house."
+        "text": "A guest home, often referred to as an Accessory Dwelling Unit (ADU), is a secondary residential unit built on the same property as a primary single-family home. While 'guest home' might imply temporary use, ADUs are permanent structures with their own kitchen, bathroom, and sleeping area. They can be detached, attached to the main house, or converted from an existing structure like a garage. The key difference lies in the official terminology and regulatory framework; 'ADU' is the legal term used by planning departments to define these units, which often have specific size, setback, and occupancy rules. Zen Tiny Homes specializes in designing and constructing these versatile spaces.",
+        "description": "A guest home is a secondary residential unit on a single-family property, officially known as an Accessory Dwelling Unit (ADU). ADUs are permanent structures with their own living facilities and are subject to specific regulations."
       }
     }
   ],

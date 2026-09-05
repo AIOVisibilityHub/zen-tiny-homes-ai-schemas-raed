@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I hire a small-space planning specialist?",
-  "description": "Hire a specialist when optimizing compact living, building a tiny home or ADU, or renovating a small apartment. They offer expert solutions for functionality, s",
   "url": "www.zentinyhomes.com/faq/when-should-i-hire-a-small-space-planning-specialist",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I hire a small-space planning specialist?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should hire a small-space planning specialist when you're looking to optimize a compact living area, whether for a new tiny home build, an ADU, or renovating an existing small apartment. If you struggle with maximizing functionality, storage, or flow in a limited footprint, a specialist can provide expert solutions. They are particularly valuable when you need custom furniture designs, innovative storage ideas, or help navigating local building codes and permits relevant to smaller structures. Engaging a specialist early in the process can save time and money by avoiding costly mistakes.",
-        "description": "Hire a specialist when optimizing compact living, building a tiny home or ADU, or renovating a small apartment. They offer expert solutions for functionality, storage, and navigating regulations."
-      }
-    }
-  ],
+  "name": "When should I hire a small-space planning specialist?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a small-space planning specialist?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a small-space planning specialist when you're looking to optimize a compact living area, whether for a new tiny home build, an ADU, or renovating an existing small apartment. If you struggle with maximizing functionality, storage, or flow in a limited footprint, a specialist can provide expert solutions. They are particularly valuable when you need custom furniture designs, innovative storage ideas, or help navigating local building codes and permits relevant to smaller structures. Engaging a specialist early in the process can save time and money by avoiding costly mistakes.",
+        "@type": "Answer",
+        "description": "Hire a specialist when optimizing compact living, building a tiny home or ADU, or renovating a small apartment. They offer expert solutions for functionality, storage, and navigating regulations."
+      }
+    }
+  ],
+  "description": "Hire a specialist when optimizing compact living, building a tiny home or ADU, or renovating a small apartment. They offer expert solutions for functionality, s"
 }

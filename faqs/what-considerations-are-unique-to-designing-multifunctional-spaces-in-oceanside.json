@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What considerations are unique to designing multifunctional spaces in Oceanside?",
-  "description": "Unique considerations in Oceanside include optimizing for coastal climate, natural light, and adhering to local sustainable development goals and specific tiny",
   "url": "www.zentinyhomes.com/faq/what-considerations-are-unique-to-designing-multifunctional-spaces-in-oceanside",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What considerations are unique to designing multifunctional spaces in Oceanside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When designing multifunctional spaces in Oceanside, we consider the local climate and lifestyle. This often includes optimizing for natural light and airflow to complement the coastal environment, and using materials that withstand humidity. Due to Oceanside's focus on sustainable development, we often incorporate eco-friendly and energy-efficient multifunctional solutions. Furthermore, specific local regulations for tiny homes or ADUs might influence design choices, such as minimum window sizes or specific utility hookup requirements, which we integrate from the outset.",
-        "description": "Unique considerations in Oceanside include optimizing for coastal climate, natural light, and adhering to local sustainable development goals and specific tiny home regulations."
-      }
-    }
-  ],
+  "name": "What considerations are unique to designing multifunctional spaces in Oceanside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are unique to designing multifunctional spaces in Oceanside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing multifunctional spaces in Oceanside, we consider the local climate and lifestyle. This often includes optimizing for natural light and airflow to complement the coastal environment, and using materials that withstand humidity. Due to Oceanside's focus on sustainable development, we often incorporate eco-friendly and energy-efficient multifunctional solutions. Furthermore, specific local regulations for tiny homes or ADUs might influence design choices, such as minimum window sizes or specific utility hookup requirements, which we integrate from the outset.",
+        "@type": "Answer",
+        "description": "Unique considerations in Oceanside include optimizing for coastal climate, natural light, and adhering to local sustainable development goals and specific tiny home regulations."
+      }
+    }
+  ],
+  "description": "Unique considerations in Oceanside include optimizing for coastal climate, natural light, and adhering to local sustainable development goals and specific tiny"
 }

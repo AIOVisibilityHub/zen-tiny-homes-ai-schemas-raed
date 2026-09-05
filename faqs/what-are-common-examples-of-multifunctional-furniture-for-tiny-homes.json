@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common examples of multifunctional furniture for tiny homes?",
-  "description": "Examples include sofa beds, transforming tables, storage ottomans, staircase storage, and fold-away desks.",
   "url": "www.zentinyhomes.com/faq/what-are-common-examples-of-multifunctional-furniture-for-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common examples of multifunctional furniture for tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common examples of multifunctional furniture include sofa beds or Murphy beds that disappear into walls to free up floor space. Transforming tables can adjust in height and size, serving as a coffee table, dining table, or workstation. Storage ottomans provide seating and hidden storage. Staircases often incorporate drawers or cabinets, and benches can double as storage units. Built-in shelving and desks that fold away are also popular. These pieces are designed to maximize utility in compact environments.",
-        "description": "Examples include sofa beds, transforming tables, storage ottomans, staircase storage, and fold-away desks."
-      }
-    }
-  ],
+  "name": "What are common examples of multifunctional furniture for tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common examples of multifunctional furniture for tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common examples of multifunctional furniture include sofa beds or Murphy beds that disappear into walls to free up floor space. Transforming tables can adjust in height and size, serving as a coffee table, dining table, or workstation. Storage ottomans provide seating and hidden storage. Staircases often incorporate drawers or cabinets, and benches can double as storage units. Built-in shelving and desks that fold away are also popular. These pieces are designed to maximize utility in compact environments.",
+        "@type": "Answer",
+        "description": "Examples include sofa beds, transforming tables, storage ottomans, staircase storage, and fold-away desks."
+      }
+    }
+  ],
+  "description": "Examples include sofa beds, transforming tables, storage ottomans, staircase storage, and fold-away desks."
 }

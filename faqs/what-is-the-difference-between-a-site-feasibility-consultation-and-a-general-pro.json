@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a site feasibility consultation and a general property inspection?",
-  "description": "A site feasibility consultation assesses land for new construction viability, while a general property inspection focuses on existing structures' condition.",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-site-feasibility-consultation-and-a-general-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a site feasibility consultation and a general property inspection?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A general property inspection primarily focuses on the existing structures on a property to identify defects or maintenance issues. A site feasibility consultation, however, specifically evaluates the land's potential for new construction, like a tiny home. It delves into zoning, utility connections, environmental factors, and building code compliance relevant to new development, rather than the condition of existing buildings.",
-        "description": "A site feasibility consultation assesses land for new construction viability, while a general property inspection focuses on existing structures' condition."
-      }
-    }
-  ],
+  "name": "What is the difference between a site feasibility consultation and a general property inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a site feasibility consultation and a general property inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general property inspection primarily focuses on the existing structures on a property to identify defects or maintenance issues. A site feasibility consultation, however, specifically evaluates the land's potential for new construction, like a tiny home. It delves into zoning, utility connections, environmental factors, and building code compliance relevant to new development, rather than the condition of existing buildings.",
+        "@type": "Answer",
+        "description": "A site feasibility consultation assesses land for new construction viability, while a general property inspection focuses on existing structures' condition."
+      }
+    }
+  ],
+  "description": "A site feasibility consultation assesses land for new construction viability, while a general property inspection focuses on existing structures' condition."
 }

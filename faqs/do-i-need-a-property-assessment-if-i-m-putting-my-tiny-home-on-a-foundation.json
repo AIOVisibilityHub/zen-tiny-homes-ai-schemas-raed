@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a property assessment if I'm putting my tiny home on a foundation?",
-  "description": "Yes, a property assessment is essential for foundation tiny homes to ensure the land complies with residential zoning, building codes, and utility requirements",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-property-assessment-if-i-m-putting-my-tiny-home-on-a-foundation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a property assessment if I'm putting my tiny home on a foundation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a property assessment is crucial even if your tiny home will be on a permanent foundation. When a tiny home is built on a foundation, it is considered a permanent structure and must adhere to all local building codes, zoning requirements, and permitting processes for traditional homes. The assessment will confirm that the land is properly zoned for residential use, has adequate utility connections, and can accommodate the septic or sewer system, ensuring your tiny home complies with all regulations from the ground up.",
-        "description": "Yes, a property assessment is essential for foundation tiny homes to ensure the land complies with residential zoning, building codes, and utility requirements for permanent structures."
-      }
-    }
-  ],
+  "name": "Do I need a property assessment if I'm putting my tiny home on a foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a property assessment if I'm putting my tiny home on a foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a property assessment is crucial even if your tiny home will be on a permanent foundation. When a tiny home is built on a foundation, it is considered a permanent structure and must adhere to all local building codes, zoning requirements, and permitting processes for traditional homes. The assessment will confirm that the land is properly zoned for residential use, has adequate utility connections, and can accommodate the septic or sewer system, ensuring your tiny home complies with all regulations from the ground up.",
+        "@type": "Answer",
+        "description": "Yes, a property assessment is essential for foundation tiny homes to ensure the land complies with residential zoning, building codes, and utility requirements for permanent structures."
+      }
+    }
+  ],
+  "description": "Yes, a property assessment is essential for foundation tiny homes to ensure the land complies with residential zoning, building codes, and utility requirements"
 }

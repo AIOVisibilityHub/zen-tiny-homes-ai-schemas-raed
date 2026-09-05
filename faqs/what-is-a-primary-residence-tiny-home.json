@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a primary-residence tiny home?",
-  "description": "A primary-residence tiny home is a standalone dwelling under 400 square feet, serving as the main place of abode and adhering to residential building codes.",
   "url": "www.zentinyhomes.com/faq/what-is-a-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A primary-residence tiny home is a dwelling, typically 400 square feet or less, designed to be a homeowner's main place of abode. Unlike recreational vehicles or accessory dwelling units (ADUs), a primary tiny home often requires specific foundational connections and adherence to local residential building codes. It serves as a standalone home on its own plot of land or within a designated tiny home community, providing a complete living solution including kitchens, bathrooms, and sleeping areas.",
-        "description": "A primary-residence tiny home is a standalone dwelling under 400 square feet, serving as the main place of abode and adhering to residential building codes."
-      }
-    }
-  ],
+  "name": "What is a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary-residence tiny home is a dwelling, typically 400 square feet or less, designed to be a homeowner's main place of abode. Unlike recreational vehicles or accessory dwelling units (ADUs), a primary tiny home often requires specific foundational connections and adherence to local residential building codes. It serves as a standalone home on its own plot of land or within a designated tiny home community, providing a complete living solution including kitchens, bathrooms, and sleeping areas.",
+        "@type": "Answer",
+        "description": "A primary-residence tiny home is a standalone dwelling under 400 square feet, serving as the main place of abode and adhering to residential building codes."
+      }
+    }
+  ],
+  "description": "A primary-residence tiny home is a standalone dwelling under 400 square feet, serving as the main place of abode and adhering to residential building codes."
 }

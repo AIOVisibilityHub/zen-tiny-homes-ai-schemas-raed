@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I start thinking about interior layout design for my tiny home project?",
-  "description": "Begin thinking about interior layout design during the initial planning phase to integrate structural elements, utility hookups, and prevent costly changes.",
   "url": "www.zentinyhomes.com/faq/when-should-i-start-thinking-about-interior-layout-design-for-my-tiny-home-proje",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I start thinking about interior layout design for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should start thinking about your tiny home's interior layout design early in the project, ideally during the initial planning or conceptual phase. This ensures that the structural elements of the home can accommodate your desired layout, window placements, and utility hookups. Early consideration allows for seamless integration of plumbing, electrical, and HVAC systems with your preferred room arrangements. It also helps prevent costly changes later in the construction process and ensures the final home is perfectly aligned with your functional and aesthetic goals.",
-        "description": "Begin thinking about interior layout design during the initial planning phase to integrate structural elements, utility hookups, and prevent costly changes."
-      }
-    }
-  ],
+  "name": "When should I start thinking about interior layout design for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start thinking about interior layout design for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should start thinking about your tiny home's interior layout design early in the project, ideally during the initial planning or conceptual phase. This ensures that the structural elements of the home can accommodate your desired layout, window placements, and utility hookups. Early consideration allows for seamless integration of plumbing, electrical, and HVAC systems with your preferred room arrangements. It also helps prevent costly changes later in the construction process and ensures the final home is perfectly aligned with your functional and aesthetic goals.",
+        "@type": "Answer",
+        "description": "Begin thinking about interior layout design during the initial planning phase to integrate structural elements, utility hookups, and prevent costly changes."
+      }
+    }
+  ],
+  "description": "Begin thinking about interior layout design during the initial planning phase to integrate structural elements, utility hookups, and prevent costly changes."
 }

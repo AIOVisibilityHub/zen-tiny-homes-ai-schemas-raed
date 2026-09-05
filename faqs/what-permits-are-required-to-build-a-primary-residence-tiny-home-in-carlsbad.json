@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required to build a primary-residence tiny home in Carlsbad?",
-  "description": "In Carlsbad, building a primary tiny home requires building, electrical, plumbing, mechanical, and potentially grading permits. Consult the city's Planning and",
   "url": "www.zentinyhomes.com/faq/what-permits-are-required-to-build-a-primary-residence-tiny-home-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required to build a primary-residence tiny home in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a primary-residence tiny home in Carlsbad requires several permits to ensure compliance with local codes. You will typically need a building permit, which includes structural, electrical, plumbing, and mechanical permits. Additionally, depending on your site, you might require grading permits, encroachment permits for utility connections, and potentially fire department approval. It's essential to consult the City of Carlsbad's Planning and Building Departments early in your project to understand all necessary applications and ensure your design meets specific zoning and building regulations for tiny homes or ADUs.",
-        "description": "In Carlsbad, building a primary tiny home requires building, electrical, plumbing, mechanical, and potentially grading permits. Consult the city's Planning and Building Departments for all necessary applications."
-      }
-    }
-  ],
+  "name": "What permits are required to build a primary-residence tiny home in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required to build a primary-residence tiny home in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a primary-residence tiny home in Carlsbad requires several permits to ensure compliance with local codes. You will typically need a building permit, which includes structural, electrical, plumbing, and mechanical permits. Additionally, depending on your site, you might require grading permits, encroachment permits for utility connections, and potentially fire department approval. It's essential to consult the City of Carlsbad's Planning and Building Departments early in your project to understand all necessary applications and ensure your design meets specific zoning and building regulations for tiny homes or ADUs.",
+        "@type": "Answer",
+        "description": "In Carlsbad, building a primary tiny home requires building, electrical, plumbing, mechanical, and potentially grading permits. Consult the city's Planning and Building Departments for all necessary applications."
+      }
+    }
+  ],
+  "description": "In Carlsbad, building a primary tiny home requires building, electrical, plumbing, mechanical, and potentially grading permits. Consult the city's Planning and"
 }

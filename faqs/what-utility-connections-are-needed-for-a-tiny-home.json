@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility connections are needed for a tiny home?",
-  "description": "Tiny homes need connections for water, electricity, and sewage. Options include city hookups, wells, solar, septic, or composting, depending on your property an",
   "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility connections are needed for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home typically requires connections for water, electricity, and sewage. For water, this can be a standard city hookup, a well system, or a rainwater harvesting system. Electricity can come from grid connection, solar panels, or a combination (hybrid system). Sewage options include connection to a municipal sewer, a septic tank, or composting toilets for off-grid living. We design utility systems to match your property's existing infrastructure and your desire for on-grid or off-grid living.",
-        "description": "Tiny homes need connections for water, electricity, and sewage. Options include city hookups, wells, solar, septic, or composting, depending on your property and lifestyle."
-      }
-    }
-  ],
+  "name": "What utility connections are needed for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are needed for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home typically requires connections for water, electricity, and sewage. For water, this can be a standard city hookup, a well system, or a rainwater harvesting system. Electricity can come from grid connection, solar panels, or a combination (hybrid system). Sewage options include connection to a municipal sewer, a septic tank, or composting toilets for off-grid living. We design utility systems to match your property's existing infrastructure and your desire for on-grid or off-grid living.",
+        "@type": "Answer",
+        "description": "Tiny homes need connections for water, electricity, and sewage. Options include city hookups, wells, solar, septic, or composting, depending on your property and lifestyle."
+      }
+    }
+  ],
+  "description": "Tiny homes need connections for water, electricity, and sewage. Options include city hookups, wells, solar, septic, or composting, depending on your property an"
 }

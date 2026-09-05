@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for building a guest home with Zen Tiny Homes?",
-  "description": "Our process involves an initial consultation, collaborative design, permit acquisition, professional construction management, and a final handover. We guide you",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-building-a-guest-home-with-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for building a guest home with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process at Zen Tiny Homes begins with an initial consultation to discuss your vision, budget, and property specifics. Next, we move to design, where we collaborate to create plans that meet your needs and comply with local regulations. Following design approval, we handle the permitting process, submitting all necessary documents to the local authorities. Once permits are secured, our skilled team manages the construction, keeping you informed at every stage. The final step is the walk-through and handover, where you receive the keys to your new guest home.",
-        "description": "Our process involves an initial consultation, collaborative design, permit acquisition, professional construction management, and a final handover. We guide you from concept to completion."
-      }
-    }
-  ],
+  "name": "What is the process for building a guest home with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a guest home with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process at Zen Tiny Homes begins with an initial consultation to discuss your vision, budget, and property specifics. Next, we move to design, where we collaborate to create plans that meet your needs and comply with local regulations. Following design approval, we handle the permitting process, submitting all necessary documents to the local authorities. Once permits are secured, our skilled team manages the construction, keeping you informed at every stage. The final step is the walk-through and handover, where you receive the keys to your new guest home.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, collaborative design, permit acquisition, professional construction management, and a final handover. We guide you from concept to completion."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, collaborative design, permit acquisition, professional construction management, and a final handover. We guide you"
 }

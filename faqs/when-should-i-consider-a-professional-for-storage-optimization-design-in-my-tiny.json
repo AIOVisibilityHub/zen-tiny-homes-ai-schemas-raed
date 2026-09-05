@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider a professional for storage-optimization design in my tiny home?",
-  "description": "Consider a professional early in your tiny home's planning to integrate seamless, custom storage solutions and maximize functionality.",
   "url": "www.zentinyhomes.com/faq/when-should-i-consider-a-professional-for-storage-optimization-design-in-my-tiny",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider a professional for storage-optimization design in my tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider a professional for storage-optimization design early in the planning stages of your tiny home build or renovation. A professional designer can identify unique space-saving opportunities, suggest custom solutions, and integrate storage seamlessly into the overall aesthetic. Their expertise ensures that storage is not an afterthought but a core component of the home's functionality, helping you avoid costly rework and maximizing your tiny home's potential from the outset.",
-        "description": "Consider a professional early in your tiny home's planning to integrate seamless, custom storage solutions and maximize functionality."
-      }
-    }
-  ],
+  "name": "When should I consider a professional for storage-optimization design in my tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a professional for storage-optimization design in my tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a professional for storage-optimization design early in the planning stages of your tiny home build or renovation. A professional designer can identify unique space-saving opportunities, suggest custom solutions, and integrate storage seamlessly into the overall aesthetic. Their expertise ensures that storage is not an afterthought but a core component of the home's functionality, helping you avoid costly rework and maximizing your tiny home's potential from the outset.",
+        "@type": "Answer",
+        "description": "Consider a professional early in your tiny home's planning to integrate seamless, custom storage solutions and maximize functionality."
+      }
+    }
+  ],
+  "description": "Consider a professional early in your tiny home's planning to integrate seamless, custom storage solutions and maximize functionality."
 }

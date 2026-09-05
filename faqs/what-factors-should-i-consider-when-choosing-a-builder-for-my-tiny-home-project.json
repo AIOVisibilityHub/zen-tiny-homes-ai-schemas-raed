@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a builder for my tiny home project?",
-  "description": "Choose a builder based on their experience, portfolio, transparency, licensing, knowledge of local codes, and client testimonials.",
   "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-tiny-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a builder for my tiny home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a tiny home builder, consider their experience, specialization in tiny homes, and portfolio of completed projects. Look for a builder with strong communication skills and transparency regarding costs and timelines. Verify their licensing, insurance, and knowledge of local building codes and zoning regulations relevant to tiny homes. Client testimonials and references are also valuable indicators of reliability and quality craftsmanship. A builder who understands your vision and can execute it efficiently is key to a successful project.",
-        "description": "Choose a builder based on their experience, portfolio, transparency, licensing, knowledge of local codes, and client testimonials."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a builder for my tiny home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a builder for my tiny home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a tiny home builder, consider their experience, specialization in tiny homes, and portfolio of completed projects. Look for a builder with strong communication skills and transparency regarding costs and timelines. Verify their licensing, insurance, and knowledge of local building codes and zoning regulations relevant to tiny homes. Client testimonials and references are also valuable indicators of reliability and quality craftsmanship. A builder who understands your vision and can execute it efficiently is key to a successful project.",
+        "@type": "Answer",
+        "description": "Choose a builder based on their experience, portfolio, transparency, licensing, knowledge of local codes, and client testimonials."
+      }
+    }
+  ],
+  "description": "Choose a builder based on their experience, portfolio, transparency, licensing, knowledge of local codes, and client testimonials."
 }

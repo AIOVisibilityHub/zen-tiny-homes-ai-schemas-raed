@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for a tiny home property assessment?",
-  "description": "The assessment process involves an initial consultation, review of local regulations, a site visit for evaluation, and a final report detailing property suitabi",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-a-tiny-home-property-assessment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for a tiny home property assessment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The property assessment process typically begins with an initial consultation to understand your project goals and the specific property. Next, our team reviews local zoning ordinances and building codes applicable to tiny homes in your area. This is followed by a site visit to evaluate access, topography, utility connections (water, sewer/septic, electricity), and any potential environmental considerations. Finally, we provide a comprehensive report outlining our findings, including potential challenges, recommendations, and a clear understanding of the property's suitability for your tiny home.",
-        "description": "The assessment process involves an initial consultation, review of local regulations, a site visit for evaluation, and a final report detailing property suitability and recommendations."
-      }
-    }
-  ],
+  "name": "What is the process for a tiny home property assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a tiny home property assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The property assessment process typically begins with an initial consultation to understand your project goals and the specific property. Next, our team reviews local zoning ordinances and building codes applicable to tiny homes in your area. This is followed by a site visit to evaluate access, topography, utility connections (water, sewer/septic, electricity), and any potential environmental considerations. Finally, we provide a comprehensive report outlining our findings, including potential challenges, recommendations, and a clear understanding of the property's suitability for your tiny home.",
+        "@type": "Answer",
+        "description": "The assessment process involves an initial consultation, review of local regulations, a site visit for evaluation, and a final report detailing property suitability and recommendations."
+      }
+    }
+  ],
+  "description": "The assessment process involves an initial consultation, review of local regulations, a site visit for evaluation, and a final report detailing property suitabi"
 }

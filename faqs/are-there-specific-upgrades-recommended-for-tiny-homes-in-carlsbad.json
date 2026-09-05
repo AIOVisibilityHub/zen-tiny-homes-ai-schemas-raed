@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there specific upgrades recommended for tiny homes in Carlsbad?",
-  "description": "In Carlsbad, consider weather-resistant exteriors, energy-efficient windows, and outdoor living features. Solar readiness and rainwater harvesting are also valu",
   "url": "www.zentinyhomes.com/faq/are-there-specific-upgrades-recommended-for-tiny-homes-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there specific upgrades recommended for tiny homes in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For tiny homes in Carlsbad, upgrades that enhance outdoor living and durability in a coastal climate are often recommended. This includes features like robust, weather-resistant exterior siding, energy-efficient windows for temperature regulation, and perhaps a well-designed deck or patio space. Consider options like solar panel readiness or rainwater harvesting systems to take advantage of local conditions and sustainability goals. Our team can advise on the best upgrades for the Carlsbad environment.",
-        "description": "In Carlsbad, consider weather-resistant exteriors, energy-efficient windows, and outdoor living features. Solar readiness and rainwater harvesting are also valuable upgrades for the coastal climate."
-      }
-    }
-  ],
+  "name": "Are there specific upgrades recommended for tiny homes in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific upgrades recommended for tiny homes in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For tiny homes in Carlsbad, upgrades that enhance outdoor living and durability in a coastal climate are often recommended. This includes features like robust, weather-resistant exterior siding, energy-efficient windows for temperature regulation, and perhaps a well-designed deck or patio space. Consider options like solar panel readiness or rainwater harvesting systems to take advantage of local conditions and sustainability goals. Our team can advise on the best upgrades for the Carlsbad environment.",
+        "@type": "Answer",
+        "description": "In Carlsbad, consider weather-resistant exteriors, energy-efficient windows, and outdoor living features. Solar readiness and rainwater harvesting are also valuable upgrades for the coastal climate."
+      }
+    }
+  ],
+  "description": "In Carlsbad, consider weather-resistant exteriors, energy-efficient windows, and outdoor living features. Solar readiness and rainwater harvesting are also valu"
 }

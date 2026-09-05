@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common challenges in small-space planning?",
-  "description": "Challenges include maintaining openness, integrating utilities, and ensuring sufficient storage without clutter. Balancing aesthetics with functionality and opt",
   "url": "www.zentinyhomes.com/faq/what-are-common-challenges-in-small-space-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common challenges in small-space planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges in small-space planning include maintaining a sense of openness, integrating essential utilities and appliances discreetly, and ensuring adequate storage without clutter. Designers must also balance aesthetic appeal with practical functionality, often requiring custom solutions for furniture and fixtures. Natural light and ventilation can also be tricky to optimize in compact footprints. The key is to avoid overcrowding the space and to create distinct zones for different activities, even within a single room, which demands careful consideration of layout and scale.",
-        "description": "Challenges include maintaining openness, integrating utilities, and ensuring sufficient storage without clutter. Balancing aesthetics with functionality and optimizing light are also key considerations."
-      }
-    }
-  ],
+  "name": "What are common challenges in small-space planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in small-space planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in small-space planning include maintaining a sense of openness, integrating essential utilities and appliances discreetly, and ensuring adequate storage without clutter. Designers must also balance aesthetic appeal with practical functionality, often requiring custom solutions for furniture and fixtures. Natural light and ventilation can also be tricky to optimize in compact footprints. The key is to avoid overcrowding the space and to create distinct zones for different activities, even within a single room, which demands careful consideration of layout and scale.",
+        "@type": "Answer",
+        "description": "Challenges include maintaining openness, integrating utilities, and ensuring sufficient storage without clutter. Balancing aesthetics with functionality and optimizing light are also key considerations."
+      }
+    }
+  ],
+  "description": "Challenges include maintaining openness, integrating utilities, and ensuring sufficient storage without clutter. Balancing aesthetics with functionality and opt"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my property assessment reveals challenges for a tiny home?",
-  "description": "If challenges arise in a property assessment, we provide detailed issues and potential solutions like zoning variances or site preparation. This helps adjust pl",
   "url": "www.zentinyhomes.com/faq/what-if-my-property-assessment-reveals-challenges-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if my property assessment reveals challenges for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If a property assessment uncovers challenges such as unfavorable zoning, insufficient utility access, or difficult site conditions, it doesn't necessarily mean your tiny home dream is over for that specific plot. Our report will detail these issues and often include potential solutions or mitigation strategies. This might involve applying for zoning variances, exploring alternative utility hookups, or suggesting specific site preparation techniques. Sometimes, it may mean adjusting your tiny home plans or, in rare cases, reconsidering the chosen property. The goal is to provide a clear path forward.",
-        "description": "If challenges arise in a property assessment, we provide detailed issues and potential solutions like zoning variances or site preparation. This helps adjust plans or reconsider the property."
-      }
-    }
-  ],
+  "name": "What if my property assessment reveals challenges for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if my property assessment reveals challenges for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a property assessment uncovers challenges such as unfavorable zoning, insufficient utility access, or difficult site conditions, it doesn't necessarily mean your tiny home dream is over for that specific plot. Our report will detail these issues and often include potential solutions or mitigation strategies. This might involve applying for zoning variances, exploring alternative utility hookups, or suggesting specific site preparation techniques. Sometimes, it may mean adjusting your tiny home plans or, in rare cases, reconsidering the chosen property. The goal is to provide a clear path forward.",
+        "@type": "Answer",
+        "description": "If challenges arise in a property assessment, we provide detailed issues and potential solutions like zoning variances or site preparation. This helps adjust plans or reconsider the property."
+      }
+    }
+  ],
+  "description": "If challenges arise in a property assessment, we provide detailed issues and potential solutions like zoning variances or site preparation. This helps adjust pl"
 }

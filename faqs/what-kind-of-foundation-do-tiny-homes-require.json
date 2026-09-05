@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of foundation do tiny homes require?",
-  "description": "Permanent tiny homes use traditional foundations (slab, stem wall, pier/beam) per building codes. Tiny homes on wheels use their chassis for mobility, but may u",
   "url": "www.zentinyhomes.com/faq/what-kind-of-foundation-do-tiny-homes-require",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of foundation do tiny homes require?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The foundation type for a tiny home depends on its classification and the site conditions. Permanent tiny homes typically require a traditional foundation, such as a concrete slab, perimeter stem wall, or pier and beam, adhering to local building codes. Tiny homes on wheels are not permanently affixed and use their integrated trailer chassis as a 'foundation' for mobility, though they might sit on blocking or temporary supports when parked. For stability and long-term placement, many choose to level and secure even wheeled units, sometimes with skirting or decking. The choice impacts cost, permanence, and ease of relocation.",
-        "description": "Permanent tiny homes use traditional foundations (slab, stem wall, pier/beam) per building codes. Tiny homes on wheels use their chassis for mobility, but may use temporary supports when parked."
-      }
-    }
-  ],
+  "name": "What kind of foundation do tiny homes require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation do tiny homes require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The foundation type for a tiny home depends on its classification and the site conditions. Permanent tiny homes typically require a traditional foundation, such as a concrete slab, perimeter stem wall, or pier and beam, adhering to local building codes. Tiny homes on wheels are not permanently affixed and use their integrated trailer chassis as a 'foundation' for mobility, though they might sit on blocking or temporary supports when parked. For stability and long-term placement, many choose to level and secure even wheeled units, sometimes with skirting or decking. The choice impacts cost, permanence, and ease of relocation.",
+        "@type": "Answer",
+        "description": "Permanent tiny homes use traditional foundations (slab, stem wall, pier/beam) per building codes. Tiny homes on wheels use their chassis for mobility, but may use temporary supports when parked."
+      }
+    }
+  ],
+  "description": "Permanent tiny homes use traditional foundations (slab, stem wall, pier/beam) per building codes. Tiny homes on wheels use their chassis for mobility, but may u"
 }

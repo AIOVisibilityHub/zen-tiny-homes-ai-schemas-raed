@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to own land before starting a custom tiny home design?",
-  "description": "You don't need to own land before starting design, but understanding potential site limitations or local zoning is beneficial for design choices.",
   "url": "www.zentinyhomes.com/faq/do-i-need-to-own-land-before-starting-a-custom-tiny-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to own land before starting a custom tiny home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While it's beneficial to have an idea of your land or placement, you don't necessarily need to own land before starting the design of your custom tiny home. However, understanding potential site limitations or local zoning requirements will significantly inform the design process, especially for features like utility connections, access, and overall footprint. Designing a tiny home on wheels offers more flexibility in placement. We can help you consider these factors during the initial consultation.",
-        "description": "You don't need to own land before starting design, but understanding potential site limitations or local zoning is beneficial for design choices."
-      }
-    }
-  ],
+  "name": "Do I need to own land before starting a custom tiny home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to own land before starting a custom tiny home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's beneficial to have an idea of your land or placement, you don't necessarily need to own land before starting the design of your custom tiny home. However, understanding potential site limitations or local zoning requirements will significantly inform the design process, especially for features like utility connections, access, and overall footprint. Designing a tiny home on wheels offers more flexibility in placement. We can help you consider these factors during the initial consultation.",
+        "@type": "Answer",
+        "description": "You don't need to own land before starting design, but understanding potential site limitations or local zoning is beneficial for design choices."
+      }
+    }
+  ],
+  "description": "You don't need to own land before starting design, but understanding potential site limitations or local zoning is beneficial for design choices."
 }

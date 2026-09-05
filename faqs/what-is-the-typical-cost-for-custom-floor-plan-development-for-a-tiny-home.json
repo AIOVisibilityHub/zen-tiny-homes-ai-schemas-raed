@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for custom floor-plan development for a tiny home?",
-  "description": "Custom floor-plan development costs vary based on design complexity and requested revisions. A detailed quote is provided after an initial consultation.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-cost-for-custom-floor-plan-development-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for custom floor-plan development for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for custom floor-plan development varies significantly based on the complexity of the design, the level of detail required, and the number of revisions. Simple modifications to existing plans will be less expensive than a completely unique design from scratch. Factors like integrating specialized features, unique layouts, or advanced architectural elements can also influence the price. Zen Tiny Homes provides a detailed quote after an initial consultation to understand your specific requirements and budget.",
-        "description": "Custom floor-plan development costs vary based on design complexity and requested revisions. A detailed quote is provided after an initial consultation."
-      }
-    }
-  ],
+  "name": "What is the typical cost for custom floor-plan development for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for custom floor-plan development for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for custom floor-plan development varies significantly based on the complexity of the design, the level of detail required, and the number of revisions. Simple modifications to existing plans will be less expensive than a completely unique design from scratch. Factors like integrating specialized features, unique layouts, or advanced architectural elements can also influence the price. Zen Tiny Homes provides a detailed quote after an initial consultation to understand your specific requirements and budget.",
+        "@type": "Answer",
+        "description": "Custom floor-plan development costs vary based on design complexity and requested revisions. A detailed quote is provided after an initial consultation."
+      }
+    }
+  ],
+  "description": "Custom floor-plan development costs vary based on design complexity and requested revisions. A detailed quote is provided after an initial consultation."
 }

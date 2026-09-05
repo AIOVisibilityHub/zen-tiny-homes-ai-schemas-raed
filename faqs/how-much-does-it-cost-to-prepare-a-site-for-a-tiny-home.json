@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "How much does it cost to prepare a site for a tiny home?",
-  "description": "Site preparation costs range from thousands to tens of thousands, depending on land condition, utility needs (water, sewer, electricity), and the type of founda",
+  "description": "Site preparation costs vary based on land condition, grading, foundation choice, utility connection complexity, and additional features like landscaping or driv",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-prepare-a-site-for-a-tiny-home",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "How much does it cost to prepare a site for a tiny home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Site preparation costs vary widely based on the land's current condition and the required utilities. Expenses can include grading and leveling, trenching for water and sewer lines, electrical hookups, and potentially septic system installation if municipal sewer isn't available. Foundation costs, whether slab, pier, or skid, are also a significant factor. Expect costs to range from a few thousand dollars for basic utility connections on an already prepared site to tens of thousands for extensive excavation, septic, and a robust foundation on undeveloped land.",
-        "description": "Site preparation costs range from thousands to tens of thousands, depending on land condition, utility needs (water, sewer, electricity), and the type of foundation required."
+        "text": "The cost to prepare a site for a tiny home varies widely based on several factors. These include the existing condition of the land, the extent of grading or clearing needed, foundation type (e.g., concrete slab, pier and beam, or specialized anchors for mobile tiny homes), and the distance and complexity of utility hookups (water, sewer/septic, electricity). Landscaping, driveways, and permits also contribute to the overall expense. Basic site prep might range from a few thousand dollars, while more extensive work on undeveloped land with new utility connections could be significantly higher.",
+        "description": "Site preparation costs vary based on land condition, grading, foundation choice, utility connection complexity, and additional features like landscaping or driveways."
       }
     }
   ],

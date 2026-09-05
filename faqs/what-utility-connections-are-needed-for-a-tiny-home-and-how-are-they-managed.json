@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility connections are needed for a tiny home, and how are they managed?",
-  "description": "Tiny homes need water, electricity, and waste management. Options include municipal hookups, wells, solar, and septic or composting toilets, based on site and r",
   "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-tiny-home-and-how-are-they-managed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility connections are needed for a tiny home, and how are they managed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny homes require essential utility connections, including water, electricity, and waste management. For water, options range from direct hookups to municipal lines, well systems, or even rainwater harvesting. Electricity can come from grid connection, solar panels, or a combination. Waste management typically involves traditional sewer hookups, septic systems, or composting toilets. The best approach depends on your chosen site and local regulations. We help integrate these systems seamlessly into your tiny home design and ensure they meet local codes.",
-        "description": "Tiny homes need water, electricity, and waste management. Options include municipal hookups, wells, solar, and septic or composting toilets, based on site and regulations."
-      }
-    }
-  ],
+  "name": "What utility connections are needed for a tiny home, and how are they managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are needed for a tiny home, and how are they managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny homes require essential utility connections, including water, electricity, and waste management. For water, options range from direct hookups to municipal lines, well systems, or even rainwater harvesting. Electricity can come from grid connection, solar panels, or a combination. Waste management typically involves traditional sewer hookups, septic systems, or composting toilets. The best approach depends on your chosen site and local regulations. We help integrate these systems seamlessly into your tiny home design and ensure they meet local codes.",
+        "@type": "Answer",
+        "description": "Tiny homes need water, electricity, and waste management. Options include municipal hookups, wells, solar, and septic or composting toilets, based on site and regulations."
+      }
+    }
+  ],
+  "description": "Tiny homes need water, electricity, and waste management. Options include municipal hookups, wells, solar, and septic or composting toilets, based on site and r"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I build a tiny home on a foundation or does it have to be on wheels?",
-  "description": "Tiny homes can be built on a permanent foundation or on wheels. The choice depends on your needs and local zoning regulations for ADUs or RVs.",
   "url": "www.zentinyhomes.com/faq/can-i-build-a-tiny-home-on-a-foundation-or-does-it-have-to-be-on-wheels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I build a tiny home on a foundation or does it have to be on wheels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can build a tiny home on a permanent foundation or on a trailer chassis (on wheels). The choice depends on your intended use, mobility needs, and local zoning ordinances. Tiny homes on foundations are considered accessory dwelling units (ADUs) in many areas and must comply with traditional building codes. Tiny homes on wheels are often classified as recreational vehicles (RVs) and must meet specific RVIA standards. We can help you navigate these options based on your property location and goals.",
-        "description": "Tiny homes can be built on a permanent foundation or on wheels. The choice depends on your needs and local zoning regulations for ADUs or RVs."
-      }
-    }
-  ],
+  "name": "Can I build a tiny home on a foundation or does it have to be on wheels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build a tiny home on a foundation or does it have to be on wheels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can build a tiny home on a permanent foundation or on a trailer chassis (on wheels). The choice depends on your intended use, mobility needs, and local zoning ordinances. Tiny homes on foundations are considered accessory dwelling units (ADUs) in many areas and must comply with traditional building codes. Tiny homes on wheels are often classified as recreational vehicles (RVs) and must meet specific RVIA standards. We can help you navigate these options based on your property location and goals.",
+        "@type": "Answer",
+        "description": "Tiny homes can be built on a permanent foundation or on wheels. The choice depends on your needs and local zoning regulations for ADUs or RVs."
+      }
+    }
+  ],
+  "description": "Tiny homes can be built on a permanent foundation or on wheels. The choice depends on your needs and local zoning regulations for ADUs or RVs."
 }

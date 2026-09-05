@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common storage solutions for tiny homes?",
-  "description": "Tiny homes use built-in cabinetry, under-floor storage, integrated shelving, and multi-functional furniture with hidden compartments for efficient storage.",
   "url": "www.zentinyhomes.com/faq/what-are-common-storage-solutions-for-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common storage solutions for tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common storage solutions for tiny homes include built-in cabinetry, under-floor storage, shelving integrated into walls or stairs, and furniture with hidden compartments. Vertical storage, such as floor-to-ceiling shelves or loft storage, is also highly utilized. Modular and customizable storage systems allow residents to adapt spaces to their changing needs, keeping the home organized and clutter-free.",
-        "description": "Tiny homes use built-in cabinetry, under-floor storage, integrated shelving, and multi-functional furniture with hidden compartments for efficient storage."
-      }
-    }
-  ],
+  "name": "What are common storage solutions for tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common storage solutions for tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common storage solutions for tiny homes include built-in cabinetry, under-floor storage, shelving integrated into walls or stairs, and furniture with hidden compartments. Vertical storage, such as floor-to-ceiling shelves or loft storage, is also highly utilized. Modular and customizable storage systems allow residents to adapt spaces to their changing needs, keeping the home organized and clutter-free.",
+        "@type": "Answer",
+        "description": "Tiny homes use built-in cabinetry, under-floor storage, integrated shelving, and multi-functional furniture with hidden compartments for efficient storage."
+      }
+    }
+  ],
+  "description": "Tiny homes use built-in cabinetry, under-floor storage, integrated shelving, and multi-functional furniture with hidden compartments for efficient storage."
 }

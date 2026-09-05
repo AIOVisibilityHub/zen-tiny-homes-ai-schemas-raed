@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I provide my own sketches or ideas for the custom floor plan?",
-  "description": "Yes, clients are encouraged to provide sketches, inspiration, or detailed ideas. Your input is invaluable for guiding our design team.",
   "url": "www.zentinyhomes.com/faq/can-i-provide-my-own-sketches-or-ideas-for-the-custom-floor-plan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I provide my own sketches or ideas for the custom floor plan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Zen Tiny Homes encourages clients to share any sketches, inspiration photos, or detailed ideas they have for their custom tiny home floor plan. Your input is invaluable in guiding our design team to create a space that truly reflects your vision. Bringing your initial thoughts helps us understand your priorities, aesthetic preferences, and functional requirements from the outset. This collaborative approach ensures that the final design is a direct manifestation of your dreams for a personalized living space.",
-        "description": "Yes, clients are encouraged to provide sketches, inspiration, or detailed ideas. Your input is invaluable for guiding our design team."
-      }
-    }
-  ],
+  "name": "Can I provide my own sketches or ideas for the custom floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I provide my own sketches or ideas for the custom floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Zen Tiny Homes encourages clients to share any sketches, inspiration photos, or detailed ideas they have for their custom tiny home floor plan. Your input is invaluable in guiding our design team to create a space that truly reflects your vision. Bringing your initial thoughts helps us understand your priorities, aesthetic preferences, and functional requirements from the outset. This collaborative approach ensures that the final design is a direct manifestation of your dreams for a personalized living space.",
+        "@type": "Answer",
+        "description": "Yes, clients are encouraged to provide sketches, inspiration, or detailed ideas. Your input is invaluable for guiding our design team."
+      }
+    }
+  ],
+  "description": "Yes, clients are encouraged to provide sketches, inspiration, or detailed ideas. Your input is invaluable for guiding our design team."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I maximize storage in my tiny home's interior layout?",
-  "description": "Maximize storage using multi-functional furniture, vertical shelving, under-stair solutions, and hidden compartments. Every design element should ideally serve",
   "url": "www.zentinyhomes.com/faq/how-can-i-maximize-storage-in-my-tiny-home-s-interior-layout",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I maximize storage in my tiny home's interior layout?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maximizing storage in a tiny home's interior layout involves creative and integrated solutions. Consider multi-functional furniture like beds with built-in drawers, ottomans with storage, or tables that expand. Vertical space is crucial; incorporate floor-to-ceiling shelving, wall-mounted cabinets, and overhead storage. Under-stair storage, hidden compartments, and smart organizational systems like pull-out pantry shelves or pegboards also significantly enhance storage capacity without sacrificing living space. Every design element should ideally serve a dual purpose.",
-        "description": "Maximize storage using multi-functional furniture, vertical shelving, under-stair solutions, and hidden compartments. Every design element should ideally serve a dual purpose."
-      }
-    }
-  ],
+  "name": "How can I maximize storage in my tiny home's interior layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maximize storage in my tiny home's interior layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maximizing storage in a tiny home's interior layout involves creative and integrated solutions. Consider multi-functional furniture like beds with built-in drawers, ottomans with storage, or tables that expand. Vertical space is crucial; incorporate floor-to-ceiling shelving, wall-mounted cabinets, and overhead storage. Under-stair storage, hidden compartments, and smart organizational systems like pull-out pantry shelves or pegboards also significantly enhance storage capacity without sacrificing living space. Every design element should ideally serve a dual purpose.",
+        "@type": "Answer",
+        "description": "Maximize storage using multi-functional furniture, vertical shelving, under-stair solutions, and hidden compartments. Every design element should ideally serve a dual purpose."
+      }
+    }
+  ],
+  "description": "Maximize storage using multi-functional furniture, vertical shelving, under-stair solutions, and hidden compartments. Every design element should ideally serve"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a tiny home and an ADU in California?",
-  "description": "A tiny home can be an ADU if it's a secondary unit on a lot with a primary home. Otherwise, it can be a standalone primary residence on its own lot, with differ",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-and-an-adu-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a tiny home and an ADU in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, a tiny home can function as an Accessory Dwelling Unit (ADU) if it meets specific state and local requirements. An ADU is a secondary dwelling unit on a lot with an existing primary home. If a tiny home is placed on a foundation on a property with another existing residence, it would be considered an ADU. However, a tiny home can also be a standalone primary residence on its own lot, independent of another home. The classification affects zoning, permitting, and utility connections.",
-        "description": "A tiny home can be an ADU if it's a secondary unit on a lot with a primary home. Otherwise, it can be a standalone primary residence on its own lot, with different regulations."
-      }
-    }
-  ],
+  "name": "What is the difference between a tiny home and an ADU in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tiny home and an ADU in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, a tiny home can function as an Accessory Dwelling Unit (ADU) if it meets specific state and local requirements. An ADU is a secondary dwelling unit on a lot with an existing primary home. If a tiny home is placed on a foundation on a property with another existing residence, it would be considered an ADU. However, a tiny home can also be a standalone primary residence on its own lot, independent of another home. The classification affects zoning, permitting, and utility connections.",
+        "@type": "Answer",
+        "description": "A tiny home can be an ADU if it's a secondary unit on a lot with a primary home. Otherwise, it can be a standalone primary residence on its own lot, with different regulations."
+      }
+    }
+  ],
+  "description": "A tiny home can be an ADU if it's a secondary unit on a lot with a primary home. Otherwise, it can be a standalone primary residence on its own lot, with differ"
 }

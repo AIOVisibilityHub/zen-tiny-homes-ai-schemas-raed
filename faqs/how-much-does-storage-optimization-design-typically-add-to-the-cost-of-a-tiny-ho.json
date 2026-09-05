@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does storage-optimization design typically add to the cost of a tiny home?",
-  "description": "Cost varies by complexity; simple built-ins add less, extensive custom solutions add more. We provide detailed estimates after consultation.",
   "url": "www.zentinyhomes.com/faq/how-much-does-storage-optimization-design-typically-add-to-the-cost-of-a-tiny-ho",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does storage-optimization design typically add to the cost of a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of storage-optimization design varies significantly based on the complexity and customization required. Simple solutions like built-in shelving might add a small percentage to the overall build, while extensive custom cabinetry, multi-functional furniture, and specialized hardware could represent a more substantial investment. We provide detailed estimates after assessing your specific needs and design preferences during the initial consultation. This ensures transparency and helps you budget effectively for your custom storage solutions.",
-        "description": "Cost varies by complexity; simple built-ins add less, extensive custom solutions add more. We provide detailed estimates after consultation."
-      }
-    }
-  ],
+  "name": "How much does storage-optimization design typically add to the cost of a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does storage-optimization design typically add to the cost of a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storage-optimization design varies significantly based on the complexity and customization required. Simple solutions like built-in shelving might add a small percentage to the overall build, while extensive custom cabinetry, multi-functional furniture, and specialized hardware could represent a more substantial investment. We provide detailed estimates after assessing your specific needs and design preferences during the initial consultation. This ensures transparency and helps you budget effectively for your custom storage solutions.",
+        "@type": "Answer",
+        "description": "Cost varies by complexity; simple built-ins add less, extensive custom solutions add more. We provide detailed estimates after consultation."
+      }
+    }
+  ],
+  "description": "Cost varies by complexity; simple built-ins add less, extensive custom solutions add more. We provide detailed estimates after consultation."
 }

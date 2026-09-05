@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I provide my own floor plans or must I use Zen Tiny Homes' designs?",
-  "description": "Yes, you can provide your own floor plans or ideas; we integrate your input into the custom design process while ensuring structural integrity and code complian",
   "url": "www.zentinyhomes.com/faq/can-i-provide-my-own-floor-plans-or-must-i-use-zen-tiny-homes-designs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I provide my own floor plans or must I use Zen Tiny Homes' designs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You are welcome to provide your own floor plans, sketches, or even just ideas as a starting point for your custom tiny home design. We specialize in bringing unique visions to life and view your input as a valuable foundation. Our design team will collaborate with you to refine your concepts, ensure structural integrity, optimize space, and confirm compliance with building codes and regulations. Whether you have a detailed plan or just an inspiration board, we integrate your preferences into the final design.",
-        "description": "Yes, you can provide your own floor plans or ideas; we integrate your input into the custom design process while ensuring structural integrity and code compliance."
-      }
-    }
-  ],
+  "name": "Can I provide my own floor plans or must I use Zen Tiny Homes' designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I provide my own floor plans or must I use Zen Tiny Homes' designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You are welcome to provide your own floor plans, sketches, or even just ideas as a starting point for your custom tiny home design. We specialize in bringing unique visions to life and view your input as a valuable foundation. Our design team will collaborate with you to refine your concepts, ensure structural integrity, optimize space, and confirm compliance with building codes and regulations. Whether you have a detailed plan or just an inspiration board, we integrate your preferences into the final design.",
+        "@type": "Answer",
+        "description": "Yes, you can provide your own floor plans or ideas; we integrate your input into the custom design process while ensuring structural integrity and code compliance."
+      }
+    }
+  ],
+  "description": "Yes, you can provide your own floor plans or ideas; we integrate your input into the custom design process while ensuring structural integrity and code complian"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize the design of my tiny home, or are there standard models available?",
-  "description": "Yes, you can fully customize your tiny home design, or choose from our standard models and adapt them to your preferences.",
   "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-tiny-home-or-are-there-standard-models-availabl",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize the design of my tiny home, or are there standard models available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes offers both fully customizable designs and a selection of adaptable standard models. For those with a specific vision, our team works closely with you to create a bespoke design that perfectly matches your aesthetic preferences and functional requirements. Alternatively, our standard models provide a proven foundation, which can then be personalized with various finishes, layouts, and feature upgrades. This flexibility ensures your tiny home is truly yours, whether you start from scratch or modify an existing plan.",
-        "description": "Yes, you can fully customize your tiny home design, or choose from our standard models and adapt them to your preferences."
-      }
-    }
-  ],
+  "name": "Can I customize the design of my tiny home, or are there standard models available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my tiny home, or are there standard models available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes offers both fully customizable designs and a selection of adaptable standard models. For those with a specific vision, our team works closely with you to create a bespoke design that perfectly matches your aesthetic preferences and functional requirements. Alternatively, our standard models provide a proven foundation, which can then be personalized with various finishes, layouts, and feature upgrades. This flexibility ensures your tiny home is truly yours, whether you start from scratch or modify an existing plan.",
+        "@type": "Answer",
+        "description": "Yes, you can fully customize your tiny home design, or choose from our standard models and adapt them to your preferences."
+      }
+    }
+  ],
+  "description": "Yes, you can fully customize your tiny home design, or choose from our standard models and adapt them to your preferences."
 }

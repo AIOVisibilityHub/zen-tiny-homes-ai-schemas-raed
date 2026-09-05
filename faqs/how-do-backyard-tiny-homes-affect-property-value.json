@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do backyard tiny homes affect property value?",
-  "description": "Backyard tiny homes can increase property value by adding living space, offering rental income potential, and enhancing overall utility.",
   "url": "www.zentinyhomes.com/faq/how-do-backyard-tiny-homes-affect-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do backyard tiny homes affect property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Adding a backyard tiny home can significantly increase your property's overall value. These units provide additional living space, which is highly desirable in the San Diego market, and can generate rental income. This added utility and potential for passive income make your property more attractive to potential buyers. The exact impact depends on the size, quality of construction, and how well the ADU integrates with the existing property and neighborhood aesthetics.",
-        "description": "Backyard tiny homes can increase property value by adding living space, offering rental income potential, and enhancing overall utility."
-      }
-    }
-  ],
+  "name": "How do backyard tiny homes affect property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do backyard tiny homes affect property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a backyard tiny home can significantly increase your property's overall value. These units provide additional living space, which is highly desirable in the San Diego market, and can generate rental income. This added utility and potential for passive income make your property more attractive to potential buyers. The exact impact depends on the size, quality of construction, and how well the ADU integrates with the existing property and neighborhood aesthetics.",
+        "@type": "Answer",
+        "description": "Backyard tiny homes can increase property value by adding living space, offering rental income potential, and enhancing overall utility."
+      }
+    }
+  ],
+  "description": "Backyard tiny homes can increase property value by adding living space, offering rental income potential, and enhancing overall utility."
 }

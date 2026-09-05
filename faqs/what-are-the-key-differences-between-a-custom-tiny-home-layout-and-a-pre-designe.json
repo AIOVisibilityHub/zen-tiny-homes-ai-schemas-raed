@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the key differences between a custom tiny home layout and a pre-designed layout?",
-  "description": "Custom layouts are uniquely tailored to individual needs, offering full personalization. Pre-designed layouts are standardized, often more cost-effective, and q",
   "url": "www.zentinyhomes.com/faq/what-are-the-key-differences-between-a-custom-tiny-home-layout-and-a-pre-designe",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the key differences between a custom tiny home layout and a pre-designed layout?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A custom tiny home layout is uniquely tailored to the homeowner's specific lifestyle, preferences, and needs, offering complete personalization in space utilization and features. This allows for bespoke solutions, such as integrated pet areas or dedicated craft spaces. In contrast, a pre-designed layout is a standardized plan, offering a proven, efficient design that can be more cost-effective and quicker to implement. While pre-designed options are less flexible, they provide a solid foundation and often meet common tiny living requirements without extensive modifications.",
-        "description": "Custom layouts are uniquely tailored to individual needs, offering full personalization. Pre-designed layouts are standardized, often more cost-effective, and quicker to implement."
-      }
-    }
-  ],
+  "name": "What are the key differences between a custom tiny home layout and a pre-designed layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between a custom tiny home layout and a pre-designed layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom tiny home layout is uniquely tailored to the homeowner's specific lifestyle, preferences, and needs, offering complete personalization in space utilization and features. This allows for bespoke solutions, such as integrated pet areas or dedicated craft spaces. In contrast, a pre-designed layout is a standardized plan, offering a proven, efficient design that can be more cost-effective and quicker to implement. While pre-designed options are less flexible, they provide a solid foundation and often meet common tiny living requirements without extensive modifications.",
+        "@type": "Answer",
+        "description": "Custom layouts are uniquely tailored to individual needs, offering full personalization. Pre-designed layouts are standardized, often more cost-effective, and quicker to implement."
+      }
+    }
+  ],
+  "description": "Custom layouts are uniquely tailored to individual needs, offering full personalization. Pre-designed layouts are standardized, often more cost-effective, and q"
 }

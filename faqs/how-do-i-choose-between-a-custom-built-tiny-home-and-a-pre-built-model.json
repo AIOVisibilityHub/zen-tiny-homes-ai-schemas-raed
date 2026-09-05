@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose between a custom-built tiny home and a pre-built model?",
-  "description": "Custom homes offer full personalization but cost more and take longer. Pre-built homes are faster and cheaper but have limited customization. Choose based on yo",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-between-a-custom-built-tiny-home-and-a-pre-built-model",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose between a custom-built tiny home and a pre-built model?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing between custom-built and pre-built depends on your priorities. A custom tiny home offers complete personalization, allowing you to tailor every detail from layout to finishes, ensuring it perfectly fits your lifestyle and aesthetic preferences. This often results in a higher cost and longer build time. Pre-built models are typically more affordable and faster to acquire, but offer limited customization options. If uniqueness and specific functionality are paramount, custom is often the better choice.",
-        "description": "Custom homes offer full personalization but cost more and take longer. Pre-built homes are faster and cheaper but have limited customization. Choose based on your need for uniqueness versus budget and speed."
-      }
-    }
-  ],
+  "name": "How do I choose between a custom-built tiny home and a pre-built model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a custom-built tiny home and a pre-built model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between custom-built and pre-built depends on your priorities. A custom tiny home offers complete personalization, allowing you to tailor every detail from layout to finishes, ensuring it perfectly fits your lifestyle and aesthetic preferences. This often results in a higher cost and longer build time. Pre-built models are typically more affordable and faster to acquire, but offer limited customization options. If uniqueness and specific functionality are paramount, custom is often the better choice.",
+        "@type": "Answer",
+        "description": "Custom homes offer full personalization but cost more and take longer. Pre-built homes are faster and cheaper but have limited customization. Choose based on your need for uniqueness versus budget and speed."
+      }
+    }
+  ],
+  "description": "Custom homes offer full personalization but cost more and take longer. Pre-built homes are faster and cheaper but have limited customization. Choose based on yo"
 }

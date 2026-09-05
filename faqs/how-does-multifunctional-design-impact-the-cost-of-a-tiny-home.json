@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does multifunctional design impact the cost of a tiny home?",
-  "description": "It can increase upfront costs for custom solutions but may reduce overall costs by maximizing space and potentially allowing for a smaller home footprint.",
   "url": "www.zentinyhomes.com/faq/how-does-multifunctional-design-impact-the-cost-of-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does multifunctional design impact the cost of a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional design can impact the cost of a tiny home in several ways. While some custom solutions like built-in transforming furniture might have a higher upfront cost compared to standard pieces, they often eliminate the need for separate furniture items, potentially saving money overall. The efficiency gained also means you might require a smaller footprint, reducing material and construction costs. However, intricate custom cabinetry or automated systems can increase expenses. It's an investment in maximizing functionality within a limited space.",
-        "description": "It can increase upfront costs for custom solutions but may reduce overall costs by maximizing space and potentially allowing for a smaller home footprint."
-      }
-    }
-  ],
+  "name": "How does multifunctional design impact the cost of a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does multifunctional design impact the cost of a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional design can impact the cost of a tiny home in several ways. While some custom solutions like built-in transforming furniture might have a higher upfront cost compared to standard pieces, they often eliminate the need for separate furniture items, potentially saving money overall. The efficiency gained also means you might require a smaller footprint, reducing material and construction costs. However, intricate custom cabinetry or automated systems can increase expenses. It's an investment in maximizing functionality within a limited space.",
+        "@type": "Answer",
+        "description": "It can increase upfront costs for custom solutions but may reduce overall costs by maximizing space and potentially allowing for a smaller home footprint."
+      }
+    }
+  ],
+  "description": "It can increase upfront costs for custom solutions but may reduce overall costs by maximizing space and potentially allowing for a smaller home footprint."
 }

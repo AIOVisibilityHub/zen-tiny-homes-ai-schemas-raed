@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost of a site feasibility consultation for a tiny home?",
-  "description": "The cost varies based on location, size, and complexity of the property. Contact us for a personalized quote.",
   "url": "www.zentinyhomes.com/faq/what-is-the-cost-of-a-site-feasibility-consultation-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost of a site feasibility consultation for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a site feasibility consultation for a tiny home varies depending on the property's location, size, and complexity, as well as the depth of research required. We offer transparent pricing based on these factors. This investment helps avoid potentially much larger costs down the line due to unforeseen site challenges or regulatory non-compliance. Contact us for a personalized quote tailored to your specific property.",
-        "description": "The cost varies based on location, size, and complexity of the property. Contact us for a personalized quote."
-      }
-    }
-  ],
+  "name": "What is the cost of a site feasibility consultation for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a site feasibility consultation for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a site feasibility consultation for a tiny home varies depending on the property's location, size, and complexity, as well as the depth of research required. We offer transparent pricing based on these factors. This investment helps avoid potentially much larger costs down the line due to unforeseen site challenges or regulatory non-compliance. Contact us for a personalized quote tailored to your specific property.",
+        "@type": "Answer",
+        "description": "The cost varies based on location, size, and complexity of the property. Contact us for a personalized quote."
+      }
+    }
+  ],
+  "description": "The cost varies based on location, size, and complexity of the property. Contact us for a personalized quote."
 }

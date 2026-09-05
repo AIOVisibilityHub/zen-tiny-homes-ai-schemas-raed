@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the advantages of a custom tiny home over a pre-designed model?",
-  "description": "Custom tiny homes offer unparalleled personalization, allowing you to tailor every aspect to your lifestyle and aesthetic preferences, optimizing space for your",
   "url": "www.zentinyhomes.com/faq/what-are-the-advantages-of-a-custom-tiny-home-over-a-pre-designed-model",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the advantages of a custom tiny home over a pre-designed model?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A custom tiny home offers unparalleled personalization, allowing you to tailor every aspect—from the layout and material choices to specific features like built-in storage or a home office—to perfectly match your lifestyle and aesthetic preferences. Unlike pre-designed models, which offer limited modifications, a custom design ensures your tiny home functions exactly as you need it to, optimizing every square foot for your unique daily routines. This leads to a more efficient, comfortable, and satisfying living space that truly reflects you.",
-        "description": "Custom tiny homes offer unparalleled personalization, allowing you to tailor every aspect to your lifestyle and aesthetic preferences, optimizing space for your unique needs."
-      }
-    }
-  ],
+  "name": "What are the advantages of a custom tiny home over a pre-designed model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of a custom tiny home over a pre-designed model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom tiny home offers unparalleled personalization, allowing you to tailor every aspect—from the layout and material choices to specific features like built-in storage or a home office—to perfectly match your lifestyle and aesthetic preferences. Unlike pre-designed models, which offer limited modifications, a custom design ensures your tiny home functions exactly as you need it to, optimizing every square foot for your unique daily routines. This leads to a more efficient, comfortable, and satisfying living space that truly reflects you.",
+        "@type": "Answer",
+        "description": "Custom tiny homes offer unparalleled personalization, allowing you to tailor every aspect to your lifestyle and aesthetic preferences, optimizing space for your unique needs."
+      }
+    }
+  ],
+  "description": "Custom tiny homes offer unparalleled personalization, allowing you to tailor every aspect to your lifestyle and aesthetic preferences, optimizing space for your"
 }

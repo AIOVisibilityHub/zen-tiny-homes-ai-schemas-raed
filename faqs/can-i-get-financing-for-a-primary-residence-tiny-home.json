@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get financing for a primary-residence tiny home?",
-  "description": "Financing for tiny homes is available through personal loans, RV loans, or specialized tiny home loans. Traditional mortgages are less common but emerging for p",
   "url": "www.zentinyhomes.com/faq/can-i-get-financing-for-a-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get financing for a primary-residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financing for primary-residence tiny homes can be more challenging than for traditional homes but is becoming more accessible. Options may include personal loans, RV loans (if the home is on a trailer and certified as an RV), or specialized tiny home loans from credit unions or specific lenders. Traditional mortgages are less common due to the smaller size and different appraisal methods, but some conventional lenders are beginning to offer solutions for permanently affixed tiny homes on owned land. Equity loans on existing property can also be an option.",
-        "description": "Financing for tiny homes is available through personal loans, RV loans, or specialized tiny home loans. Traditional mortgages are less common but emerging for permanently affixed homes."
-      }
-    }
-  ],
+  "name": "Can I get financing for a primary-residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get financing for a primary-residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing for primary-residence tiny homes can be more challenging than for traditional homes but is becoming more accessible. Options may include personal loans, RV loans (if the home is on a trailer and certified as an RV), or specialized tiny home loans from credit unions or specific lenders. Traditional mortgages are less common due to the smaller size and different appraisal methods, but some conventional lenders are beginning to offer solutions for permanently affixed tiny homes on owned land. Equity loans on existing property can also be an option.",
+        "@type": "Answer",
+        "description": "Financing for tiny homes is available through personal loans, RV loans, or specialized tiny home loans. Traditional mortgages are less common but emerging for permanently affixed homes."
+      }
+    }
+  ],
+  "description": "Financing for tiny homes is available through personal loans, RV loans, or specialized tiny home loans. Traditional mortgages are less common but emerging for p"
 }

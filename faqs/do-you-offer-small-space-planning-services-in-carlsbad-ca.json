@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer small-space planning services in Carlsbad, CA?",
-  "description": "Yes, Zen Tiny Homes offers small-space planning services in Carlsbad, CA, and surrounding areas. We design efficient layouts for tiny homes and ADUs, tailored t",
   "url": "www.zentinyhomes.com/faq/do-you-offer-small-space-planning-services-in-carlsbad-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer small-space planning services in Carlsbad, CA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Zen Tiny Homes provides comprehensive small-space planning services in Carlsbad, CA, and throughout our service areas, including Vista, Oceanside, and San Marcos. Our expertise extends to designing efficient and aesthetically pleasing layouts for tiny homes, ADUs, and other compact living environments specific to the local climate and regulations. We understand the unique challenges and opportunities of small-space design in the Carlsbad area and work closely with clients to create customized solutions that meet their lifestyle and budget requirements.",
-        "description": "Yes, Zen Tiny Homes offers small-space planning services in Carlsbad, CA, and surrounding areas. We design efficient layouts for tiny homes and ADUs, tailored to local needs."
-      }
-    }
-  ],
+  "name": "Do you offer small-space planning services in Carlsbad, CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer small-space planning services in Carlsbad, CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Zen Tiny Homes provides comprehensive small-space planning services in Carlsbad, CA, and throughout our service areas, including Vista, Oceanside, and San Marcos. Our expertise extends to designing efficient and aesthetically pleasing layouts for tiny homes, ADUs, and other compact living environments specific to the local climate and regulations. We understand the unique challenges and opportunities of small-space design in the Carlsbad area and work closely with clients to create customized solutions that meet their lifestyle and budget requirements.",
+        "@type": "Answer",
+        "description": "Yes, Zen Tiny Homes offers small-space planning services in Carlsbad, CA, and surrounding areas. We design efficient layouts for tiny homes and ADUs, tailored to local needs."
+      }
+    }
+  ],
+  "description": "Yes, Zen Tiny Homes offers small-space planning services in Carlsbad, CA, and surrounding areas. We design efficient layouts for tiny homes and ADUs, tailored t"
 }

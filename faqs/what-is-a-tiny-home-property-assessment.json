@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What is a tiny home property assessment?",
-  "description": "A tiny home property assessment evaluates land suitability for a tiny home, checking zoning, utilities, and site conditions to ensure compliance with local regu",
+  "description": "A tiny home property assessment evaluates the value of a small residential dwelling and its land, considering unique factors like construction and mobility.",
   "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-property-assessment",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What is a tiny home property assessment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A tiny home property assessment evaluates a piece of land to determine its suitability for a tiny home. This includes checking zoning regulations, access to utilities like water, sewer/septic, and electricity, and assessing potential site challenges such as slope, soil conditions, or environmental factors. The assessment helps ensure that the chosen location complies with local building codes and ordinances for tiny homes, whether they are on foundations or on wheels, before any construction or placement begins. It provides a foundational understanding of what is feasible on a given parcel.",
-        "description": "A tiny home property assessment evaluates land suitability for a tiny home, checking zoning, utilities, and site conditions to ensure compliance with local regulations."
+        "text": "A tiny home property assessment evaluates the value of a small residential dwelling, typically under 600 square feet, and its land. This process considers factors specific to tiny homes, such as unique construction methods, use of space, and whether it's on a permanent foundation or mobile. The assessment determines market value for purposes like financing, insurance, property taxes, or resale, distinguishing it from traditional home appraisals due to its specialized nature and evolving market.",
+        "description": "A tiny home property assessment evaluates the value of a small residential dwelling and its land, considering unique factors like construction and mobility."
       }
     }
   ],

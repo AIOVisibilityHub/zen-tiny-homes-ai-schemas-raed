@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I place a tiny home in my backyard as an ADU in Escondido?",
-  "description": "Yes, Escondido allows tiny homes as ADUs in backyards, subject to zoning, building codes, lot size, and setback requirements. Consult the city's planning depart",
   "url": "www.zentinyhomes.com/faq/can-i-place-a-tiny-home-in-my-backyard-as-an-adu-in-escondido",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I place a tiny home in my backyard as an ADU in Escondido?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Escondido, like many cities in San Diego County, allows tiny homes to be placed in backyards as Accessory Dwelling Units (ADUs), provided they meet specific zoning and building code requirements. The city has adopted state ADU laws that streamline the process. You'll need to ensure your property has sufficient lot size, meet setback requirements, and adhere to design standards for height, size, and utility connections. Consulting with Escondido's planning department is essential to confirm eligibility and understand the specific permitting process for your property.",
-        "description": "Yes, Escondido allows tiny homes as ADUs in backyards, subject to zoning, building codes, lot size, and setback requirements. Consult the city's planning department."
-      }
-    }
-  ],
+  "name": "Can I place a tiny home in my backyard as an ADU in Escondido?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I place a tiny home in my backyard as an ADU in Escondido?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Escondido, like many cities in San Diego County, allows tiny homes to be placed in backyards as Accessory Dwelling Units (ADUs), provided they meet specific zoning and building code requirements. The city has adopted state ADU laws that streamline the process. You'll need to ensure your property has sufficient lot size, meet setback requirements, and adhere to design standards for height, size, and utility connections. Consulting with Escondido's planning department is essential to confirm eligibility and understand the specific permitting process for your property.",
+        "@type": "Answer",
+        "description": "Yes, Escondido allows tiny homes as ADUs in backyards, subject to zoning, building codes, lot size, and setback requirements. Consult the city's planning department."
+      }
+    }
+  ],
+  "description": "Yes, Escondido allows tiny homes as ADUs in backyards, subject to zoning, building codes, lot size, and setback requirements. Consult the city's planning depart"
 }

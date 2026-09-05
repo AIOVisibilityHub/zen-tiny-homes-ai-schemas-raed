@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for designing a space-optimized tiny home?",
-  "description": "Designing a space-optimized tiny home usually takes 4 to 12 weeks, depending on complexity and client input. This includes concepts, drawings, and material sele",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-designing-a-space-optimized-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for designing a space-optimized tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The typical timeline for designing a space-optimized tiny home varies based on complexity and client input, but generally ranges from 4 to 12 weeks. This includes initial consultations, concept development, detailed architectural drawings, and material selection. Factors like custom features, specific permit requirements, and client revisions can extend this period. A well-planned design phase ensures an efficient construction process.",
-        "description": "Designing a space-optimized tiny home usually takes 4 to 12 weeks, depending on complexity and client input. This includes concepts, drawings, and material selection."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for designing a space-optimized tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing a space-optimized tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for designing a space-optimized tiny home varies based on complexity and client input, but generally ranges from 4 to 12 weeks. This includes initial consultations, concept development, detailed architectural drawings, and material selection. Factors like custom features, specific permit requirements, and client revisions can extend this period. A well-planned design phase ensures an efficient construction process.",
+        "@type": "Answer",
+        "description": "Designing a space-optimized tiny home usually takes 4 to 12 weeks, depending on complexity and client input. This includes concepts, drawings, and material selection."
+      }
+    }
+  ],
+  "description": "Designing a space-optimized tiny home usually takes 4 to 12 weeks, depending on complexity and client input. This includes concepts, drawings, and material sele"
 }

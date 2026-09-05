@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I maximize storage in my tiny home without making it feel cluttered?",
-  "description": "Maximize storage with built-ins, vertical solutions, multi-functional furniture, and custom cabinetry. Decluttering helps maintain an open feel.",
   "url": "www.zentinyhomes.com/faq/how-can-i-maximize-storage-in-my-tiny-home-without-making-it-feel-cluttered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I maximize storage in my tiny home without making it feel cluttered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maximizing storage without clutter involves strategic design. Consider built-in storage under beds or seating, wall-mounted shelving, and custom cabinetry that fits unusual spaces. Vertical storage solutions like tall, narrow pantry units or integrated wardrobes are key. Opt for furniture that serves multiple purposes, such as an ottoman with storage or a dining table that folds away. Thoughtful organization and decluttering before moving in are also crucial for maintaining an open feel.",
-        "description": "Maximize storage with built-ins, vertical solutions, multi-functional furniture, and custom cabinetry. Decluttering helps maintain an open feel."
-      }
-    }
-  ],
+  "name": "How can I maximize storage in my tiny home without making it feel cluttered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maximize storage in my tiny home without making it feel cluttered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maximizing storage without clutter involves strategic design. Consider built-in storage under beds or seating, wall-mounted shelving, and custom cabinetry that fits unusual spaces. Vertical storage solutions like tall, narrow pantry units or integrated wardrobes are key. Opt for furniture that serves multiple purposes, such as an ottoman with storage or a dining table that folds away. Thoughtful organization and decluttering before moving in are also crucial for maintaining an open feel.",
+        "@type": "Answer",
+        "description": "Maximize storage with built-ins, vertical solutions, multi-functional furniture, and custom cabinetry. Decluttering helps maintain an open feel."
+      }
+    }
+  ],
+  "description": "Maximize storage with built-ins, vertical solutions, multi-functional furniture, and custom cabinetry. Decluttering helps maintain an open feel."
 }

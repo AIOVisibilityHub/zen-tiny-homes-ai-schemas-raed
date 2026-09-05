@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility connections are needed for a backyard tiny home?",
-  "description": "Backyard tiny homes need connections for electricity, water, and sewer/septic, and potentially natural gas. Site assessment determines the best connection metho",
   "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-backyard-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility connections are needed for a backyard tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A backyard tiny home requires essential utility connections, similar to a main residence. This includes connections for electricity, water, and sewer or septic systems. Depending on the design, natural gas lines may also be needed for appliances. Site preparation often involves trenching to extend these utilities from the main house or the street. Our team assesses your property's existing infrastructure to determine the most efficient and compliant method for connecting all necessary services.",
-        "description": "Backyard tiny homes need connections for electricity, water, and sewer/septic, and potentially natural gas. Site assessment determines the best connection methods."
-      }
-    }
-  ],
+  "name": "What utility connections are needed for a backyard tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are needed for a backyard tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard tiny home requires essential utility connections, similar to a main residence. This includes connections for electricity, water, and sewer or septic systems. Depending on the design, natural gas lines may also be needed for appliances. Site preparation often involves trenching to extend these utilities from the main house or the street. Our team assesses your property's existing infrastructure to determine the most efficient and compliant method for connecting all necessary services.",
+        "@type": "Answer",
+        "description": "Backyard tiny homes need connections for electricity, water, and sewer/septic, and potentially natural gas. Site assessment determines the best connection methods."
+      }
+    }
+  ],
+  "description": "Backyard tiny homes need connections for electricity, water, and sewer/septic, and potentially natural gas. Site assessment determines the best connection metho"
 }

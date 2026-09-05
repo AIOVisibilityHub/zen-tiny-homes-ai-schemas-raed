@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to design and implement custom storage solutions?",
-  "description": "Design can take a few weeks; fabrication and installation add more time. We integrate this into the tiny home's overall construction schedule.",
   "url": "www.zentinyhomes.com/faq/how-long-does-it-take-to-design-and-implement-custom-storage-solutions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to design and implement custom storage solutions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for designing and implementing custom storage solutions for a tiny home depends on the complexity and scope of the project. Initial design consultations and conceptualization typically take a few weeks. Fabrication and installation of custom elements, once the design is finalized and approved, can add several weeks to the overall construction schedule. We integrate this work efficiently into the tiny home's build timeline to ensure timely completion without compromising quality or design integrity.",
-        "description": "Design can take a few weeks; fabrication and installation add more time. We integrate this into the tiny home's overall construction schedule."
-      }
-    }
-  ],
+  "name": "How long does it take to design and implement custom storage solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and implement custom storage solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and implementing custom storage solutions for a tiny home depends on the complexity and scope of the project. Initial design consultations and conceptualization typically take a few weeks. Fabrication and installation of custom elements, once the design is finalized and approved, can add several weeks to the overall construction schedule. We integrate this work efficiently into the tiny home's build timeline to ensure timely completion without compromising quality or design integrity.",
+        "@type": "Answer",
+        "description": "Design can take a few weeks; fabrication and installation add more time. We integrate this into the tiny home's overall construction schedule."
+      }
+    }
+  ],
+  "description": "Design can take a few weeks; fabrication and installation add more time. We integrate this into the tiny home's overall construction schedule."
 }

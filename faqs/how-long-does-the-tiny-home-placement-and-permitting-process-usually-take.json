@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the tiny home placement and permitting process usually take?",
-  "description": "Placement and permitting can take weeks to several months, depending on project complexity, local jurisdiction backlog, and efficient submission of all required",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-tiny-home-placement-and-permitting-process-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the tiny home placement and permitting process usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for tiny home placement and permitting can vary significantly, typically ranging from a few weeks to several months. This depends heavily on the complexity of the project, the specific city or county's permitting backlog, and how quickly all required documentation (plans, surveys, engineering reports) is submitted and approved. Site preparation and utility installations also contribute to the overall timeline. Proactive engagement with local planning departments and having all paperwork in order can help expedite the process.",
-        "description": "Placement and permitting can take weeks to several months, depending on project complexity, local jurisdiction backlog, and efficient submission of all required documents."
-      }
-    }
-  ],
+  "name": "How long does the tiny home placement and permitting process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the tiny home placement and permitting process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for tiny home placement and permitting can vary significantly, typically ranging from a few weeks to several months. This depends heavily on the complexity of the project, the specific city or county's permitting backlog, and how quickly all required documentation (plans, surveys, engineering reports) is submitted and approved. Site preparation and utility installations also contribute to the overall timeline. Proactive engagement with local planning departments and having all paperwork in order can help expedite the process.",
+        "@type": "Answer",
+        "description": "Placement and permitting can take weeks to several months, depending on project complexity, local jurisdiction backlog, and efficient submission of all required documents."
+      }
+    }
+  ],
+  "description": "Placement and permitting can take weeks to several months, depending on project complexity, local jurisdiction backlog, and efficient submission of all required"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for constructing a multigenerational living solution?",
-  "description": "Construction of a multigenerational living solution typically takes 6-12 months, including design, permitting, and building phases.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-constructing-a-multigenerational-living-solutio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for constructing a multigenerational living solution?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The construction timeline for a multigenerational living solution, such as an ADU or home addition, generally ranges from 6 to 12 months, though complex projects can take longer. This includes design, permitting, and construction phases. The permitting process alone can take several weeks to a few months, depending on local San Diego county regulations and review times. Actual construction usually takes 3 to 6 months. We work to streamline each phase to complete your project efficiently while maintaining quality.",
-        "description": "Construction of a multigenerational living solution typically takes 6-12 months, including design, permitting, and building phases."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for constructing a multigenerational living solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a multigenerational living solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a multigenerational living solution, such as an ADU or home addition, generally ranges from 6 to 12 months, though complex projects can take longer. This includes design, permitting, and construction phases. The permitting process alone can take several weeks to a few months, depending on local San Diego county regulations and review times. Actual construction usually takes 3 to 6 months. We work to streamline each phase to complete your project efficiently while maintaining quality.",
+        "@type": "Answer",
+        "description": "Construction of a multigenerational living solution typically takes 6-12 months, including design, permitting, and building phases."
+      }
+    }
+  ],
+  "description": "Construction of a multigenerational living solution typically takes 6-12 months, including design, permitting, and building phases."
 }

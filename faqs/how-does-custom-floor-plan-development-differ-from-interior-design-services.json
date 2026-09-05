@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does custom floor-plan development differ from interior design services?",
-  "description": "Floor-plan development focuses on structural layout and spatial arrangement, while interior design handles aesthetics, finishes, and decor within that structure",
   "url": "www.zentinyhomes.com/faq/how-does-custom-floor-plan-development-differ-from-interior-design-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does custom floor-plan development differ from interior design services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom floor-plan development focuses on the structural layout and spatial arrangement of your tiny home, determining the placement of walls, rooms, windows, and major built-in features. It's about optimizing the flow and functionality of the physical space. Interior design, conversely, typically deals with the aesthetic aspects and finishes within that established layout, such as color schemes, furniture selection, decor, and material choices. While they are complementary, floor plan development is foundational, dictating the 'bones' of the home, whereas interior design adds the 'flesh' and style.",
-        "description": "Floor-plan development focuses on structural layout and spatial arrangement, while interior design handles aesthetics, finishes, and decor within that structure."
-      }
-    }
-  ],
+  "name": "How does custom floor-plan development differ from interior design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does custom floor-plan development differ from interior design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom floor-plan development focuses on the structural layout and spatial arrangement of your tiny home, determining the placement of walls, rooms, windows, and major built-in features. It's about optimizing the flow and functionality of the physical space. Interior design, conversely, typically deals with the aesthetic aspects and finishes within that established layout, such as color schemes, furniture selection, decor, and material choices. While they are complementary, floor plan development is foundational, dictating the 'bones' of the home, whereas interior design adds the 'flesh' and style.",
+        "@type": "Answer",
+        "description": "Floor-plan development focuses on structural layout and spatial arrangement, while interior design handles aesthetics, finishes, and decor within that structure."
+      }
+    }
+  ],
+  "description": "Floor-plan development focuses on structural layout and spatial arrangement, while interior design handles aesthetics, finishes, and decor within that structure"
 }

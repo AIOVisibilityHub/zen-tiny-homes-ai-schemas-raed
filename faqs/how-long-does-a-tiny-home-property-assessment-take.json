@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "How long does a tiny home property assessment take?",
-  "description": "A tiny home property assessment typically takes 1 to 3 weeks, depending on property complexity, ease of information retrieval, and site visit scheduling.",
+  "description": "Assessments typically take a few days to a few weeks, depending on site complexity and the need for detailed surveys or tests.",
   "url": "www.zentinyhomes.com/faq/how-long-does-a-tiny-home-property-assessment-take",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "How long does a tiny home property assessment take?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The duration of a tiny home property assessment can vary, but typically it takes between 1 to 3 weeks from the initial request to the delivery of the final report. This timeline depends on factors such as the property's complexity, the ease of obtaining local zoning and utility information from municipal departments, and the scheduling of site visits. More intricate sites requiring detailed surveys or specific environmental checks might extend this period. We strive to complete assessments efficiently while ensuring thoroughness.",
-        "description": "A tiny home property assessment typically takes 1 to 3 weeks, depending on property complexity, ease of information retrieval, and site visit scheduling."
+        "text": "The duration of a tiny home property assessment can vary, but generally, it can take anywhere from a few days to a few weeks. Simple assessments on properties with readily available public records and clear zoning might be quicker. More complex sites requiring detailed surveys, soil testing, or extensive communication with local planning departments could take longer. It's always best to discuss the estimated timeframe with your assessment provider based on the specifics of your property.",
+        "description": "Assessments typically take a few days to a few weeks, depending on site complexity and the need for detailed surveys or tests."
       }
     }
   ],

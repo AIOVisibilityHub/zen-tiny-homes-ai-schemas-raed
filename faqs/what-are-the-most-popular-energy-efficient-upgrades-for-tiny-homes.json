@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the most popular energy-efficient upgrades for tiny homes?",
-  "description": "Popular energy-efficient tiny home upgrades include solar panels, high-performance insulation, energy-efficient windows and doors, LED lighting, and Energy Star",
   "url": "www.zentinyhomes.com/faq/what-are-the-most-popular-energy-efficient-upgrades-for-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the most popular energy-efficient upgrades for tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Popular energy-efficient upgrades for tiny homes include solar panel installations for renewable energy, high-performance insulation to minimize heat loss or gain, and energy-efficient windows and doors. LED lighting throughout the home significantly reduces electricity consumption. Additionally, choosing Energy Star-rated appliances for refrigeration, heating, and cooling helps conserve power and lower utility costs, contributing to a more sustainable and cost-effective living experience.",
-        "description": "Popular energy-efficient tiny home upgrades include solar panels, high-performance insulation, energy-efficient windows and doors, LED lighting, and Energy Star-rated appliances."
-      }
-    }
-  ],
+  "name": "What are the most popular energy-efficient upgrades for tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular energy-efficient upgrades for tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular energy-efficient upgrades for tiny homes include solar panel installations for renewable energy, high-performance insulation to minimize heat loss or gain, and energy-efficient windows and doors. LED lighting throughout the home significantly reduces electricity consumption. Additionally, choosing Energy Star-rated appliances for refrigeration, heating, and cooling helps conserve power and lower utility costs, contributing to a more sustainable and cost-effective living experience.",
+        "@type": "Answer",
+        "description": "Popular energy-efficient tiny home upgrades include solar panels, high-performance insulation, energy-efficient windows and doors, LED lighting, and Energy Star-rated appliances."
+      }
+    }
+  ],
+  "description": "Popular energy-efficient tiny home upgrades include solar panels, high-performance insulation, energy-efficient windows and doors, LED lighting, and Energy Star"
 }

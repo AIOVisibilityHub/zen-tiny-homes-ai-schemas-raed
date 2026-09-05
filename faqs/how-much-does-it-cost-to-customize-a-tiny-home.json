@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "How much does it cost to customize a tiny home?",
-  "description": "Customization costs vary based on chosen features and upgrades; extensive options can add 10-30% to the base price. Detailed quotes are provided during design.",
+  "description": "Customization costs depend on the extent and type of upgrades, from basic finishes to premium materials and off-grid systems.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-customize-a-tiny-home",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "How much does it cost to customize a tiny home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The cost of customizing a tiny home varies significantly based on the chosen features and upgrades. Basic customization like selecting paint colors or standard finishes might have minimal impact, while high-end appliances, custom cabinetry, unique architectural elements, or extensive smart home integrations can increase the overall price. We provide detailed quotes during the design phase, breaking down costs for specific customizations. A typical range for significant upgrades can be 10-30% above a standard model's base price.",
-        "description": "Customization costs vary based on chosen features and upgrades; extensive options can add 10-30% to the base price. Detailed quotes are provided during design."
+        "text": "The cost of customizing a tiny home varies significantly based on the chosen upgrades and materials. Basic customization, like paint colors or standard appliance upgrades, will have a lower impact on the overall price. More extensive modifications, such as premium finishes, custom built-ins, off-grid systems (solar, composting toilets), or structural changes, will increase the total cost. We provide a detailed quote after understanding your specific customization requests, allowing you to make informed decisions within your budget.",
+        "description": "Customization costs depend on the extent and type of upgrades, from basic finishes to premium materials and off-grid systems."
       }
     }
   ],

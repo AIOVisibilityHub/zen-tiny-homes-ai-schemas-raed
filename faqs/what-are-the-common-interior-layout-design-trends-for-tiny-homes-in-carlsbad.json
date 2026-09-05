@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common interior layout design trends for tiny homes in Carlsbad?",
-  "description": "Tiny home layouts in Carlsbad often feature natural light, indoor-outdoor living, light color palettes, and open concepts, reflecting the coastal climate and li",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-interior-layout-design-trends-for-tiny-homes-in-carlsbad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common interior layout design trends for tiny homes in Carlsbad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While specific trends can evolve, tiny homes in areas like Carlsbad often feature designs that embrace natural light and indoor-outdoor living, given the favorable climate. This includes layouts with large windows, bi-fold doors, or decks that seamlessly extend the living space. Coastal influences might lead to lighter color palettes, natural materials, and efficient use of space to avoid clutter. Open-concept living areas are also popular to enhance the feeling of spaciousness, combined with smart, integrated storage solutions tailored to a relaxed, active lifestyle.",
-        "description": "Tiny home layouts in Carlsbad often feature natural light, indoor-outdoor living, light color palettes, and open concepts, reflecting the coastal climate and lifestyle."
-      }
-    }
-  ],
+  "name": "What are the common interior layout design trends for tiny homes in Carlsbad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common interior layout design trends for tiny homes in Carlsbad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific trends can evolve, tiny homes in areas like Carlsbad often feature designs that embrace natural light and indoor-outdoor living, given the favorable climate. This includes layouts with large windows, bi-fold doors, or decks that seamlessly extend the living space. Coastal influences might lead to lighter color palettes, natural materials, and efficient use of space to avoid clutter. Open-concept living areas are also popular to enhance the feeling of spaciousness, combined with smart, integrated storage solutions tailored to a relaxed, active lifestyle.",
+        "@type": "Answer",
+        "description": "Tiny home layouts in Carlsbad often feature natural light, indoor-outdoor living, light color palettes, and open concepts, reflecting the coastal climate and lifestyle."
+      }
+    }
+  ],
+  "description": "Tiny home layouts in Carlsbad often feature natural light, indoor-outdoor living, light color palettes, and open concepts, reflecting the coastal climate and li"
 }

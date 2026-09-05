@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right design for a multigenerational home?",
-  "description": "Choose a design that balances privacy, accessibility, and individual lifestyles for all family members, incorporating features like separate entrances and adapt",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-design-for-a-multigenerational-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right design for a multigenerational home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right design for a multigenerational home involves considering the privacy needs, accessibility requirements, and lifestyle preferences of all occupants. Key elements include separate entrances, independent kitchenettes or full kitchens, and distinct living areas. For elderly family members, features like wider doorways, zero-entry showers, and grab bars are important. Consider future flexibility; designs that can adapt to changing family dynamics are often beneficial. We help you explore layouts that balance shared family spaces with individual autonomy.",
-        "description": "Choose a design that balances privacy, accessibility, and individual lifestyles for all family members, incorporating features like separate entrances and adaptable layouts."
-      }
-    }
-  ],
+  "name": "How do I choose the right design for a multigenerational home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right design for a multigenerational home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right design for a multigenerational home involves considering the privacy needs, accessibility requirements, and lifestyle preferences of all occupants. Key elements include separate entrances, independent kitchenettes or full kitchens, and distinct living areas. For elderly family members, features like wider doorways, zero-entry showers, and grab bars are important. Consider future flexibility; designs that can adapt to changing family dynamics are often beneficial. We help you explore layouts that balance shared family spaces with individual autonomy.",
+        "@type": "Answer",
+        "description": "Choose a design that balances privacy, accessibility, and individual lifestyles for all family members, incorporating features like separate entrances and adaptable layouts."
+      }
+    }
+  ],
+  "description": "Choose a design that balances privacy, accessibility, and individual lifestyles for all family members, incorporating features like separate entrances and adapt"
 }

@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What factors are assessed during a site feasibility consultation?",
-  "description": "Factors assessed include zoning, building codes, utility access, topography, soil conditions, and potential environmental concerns.",
+  "description": "Key factors assessed include zoning, utility availability, soil conditions, flood zones, fire safety, and access for construction.",
   "url": "www.zentinyhomes.com/faq/what-factors-are-assessed-during-a-site-feasibility-consultation",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What factors are assessed during a site feasibility consultation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "During a site feasibility consultation, several key factors are assessed. These include local zoning and building codes, ensuring the property allows tiny homes and meets setback requirements. We also evaluate utility access for water, sewer/septic, and electrical connections. Topography, soil conditions, access for construction, and potential environmental concerns like flood zones or fire hazards are also reviewed to provide a comprehensive understanding of the site's readiness.",
-        "description": "Factors assessed include zoning, building codes, utility access, topography, soil conditions, and potential environmental concerns."
+        "text": "During a site feasibility consultation, several critical factors are assessed. These include local zoning and land use regulations, setback requirements, utility availability (water, sewer/septic, electricity, gas, internet), soil stability and topography, flood zones, fire safety considerations, and access for construction vehicles. We also review any HOA covenants or specific regional overlays that might apply to tiny home placement.",
+        "description": "Key factors assessed include zoning, utility availability, soil conditions, flood zones, fire safety, and access for construction."
       }
     }
   ],

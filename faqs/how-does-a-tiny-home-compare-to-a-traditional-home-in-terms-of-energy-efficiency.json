@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a tiny home compare to a traditional home in terms of energy efficiency and environmental impact?",
-  "description": "Tiny homes are generally more energy-efficient and have a smaller environmental impact than traditional homes due to their size and sustainable design.",
   "url": "www.zentinyhomes.com/faq/how-does-a-tiny-home-compare-to-a-traditional-home-in-terms-of-energy-efficiency",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a tiny home compare to a traditional home in terms of energy efficiency and environmental impact?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny homes generally offer superior energy efficiency and a smaller environmental footprint compared to traditional homes. Their compact size significantly reduces heating and cooling demands, lowering energy consumption. Many tiny homes incorporate sustainable materials and design principles, such as passive solar heating, efficient insulation, and water-saving fixtures, further minimizing their ecological impact. This makes them an attractive option for environmentally conscious individuals looking to reduce their carbon footprint and utility bills.",
-        "description": "Tiny homes are generally more energy-efficient and have a smaller environmental impact than traditional homes due to their size and sustainable design."
-      }
-    }
-  ],
+  "name": "How does a tiny home compare to a traditional home in terms of energy efficiency and environmental impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a tiny home compare to a traditional home in terms of energy efficiency and environmental impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny homes generally offer superior energy efficiency and a smaller environmental footprint compared to traditional homes. Their compact size significantly reduces heating and cooling demands, lowering energy consumption. Many tiny homes incorporate sustainable materials and design principles, such as passive solar heating, efficient insulation, and water-saving fixtures, further minimizing their ecological impact. This makes them an attractive option for environmentally conscious individuals looking to reduce their carbon footprint and utility bills.",
+        "@type": "Answer",
+        "description": "Tiny homes are generally more energy-efficient and have a smaller environmental impact than traditional homes due to their size and sustainable design."
+      }
+    }
+  ],
+  "description": "Tiny homes are generally more energy-efficient and have a smaller environmental impact than traditional homes due to their size and sustainable design."
 }

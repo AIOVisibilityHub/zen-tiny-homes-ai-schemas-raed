@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for designing a custom tiny home?",
-  "description": "Designing a custom tiny home typically takes 4-8 weeks, depending on complexity and client feedback.",
   "url": "www.zentinyhomes.com/faq/what-is-the-typical-timeline-for-designing-a-custom-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for designing a custom tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The design phase for a custom tiny home typically takes 4-8 weeks. This period includes initial consultations, concept development, refining floor plans, selecting materials, and finalizing all specifications. Factors influencing this timeline include the complexity of your design, the speed of client feedback, and the completeness of initial requirements. We work closely with you to ensure all details meet your vision before construction begins, aiming for an efficient and thorough process.",
-        "description": "Designing a custom tiny home typically takes 4-8 weeks, depending on complexity and client feedback."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for designing a custom tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing a custom tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design phase for a custom tiny home typically takes 4-8 weeks. This period includes initial consultations, concept development, refining floor plans, selecting materials, and finalizing all specifications. Factors influencing this timeline include the complexity of your design, the speed of client feedback, and the completeness of initial requirements. We work closely with you to ensure all details meet your vision before construction begins, aiming for an efficient and thorough process.",
+        "@type": "Answer",
+        "description": "Designing a custom tiny home typically takes 4-8 weeks, depending on complexity and client feedback."
+      }
+    }
+  ],
+  "description": "Designing a custom tiny home typically takes 4-8 weeks, depending on complexity and client feedback."
 }

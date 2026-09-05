@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a standard model and a custom-built tiny home?",
-  "description": "Standard models have pre-selected designs for quicker builds and lower costs, while custom-built tiny homes offer complete personalization of every element, tho",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-standard-model-and-a-custom-built-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a standard model and a custom-built tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard model tiny home comes with pre-selected floor plans, finishes, and features, offering a quicker build time and often a lower price point. Custom-built tiny homes, however, allow for complete personalization of layout, materials, appliances, and aesthetic elements to perfectly match the homeowner's specific preferences and functional requirements. While custom builds take longer and are typically more expensive, they offer unparalleled individuality and tailored solutions not found in standard models.",
-        "description": "Standard models have pre-selected designs for quicker builds and lower costs, while custom-built tiny homes offer complete personalization of every element, though they take longer and cost more."
-      }
-    }
-  ],
+  "name": "What is the difference between a standard model and a custom-built tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard model and a custom-built tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard model tiny home comes with pre-selected floor plans, finishes, and features, offering a quicker build time and often a lower price point. Custom-built tiny homes, however, allow for complete personalization of layout, materials, appliances, and aesthetic elements to perfectly match the homeowner's specific preferences and functional requirements. While custom builds take longer and are typically more expensive, they offer unparalleled individuality and tailored solutions not found in standard models.",
+        "@type": "Answer",
+        "description": "Standard models have pre-selected designs for quicker builds and lower costs, while custom-built tiny homes offer complete personalization of every element, though they take longer and cost more."
+      }
+    }
+  ],
+  "description": "Standard models have pre-selected designs for quicker builds and lower costs, while custom-built tiny homes offer complete personalization of every element, tho"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does professional small-space planning cost?",
-  "description": "Professional small-space planning costs vary by project scope and designer. Standalone design services can range from hundreds to thousands, while integrated pl",
   "url": "www.zentinyhomes.com/faq/how-much-does-professional-small-space-planning-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does professional small-space planning cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of professional small-space planning varies widely depending on the scope of work, the designer's experience, and whether it's part of a larger construction project. For a standalone design consultation and layout, fees might range from a few hundred to several thousand dollars. If the planning is integrated into a custom tiny home build or extensive renovation, the design costs become part of the overall project budget. Factors influencing cost include the level of detail, custom furniture design, and 3D renderings. We offer transparent pricing following an initial assessment of your specific needs.",
-        "description": "Professional small-space planning costs vary by project scope and designer. Standalone design services can range from hundreds to thousands, while integrated planning is part of the overall build budget."
-      }
-    }
-  ],
+  "name": "How much does professional small-space planning cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional small-space planning cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional small-space planning varies widely depending on the scope of work, the designer's experience, and whether it's part of a larger construction project. For a standalone design consultation and layout, fees might range from a few hundred to several thousand dollars. If the planning is integrated into a custom tiny home build or extensive renovation, the design costs become part of the overall project budget. Factors influencing cost include the level of detail, custom furniture design, and 3D renderings. We offer transparent pricing following an initial assessment of your specific needs.",
+        "@type": "Answer",
+        "description": "Professional small-space planning costs vary by project scope and designer. Standalone design services can range from hundreds to thousands, while integrated planning is part of the overall build budget."
+      }
+    }
+  ],
+  "description": "Professional small-space planning costs vary by project scope and designer. Standalone design services can range from hundreds to thousands, while integrated pl"
 }

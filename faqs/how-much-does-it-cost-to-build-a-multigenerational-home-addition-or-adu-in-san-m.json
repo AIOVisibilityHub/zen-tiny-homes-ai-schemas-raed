@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to build a multigenerational home addition or ADU in San Marcos?",
-  "description": "Costs for a multigenerational addition or ADU in San Marcos vary widely, typically starting from $100,000 to $150,000 depending on size, design, and materials.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-build-a-multigenerational-home-addition-or-adu-in-san-m",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to build a multigenerational home addition or ADU in San Marcos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost to build a multigenerational home addition or ADU in San Marcos varies significantly based on size, design complexity, materials, and site conditions. A basic ADU or addition might start from around $100,000 to $150,000, but custom designs, higher-end finishes, and extensive site work can easily push costs higher. Factors like utility hookups, foundation type, and interior fixtures all influence the final price. We provide detailed estimates after an initial consultation to understand your specific project requirements.",
-        "description": "Costs for a multigenerational addition or ADU in San Marcos vary widely, typically starting from $100,000 to $150,000 depending on size, design, and materials."
-      }
-    }
-  ],
+  "name": "How much does it cost to build a multigenerational home addition or ADU in San Marcos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a multigenerational home addition or ADU in San Marcos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a multigenerational home addition or ADU in San Marcos varies significantly based on size, design complexity, materials, and site conditions. A basic ADU or addition might start from around $100,000 to $150,000, but custom designs, higher-end finishes, and extensive site work can easily push costs higher. Factors like utility hookups, foundation type, and interior fixtures all influence the final price. We provide detailed estimates after an initial consultation to understand your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs for a multigenerational addition or ADU in San Marcos vary widely, typically starting from $100,000 to $150,000 depending on size, design, and materials."
+      }
+    }
+  ],
+  "description": "Costs for a multigenerational addition or ADU in San Marcos vary widely, typically starting from $100,000 to $150,000 depending on size, design, and materials."
 }

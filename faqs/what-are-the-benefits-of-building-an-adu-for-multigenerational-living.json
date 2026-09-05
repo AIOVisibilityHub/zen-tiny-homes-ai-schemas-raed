@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of building an ADU for multigenerational living?",
-  "description": "ADUs provide independent living for family members on the same property, offering privacy, increased property value, and flexible living arrangements.",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-building-an-adu-for-multigenerational-living",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of building an ADU for multigenerational living?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building an Accessory Dwelling Unit (ADU) for multigenerational living offers several advantages. It provides distinct, independent living quarters for family members while keeping them close, fostering support and interaction. ADUs can increase property value and offer rental income flexibility if family needs change. For elder care, an ADU allows parents to age in place near their family without sacrificing privacy. This solution also optimizes land use and can be more cost-effective than purchasing a larger separate home.",
-        "description": "ADUs provide independent living for family members on the same property, offering privacy, increased property value, and flexible living arrangements."
-      }
-    }
-  ],
+  "name": "What are the benefits of building an ADU for multigenerational living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building an ADU for multigenerational living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an Accessory Dwelling Unit (ADU) for multigenerational living offers several advantages. It provides distinct, independent living quarters for family members while keeping them close, fostering support and interaction. ADUs can increase property value and offer rental income flexibility if family needs change. For elder care, an ADU allows parents to age in place near their family without sacrificing privacy. This solution also optimizes land use and can be more cost-effective than purchasing a larger separate home.",
+        "@type": "Answer",
+        "description": "ADUs provide independent living for family members on the same property, offering privacy, increased property value, and flexible living arrangements."
+      }
+    }
+  ],
+  "description": "ADUs provide independent living for family members on the same property, offering privacy, increased property value, and flexible living arrangements."
 }

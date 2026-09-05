@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "What financing options are available for tiny homes?",
-  "description": "Financing for tiny homes varies; foundation homes may qualify for mortgages, while tiny homes on wheels often use RV or personal loans.",
+  "description": "Financing options include RV loans, chattel mortgages, and personal loans, depending on the tiny home's classification and your financial profile.",
   "url": "www.zentinyhomes.com/faq/what-financing-options-are-available-for-tiny-homes",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "What financing options are available for tiny homes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Financing for tiny homes can differ from traditional mortgages, depending on whether the home is on a foundation or wheels. Foundation tiny homes may qualify for conventional mortgages, especially if built as an ADU. Tiny homes on wheels are often financed through RV loans, personal loans, or sometimes chattel mortgages. Some credit unions also offer specialized tiny home loans. It's advisable to explore various lenders and loan types early in your planning to find the best fit for your specific tiny home type and financial situation.",
-        "description": "Financing for tiny homes varies; foundation homes may qualify for mortgages, while tiny homes on wheels often use RV or personal loans."
+        "text": "Tiny homes can be financed through several avenues. Common options include RV loans, which are often used if the tiny home is on a trailer and certified as an RV. Chattel mortgages, a type of personal property loan, can also apply. Personal loans or unsecured loans are another possibility, though they typically come with higher interest rates. Some builders may offer in-house financing or connect buyers with specialized lenders. It's important to explore which option best fits your tiny home type and financial situation.",
+        "description": "Financing options include RV loans, chattel mortgages, and personal loans, depending on the tiny home's classification and your financial profile."
       }
     }
   ],

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost of a custom tiny home built by Zen Tiny Homes?",
-  "description": "The average cost for a custom tiny home with Zen Tiny Homes ranges from $70,000 to $150,000, depending on size, materials, and customization.",
   "url": "www.zentinyhomes.com/faq/what-is-the-average-cost-of-a-custom-tiny-home-built-by-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost of a custom tiny home built by Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a custom tiny home varies significantly based on size, materials, features, and level of customization. Our homes typically range from $70,000 to $150,000. This estimate includes design, construction, and standard finishes. Premium materials, advanced off-grid systems, or complex architectural features will increase the overall investment. We provide a detailed quote after understanding your specific requirements during the initial consultation.",
-        "description": "The average cost for a custom tiny home with Zen Tiny Homes ranges from $70,000 to $150,000, depending on size, materials, and customization."
-      }
-    }
-  ],
+  "name": "What is the average cost of a custom tiny home built by Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a custom tiny home built by Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom tiny home varies significantly based on size, materials, features, and level of customization. Our homes typically range from $70,000 to $150,000. This estimate includes design, construction, and standard finishes. Premium materials, advanced off-grid systems, or complex architectural features will increase the overall investment. We provide a detailed quote after understanding your specific requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "The average cost for a custom tiny home with Zen Tiny Homes ranges from $70,000 to $150,000, depending on size, materials, and customization."
+      }
+    }
+  ],
+  "description": "The average cost for a custom tiny home with Zen Tiny Homes ranges from $70,000 to $150,000, depending on size, materials, and customization."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a multigenerational living solution?",
-  "description": "Multigenerational living solutions create homes that accommodate multiple generations, offering both shared and private living spaces.",
   "url": "www.zentinyhomes.com/faq/what-is-a-multigenerational-living-solution",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a multigenerational living solution?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multigenerational living solutions involve creating a home environment that accommodates multiple generations of a family under one roof or on the same property. This can range from additions to existing homes, Accessory Dwelling Units (ADUs), or specially designed new constructions with separate living spaces. The goal is to provide independence while maintaining close family ties, often for adult children, elderly parents, or other relatives. These solutions are tailored to meet diverse family needs, offering both communal areas and private retreats.",
-        "description": "Multigenerational living solutions create homes that accommodate multiple generations, offering both shared and private living spaces."
-      }
-    }
-  ],
+  "name": "What is a multigenerational living solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multigenerational living solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multigenerational living solutions involve creating a home environment that accommodates multiple generations of a family under one roof or on the same property. This can range from additions to existing homes, Accessory Dwelling Units (ADUs), or specially designed new constructions with separate living spaces. The goal is to provide independence while maintaining close family ties, often for adult children, elderly parents, or other relatives. These solutions are tailored to meet diverse family needs, offering both communal areas and private retreats.",
+        "@type": "Answer",
+        "description": "Multigenerational living solutions create homes that accommodate multiple generations, offering both shared and private living spaces."
+      }
+    }
+  ],
+  "description": "Multigenerational living solutions create homes that accommodate multiple generations, offering both shared and private living spaces."
 }
