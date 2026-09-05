@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is space-optimization design in a tiny home?",
-  "description": "Space-optimization design maximizes functionality and spaciousness in a tiny home through strategic layouts, multi-functional furniture, and smart storage solut",
   "url": "www.zentinyhomes.com/faq/what-is-space-optimization-design-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is space-optimization design in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Space-optimization design focuses on maximizing the functionality and perceived spaciousness within the limited footprint of a tiny home. This involves strategic layouts, multi-functional furniture, built-in storage solutions, and careful material selection. The goal is to ensure every square inch serves a purpose, preventing clutter and creating an efficient, comfortable living environment. It considers vertical space, natural light, and flow to make small areas feel larger and more accommodating.",
-        "description": "Space-optimization design maximizes functionality and spaciousness in a tiny home through strategic layouts, multi-functional furniture, and smart storage solutions. It ensures every inch serves a purpose to create an efficient living environment."
-      }
-    }
-  ],
+  "name": "What is space-optimization design in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is space-optimization design in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Space-optimization design focuses on maximizing the functionality and perceived spaciousness within the limited footprint of a tiny home. This involves strategic layouts, multi-functional furniture, built-in storage solutions, and careful material selection. The goal is to ensure every square inch serves a purpose, preventing clutter and creating an efficient, comfortable living environment. It considers vertical space, natural light, and flow to make small areas feel larger and more accommodating.",
+        "@type": "Answer",
+        "description": "Space-optimization design maximizes functionality and spaciousness in a tiny home through strategic layouts, multi-functional furniture, and smart storage solutions. It ensures every inch serves a purpose to create an efficient living environment."
+      }
+    }
+  ],
+  "description": "Space-optimization design maximizes functionality and spaciousness in a tiny home through strategic layouts, multi-functional furniture, and smart storage solut"
 }

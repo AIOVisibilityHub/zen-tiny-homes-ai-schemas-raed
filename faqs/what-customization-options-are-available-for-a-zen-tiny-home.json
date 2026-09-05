@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What customization options are available for a Zen Tiny Home?",
-  "description": "Customization options include interior layouts, finishes, appliances, bathroom fixtures, and smart home technology integration.",
   "url": "www.zentinyhomes.com/faq/what-customization-options-are-available-for-a-zen-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What customization options are available for a Zen Tiny Home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zen Tiny Homes offers a range of customization options to tailor your tiny home to your lifestyle. This includes choices for interior layouts, finishes such as flooring, cabinetry, and countertops, and exterior siding materials. We also offer upgrades for appliances, bathroom fixtures, and smart home technology integration. Our team works with you to design a space that meets your specific needs, from maximizing storage to incorporating specific aesthetic preferences. The initial consultation helps define your vision and explore feasible options.",
-        "description": "Customization options include interior layouts, finishes, appliances, bathroom fixtures, and smart home technology integration."
-      }
-    }
-  ],
+  "name": "What customization options are available for a Zen Tiny Home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What customization options are available for a Zen Tiny Home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zen Tiny Homes offers a range of customization options to tailor your tiny home to your lifestyle. This includes choices for interior layouts, finishes such as flooring, cabinetry, and countertops, and exterior siding materials. We also offer upgrades for appliances, bathroom fixtures, and smart home technology integration. Our team works with you to design a space that meets your specific needs, from maximizing storage to incorporating specific aesthetic preferences. The initial consultation helps define your vision and explore feasible options.",
+        "@type": "Answer",
+        "description": "Customization options include interior layouts, finishes, appliances, bathroom fixtures, and smart home technology integration."
+      }
+    }
+  ],
+  "description": "Customization options include interior layouts, finishes, appliances, bathroom fixtures, and smart home technology integration."
 }

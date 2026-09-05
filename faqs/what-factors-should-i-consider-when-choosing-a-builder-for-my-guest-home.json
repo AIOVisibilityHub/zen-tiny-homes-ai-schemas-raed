@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a builder for my guest home?",
-  "description": "Choose a builder with ADU experience, local permitting knowledge, and transparent practices. Verify their licensing, insurance, and client references to ensure",
   "url": "www.zentinyhomes.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-guest-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a builder for my guest home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a builder for your guest home, prioritize experience with ADU construction, local knowledge of permitting processes in San Diego County, and a strong portfolio of completed projects. Look for transparent pricing, clear communication, and a comprehensive contract. Check their licensing, insurance, and client references. A builder who understands the nuances of local regulations and can guide you through each step, from design to final inspection, will ensure a smoother and more successful project outcome. Zen Tiny Homes emphasizes these factors in our client relationships.",
-        "description": "Choose a builder with ADU experience, local permitting knowledge, and transparent practices. Verify their licensing, insurance, and client references to ensure a smooth project."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a builder for my guest home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a builder for my guest home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a builder for your guest home, prioritize experience with ADU construction, local knowledge of permitting processes in San Diego County, and a strong portfolio of completed projects. Look for transparent pricing, clear communication, and a comprehensive contract. Check their licensing, insurance, and client references. A builder who understands the nuances of local regulations and can guide you through each step, from design to final inspection, will ensure a smoother and more successful project outcome. Zen Tiny Homes emphasizes these factors in our client relationships.",
+        "@type": "Answer",
+        "description": "Choose a builder with ADU experience, local permitting knowledge, and transparent practices. Verify their licensing, insurance, and client references to ensure a smooth project."
+      }
+    }
+  ],
+  "description": "Choose a builder with ADU experience, local permitting knowledge, and transparent practices. Verify their licensing, insurance, and client references to ensure"
 }

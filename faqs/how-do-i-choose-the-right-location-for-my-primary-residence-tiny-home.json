@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right location for my primary residence tiny home?",
-  "description": "Choose a location by checking zoning, utility access, lifestyle needs, and site conditions. Research areas permitting tiny homes as primary residences.",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-right-location-for-my-primary-residence-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right location for my primary residence tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right location involves considering local zoning laws, utility access, and your lifestyle needs. Research areas that permit tiny homes as primary residences and evaluate available land for access to water, sewer/septic, and electricity. Consider proximity to work, services, and amenities important to you. Soil composition and topography can also impact site preparation costs. Our team can provide general guidance on what to look for in a property, but it's crucial to conduct thorough due diligence or consult a real estate professional familiar with tiny home zoning.",
-        "description": "Choose a location by checking zoning, utility access, lifestyle needs, and site conditions. Research areas permitting tiny homes as primary residences."
-      }
-    }
-  ],
+  "name": "How do I choose the right location for my primary residence tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right location for my primary residence tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right location involves considering local zoning laws, utility access, and your lifestyle needs. Research areas that permit tiny homes as primary residences and evaluate available land for access to water, sewer/septic, and electricity. Consider proximity to work, services, and amenities important to you. Soil composition and topography can also impact site preparation costs. Our team can provide general guidance on what to look for in a property, but it's crucial to conduct thorough due diligence or consult a real estate professional familiar with tiny home zoning.",
+        "@type": "Answer",
+        "description": "Choose a location by checking zoning, utility access, lifestyle needs, and site conditions. Research areas permitting tiny homes as primary residences."
+      }
+    }
+  ],
+  "description": "Choose a location by checking zoning, utility access, lifestyle needs, and site conditions. Research areas permitting tiny homes as primary residences."
 }

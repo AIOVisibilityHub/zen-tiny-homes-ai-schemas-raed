@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a tiny home property assessment?",
-  "description": "A tiny home property assessment evaluates the value of a small residential dwelling and its land, considering unique factors like construction and mobility.",
   "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-property-assessment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a tiny home property assessment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home property assessment evaluates the value of a small residential dwelling, typically under 600 square feet, and its land. This process considers factors specific to tiny homes, such as unique construction methods, use of space, and whether it's on a permanent foundation or mobile. The assessment determines market value for purposes like financing, insurance, property taxes, or resale, distinguishing it from traditional home appraisals due to its specialized nature and evolving market.",
-        "description": "A tiny home property assessment evaluates the value of a small residential dwelling and its land, considering unique factors like construction and mobility."
-      }
-    }
-  ],
+  "name": "What is a tiny home property assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tiny home property assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home property assessment evaluates the value of a small residential dwelling, typically under 600 square feet, and its land. This process considers factors specific to tiny homes, such as unique construction methods, use of space, and whether it's on a permanent foundation or mobile. The assessment determines market value for purposes like financing, insurance, property taxes, or resale, distinguishing it from traditional home appraisals due to its specialized nature and evolving market.",
+        "@type": "Answer",
+        "description": "A tiny home property assessment evaluates the value of a small residential dwelling and its land, considering unique factors like construction and mobility."
+      }
+    }
+  ],
+  "description": "A tiny home property assessment evaluates the value of a small residential dwelling and its land, considering unique factors like construction and mobility."
 }

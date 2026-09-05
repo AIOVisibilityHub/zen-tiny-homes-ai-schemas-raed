@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a tiny home property assessment cost?",
-  "description": "Costs vary, but a tiny home assessment typically ranges from a few hundred to over a thousand dollars, depending on location and complexity.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-tiny-home-property-assessment-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a tiny home property assessment cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a tiny home property assessment can vary depending on location, the complexity of the tiny home, and the appraiser's fees. Generally, these assessments may range from a few hundred dollars to over a thousand. Factors influencing the cost include whether the tiny home is on a permanent foundation or wheels, its size, custom features, and the distance an appraiser must travel. It's recommended to obtain quotes from several qualified appraisers specializing in non-traditional properties.",
-        "description": "Costs vary, but a tiny home assessment typically ranges from a few hundred to over a thousand dollars, depending on location and complexity."
-      }
-    }
-  ],
+  "name": "How much does a tiny home property assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a tiny home property assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tiny home property assessment can vary depending on location, the complexity of the tiny home, and the appraiser's fees. Generally, these assessments may range from a few hundred dollars to over a thousand. Factors influencing the cost include whether the tiny home is on a permanent foundation or wheels, its size, custom features, and the distance an appraiser must travel. It's recommended to obtain quotes from several qualified appraisers specializing in non-traditional properties.",
+        "@type": "Answer",
+        "description": "Costs vary, but a tiny home assessment typically ranges from a few hundred to over a thousand dollars, depending on location and complexity."
+      }
+    }
+  ],
+  "description": "Costs vary, but a tiny home assessment typically ranges from a few hundred to over a thousand dollars, depending on location and complexity."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing a custom tiny home with Zen Tiny Homes?",
-  "description": "The design process starts with a consultation to define your vision and budget. We then create floor plans and 3D renderings, followed by material selections to",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-custom-tiny-home-with-zen-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing a custom tiny home with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our custom design process begins with an in-depth consultation to understand your vision, lifestyle, and budget. We then collaborate to develop floor plans and 3D renderings, allowing you to visualize your future home. Once the design is finalized, we assist with material selections, ensuring every detail aligns with your aesthetic and functional needs. This iterative approach ensures the final design precisely reflects your unique preferences before construction begins.",
-        "description": "The design process starts with a consultation to define your vision and budget. We then create floor plans and 3D renderings, followed by material selections to finalize your custom home design."
-      }
-    }
-  ],
+  "name": "What is the process for designing a custom tiny home with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom tiny home with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our custom design process begins with an in-depth consultation to understand your vision, lifestyle, and budget. We then collaborate to develop floor plans and 3D renderings, allowing you to visualize your future home. Once the design is finalized, we assist with material selections, ensuring every detail aligns with your aesthetic and functional needs. This iterative approach ensures the final design precisely reflects your unique preferences before construction begins.",
+        "@type": "Answer",
+        "description": "The design process starts with a consultation to define your vision and budget. We then create floor plans and 3D renderings, followed by material selections to finalize your custom home design."
+      }
+    }
+  ],
+  "description": "The design process starts with a consultation to define your vision and budget. We then create floor plans and 3D renderings, followed by material selections to"
 }

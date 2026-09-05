@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I maximize storage in a small home?",
-  "description": "Maximize storage by using built-in furniture, vertical solutions like wall shelves, and multi-functional items such as storage ottomans.",
   "url": "www.zentinyhomes.com/faq/how-can-i-maximize-storage-in-a-small-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I maximize storage in a small home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Maximizing storage in a small home involves utilizing every available space creatively. Built-in furniture, such as benches with hidden compartments or beds with drawers underneath, is highly effective. Vertical storage solutions like wall-mounted shelves, floor-to-ceiling cabinets, and pegboards can free up floor space. Using multi-functional items like ottomans that double as storage, or tables that fold away, also contributes significantly. Consider custom solutions that fit unique nooks and crannies to avoid dead space.",
-        "description": "Maximize storage by using built-in furniture, vertical solutions like wall shelves, and multi-functional items such as storage ottomans."
-      }
-    }
-  ],
+  "name": "How can I maximize storage in a small home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maximize storage in a small home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maximizing storage in a small home involves utilizing every available space creatively. Built-in furniture, such as benches with hidden compartments or beds with drawers underneath, is highly effective. Vertical storage solutions like wall-mounted shelves, floor-to-ceiling cabinets, and pegboards can free up floor space. Using multi-functional items like ottomans that double as storage, or tables that fold away, also contributes significantly. Consider custom solutions that fit unique nooks and crannies to avoid dead space.",
+        "@type": "Answer",
+        "description": "Maximize storage by using built-in furniture, vertical solutions like wall shelves, and multi-functional items such as storage ottomans."
+      }
+    }
+  ],
+  "description": "Maximize storage by using built-in furniture, vertical solutions like wall shelves, and multi-functional items such as storage ottomans."
 }

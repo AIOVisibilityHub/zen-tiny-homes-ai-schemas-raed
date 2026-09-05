@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is multifunctional living-space design?",
-  "description": "Multifunctional living-space design optimizes a single area to serve multiple purposes, using adaptable furniture and integrated storage to maximize utility in",
   "url": "www.zentinyhomes.com/faq/what-is-multifunctional-living-space-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is multifunctional living-space design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional living-space design optimizes a single area to serve multiple purposes. This approach is essential in tiny homes or smaller residences where space is at a premium. Examples include furniture that transforms, such as sofa beds or dining tables that fold away, and built-in storage solutions that seamlessly integrate into the structure. The goal is to maximize utility and flexibility, allowing residents to adapt their environment to various activities throughout the day without cluttering the home or compromising comfort. It ensures every square foot contributes meaningfully to daily living.",
-        "description": "Multifunctional living-space design optimizes a single area to serve multiple purposes, using adaptable furniture and integrated storage to maximize utility in smaller homes."
-      }
-    }
-  ],
+  "name": "What is multifunctional living-space design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is multifunctional living-space design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional living-space design optimizes a single area to serve multiple purposes. This approach is essential in tiny homes or smaller residences where space is at a premium. Examples include furniture that transforms, such as sofa beds or dining tables that fold away, and built-in storage solutions that seamlessly integrate into the structure. The goal is to maximize utility and flexibility, allowing residents to adapt their environment to various activities throughout the day without cluttering the home or compromising comfort. It ensures every square foot contributes meaningfully to daily living.",
+        "@type": "Answer",
+        "description": "Multifunctional living-space design optimizes a single area to serve multiple purposes, using adaptable furniture and integrated storage to maximize utility in smaller homes."
+      }
+    }
+  ],
+  "description": "Multifunctional living-space design optimizes a single area to serve multiple purposes, using adaptable furniture and integrated storage to maximize utility in"
 }

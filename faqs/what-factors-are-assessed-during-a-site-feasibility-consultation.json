@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors are assessed during a site feasibility consultation?",
-  "description": "Key factors assessed include zoning, utility availability, soil conditions, flood zones, fire safety, and access for construction.",
   "url": "www.zentinyhomes.com/faq/what-factors-are-assessed-during-a-site-feasibility-consultation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors are assessed during a site feasibility consultation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "During a site feasibility consultation, several critical factors are assessed. These include local zoning and land use regulations, setback requirements, utility availability (water, sewer/septic, electricity, gas, internet), soil stability and topography, flood zones, fire safety considerations, and access for construction vehicles. We also review any HOA covenants or specific regional overlays that might apply to tiny home placement.",
-        "description": "Key factors assessed include zoning, utility availability, soil conditions, flood zones, fire safety, and access for construction."
-      }
-    }
-  ],
+  "name": "What factors are assessed during a site feasibility consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors are assessed during a site feasibility consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a site feasibility consultation, several critical factors are assessed. These include local zoning and land use regulations, setback requirements, utility availability (water, sewer/septic, electricity, gas, internet), soil stability and topography, flood zones, fire safety considerations, and access for construction vehicles. We also review any HOA covenants or specific regional overlays that might apply to tiny home placement.",
+        "@type": "Answer",
+        "description": "Key factors assessed include zoning, utility availability, soil conditions, flood zones, fire safety, and access for construction."
+      }
+    }
+  ],
+  "description": "Key factors assessed include zoning, utility availability, soil conditions, flood zones, fire safety, and access for construction."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to customize a tiny home?",
-  "description": "Customization costs depend on the extent and type of upgrades, from basic finishes to premium materials and off-grid systems.",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-customize-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to customize a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of customizing a tiny home varies significantly based on the chosen upgrades and materials. Basic customization, like paint colors or standard appliance upgrades, will have a lower impact on the overall price. More extensive modifications, such as premium finishes, custom built-ins, off-grid systems (solar, composting toilets), or structural changes, will increase the total cost. We provide a detailed quote after understanding your specific customization requests, allowing you to make informed decisions within your budget.",
-        "description": "Customization costs depend on the extent and type of upgrades, from basic finishes to premium materials and off-grid systems."
-      }
-    }
-  ],
+  "name": "How much does it cost to customize a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to customize a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of customizing a tiny home varies significantly based on the chosen upgrades and materials. Basic customization, like paint colors or standard appliance upgrades, will have a lower impact on the overall price. More extensive modifications, such as premium finishes, custom built-ins, off-grid systems (solar, composting toilets), or structural changes, will increase the total cost. We provide a detailed quote after understanding your specific customization requests, allowing you to make informed decisions within your budget.",
+        "@type": "Answer",
+        "description": "Customization costs depend on the extent and type of upgrades, from basic finishes to premium materials and off-grid systems."
+      }
+    }
+  ],
+  "description": "Customization costs depend on the extent and type of upgrades, from basic finishes to premium materials and off-grid systems."
 }

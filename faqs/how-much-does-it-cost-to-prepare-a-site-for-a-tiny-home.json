@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to prepare a site for a tiny home?",
-  "description": "Site preparation costs vary based on land condition, grading, foundation choice, utility connection complexity, and additional features like landscaping or driv",
   "url": "www.zentinyhomes.com/faq/how-much-does-it-cost-to-prepare-a-site-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to prepare a site for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost to prepare a site for a tiny home varies widely based on several factors. These include the existing condition of the land, the extent of grading or clearing needed, foundation type (e.g., concrete slab, pier and beam, or specialized anchors for mobile tiny homes), and the distance and complexity of utility hookups (water, sewer/septic, electricity). Landscaping, driveways, and permits also contribute to the overall expense. Basic site prep might range from a few thousand dollars, while more extensive work on undeveloped land with new utility connections could be significantly higher.",
-        "description": "Site preparation costs vary based on land condition, grading, foundation choice, utility connection complexity, and additional features like landscaping or driveways."
-      }
-    }
-  ],
+  "name": "How much does it cost to prepare a site for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to prepare a site for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to prepare a site for a tiny home varies widely based on several factors. These include the existing condition of the land, the extent of grading or clearing needed, foundation type (e.g., concrete slab, pier and beam, or specialized anchors for mobile tiny homes), and the distance and complexity of utility hookups (water, sewer/septic, electricity). Landscaping, driveways, and permits also contribute to the overall expense. Basic site prep might range from a few thousand dollars, while more extensive work on undeveloped land with new utility connections could be significantly higher.",
+        "@type": "Answer",
+        "description": "Site preparation costs vary based on land condition, grading, foundation choice, utility connection complexity, and additional features like landscaping or driveways."
+      }
+    }
+  ],
+  "description": "Site preparation costs vary based on land condition, grading, foundation choice, utility connection complexity, and additional features like landscaping or driv"
 }

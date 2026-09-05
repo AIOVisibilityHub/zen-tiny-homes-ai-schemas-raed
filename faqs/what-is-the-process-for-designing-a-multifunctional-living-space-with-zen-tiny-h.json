@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing a multifunctional living space with Zen Tiny Homes?",
-  "description": "Our process involves consultation, concept development, design refinement, and precise execution to create a functional and adaptable tiny home.",
   "url": "www.zentinyhomes.com/faq/what-is-the-process-for-designing-a-multifunctional-living-space-with-zen-tiny-h",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing a multifunctional living space with Zen Tiny Homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our process begins with an initial consultation to understand your lifestyle, needs, and preferences. We then develop preliminary design concepts focusing on maximizing space and functionality. This includes exploring various layouts, furniture options, and storage solutions. After your feedback, we refine the design, create detailed plans, and select materials. Throughout construction, we ensure the design is executed precisely, resulting in a tiny home that seamlessly adapts to your daily life.",
-        "description": "Our process involves consultation, concept development, design refinement, and precise execution to create a functional and adaptable tiny home."
-      }
-    }
-  ],
+  "name": "What is the process for designing a multifunctional living space with Zen Tiny Homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a multifunctional living space with Zen Tiny Homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your lifestyle, needs, and preferences. We then develop preliminary design concepts focusing on maximizing space and functionality. This includes exploring various layouts, furniture options, and storage solutions. After your feedback, we refine the design, create detailed plans, and select materials. Throughout construction, we ensure the design is executed precisely, resulting in a tiny home that seamlessly adapts to your daily life.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, concept development, design refinement, and precise execution to create a functional and adaptable tiny home."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, concept development, design refinement, and precise execution to create a functional and adaptable tiny home."
 }

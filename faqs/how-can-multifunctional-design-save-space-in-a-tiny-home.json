@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can multifunctional design save space in a tiny home?",
-  "description": "It saves space by using adaptable furniture and integrated storage solutions that serve multiple functions, allowing one area to transition between different us",
   "url": "www.zentinyhomes.com/faq/how-can-multifunctional-design-save-space-in-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can multifunctional design save space in a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multifunctional design saves space by incorporating elements that serve more than one function, reducing the need for separate pieces of furniture or dedicated rooms. This includes features like murphy beds that fold into walls, transforming tables that adjust for dining or workspace, and benches with integrated storage. Built-in cabinetry and vertical storage solutions also utilize otherwise unused space, keeping the footprint clear. By designing spaces that adapt, a single area can efficiently transition from a living room to a bedroom or an office, maximizing the home's overall usability.",
-        "description": "It saves space by using adaptable furniture and integrated storage solutions that serve multiple functions, allowing one area to transition between different uses."
-      }
-    }
-  ],
+  "name": "How can multifunctional design save space in a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can multifunctional design save space in a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifunctional design saves space by incorporating elements that serve more than one function, reducing the need for separate pieces of furniture or dedicated rooms. This includes features like murphy beds that fold into walls, transforming tables that adjust for dining or workspace, and benches with integrated storage. Built-in cabinetry and vertical storage solutions also utilize otherwise unused space, keeping the footprint clear. By designing spaces that adapt, a single area can efficiently transition from a living room to a bedroom or an office, maximizing the home's overall usability.",
+        "@type": "Answer",
+        "description": "It saves space by using adaptable furniture and integrated storage solutions that serve multiple functions, allowing one area to transition between different uses."
+      }
+    }
+  ],
+  "description": "It saves space by using adaptable furniture and integrated storage solutions that serve multiple functions, allowing one area to transition between different us"
 }

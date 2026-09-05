@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I start planning for tiny home placement?",
-  "description": "Start tiny home placement planning as early as possible, ideally before or during design, to understand property limitations and regulations.",
   "url": "www.zentinyhomes.com/faq/when-should-i-start-planning-for-tiny-home-placement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I start planning for tiny home placement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should start planning for tiny home placement as early as possible, ideally before or during the initial stages of home design. Understanding your property's limitations and local regulations first can inform your tiny home's specifications and design choices. Early planning helps identify potential challenges with zoning, utility access, and site preparation, allowing you to address them proactively and avoid costly changes later in the project.",
-        "description": "Start tiny home placement planning as early as possible, ideally before or during design, to understand property limitations and regulations."
-      }
-    }
-  ],
+  "name": "When should I start planning for tiny home placement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning for tiny home placement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should start planning for tiny home placement as early as possible, ideally before or during the initial stages of home design. Understanding your property's limitations and local regulations first can inform your tiny home's specifications and design choices. Early planning helps identify potential challenges with zoning, utility access, and site preparation, allowing you to address them proactively and avoid costly changes later in the project.",
+        "@type": "Answer",
+        "description": "Start tiny home placement planning as early as possible, ideally before or during design, to understand property limitations and regulations."
+      }
+    }
+  ],
+  "description": "Start tiny home placement planning as early as possible, ideally before or during design, to understand property limitations and regulations."
 }

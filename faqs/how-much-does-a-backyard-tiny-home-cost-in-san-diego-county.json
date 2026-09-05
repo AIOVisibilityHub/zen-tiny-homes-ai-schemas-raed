@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a backyard tiny home cost in San Diego County?",
-  "description": "Costs for backyard tiny homes in San Diego County vary based on size, design, finishes, and site work; detailed estimates are provided after consultation.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-backyard-tiny-home-cost-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a backyard tiny home cost in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a backyard tiny home in San Diego County varies widely based on size, design complexity, finishes, and site-specific preparation. Factors like utility connections, foundation type, and interior selections all influence the final price. Zen Tiny Homes provides detailed estimates after an initial consultation to understand your project scope and design preferences. We aim to offer transparent pricing and guide you through the investment involved.",
-        "description": "Costs for backyard tiny homes in San Diego County vary based on size, design, finishes, and site work; detailed estimates are provided after consultation."
-      }
-    }
-  ],
+  "name": "How much does a backyard tiny home cost in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a backyard tiny home cost in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a backyard tiny home in San Diego County varies widely based on size, design complexity, finishes, and site-specific preparation. Factors like utility connections, foundation type, and interior selections all influence the final price. Zen Tiny Homes provides detailed estimates after an initial consultation to understand your project scope and design preferences. We aim to offer transparent pricing and guide you through the investment involved.",
+        "@type": "Answer",
+        "description": "Costs for backyard tiny homes in San Diego County vary based on size, design, finishes, and site work; detailed estimates are provided after consultation."
+      }
+    }
+  ],
+  "description": "Costs for backyard tiny homes in San Diego County vary based on size, design, finishes, and site work; detailed estimates are provided after consultation."
 }

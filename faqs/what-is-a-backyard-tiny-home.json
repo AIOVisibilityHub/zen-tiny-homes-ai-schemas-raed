@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a backyard tiny home?",
-  "description": "A backyard tiny home is a secondary housing unit, also known as an ADU, built on a property with an existing single-family home.",
   "url": "www.zentinyhomes.com/faq/what-is-a-backyard-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a backyard tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A backyard tiny home, also known as an Accessory Dwelling Unit (ADU) or granny flat, is a secondary housing unit on a property with an existing single-family home. These homes are typically smaller than the main residence and serve various purposes, such as housing family members, generating rental income, or providing a dedicated workspace. Zen Tiny Homes specializes in designing and constructing custom backyard tiny homes tailored to your specific needs and property layout.",
-        "description": "A backyard tiny home is a secondary housing unit, also known as an ADU, built on a property with an existing single-family home."
-      }
-    }
-  ],
+  "name": "What is a backyard tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backyard tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard tiny home, also known as an Accessory Dwelling Unit (ADU) or granny flat, is a secondary housing unit on a property with an existing single-family home. These homes are typically smaller than the main residence and serve various purposes, such as housing family members, generating rental income, or providing a dedicated workspace. Zen Tiny Homes specializes in designing and constructing custom backyard tiny homes tailored to your specific needs and property layout.",
+        "@type": "Answer",
+        "description": "A backyard tiny home is a secondary housing unit, also known as an ADU, built on a property with an existing single-family home."
+      }
+    }
+  ],
+  "description": "A backyard tiny home is a secondary housing unit, also known as an ADU, built on a property with an existing single-family home."
 }

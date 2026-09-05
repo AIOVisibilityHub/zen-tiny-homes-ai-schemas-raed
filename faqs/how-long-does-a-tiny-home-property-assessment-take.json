@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a tiny home property assessment take?",
-  "description": "Assessments typically take a few days to a few weeks, depending on site complexity and the need for detailed surveys or tests.",
   "url": "www.zentinyhomes.com/faq/how-long-does-a-tiny-home-property-assessment-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a tiny home property assessment take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a tiny home property assessment can vary, but generally, it can take anywhere from a few days to a few weeks. Simple assessments on properties with readily available public records and clear zoning might be quicker. More complex sites requiring detailed surveys, soil testing, or extensive communication with local planning departments could take longer. It's always best to discuss the estimated timeframe with your assessment provider based on the specifics of your property.",
-        "description": "Assessments typically take a few days to a few weeks, depending on site complexity and the need for detailed surveys or tests."
-      }
-    }
-  ],
+  "name": "How long does a tiny home property assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tiny home property assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a tiny home property assessment can vary, but generally, it can take anywhere from a few days to a few weeks. Simple assessments on properties with readily available public records and clear zoning might be quicker. More complex sites requiring detailed surveys, soil testing, or extensive communication with local planning departments could take longer. It's always best to discuss the estimated timeframe with your assessment provider based on the specifics of your property.",
+        "@type": "Answer",
+        "description": "Assessments typically take a few days to a few weeks, depending on site complexity and the need for detailed surveys or tests."
+      }
+    }
+  ],
+  "description": "Assessments typically take a few days to a few weeks, depending on site complexity and the need for detailed surveys or tests."
 }

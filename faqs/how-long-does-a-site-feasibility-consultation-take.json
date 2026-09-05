@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a site feasibility consultation take?",
-  "description": "The on-site visit typically takes 1-2 hours, while the full process including research and report can take several days to a week.",
   "url": "www.zentinyhomes.com/faq/how-long-does-a-site-feasibility-consultation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a site feasibility consultation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical site feasibility consultation involves an initial site visit and subsequent research and report preparation. The on-site portion usually lasts 1-2 hours, allowing for a thorough visual inspection and discussion. The full process, including research into local regulations and a detailed report, can take several days to a week to complete, depending on the complexity of the site and local permitting requirements.",
-        "description": "The on-site visit typically takes 1-2 hours, while the full process including research and report can take several days to a week."
-      }
-    }
-  ],
+  "name": "How long does a site feasibility consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a site feasibility consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical site feasibility consultation involves an initial site visit and subsequent research and report preparation. The on-site portion usually lasts 1-2 hours, allowing for a thorough visual inspection and discussion. The full process, including research into local regulations and a detailed report, can take several days to a week to complete, depending on the complexity of the site and local permitting requirements.",
+        "@type": "Answer",
+        "description": "The on-site visit typically takes 1-2 hours, while the full process including research and report can take several days to a week."
+      }
+    }
+  ],
+  "description": "The on-site visit typically takes 1-2 hours, while the full process including research and report can take several days to a week."
 }

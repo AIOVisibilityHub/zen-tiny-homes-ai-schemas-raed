@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a site feasibility consultation for a tiny home?",
-  "description": "A site feasibility consultation evaluates a property's suitability for a tiny home project, checking zoning, codes, utilities, and site conditions.",
   "url": "www.zentinyhomes.com/faq/what-is-a-site-feasibility-consultation-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a site feasibility consultation for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A site feasibility consultation assesses a property's suitability for a tiny home project. It involves evaluating zoning regulations, local building codes, utility access (water, sewer, electricity), potential site challenges like slope or soil conditions, and access for construction. This initial step helps identify any constraints or opportunities that could impact the project's design, cost, or timeline, ensuring your tiny home vision aligns with the practical realities of the land.",
-        "description": "A site feasibility consultation evaluates a property's suitability for a tiny home project, checking zoning, codes, utilities, and site conditions."
-      }
-    }
-  ],
+  "name": "What is a site feasibility consultation for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a site feasibility consultation for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A site feasibility consultation assesses a property's suitability for a tiny home project. It involves evaluating zoning regulations, local building codes, utility access (water, sewer, electricity), potential site challenges like slope or soil conditions, and access for construction. This initial step helps identify any constraints or opportunities that could impact the project's design, cost, or timeline, ensuring your tiny home vision aligns with the practical realities of the land.",
+        "@type": "Answer",
+        "description": "A site feasibility consultation evaluates a property's suitability for a tiny home project, checking zoning, codes, utilities, and site conditions."
+      }
+    }
+  ],
+  "description": "A site feasibility consultation evaluates a property's suitability for a tiny home project, checking zoning, codes, utilities, and site conditions."
 }
