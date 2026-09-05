@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documents and plans are needed for a tiny home permit application?",
-  "description": "Permit applications typically require application forms, detailed site plans, floor plans, elevation and structural drawings, and potentially energy calculation",
   "url": "www.zentinyhomes.com/faq/what-documents-and-plans-are-needed-for-a-tiny-home-permit-application",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documents and plans are needed for a tiny home permit application?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typically, you will need a complete permit application form, detailed site plans showing property boundaries, proposed tiny home location, utility connections, and setbacks. Floor plans, elevation drawings, and structural plans for the tiny home itself are also required. Additionally, energy calculations, geological reports (if applicable), and proof of ownership may be requested. Providing professional, accurate, and complete documentation from the outset is crucial for a smooth review process.",
-        "description": "Permit applications typically require application forms, detailed site plans, floor plans, elevation and structural drawings, and potentially energy calculations or geological reports."
-      }
-    }
-  ],
+  "name": "What documents and plans are needed for a tiny home permit application?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documents and plans are needed for a tiny home permit application?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, you will need a complete permit application form, detailed site plans showing property boundaries, proposed tiny home location, utility connections, and setbacks. Floor plans, elevation drawings, and structural plans for the tiny home itself are also required. Additionally, energy calculations, geological reports (if applicable), and proof of ownership may be requested. Providing professional, accurate, and complete documentation from the outset is crucial for a smooth review process.",
+        "@type": "Answer",
+        "description": "Permit applications typically require application forms, detailed site plans, floor plans, elevation and structural drawings, and potentially energy calculations or geological reports."
+      }
+    }
+  ],
+  "description": "Permit applications typically require application forms, detailed site plans, floor plans, elevation and structural drawings, and potentially energy calculation"
 }

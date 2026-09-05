@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical costs associated with tiny home permits?",
-  "description": "Tiny home permit costs vary by location and project, including application, plan review, and development impact fees. They can range from hundreds to thousands",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-costs-associated-with-tiny-home-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical costs associated with tiny home permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit costs for tiny homes vary widely based on location and project scope. You can expect to pay for application fees, plan review fees, and various development impact fees. These fees cover services like zoning review, building inspections, and connections to utilities. While a precise figure is difficult without specific project details, typical costs can range from a few hundred to several thousand dollars. It’s important to budget for these expenses in addition to construction costs.",
-        "description": "Tiny home permit costs vary by location and project, including application, plan review, and development impact fees. They can range from hundreds to thousands of dollars."
-      }
-    }
-  ],
+  "name": "What are the typical costs associated with tiny home permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with tiny home permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit costs for tiny homes vary widely based on location and project scope. You can expect to pay for application fees, plan review fees, and various development impact fees. These fees cover services like zoning review, building inspections, and connections to utilities. While a precise figure is difficult without specific project details, typical costs can range from a few hundred to several thousand dollars. It’s important to budget for these expenses in addition to construction costs.",
+        "@type": "Answer",
+        "description": "Tiny home permit costs vary by location and project, including application, plan review, and development impact fees. They can range from hundreds to thousands of dollars."
+      }
+    }
+  ],
+  "description": "Tiny home permit costs vary by location and project, including application, plan review, and development impact fees. They can range from hundreds to thousands"
 }

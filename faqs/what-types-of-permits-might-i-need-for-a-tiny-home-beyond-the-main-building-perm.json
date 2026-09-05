@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of permits might I need for a tiny home beyond the main building permit?",
-  "description": "You might need electrical, plumbing, mechanical, and foundation permits, in addition to the main building permit. Site-specific permits for grading or septic sy",
   "url": "www.zentinyhomes.com/faq/what-types-of-permits-might-i-need-for-a-tiny-home-beyond-the-main-building-perm",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of permits might I need for a tiny home beyond the main building permit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Beyond the primary building permit for the structure itself, you may need several other permits depending on your project. These commonly include electrical permits for wiring, plumbing permits for water and waste systems, and mechanical permits for HVAC systems. If you're building a new foundation, a separate foundation permit might be required. Additionally, site-specific permits for grading, septic systems, or well installation could be necessary if utility connections aren't readily available. Always check with your local planning department for a comprehensive list of all required permits.",
-        "description": "You might need electrical, plumbing, mechanical, and foundation permits, in addition to the main building permit. Site-specific permits for grading or septic systems may also be required."
-      }
-    }
-  ],
+  "name": "What types of permits might I need for a tiny home beyond the main building permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of permits might I need for a tiny home beyond the main building permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the primary building permit for the structure itself, you may need several other permits depending on your project. These commonly include electrical permits for wiring, plumbing permits for water and waste systems, and mechanical permits for HVAC systems. If you're building a new foundation, a separate foundation permit might be required. Additionally, site-specific permits for grading, septic systems, or well installation could be necessary if utility connections aren't readily available. Always check with your local planning department for a comprehensive list of all required permits.",
+        "@type": "Answer",
+        "description": "You might need electrical, plumbing, mechanical, and foundation permits, in addition to the main building permit. Site-specific permits for grading or septic systems may also be required."
+      }
+    }
+  ],
+  "description": "You might need electrical, plumbing, mechanical, and foundation permits, in addition to the main building permit. Site-specific permits for grading or septic sy"
 }

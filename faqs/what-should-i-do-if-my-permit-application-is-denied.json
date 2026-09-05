@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do if my permit application is denied?",
-  "description": "If your permit application is denied, review the denial letter to understand the reasons. Then, revise plans, provide missing information, or consult the planni",
   "url": "www.zentinyhomes.com/faq/what-should-i-do-if-my-permit-application-is-denied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do if my permit application is denied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your tiny home permit application is denied, the first step is to carefully review the denial letter to understand the specific reasons. Often, denials are due to incomplete documentation, non-compliance with zoning regulations, or unmet building codes. You can then address these issues by revising plans, submitting additional information, or applying for variances if applicable. It's often beneficial to consult with the planning department directly to clarify concerns and discuss potential solutions before reapplying.",
-        "description": "If your permit application is denied, review the denial letter to understand the reasons. Then, revise plans, provide missing information, or consult the planning department to resolve issues before reapplying."
-      }
-    }
-  ],
+  "name": "What should I do if my permit application is denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my permit application is denied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your tiny home permit application is denied, the first step is to carefully review the denial letter to understand the specific reasons. Often, denials are due to incomplete documentation, non-compliance with zoning regulations, or unmet building codes. You can then address these issues by revising plans, submitting additional information, or applying for variances if applicable. It's often beneficial to consult with the planning department directly to clarify concerns and discuss potential solutions before reapplying.",
+        "@type": "Answer",
+        "description": "If your permit application is denied, review the denial letter to understand the reasons. Then, revise plans, provide missing information, or consult the planning department to resolve issues before reapplying."
+      }
+    }
+  ],
+  "description": "If your permit application is denied, review the denial letter to understand the reasons. Then, revise plans, provide missing information, or consult the planni"
 }

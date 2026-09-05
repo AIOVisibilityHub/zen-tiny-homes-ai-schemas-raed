@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I customize the design of my landlord-ready tiny home?",
-  "description": "Yes, you can customize the design, finishes, and features of your landlord-ready tiny home, balancing personal preferences with rental market appeal and code co",
   "url": "www.zentinyhomes.com/faq/can-i-customize-the-design-of-my-landlord-ready-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I customize the design of my landlord-ready tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, customization options are available for landlord-ready tiny homes to meet your specific aesthetic preferences and functional requirements. While certain structural and regulatory elements must comply with building codes for rental properties, you can typically choose from various floor plans, interior finishes, fixture styles, and exterior siding options. We work with you to balance customization with cost-effectiveness and rental market appeal, ensuring the final design maximizes your investment.",
-        "description": "Yes, you can customize the design, finishes, and features of your landlord-ready tiny home, balancing personal preferences with rental market appeal and code compliance."
-      }
-    }
-  ],
+  "name": "Can I customize the design of my landlord-ready tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my landlord-ready tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization options are available for landlord-ready tiny homes to meet your specific aesthetic preferences and functional requirements. While certain structural and regulatory elements must comply with building codes for rental properties, you can typically choose from various floor plans, interior finishes, fixture styles, and exterior siding options. We work with you to balance customization with cost-effectiveness and rental market appeal, ensuring the final design maximizes your investment.",
+        "@type": "Answer",
+        "description": "Yes, you can customize the design, finishes, and features of your landlord-ready tiny home, balancing personal preferences with rental market appeal and code compliance."
+      }
+    }
+  ],
+  "description": "Yes, you can customize the design, finishes, and features of your landlord-ready tiny home, balancing personal preferences with rental market appeal and code co"
 }

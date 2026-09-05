@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the permitting process usually take for a tiny home?",
-  "description": "Permitting for a tiny home usually takes a few weeks to several months, depending on location, plan completeness, and local department efficiency.",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-permitting-process-usually-take-for-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the permitting process usually take for a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The permitting process for a tiny home can vary significantly depending on your specific location and the complexity of your project. Generally, it can take anywhere from a few weeks to several months. Factors influencing this timeline include the completeness of your submitted plans, the responsiveness of local planning departments, and whether any variances or special approvals are required. Zen Tiny Homes can assist in preparing the necessary documentation to help streamline this process.",
-        "description": "Permitting for a tiny home usually takes a few weeks to several months, depending on location, plan completeness, and local department efficiency."
-      }
-    }
-  ],
+  "name": "How long does the permitting process usually take for a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the permitting process usually take for a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The permitting process for a tiny home can vary significantly depending on your specific location and the complexity of your project. Generally, it can take anywhere from a few weeks to several months. Factors influencing this timeline include the completeness of your submitted plans, the responsiveness of local planning departments, and whether any variances or special approvals are required. Zen Tiny Homes can assist in preparing the necessary documentation to help streamline this process.",
+        "@type": "Answer",
+        "description": "Permitting for a tiny home usually takes a few weeks to several months, depending on location, plan completeness, and local department efficiency."
+      }
+    }
+  ],
+  "description": "Permitting for a tiny home usually takes a few weeks to several months, depending on location, plan completeness, and local department efficiency."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How far from my main house should I place a tiny home?",
-  "description": "Local zoning and fire codes dictate the minimum distance for a tiny home from your main house and property lines. Consider utility access, privacy, and aestheti",
   "url": "www.zentinyhomes.com/faq/how-far-from-my-main-house-should-i-place-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far from my main house should I place a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The distance you can place a tiny home from your main house is often dictated by local zoning ordinances, specifically setback requirements for accessory structures and fire safety codes. These regulations specify minimum distances from property lines, other structures, and sometimes even driveways. Additionally, practical considerations like ease of utility access, privacy for both dwellings, and aesthetic integration into your property's landscape should influence your decision. Always verify specific setback rules with your local planning department.",
-        "description": "Local zoning and fire codes dictate the minimum distance for a tiny home from your main house and property lines. Consider utility access, privacy, and aesthetics when deciding placement."
-      }
-    }
-  ],
+  "name": "How far from my main house should I place a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How far from my main house should I place a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The distance you can place a tiny home from your main house is often dictated by local zoning ordinances, specifically setback requirements for accessory structures and fire safety codes. These regulations specify minimum distances from property lines, other structures, and sometimes even driveways. Additionally, practical considerations like ease of utility access, privacy for both dwellings, and aesthetic integration into your property's landscape should influence your decision. Always verify specific setback rules with your local planning department.",
+        "@type": "Answer",
+        "description": "Local zoning and fire codes dictate the minimum distance for a tiny home from your main house and property lines. Consider utility access, privacy, and aesthetics when deciding placement."
+      }
+    }
+  ],
+  "description": "Local zoning and fire codes dictate the minimum distance for a tiny home from your main house and property lines. Consider utility access, privacy, and aestheti"
 }

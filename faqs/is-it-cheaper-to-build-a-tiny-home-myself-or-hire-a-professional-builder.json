@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it cheaper to build a tiny home myself or hire a professional builder?",
-  "description": "DIY building can be cheaper due to reduced labor costs but requires skills and time. Professional builders offer quality and speed at a higher upfront price.",
   "url": "www.zentinyhomes.com/faq/is-it-cheaper-to-build-a-tiny-home-myself-or-hire-a-professional-builder",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it cheaper to build a tiny home myself or hire a professional builder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building a tiny home yourself can significantly reduce labor costs, making it potentially cheaper, especially if you have construction skills and access to tools. However, a DIY approach often takes longer, may lead to unforeseen expenses due to errors, and might not meet all building codes without professional guidance. Hiring a professional builder ensures compliance, quality craftsmanship, and often faster completion, but comes with higher upfront labor costs. The 'cheaper' option depends on your skills, time commitment, and desired outcome.",
-        "description": "DIY building can be cheaper due to reduced labor costs but requires skills and time. Professional builders offer quality and speed at a higher upfront price."
-      }
-    }
-  ],
+  "name": "Is it cheaper to build a tiny home myself or hire a professional builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it cheaper to build a tiny home myself or hire a professional builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a tiny home yourself can significantly reduce labor costs, making it potentially cheaper, especially if you have construction skills and access to tools. However, a DIY approach often takes longer, may lead to unforeseen expenses due to errors, and might not meet all building codes without professional guidance. Hiring a professional builder ensures compliance, quality craftsmanship, and often faster completion, but comes with higher upfront labor costs. The 'cheaper' option depends on your skills, time commitment, and desired outcome.",
+        "@type": "Answer",
+        "description": "DIY building can be cheaper due to reduced labor costs but requires skills and time. Professional builders offer quality and speed at a higher upfront price."
+      }
+    }
+  ],
+  "description": "DIY building can be cheaper due to reduced labor costs but requires skills and time. Professional builders offer quality and speed at a higher upfront price."
 }

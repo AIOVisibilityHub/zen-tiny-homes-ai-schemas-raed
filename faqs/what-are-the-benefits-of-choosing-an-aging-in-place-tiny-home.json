@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of choosing an aging-in-place tiny home?",
-  "description": "Benefits include maintaining independence, lower costs, simpler maintenance, and built-in accessibility features to support changing needs over time.",
   "url": "www.zentinyhomes.com/faq/what-are-the-benefits-of-choosing-an-aging-in-place-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of choosing an aging-in-place tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aging-in-place tiny homes offer numerous benefits, including maintaining independence and familiar surroundings, which can significantly enhance quality of life. They are often more affordable to build and maintain than traditional homes, reducing financial burden. The compact size can simplify daily tasks, cleaning, and upkeep. Furthermore, these homes are designed with future needs in mind, incorporating features that can prevent accidents and accommodate mobility changes, potentially delaying or eliminating the need for assisted living facilities.",
-        "description": "Benefits include maintaining independence, lower costs, simpler maintenance, and built-in accessibility features to support changing needs over time."
-      }
-    }
-  ],
+  "name": "What are the benefits of choosing an aging-in-place tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing an aging-in-place tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aging-in-place tiny homes offer numerous benefits, including maintaining independence and familiar surroundings, which can significantly enhance quality of life. They are often more affordable to build and maintain than traditional homes, reducing financial burden. The compact size can simplify daily tasks, cleaning, and upkeep. Furthermore, these homes are designed with future needs in mind, incorporating features that can prevent accidents and accommodate mobility changes, potentially delaying or eliminating the need for assisted living facilities.",
+        "@type": "Answer",
+        "description": "Benefits include maintaining independence, lower costs, simpler maintenance, and built-in accessibility features to support changing needs over time."
+      }
+    }
+  ],
+  "description": "Benefits include maintaining independence, lower costs, simpler maintenance, and built-in accessibility features to support changing needs over time."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a custom tiny home design add to the overall cost?",
-  "description": "Custom tiny home designs add to the cost through architectural fees, personalized layouts, and potentially higher material and labor costs for unique features.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-custom-tiny-home-design-add-to-the-overall-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a custom tiny home design add to the overall cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A custom tiny home design typically adds to the overall cost compared to using pre-existing or standard plans. The additional expense covers architectural fees for personalized layouts, unique material selections, and specific aesthetic features tailored to your preferences. While custom designs offer flexibility and meet individual needs precisely, they often require more detailed planning and may involve higher material and labor costs if they incorporate complex structural elements or specialized finishes. It's a trade-off between personalization and budget efficiency.",
-        "description": "Custom tiny home designs add to the cost through architectural fees, personalized layouts, and potentially higher material and labor costs for unique features."
-      }
-    }
-  ],
+  "name": "How much does a custom tiny home design add to the overall cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom tiny home design add to the overall cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom tiny home design typically adds to the overall cost compared to using pre-existing or standard plans. The additional expense covers architectural fees for personalized layouts, unique material selections, and specific aesthetic features tailored to your preferences. While custom designs offer flexibility and meet individual needs precisely, they often require more detailed planning and may involve higher material and labor costs if they incorporate complex structural elements or specialized finishes. It's a trade-off between personalization and budget efficiency.",
+        "@type": "Answer",
+        "description": "Custom tiny home designs add to the cost through architectural fees, personalized layouts, and potentially higher material and labor costs for unique features."
+      }
+    }
+  ],
+  "description": "Custom tiny home designs add to the cost through architectural fees, personalized layouts, and potentially higher material and labor costs for unique features."
 }

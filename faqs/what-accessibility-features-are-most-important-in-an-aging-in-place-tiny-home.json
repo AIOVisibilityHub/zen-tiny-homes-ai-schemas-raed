@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What accessibility features are most important in an aging-in-place tiny home?",
-  "description": "Key features include zero-step entries, wide doorways, open floor plans, roll-in showers, grab bars, comfort-height toilets, and accessible kitchen layouts.",
   "url": "www.zentinyhomes.com/faq/what-accessibility-features-are-most-important-in-an-aging-in-place-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What accessibility features are most important in an aging-in-place tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most important accessibility features for an aging-in-place tiny home often include zero-step entries, wider doorways (at least 36 inches), and an open floor plan to accommodate mobility devices. Bathrooms are crucial, requiring roll-in showers with seating, grab bars, and comfort-height toilets. Kitchens benefit from adjustable-height counters, pull-out shelves, and easy-to-reach appliances. Lever-style door handles, rocker light switches, and ample, glare-free lighting throughout the home also significantly enhance safety and ease of use.",
-        "description": "Key features include zero-step entries, wide doorways, open floor plans, roll-in showers, grab bars, comfort-height toilets, and accessible kitchen layouts."
-      }
-    }
-  ],
+  "name": "What accessibility features are most important in an aging-in-place tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility features are most important in an aging-in-place tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most important accessibility features for an aging-in-place tiny home often include zero-step entries, wider doorways (at least 36 inches), and an open floor plan to accommodate mobility devices. Bathrooms are crucial, requiring roll-in showers with seating, grab bars, and comfort-height toilets. Kitchens benefit from adjustable-height counters, pull-out shelves, and easy-to-reach appliances. Lever-style door handles, rocker light switches, and ample, glare-free lighting throughout the home also significantly enhance safety and ease of use.",
+        "@type": "Answer",
+        "description": "Key features include zero-step entries, wide doorways, open floor plans, roll-in showers, grab bars, comfort-height toilets, and accessible kitchen layouts."
+      }
+    }
+  ],
+  "description": "Key features include zero-step entries, wide doorways, open floor plans, roll-in showers, grab bars, comfort-height toilets, and accessible kitchen layouts."
 }

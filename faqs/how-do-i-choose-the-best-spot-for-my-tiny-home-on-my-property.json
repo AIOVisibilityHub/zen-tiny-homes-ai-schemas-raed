@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best spot for my tiny home on my property?",
-  "description": "Choose a tiny home spot considering sun exposure, utility access, privacy, topography, and views. Evaluate drainage and soil stability, and consult a site exper",
   "url": "www.zentinyhomes.com/faq/how-do-i-choose-the-best-spot-for-my-tiny-home-on-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best spot for my tiny home on my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the best spot for your tiny home involves balancing several factors. Consider sun exposure for natural light and potential solar panels, existing utility line access to minimize connection costs, and privacy from neighbors and your main residence. Evaluate the topography for level ground, good drainage, and stable soil. Think about views, wind patterns, and aesthetic integration with your landscape. Walking your property with these considerations in mind and potentially consulting a site expert can help identify the ideal location.",
-        "description": "Choose a tiny home spot considering sun exposure, utility access, privacy, topography, and views. Evaluate drainage and soil stability, and consult a site expert for optimal placement."
-      }
-    }
-  ],
+  "name": "How do I choose the best spot for my tiny home on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best spot for my tiny home on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best spot for your tiny home involves balancing several factors. Consider sun exposure for natural light and potential solar panels, existing utility line access to minimize connection costs, and privacy from neighbors and your main residence. Evaluate the topography for level ground, good drainage, and stable soil. Think about views, wind patterns, and aesthetic integration with your landscape. Walking your property with these considerations in mind and potentially consulting a site expert can help identify the ideal location.",
+        "@type": "Answer",
+        "description": "Choose a tiny home spot considering sun exposure, utility access, privacy, topography, and views. Evaluate drainage and soil stability, and consult a site expert for optimal placement."
+      }
+    }
+  ],
+  "description": "Choose a tiny home spot considering sun exposure, utility access, privacy, topography, and views. Evaluate drainage and soil stability, and consult a site exper"
 }

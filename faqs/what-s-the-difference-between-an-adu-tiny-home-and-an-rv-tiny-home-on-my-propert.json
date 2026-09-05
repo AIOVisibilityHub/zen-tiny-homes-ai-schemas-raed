@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between an ADU tiny home and an RV tiny home on my property?",
-  "description": "An ADU tiny home is a permanent structure built to local codes, while an RV tiny home is mobile and built to RV standards. Their use and placement regulations d",
   "url": "www.zentinyhomes.com/faq/what-s-the-difference-between-an-adu-tiny-home-and-an-rv-tiny-home-on-my-propert",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between an ADU tiny home and an RV tiny home on my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An ADU (Accessory Dwelling Unit) tiny home is considered a permanent structure built to local building codes, often requiring a foundation and full utility hookups. It's intended for long-term residency and adds to your property value. An RV (Recreational Vehicle) tiny home, conversely, is built to RV standards, designed to be mobile, and often has different regulations regarding placement and occupancy, sometimes restricted to temporary use. The choice depends on your intended use and local zoning laws.",
-        "description": "An ADU tiny home is a permanent structure built to local codes, while an RV tiny home is mobile and built to RV standards. Their use and placement regulations differ significantly."
-      }
-    }
-  ],
+  "name": "What's the difference between an ADU tiny home and an RV tiny home on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an ADU tiny home and an RV tiny home on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU (Accessory Dwelling Unit) tiny home is considered a permanent structure built to local building codes, often requiring a foundation and full utility hookups. It's intended for long-term residency and adds to your property value. An RV (Recreational Vehicle) tiny home, conversely, is built to RV standards, designed to be mobile, and often has different regulations regarding placement and occupancy, sometimes restricted to temporary use. The choice depends on your intended use and local zoning laws.",
+        "@type": "Answer",
+        "description": "An ADU tiny home is a permanent structure built to local codes, while an RV tiny home is mobile and built to RV standards. Their use and placement regulations differ significantly."
+      }
+    }
+  ],
+  "description": "An ADU tiny home is a permanent structure built to local codes, while an RV tiny home is mobile and built to RV standards. Their use and placement regulations d"
 }

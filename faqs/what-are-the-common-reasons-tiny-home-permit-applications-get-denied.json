@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common reasons tiny home permit applications get denied?",
-  "description": "Common reasons for permit denial include non-compliance with zoning or building codes, insufficient setbacks, inadequate utilities, missing documents, or incomp",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-reasons-tiny-home-permit-applications-get-denied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common reasons tiny home permit applications get denied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home permit applications are commonly denied for several reasons, primarily due to non-compliance with local zoning ordinances or building codes. This can include issues like insufficient setback distances from property lines, inadequate utility connections, plans that don't meet minimum square footage requirements, or improperly drawn architectural and engineering plans. Missing required documents, incomplete application forms, or failure to address previous revision requests are also frequent causes for denial. Ensuring all plans are thorough, accurate, and aligned with local regulations is critical for approval.",
-        "description": "Common reasons for permit denial include non-compliance with zoning or building codes, insufficient setbacks, inadequate utilities, missing documents, or incomplete applications."
-      }
-    }
-  ],
+  "name": "What are the common reasons tiny home permit applications get denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common reasons tiny home permit applications get denied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home permit applications are commonly denied for several reasons, primarily due to non-compliance with local zoning ordinances or building codes. This can include issues like insufficient setback distances from property lines, inadequate utility connections, plans that don't meet minimum square footage requirements, or improperly drawn architectural and engineering plans. Missing required documents, incomplete application forms, or failure to address previous revision requests are also frequent causes for denial. Ensuring all plans are thorough, accurate, and aligned with local regulations is critical for approval.",
+        "@type": "Answer",
+        "description": "Common reasons for permit denial include non-compliance with zoning or building codes, insufficient setbacks, inadequate utilities, missing documents, or incomplete applications."
+      }
+    }
+  ],
+  "description": "Common reasons for permit denial include non-compliance with zoning or building codes, insufficient setbacks, inadequate utilities, missing documents, or incomp"
 }

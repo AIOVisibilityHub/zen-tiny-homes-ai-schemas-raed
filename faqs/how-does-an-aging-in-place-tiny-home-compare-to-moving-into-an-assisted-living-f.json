@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does an aging-in-place tiny home compare to moving into an assisted living facility?",
-  "description": "An aging-in-place tiny home allows for continued independence, privacy, and autonomy in a familiar setting, often at a lower long-term cost than assisted living",
   "url": "www.zentinyhomes.com/faq/how-does-an-aging-in-place-tiny-home-compare-to-moving-into-an-assisted-living-f",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does an aging-in-place tiny home compare to moving into an assisted living facility?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An aging-in-place tiny home offers a stark contrast to moving into an assisted living facility. It allows individuals to maintain complete independence, privacy, and control over their environment within their familiar community or property. This can provide a greater sense of dignity and emotional well-being. While assisted living provides care and community, a tiny home provides autonomy and often a more cost-effective long-term solution, especially when considering the significant monthly fees associated with assisted living facilities. It's about preserving personal freedom and comfort for as long as possible.",
-        "description": "An aging-in-place tiny home allows for continued independence, privacy, and autonomy in a familiar setting, often at a lower long-term cost than assisted living facilities."
-      }
-    }
-  ],
+  "name": "How does an aging-in-place tiny home compare to moving into an assisted living facility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does an aging-in-place tiny home compare to moving into an assisted living facility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An aging-in-place tiny home offers a stark contrast to moving into an assisted living facility. It allows individuals to maintain complete independence, privacy, and control over their environment within their familiar community or property. This can provide a greater sense of dignity and emotional well-being. While assisted living provides care and community, a tiny home provides autonomy and often a more cost-effective long-term solution, especially when considering the significant monthly fees associated with assisted living facilities. It's about preserving personal freedom and comfort for as long as possible.",
+        "@type": "Answer",
+        "description": "An aging-in-place tiny home allows for continued independence, privacy, and autonomy in a familiar setting, often at a lower long-term cost than assisted living facilities."
+      }
+    }
+  ],
+  "description": "An aging-in-place tiny home allows for continued independence, privacy, and autonomy in a familiar setting, often at a lower long-term cost than assisted living"
 }

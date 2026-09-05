@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the timeline for constructing and installing a landlord-ready tiny home?",
-  "description": "Construction and installation of a landlord-ready tiny home can take 4-9 months, including design, permitting, building, and site work.",
   "url": "www.zentinyhomes.com/faq/what-is-the-timeline-for-constructing-and-installing-a-landlord-ready-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the timeline for constructing and installing a landlord-ready tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for a landlord-ready tiny home project typically involves several phases. Design and permitting can take a few weeks to several months, depending on local regulations and the complexity of your plans. Construction usually takes between 8 to 16 weeks, varying by design and materials. Site preparation and installation follow, which can add a few weeks. Overall, projects can range from 4 to 9 months from initial design to move-in readiness. We strive to keep you informed at every stage.",
-        "description": "Construction and installation of a landlord-ready tiny home can take 4-9 months, including design, permitting, building, and site work."
-      }
-    }
-  ],
+  "name": "What is the timeline for constructing and installing a landlord-ready tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the timeline for constructing and installing a landlord-ready tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a landlord-ready tiny home project typically involves several phases. Design and permitting can take a few weeks to several months, depending on local regulations and the complexity of your plans. Construction usually takes between 8 to 16 weeks, varying by design and materials. Site preparation and installation follow, which can add a few weeks. Overall, projects can range from 4 to 9 months from initial design to move-in readiness. We strive to keep you informed at every stage.",
+        "@type": "Answer",
+        "description": "Construction and installation of a landlord-ready tiny home can take 4-9 months, including design, permitting, building, and site work."
+      }
+    }
+  ],
+  "description": "Construction and installation of a landlord-ready tiny home can take 4-9 months, including design, permitting, building, and site work."
 }

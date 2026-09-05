@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a landlord-ready tiny home typically cost?",
-  "description": "Costs for landlord-ready tiny homes vary based on size, finishes, and site work. We provide detailed estimates after a project consultation.",
   "url": "www.zentinyhomes.com/faq/how-much-does-a-landlord-ready-tiny-home-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a landlord-ready tiny home typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a landlord-ready tiny home depends on several factors, including size, chosen finishes, features, and site preparation needs. Generally, prices can range widely based on customization and whether it's a pre-built model or custom-designed. This investment covers the structure, interior finishes, and basic utility connections. We provide detailed estimates after an initial consultation to understand your specific project scope and desired features, ensuring transparency in pricing.",
-        "description": "Costs for landlord-ready tiny homes vary based on size, finishes, and site work. We provide detailed estimates after a project consultation."
-      }
-    }
-  ],
+  "name": "How much does a landlord-ready tiny home typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a landlord-ready tiny home typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a landlord-ready tiny home depends on several factors, including size, chosen finishes, features, and site preparation needs. Generally, prices can range widely based on customization and whether it's a pre-built model or custom-designed. This investment covers the structure, interior finishes, and basic utility connections. We provide detailed estimates after an initial consultation to understand your specific project scope and desired features, ensuring transparency in pricing.",
+        "@type": "Answer",
+        "description": "Costs for landlord-ready tiny homes vary based on size, finishes, and site work. We provide detailed estimates after a project consultation."
+      }
+    }
+  ],
+  "description": "Costs for landlord-ready tiny homes vary based on size, finishes, and site work. We provide detailed estimates after a project consultation."
 }

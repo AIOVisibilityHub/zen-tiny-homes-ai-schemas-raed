@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utility connections are needed for a tiny home on my property?",
-  "description": "Tiny homes need connections for electricity, water, and sewer/septic systems. Existing utility lines can be used, or new hookups might be necessary, with off-gr",
   "url": "www.zentinyhomes.com/faq/what-utility-connections-are-needed-for-a-tiny-home-on-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utility connections are needed for a tiny home on my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home typically requires connections to essential utilities, similar to a traditional home. This includes electricity, water, and sewer or septic systems. The specific requirements can vary; some tiny homes can be connected to existing utility lines on your property, while others might require new hookups. Off-grid options, like solar power and composting toilets, can reduce reliance on traditional utility infrastructure, but still need to comply with local health and safety codes.",
-        "description": "Tiny homes need connections for electricity, water, and sewer/septic systems. Existing utility lines can be used, or new hookups might be necessary, with off-grid options also available."
-      }
-    }
-  ],
+  "name": "What utility connections are needed for a tiny home on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are needed for a tiny home on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home typically requires connections to essential utilities, similar to a traditional home. This includes electricity, water, and sewer or septic systems. The specific requirements can vary; some tiny homes can be connected to existing utility lines on your property, while others might require new hookups. Off-grid options, like solar power and composting toilets, can reduce reliance on traditional utility infrastructure, but still need to comply with local health and safety codes.",
+        "@type": "Answer",
+        "description": "Tiny homes need connections for electricity, water, and sewer/septic systems. Existing utility lines can be used, or new hookups might be necessary, with off-grid options also available."
+      }
+    }
+  ],
+  "description": "Tiny homes need connections for electricity, water, and sewer/septic systems. Existing utility lines can be used, or new hookups might be necessary, with off-gr"
 }

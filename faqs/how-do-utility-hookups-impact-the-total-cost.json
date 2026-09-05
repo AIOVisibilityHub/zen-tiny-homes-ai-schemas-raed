@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do utility hookups impact the total cost?",
-  "description": "Utility hookups involve trenching, piping, wiring, and connection fees. Off-grid solutions like septic, wells, or solar have their own installation costs, impac",
   "url": "www.zentinyhomes.com/faq/how-do-utility-hookups-impact-the-total-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do utility hookups impact the total cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Utility hookups significantly impact the total cost, as they are essential for a functional home. Connecting to municipal water, sewer, and electrical grids involves trenching, piping, wiring, and associated connection fees. If municipal services are unavailable, alternative systems like septic tanks, well drilling, solar panels, and propane tanks will be necessary, each with its own installation and maintenance costs. The distance to existing utility lines and the complexity of the terrain can also drive up expenses. Planning for utilities early is crucial.",
-        "description": "Utility hookups involve trenching, piping, wiring, and connection fees. Off-grid solutions like septic, wells, or solar have their own installation costs, impacting the total."
-      }
-    }
-  ],
+  "name": "How do utility hookups impact the total cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do utility hookups impact the total cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Utility hookups significantly impact the total cost, as they are essential for a functional home. Connecting to municipal water, sewer, and electrical grids involves trenching, piping, wiring, and associated connection fees. If municipal services are unavailable, alternative systems like septic tanks, well drilling, solar panels, and propane tanks will be necessary, each with its own installation and maintenance costs. The distance to existing utility lines and the complexity of the terrain can also drive up expenses. Planning for utilities early is crucial.",
+        "@type": "Answer",
+        "description": "Utility hookups involve trenching, piping, wiring, and connection fees. Off-grid solutions like septic, wells, or solar have their own installation costs, impacting the total."
+      }
+    }
+  ],
+  "description": "Utility hookups involve trenching, piping, wiring, and connection fees. Off-grid solutions like septic, wells, or solar have their own installation costs, impac"
 }

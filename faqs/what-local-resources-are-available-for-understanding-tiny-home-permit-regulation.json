@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What local resources are available for understanding tiny home permit regulations in Vista?",
-  "description": "For Vista tiny home permit regulations, consult the City of Vista's Planning and Building Departments online. Local firms like ours, familiar with Vista's codes",
   "url": "www.zentinyhomes.com/faq/what-local-resources-are-available-for-understanding-tiny-home-permit-regulation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What local resources are available for understanding tiny home permit regulations in Vista?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To understand tiny home permit regulations in Vista, the primary resource is the City of Vista's official website, specifically their Planning and Building Departments. These departments provide access to local zoning ordinances, building codes, and application forms. They also offer contact information for planning staff who can answer specific questions regarding your project. Additionally, community development or housing authority websites might provide guides or FAQs related to ADUs and tiny homes. Consulting with a local firm like Zen Tiny Homes, familiar with Vista's specific codes, can also be a valuable resource.",
-        "description": "For Vista tiny home permit regulations, consult the City of Vista's Planning and Building Departments online. Local firms like ours, familiar with Vista's codes, are also a valuable resource."
-      }
-    }
-  ],
+  "name": "What local resources are available for understanding tiny home permit regulations in Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What local resources are available for understanding tiny home permit regulations in Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To understand tiny home permit regulations in Vista, the primary resource is the City of Vista's official website, specifically their Planning and Building Departments. These departments provide access to local zoning ordinances, building codes, and application forms. They also offer contact information for planning staff who can answer specific questions regarding your project. Additionally, community development or housing authority websites might provide guides or FAQs related to ADUs and tiny homes. Consulting with a local firm like Zen Tiny Homes, familiar with Vista's specific codes, can also be a valuable resource.",
+        "@type": "Answer",
+        "description": "For Vista tiny home permit regulations, consult the City of Vista's Planning and Building Departments online. Local firms like ours, familiar with Vista's codes, are also a valuable resource."
+      }
+    }
+  ],
+  "description": "For Vista tiny home permit regulations, consult the City of Vista's Planning and Building Departments online. Local firms like ours, familiar with Vista's codes"
 }

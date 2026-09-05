@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does my credit score affect tiny home financing options?",
-  "description": "Your credit score directly impacts interest rates and loan terms for tiny home financing. A higher score typically secures better rates and more favorable optio",
   "url": "www.zentinyhomes.com/faq/how-does-my-credit-score-affect-tiny-home-financing-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does my credit score affect tiny home financing options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your credit score plays a crucial role in tiny home financing. A strong credit score generally qualifies you for better interest rates and more favorable loan terms, regardless of the loan type (RV, chattel, or personal loan). Lenders use your credit history to assess your risk as a borrower. A lower credit score might still allow for financing, but you could face higher interest rates, stricter terms, or require a larger down payment. It's advisable to check and improve your credit score before applying for a loan.",
-        "description": "Your credit score directly impacts interest rates and loan terms for tiny home financing. A higher score typically secures better rates and more favorable options."
-      }
-    }
-  ],
+  "name": "How does my credit score affect tiny home financing options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does my credit score affect tiny home financing options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your credit score plays a crucial role in tiny home financing. A strong credit score generally qualifies you for better interest rates and more favorable loan terms, regardless of the loan type (RV, chattel, or personal loan). Lenders use your credit history to assess your risk as a borrower. A lower credit score might still allow for financing, but you could face higher interest rates, stricter terms, or require a larger down payment. It's advisable to check and improve your credit score before applying for a loan.",
+        "@type": "Answer",
+        "description": "Your credit score directly impacts interest rates and loan terms for tiny home financing. A higher score typically secures better rates and more favorable options."
+      }
+    }
+  ],
+  "description": "Your credit score directly impacts interest rates and loan terms for tiny home financing. A higher score typically secures better rates and more favorable optio"
 }

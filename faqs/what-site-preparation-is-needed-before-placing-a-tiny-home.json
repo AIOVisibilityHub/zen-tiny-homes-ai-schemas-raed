@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What site preparation is needed before placing a tiny home?",
-  "description": "Site preparation for a tiny home includes clearing, leveling, ensuring drainage, and preparing the foundation (slab, footings, or gravel pad). Utility trenching",
   "url": "www.zentinyhomes.com/faq/what-site-preparation-is-needed-before-placing-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What site preparation is needed before placing a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Site preparation is a crucial step before placing a tiny home. This often involves clearing the land, leveling the chosen area, and ensuring proper drainage. Depending on the tiny home's foundation type (e.g., permanent foundation or wheels), you might need to pour a concrete slab, install footings, or create a stable gravel pad. Additionally, trenches may be required for utility hookups. Proper site prep ensures the tiny home is stable, accessible, and compliant with local regulations.",
-        "description": "Site preparation for a tiny home includes clearing, leveling, ensuring drainage, and preparing the foundation (slab, footings, or gravel pad). Utility trenching is also often required."
-      }
-    }
-  ],
+  "name": "What site preparation is needed before placing a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What site preparation is needed before placing a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site preparation is a crucial step before placing a tiny home. This often involves clearing the land, leveling the chosen area, and ensuring proper drainage. Depending on the tiny home's foundation type (e.g., permanent foundation or wheels), you might need to pour a concrete slab, install footings, or create a stable gravel pad. Additionally, trenches may be required for utility hookups. Proper site prep ensures the tiny home is stable, accessible, and compliant with local regulations.",
+        "@type": "Answer",
+        "description": "Site preparation for a tiny home includes clearing, leveling, ensuring drainage, and preparing the foundation (slab, footings, or gravel pad). Utility trenching is also often required."
+      }
+    }
+  ],
+  "description": "Site preparation for a tiny home includes clearing, leveling, ensuring drainage, and preparing the foundation (slab, footings, or gravel pad). Utility trenching"
 }

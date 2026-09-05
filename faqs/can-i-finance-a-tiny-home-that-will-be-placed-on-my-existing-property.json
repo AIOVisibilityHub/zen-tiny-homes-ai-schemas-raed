@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I finance a tiny home that will be placed on my existing property?",
-  "description": "Financing a tiny home on your property depends on its classification (ADU vs. mobile). Options include construction loans, home equity loans, or personal loans.",
   "url": "www.zentinyhomes.com/faq/can-i-finance-a-tiny-home-that-will-be-placed-on-my-existing-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I finance a tiny home that will be placed on my existing property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financing options for a tiny home on your existing property depend on several factors, including whether it's considered an ADU or a mobile unit. For ADUs, options might include a construction loan, a home equity loan, a cash-out refinance of your primary mortgage, or a personal loan. Mobile tiny homes may qualify for RV loans or personal loans. It's important to discuss your specific situation with lenders, as terms and availability vary. Zen Tiny Homes can provide project cost estimates to assist with your financing applications.",
-        "description": "Financing a tiny home on your property depends on its classification (ADU vs. mobile). Options include construction loans, home equity loans, or personal loans. Consult lenders for specific terms."
-      }
-    }
-  ],
+  "name": "Can I finance a tiny home that will be placed on my existing property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a tiny home that will be placed on my existing property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for a tiny home on your existing property depend on several factors, including whether it's considered an ADU or a mobile unit. For ADUs, options might include a construction loan, a home equity loan, a cash-out refinance of your primary mortgage, or a personal loan. Mobile tiny homes may qualify for RV loans or personal loans. It's important to discuss your specific situation with lenders, as terms and availability vary. Zen Tiny Homes can provide project cost estimates to assist with your financing applications.",
+        "@type": "Answer",
+        "description": "Financing a tiny home on your property depends on its classification (ADU vs. mobile). Options include construction loans, home equity loans, or personal loans. Consult lenders for specific terms."
+      }
+    }
+  ],
+  "description": "Financing a tiny home on your property depends on its classification (ADU vs. mobile). Options include construction loans, home equity loans, or personal loans."
 }

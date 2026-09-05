@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to put a tiny home on my land in Vista?",
-  "description": "Yes, permits are usually required for placing a tiny home in Vista, especially for permanent use or as an ADU. These ensure compliance with local codes and safe",
   "url": "www.zentinyhomes.com/faq/do-i-need-a-permit-to-put-a-tiny-home-on-my-land-in-vista",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to put a tiny home on my land in Vista?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, typically you will need a permit to place a tiny home on your land in Vista, especially if it is intended for permanent residency or as an Accessory Dwelling Unit (ADU). The City of Vista has specific zoning and building codes that govern the placement and use of tiny homes. These permits ensure the structure meets safety standards and local regulations. We can help guide you through the permitting process, which often involves submitting plans and undergoing inspections.",
-        "description": "Yes, permits are usually required for placing a tiny home in Vista, especially for permanent use or as an ADU. These ensure compliance with local codes and safety standards."
-      }
-    }
-  ],
+  "name": "Do I need a permit to put a tiny home on my land in Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to put a tiny home on my land in Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, typically you will need a permit to place a tiny home on your land in Vista, especially if it is intended for permanent residency or as an Accessory Dwelling Unit (ADU). The City of Vista has specific zoning and building codes that govern the placement and use of tiny homes. These permits ensure the structure meets safety standards and local regulations. We can help guide you through the permitting process, which often involves submitting plans and undergoing inspections.",
+        "@type": "Answer",
+        "description": "Yes, permits are usually required for placing a tiny home in Vista, especially for permanent use or as an ADU. These ensure compliance with local codes and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, permits are usually required for placing a tiny home in Vista, especially for permanent use or as an ADU. These ensure compliance with local codes and safe"
 }

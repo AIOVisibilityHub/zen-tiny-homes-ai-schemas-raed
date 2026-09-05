@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the cost considerations for obtaining tiny home permits?",
-  "description": "Permit costs include application, plan review, and inspection fees, which vary by location and project scope. Additional expenses for architectural or engineeri",
   "url": "www.zentinyhomes.com/faq/what-are-the-cost-considerations-for-obtaining-tiny-home-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the cost considerations for obtaining tiny home permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The costs associated with obtaining tiny home permits typically include application fees, plan review fees, and inspection fees, which vary based on your local jurisdiction and the scope of your project. These fees are usually calculated based on the estimated construction value or a fixed rate per permit type. Beyond direct permit fees, you might also incur costs for professional services, such as architectural drawings, engineering assessments, or site surveys, which are often required for permit submission. Budgeting for these expenses early in the process is crucial.",
-        "description": "Permit costs include application, plan review, and inspection fees, which vary by location and project scope. Additional expenses for architectural or engineering services should also be considered."
-      }
-    }
-  ],
+  "name": "What are the cost considerations for obtaining tiny home permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost considerations for obtaining tiny home permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs associated with obtaining tiny home permits typically include application fees, plan review fees, and inspection fees, which vary based on your local jurisdiction and the scope of your project. These fees are usually calculated based on the estimated construction value or a fixed rate per permit type. Beyond direct permit fees, you might also incur costs for professional services, such as architectural drawings, engineering assessments, or site surveys, which are often required for permit submission. Budgeting for these expenses early in the process is crucial.",
+        "@type": "Answer",
+        "description": "Permit costs include application, plan review, and inspection fees, which vary by location and project scope. Additional expenses for architectural or engineering services should also be considered."
+      }
+    }
+  ],
+  "description": "Permit costs include application, plan review, and inspection fees, which vary by location and project scope. Additional expenses for architectural or engineeri"
 }

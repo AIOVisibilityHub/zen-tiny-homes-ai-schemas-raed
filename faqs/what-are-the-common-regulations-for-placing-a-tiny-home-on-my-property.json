@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the common regulations for placing a tiny home on my property?",
-  "description": "Regulations vary by location and jurisdiction, covering zoning, lot size, setbacks, and whether it's an ADU or RV. Check with your local planning department for",
   "url": "www.zentinyhomes.com/faq/what-are-the-common-regulations-for-placing-a-tiny-home-on-my-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the common regulations for placing a tiny home on my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regulations for placing a tiny home on your property vary significantly by location and jurisdiction. Key factors include zoning ordinances, minimum lot sizes, setback requirements, and whether the tiny home is considered an Accessory Dwelling Unit (ADU) or a Recreational Vehicle (RV). ADUs typically have more stringent building codes and permitting processes, while RVs might be subject to different parking and occupancy rules. We recommend checking with your local planning department to understand the specific requirements for your property.",
-        "description": "Regulations vary by location and jurisdiction, covering zoning, lot size, setbacks, and whether it's an ADU or RV. Check with your local planning department for specifics."
-      }
-    }
-  ],
+  "name": "What are the common regulations for placing a tiny home on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common regulations for placing a tiny home on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regulations for placing a tiny home on your property vary significantly by location and jurisdiction. Key factors include zoning ordinances, minimum lot sizes, setback requirements, and whether the tiny home is considered an Accessory Dwelling Unit (ADU) or a Recreational Vehicle (RV). ADUs typically have more stringent building codes and permitting processes, while RVs might be subject to different parking and occupancy rules. We recommend checking with your local planning department to understand the specific requirements for your property.",
+        "@type": "Answer",
+        "description": "Regulations vary by location and jurisdiction, covering zoning, lot size, setbacks, and whether it's an ADU or RV. Check with your local planning department for specifics."
+      }
+    }
+  ],
+  "description": "Regulations vary by location and jurisdiction, covering zoning, lot size, setbacks, and whether it's an ADU or RV. Check with your local planning department for"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the typical down payment requirements for tiny home financing?",
-  "description": "Down payments for tiny homes typically range from 10-20% for secured loans like RV or chattel mortgages, while personal loans may require none but carry higher",
   "url": "www.zentinyhomes.com/faq/what-are-the-typical-down-payment-requirements-for-tiny-home-financing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the typical down payment requirements for tiny home financing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Down payment requirements for tiny homes can vary significantly based on the lender, the type of loan, and your credit score. For RV loans or chattel mortgages, down payments commonly range from 10% to 20% of the tiny home's purchase price. Personal loans, being unsecured, may not require a down payment, but often have higher interest rates. A larger down payment can lead to lower monthly payments and less interest paid over the life of the loan. It's always beneficial to save as much as possible upfront.",
-        "description": "Down payments for tiny homes typically range from 10-20% for secured loans like RV or chattel mortgages, while personal loans may require none but carry higher interest."
-      }
-    }
-  ],
+  "name": "What are the typical down payment requirements for tiny home financing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical down payment requirements for tiny home financing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Down payment requirements for tiny homes can vary significantly based on the lender, the type of loan, and your credit score. For RV loans or chattel mortgages, down payments commonly range from 10% to 20% of the tiny home's purchase price. Personal loans, being unsecured, may not require a down payment, but often have higher interest rates. A larger down payment can lead to lower monthly payments and less interest paid over the life of the loan. It's always beneficial to save as much as possible upfront.",
+        "@type": "Answer",
+        "description": "Down payments for tiny homes typically range from 10-20% for secured loans like RV or chattel mortgages, while personal loans may require none but carry higher interest."
+      }
+    }
+  ],
+  "description": "Down payments for tiny homes typically range from 10-20% for secured loans like RV or chattel mortgages, while personal loans may require none but carry higher"
 }

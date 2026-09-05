@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a tiny home permit and an ADU permit?",
-  "description": "An ADU permit is for a secondary dwelling, often including tiny homes used for permanent living. Not all tiny homes are ADUs, but most permanent tiny homes requ",
   "url": "www.zentinyhomes.com/faq/what-is-the-difference-between-a-tiny-home-permit-and-an-adu-permit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a tiny home permit and an ADU permit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An ADU (Accessory Dwelling Unit) permit is a specific type of permit that allows for the construction or placement of a secondary dwelling on a property, often encompassing tiny homes used for permanent living. Not all tiny homes are ADUs; for example, a tiny home on wheels used for recreational purposes might not fall under ADU regulations. However, most tiny homes intended for permanent occupancy on a foundation or with utility connections will typically require an ADU permit, especially in California, due to state laws encouraging their development.",
-        "description": "An ADU permit is for a secondary dwelling, often including tiny homes used for permanent living. Not all tiny homes are ADUs, but most permanent tiny homes require ADU permits."
-      }
-    }
-  ],
+  "name": "What is the difference between a tiny home permit and an ADU permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tiny home permit and an ADU permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU (Accessory Dwelling Unit) permit is a specific type of permit that allows for the construction or placement of a secondary dwelling on a property, often encompassing tiny homes used for permanent living. Not all tiny homes are ADUs; for example, a tiny home on wheels used for recreational purposes might not fall under ADU regulations. However, most tiny homes intended for permanent occupancy on a foundation or with utility connections will typically require an ADU permit, especially in California, due to state laws encouraging their development.",
+        "@type": "Answer",
+        "description": "An ADU permit is for a secondary dwelling, often including tiny homes used for permanent living. Not all tiny homes are ADUs, but most permanent tiny homes require ADU permits."
+      }
+    }
+  ],
+  "description": "An ADU permit is for a secondary dwelling, often including tiny homes used for permanent living. Not all tiny homes are ADUs, but most permanent tiny homes requ"
 }

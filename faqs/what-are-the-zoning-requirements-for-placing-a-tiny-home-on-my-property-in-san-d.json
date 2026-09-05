@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the zoning requirements for placing a tiny home on my property in San Diego County?",
-  "description": "Zoning for tiny homes as rental units (ADUs/JADUs) varies across San Diego County. Check with your local planning department for specific requirements.",
   "url": "www.zentinyhomes.com/faq/what-are-the-zoning-requirements-for-placing-a-tiny-home-on-my-property-in-san-d",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the zoning requirements for placing a tiny home on my property in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zoning requirements for tiny homes vary significantly by specific location within San Diego County. Generally, tiny homes intended for rental purposes are considered Accessory Dwelling Units (ADUs) or Junior Accessory Dwelling Units (JADUs). These have specific regulations regarding size, setbacks, utility connections, and parking. We recommend consulting with your local planning department in cities like Vista, Oceanside, Carlsbad, San Marcos, or Escondido to understand the precise regulations applicable to your parcel. We can guide you through the general process.",
-        "description": "Zoning for tiny homes as rental units (ADUs/JADUs) varies across San Diego County. Check with your local planning department for specific requirements."
-      }
-    }
-  ],
+  "name": "What are the zoning requirements for placing a tiny home on my property in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning requirements for placing a tiny home on my property in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning requirements for tiny homes vary significantly by specific location within San Diego County. Generally, tiny homes intended for rental purposes are considered Accessory Dwelling Units (ADUs) or Junior Accessory Dwelling Units (JADUs). These have specific regulations regarding size, setbacks, utility connections, and parking. We recommend consulting with your local planning department in cities like Vista, Oceanside, Carlsbad, San Marcos, or Escondido to understand the precise regulations applicable to your parcel. We can guide you through the general process.",
+        "@type": "Answer",
+        "description": "Zoning for tiny homes as rental units (ADUs/JADUs) varies across San Diego County. Check with your local planning department for specific requirements."
+      }
+    }
+  ],
+  "description": "Zoning for tiny homes as rental units (ADUs/JADUs) varies across San Diego County. Check with your local planning department for specific requirements."
 }

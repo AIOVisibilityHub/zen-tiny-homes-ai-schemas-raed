@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a tiny home permit and why do I need one?",
-  "description": "A tiny home permit is official authorization to build or place a tiny home, ensuring it meets local safety and zoning regulations. It's crucial to avoid legal i",
   "url": "www.zentinyhomes.com/faq/what-is-a-tiny-home-permit-and-why-do-i-need-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a tiny home permit and why do I need one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tiny home permit is an official authorization from your local jurisdiction (city or county) to build or place a tiny home on a property. Permits ensure your tiny home meets safety, health, and zoning regulations. Skipping this process can lead to fines, forced removal, or difficulties with insurance and financing. It also ensures the structure is safe for occupancy and adheres to local land use plans, contributing to community standards and property values.",
-        "description": "A tiny home permit is official authorization to build or place a tiny home, ensuring it meets local safety and zoning regulations. It's crucial to avoid legal issues and ensure safety."
-      }
-    }
-  ],
+  "name": "What is a tiny home permit and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tiny home permit and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tiny home permit is an official authorization from your local jurisdiction (city or county) to build or place a tiny home on a property. Permits ensure your tiny home meets safety, health, and zoning regulations. Skipping this process can lead to fines, forced removal, or difficulties with insurance and financing. It also ensures the structure is safe for occupancy and adheres to local land use plans, contributing to community standards and property values.",
+        "@type": "Answer",
+        "description": "A tiny home permit is official authorization to build or place a tiny home, ensuring it meets local safety and zoning regulations. It's crucial to avoid legal issues and ensure safety."
+      }
+    }
+  ],
+  "description": "A tiny home permit is official authorization to build or place a tiny home, ensuring it meets local safety and zoning regulations. It's crucial to avoid legal i"
 }

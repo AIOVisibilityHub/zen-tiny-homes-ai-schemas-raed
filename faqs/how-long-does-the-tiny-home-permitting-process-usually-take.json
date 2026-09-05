@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the tiny home permitting process usually take?",
-  "description": "The tiny home permitting process usually takes several weeks to a few months, depending on the jurisdiction, project complexity, and application completeness.",
   "url": "www.zentinyhomes.com/faq/how-long-does-the-tiny-home-permitting-process-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the tiny home permitting process usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of the tiny home permitting process can vary significantly, typically ranging from a few weeks to several months. Factors influencing the timeline include the completeness of your application, the specific city or county (e.g., Vista vs. Escondido), the complexity of your project, and the current workload of the planning department. Efficient preparation of plans and prompt responses to any inquiries can help expedite the process. It's wise to plan for potential delays.",
-        "description": "The tiny home permitting process usually takes several weeks to a few months, depending on the jurisdiction, project complexity, and application completeness."
-      }
-    }
-  ],
+  "name": "How long does the tiny home permitting process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the tiny home permitting process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the tiny home permitting process can vary significantly, typically ranging from a few weeks to several months. Factors influencing the timeline include the completeness of your application, the specific city or county (e.g., Vista vs. Escondido), the complexity of your project, and the current workload of the planning department. Efficient preparation of plans and prompt responses to any inquiries can help expedite the process. It's wise to plan for potential delays.",
+        "@type": "Answer",
+        "description": "The tiny home permitting process usually takes several weeks to a few months, depending on the jurisdiction, project complexity, and application completeness."
+      }
+    }
+  ],
+  "description": "The tiny home permitting process usually takes several weeks to a few months, depending on the jurisdiction, project complexity, and application completeness."
 }

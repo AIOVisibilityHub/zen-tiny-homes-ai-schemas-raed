@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I finance my tiny home or pay cash?",
-  "description": "Paying cash avoids interest and gives immediate ownership but ties up capital. Financing preserves cash and can build credit, but incurs interest. Evaluate your",
   "url": "www.zentinyhomes.com/faq/should-i-finance-my-tiny-home-or-pay-cash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I finance my tiny home or pay cash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The decision to finance or pay cash depends on your financial situation and goals. Paying cash avoids interest payments and simplifies the purchasing process, giving you immediate ownership. However, it ties up a significant amount of capital that could be used for other investments or an emergency fund. Financing allows you to preserve your cash, spread the cost over time, and potentially build credit. Weigh the cost of interest against the opportunity cost of using your savings. Consider your current savings, investment goals, and risk tolerance.",
-        "description": "Paying cash avoids interest and gives immediate ownership but ties up capital. Financing preserves cash and can build credit, but incurs interest. Evaluate your financial goals and savings."
-      }
-    }
-  ],
+  "name": "Should I finance my tiny home or pay cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I finance my tiny home or pay cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to finance or pay cash depends on your financial situation and goals. Paying cash avoids interest payments and simplifies the purchasing process, giving you immediate ownership. However, it ties up a significant amount of capital that could be used for other investments or an emergency fund. Financing allows you to preserve your cash, spread the cost over time, and potentially build credit. Weigh the cost of interest against the opportunity cost of using your savings. Consider your current savings, investment goals, and risk tolerance.",
+        "@type": "Answer",
+        "description": "Paying cash avoids interest and gives immediate ownership but ties up capital. Financing preserves cash and can build credit, but incurs interest. Evaluate your financial goals and savings."
+      }
+    }
+  ],
+  "description": "Paying cash avoids interest and gives immediate ownership but ties up capital. Financing preserves cash and can build credit, but incurs interest. Evaluate your"
 }

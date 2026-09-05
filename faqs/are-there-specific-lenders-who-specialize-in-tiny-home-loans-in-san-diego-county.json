@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there specific lenders who specialize in tiny home loans in San Diego County?",
-  "description": "Specialized tiny home lenders often operate nationally. Zen Tiny Homes can provide a list of reputable lenders who understand tiny home financing, serving San D",
   "url": "www.zentinyhomes.com/faq/are-there-specific-lenders-who-specialize-in-tiny-home-loans-in-san-diego-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there specific lenders who specialize in tiny home loans in San Diego County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While Zen Tiny Homes is located in San Diego County, specialized tiny home lenders aren't exclusive to geographical areas in the same way traditional mortgage lenders might be. Many national lenders offer RV loans or chattel mortgages that can be used to finance tiny homes across various regions. We recommend consulting with our team for a list of reputable lenders we've worked with previously who understand the unique aspects of tiny home financing. They can guide you regardless of whether you're in Vista or Encinitas.",
-        "description": "Specialized tiny home lenders often operate nationally. Zen Tiny Homes can provide a list of reputable lenders who understand tiny home financing, serving San Diego County and beyond."
-      }
-    }
-  ],
+  "name": "Are there specific lenders who specialize in tiny home loans in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific lenders who specialize in tiny home loans in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Zen Tiny Homes is located in San Diego County, specialized tiny home lenders aren't exclusive to geographical areas in the same way traditional mortgage lenders might be. Many national lenders offer RV loans or chattel mortgages that can be used to finance tiny homes across various regions. We recommend consulting with our team for a list of reputable lenders we've worked with previously who understand the unique aspects of tiny home financing. They can guide you regardless of whether you're in Vista or Encinitas.",
+        "@type": "Answer",
+        "description": "Specialized tiny home lenders often operate nationally. Zen Tiny Homes can provide a list of reputable lenders who understand tiny home financing, serving San Diego County and beyond."
+      }
+    }
+  ],
+  "description": "Specialized tiny home lenders often operate nationally. Zen Tiny Homes can provide a list of reputable lenders who understand tiny home financing, serving San D"
 }

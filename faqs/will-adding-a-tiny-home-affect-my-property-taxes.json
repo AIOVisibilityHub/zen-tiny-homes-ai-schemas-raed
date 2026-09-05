@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will adding a tiny home affect my property taxes?",
-  "description": "Yes, adding a permanent tiny home (ADU) will likely increase your property taxes as it raises your property's assessed value. Consult your county assessor's off",
   "url": "www.zentinyhomes.com/faq/will-adding-a-tiny-home-affect-my-property-taxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will adding a tiny home affect my property taxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, adding a tiny home to your property, especially if it's classified as a permanent structure like an Accessory Dwelling Unit (ADU), will likely affect your property taxes. An ADU is typically considered an improvement to your property, increasing its assessed value. The amount of the increase will depend on the size, features, and quality of the tiny home, as well as local assessment rules. It's advisable to consult with your county's assessor's office to understand the potential tax implications for your specific situation.",
-        "description": "Yes, adding a permanent tiny home (ADU) will likely increase your property taxes as it raises your property's assessed value. Consult your county assessor's office for specifics."
-      }
-    }
-  ],
+  "name": "Will adding a tiny home affect my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will adding a tiny home affect my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a tiny home to your property, especially if it's classified as a permanent structure like an Accessory Dwelling Unit (ADU), will likely affect your property taxes. An ADU is typically considered an improvement to your property, increasing its assessed value. The amount of the increase will depend on the size, features, and quality of the tiny home, as well as local assessment rules. It's advisable to consult with your county's assessor's office to understand the potential tax implications for your specific situation.",
+        "@type": "Answer",
+        "description": "Yes, adding a permanent tiny home (ADU) will likely increase your property taxes as it raises your property's assessed value. Consult your county assessor's office for specifics."
+      }
+    }
+  ],
+  "description": "Yes, adding a permanent tiny home (ADU) will likely increase your property taxes as it raises your property's assessed value. Consult your county assessor's off"
 }

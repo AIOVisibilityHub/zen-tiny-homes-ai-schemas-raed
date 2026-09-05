@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average total cost of a tiny home?",
-  "description": "The average total cost for a tiny home ranges from $25,000 for DIY to over $150,000 for custom-built, excluding land and permits.",
   "url": "www.zentinyhomes.com/faq/what-is-the-average-total-cost-of-a-tiny-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average total cost of a tiny home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The total cost of a tiny home can vary significantly depending on factors like size, materials, level of customization, and whether it's built on a foundation or wheels. Generally, a DIY tiny home can cost between $25,000 to $60,000. For a professionally built tiny home, expect to pay anywhere from $60,000 to $150,000 or more. This range typically includes the shell, interior finishes, appliances, and basic utility hookups. Land costs, permits, and site preparation are usually separate.",
-        "description": "The average total cost for a tiny home ranges from $25,000 for DIY to over $150,000 for custom-built, excluding land and permits."
-      }
-    }
-  ],
+  "name": "What is the average total cost of a tiny home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average total cost of a tiny home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of a tiny home can vary significantly depending on factors like size, materials, level of customization, and whether it's built on a foundation or wheels. Generally, a DIY tiny home can cost between $25,000 to $60,000. For a professionally built tiny home, expect to pay anywhere from $60,000 to $150,000 or more. This range typically includes the shell, interior finishes, appliances, and basic utility hookups. Land costs, permits, and site preparation are usually separate.",
+        "@type": "Answer",
+        "description": "The average total cost for a tiny home ranges from $25,000 for DIY to over $150,000 for custom-built, excluding land and permits."
+      }
+    }
+  ],
+  "description": "The average total cost for a tiny home ranges from $25,000 for DIY to over $150,000 for custom-built, excluding land and permits."
 }

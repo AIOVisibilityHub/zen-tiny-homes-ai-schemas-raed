@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an aging-in-place tiny home be customized to my specific needs and preferences?",
-  "description": "Yes, aging-in-place tiny homes are highly customizable to meet individual physical needs, lifestyle preferences, and aesthetic desires, including specific floor",
   "url": "www.zentinyhomes.com/faq/can-an-aging-in-place-tiny-home-be-customized-to-my-specific-needs-and-preferenc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an aging-in-place tiny home be customized to my specific needs and preferences?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, customization is a core aspect of our aging-in-place tiny home design process. We work closely with each client to understand their unique physical needs, lifestyle preferences, and aesthetic desires. This can involve tailoring floor plans for optimal maneuverability, selecting specific materials for low maintenance or hypo-allergenic properties, integrating smart home technology for convenience and security, and designing specialized storage solutions. Our goal is to create a home that perfectly suits your current needs and anticipates future accessibility requirements, ensuring comfort and independence.",
-        "description": "Yes, aging-in-place tiny homes are highly customizable to meet individual physical needs, lifestyle preferences, and aesthetic desires, including specific floor plans and smart home technology."
-      }
-    }
-  ],
+  "name": "Can an aging-in-place tiny home be customized to my specific needs and preferences?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an aging-in-place tiny home be customized to my specific needs and preferences?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization is a core aspect of our aging-in-place tiny home design process. We work closely with each client to understand their unique physical needs, lifestyle preferences, and aesthetic desires. This can involve tailoring floor plans for optimal maneuverability, selecting specific materials for low maintenance or hypo-allergenic properties, integrating smart home technology for convenience and security, and designing specialized storage solutions. Our goal is to create a home that perfectly suits your current needs and anticipates future accessibility requirements, ensuring comfort and independence.",
+        "@type": "Answer",
+        "description": "Yes, aging-in-place tiny homes are highly customizable to meet individual physical needs, lifestyle preferences, and aesthetic desires, including specific floor plans and smart home technology."
+      }
+    }
+  ],
+  "description": "Yes, aging-in-place tiny homes are highly customizable to meet individual physical needs, lifestyle preferences, and aesthetic desires, including specific floor"
 }

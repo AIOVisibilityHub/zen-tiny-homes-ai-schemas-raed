@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long are typical tiny home loan terms?",
-  "description": "Tiny home loan terms typically range from 10-20 years for secured loans like RV or chattel mortgages, and 2-7 years for personal loans, affecting monthly paymen",
   "url": "www.zentinyhomes.com/faq/how-long-are-typical-tiny-home-loan-terms",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long are typical tiny home loan terms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny home loan terms can vary, but they are generally shorter than traditional 30-year mortgages. For RV loans or chattel mortgages, common terms range from 10 to 20 years. Personal loans tend to have much shorter terms, often between 2 to 7 years, due to their unsecured nature. The length of the loan term will affect your monthly payment and the total interest paid over time. Longer terms result in lower monthly payments but accumulate more interest, while shorter terms mean higher payments but less overall interest.",
-        "description": "Tiny home loan terms typically range from 10-20 years for secured loans like RV or chattel mortgages, and 2-7 years for personal loans, affecting monthly payments and total interest."
-      }
-    }
-  ],
+  "name": "How long are typical tiny home loan terms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long are typical tiny home loan terms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny home loan terms can vary, but they are generally shorter than traditional 30-year mortgages. For RV loans or chattel mortgages, common terms range from 10 to 20 years. Personal loans tend to have much shorter terms, often between 2 to 7 years, due to their unsecured nature. The length of the loan term will affect your monthly payment and the total interest paid over time. Longer terms result in lower monthly payments but accumulate more interest, while shorter terms mean higher payments but less overall interest.",
+        "@type": "Answer",
+        "description": "Tiny home loan terms typically range from 10-20 years for secured loans like RV or chattel mortgages, and 2-7 years for personal loans, affecting monthly payments and total interest."
+      }
+    }
+  ],
+  "description": "Tiny home loan terms typically range from 10-20 years for secured loans like RV or chattel mortgages, and 2-7 years for personal loans, affecting monthly paymen"
 }

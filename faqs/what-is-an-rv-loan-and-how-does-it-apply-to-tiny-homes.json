@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an RV loan and how does it apply to tiny homes?",
-  "description": "An RV loan finances tiny homes on wheels certified as RVs. They offer favorable terms and are secured by the home, requiring RV certification and good credit.",
   "url": "www.zentinyhomes.com/faq/what-is-an-rv-loan-and-how-does-it-apply-to-tiny-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an RV loan and how does it apply to tiny homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An RV loan is a common financing method for tiny homes built on wheels and certified as a Recreational Vehicle (RV). These loans are secured by the tiny home itself, similar to how car loans work. RV loans often have longer repayment terms and lower interest rates compared to personal loans, making them an attractive option. Eligibility often depends on the tiny home meeting specific RV safety and building standards, as well as the buyer's creditworthiness. Ensure your chosen tiny home meets RVIA certification if pursuing this route.",
-        "description": "An RV loan finances tiny homes on wheels certified as RVs. They offer favorable terms and are secured by the home, requiring RV certification and good credit."
-      }
-    }
-  ],
+  "name": "What is an RV loan and how does it apply to tiny homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an RV loan and how does it apply to tiny homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An RV loan is a common financing method for tiny homes built on wheels and certified as a Recreational Vehicle (RV). These loans are secured by the tiny home itself, similar to how car loans work. RV loans often have longer repayment terms and lower interest rates compared to personal loans, making them an attractive option. Eligibility often depends on the tiny home meeting specific RV safety and building standards, as well as the buyer's creditworthiness. Ensure your chosen tiny home meets RVIA certification if pursuing this route.",
+        "@type": "Answer",
+        "description": "An RV loan finances tiny homes on wheels certified as RVs. They offer favorable terms and are secured by the home, requiring RV certification and good credit."
+      }
+    }
+  ],
+  "description": "An RV loan finances tiny homes on wheels certified as RVs. They offer favorable terms and are secured by the home, requiring RV certification and good credit."
 }
