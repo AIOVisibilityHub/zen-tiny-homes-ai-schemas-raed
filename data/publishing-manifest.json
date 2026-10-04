@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:49:18.029Z",
+  "generatedAt": "2026-10-04T00:49:34.845Z",
   "client": {
     "name": "Zen Tiny Homes",
     "canonicalUrl": "https://zentinyhomes.aiovisibility.net",
@@ -139,7 +139,7 @@
   },
   "package": {
     "totalFiles": 1353,
-    "totalBytes": 5740187,
+    "totalBytes": 5673013,
     "stats": {
       "qna": 0,
       "faqs": 1088,
@@ -6819,62 +6819,62 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21051,
+        "bytes": 15297,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 33197,
+        "bytes": 27591,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 51900,
+        "bytes": 46245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20016,
+        "bytes": 14521,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 819062,
+        "bytes": 813556,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20304,
+        "bytes": 14800,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 21141,
+        "bytes": 15561,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 94019,
+        "bytes": 88436,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 63141,
+        "bytes": 57488,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 261560,
+        "bytes": 255936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 149379,
+        "bytes": 143719,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 175515,
+        "bytes": 169961,
         "purpose": "LLM-optimized public page"
       }
     ],
