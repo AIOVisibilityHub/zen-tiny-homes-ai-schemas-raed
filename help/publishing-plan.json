@@ -1,0 +1,1938 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "What to Consider Before Designing Your Tiny Home",
+      "anchorSlug": "what-to-consider-before-designing-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-designing-your-tiny-home.html"
+    },
+    {
+      "title": "Making Your Tiny Home Design Work for You: Mistakes to Avoid",
+      "anchorSlug": "making-your-tiny-home-design-work-for-you-mistakes-to-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-tiny-home-design-work-for-you-mistakes-to-avoid.html"
+    },
+    {
+      "title": "When is it Time to Bring in a Professional for Your Tiny Home Design?",
+      "anchorSlug": "when-is-it-time-to-bring-in-a-professional-for-your-tiny-home-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-bring-in-a-professional-for-your-tiny-home-design.html"
+    },
+    {
+      "title": "Why is Tiny Home Construction Different?",
+      "anchorSlug": "why-is-tiny-home-construction-different",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-tiny-home-construction-different.html"
+    },
+    {
+      "title": "Understanding the Tiny Home Building Process",
+      "anchorSlug": "understanding-the-tiny-home-building-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-tiny-home-building-process.html"
+    },
+    {
+      "title": "Myths vs. Facts: Tiny Home Construction",
+      "anchorSlug": "myths-vs-facts-tiny-home-construction",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-vs-facts-tiny-home-construction.html"
+    },
+    {
+      "title": "Is My Property Right for a Tiny Home? What to Consider First",
+      "anchorSlug": "is-my-property-right-for-a-tiny-home-what-to-consider-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-property-right-for-a-tiny-home-what-to-consider-first.html"
+    },
+    {
+      "title": "Myths About Tiny Home Placement on Your Land",
+      "anchorSlug": "myths-about-tiny-home-placement-on-your-land",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-tiny-home-placement-on-your-land.html"
+    },
+    {
+      "title": "When to Call a Professional for Your Tiny Home Site Assessment",
+      "anchorSlug": "when-to-call-a-professional-for-your-tiny-home-site-assessment",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-your-tiny-home-site-assessment.html"
+    },
+    {
+      "title": "What to Do When Your Tiny Home Site Plans Are Confusing",
+      "anchorSlug": "what-to-do-when-your-tiny-home-site-plans-are-confusing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-tiny-home-site-plans-are-confusing.html"
+    },
+    {
+      "title": "Don't Make These Mistakes When Choosing Your Tiny Home Location",
+      "anchorSlug": "don-t-make-these-mistakes-when-choosing-your-tiny-home-location",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/don-t-make-these-mistakes-when-choosing-your-tiny-home-location.html"
+    },
+    {
+      "title": "Why Site Feasibility Consultations are Key to Your Tiny Home Dream",
+      "anchorSlug": "why-site-feasibility-consultations-are-key-to-your-tiny-home-dream",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-site-feasibility-consultations-are-key-to-your-tiny-home-dream.html"
+    },
+    {
+      "title": "Why Does My Small Space Feel So Cluttered?",
+      "anchorSlug": "why-does-my-small-space-feel-so-cluttered",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-small-space-feel-so-cluttered.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning for a Tiny Home",
+      "anchorSlug": "mistakes-to-avoid-when-planning-for-a-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-for-a-tiny-home.html"
+    },
+    {
+      "title": "When is it Time to Get Professional Help with Small-Space Planning?",
+      "anchorSlug": "when-is-it-time-to-get-professional-help-with-small-space-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-get-professional-help-with-small-space-planning.html"
+    },
+    {
+      "title": "My Custom Tiny Home Design Feels Too Restrictive, What Can I Do?",
+      "anchorSlug": "my-custom-tiny-home-design-feels-too-restrictive-what-can-i-do",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-custom-tiny-home-design-feels-too-restrictive-what-can-i-do.html"
+    },
+    {
+      "title": "What Mistakes Should I Avoid When Developing a Custom Tiny Home Floor Plan?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-developing-a-custom-tiny-home-floor-pl",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-developing-a-custom-tiny-home-floor-pl.html"
+    },
+    {
+      "title": "When is it Time to Call a Professional for Custom Floor-Plan Development?",
+      "anchorSlug": "when-is-it-time-to-call-a-professional-for-custom-floor-plan-development",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-professional-for-custom-floor-plan-development.html"
+    },
+    {
+      "title": "Why Your Tiny Home Layout Feels Off",
+      "anchorSlug": "why-your-tiny-home-layout-feels-off",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-tiny-home-layout-feels-off.html"
+    },
+    {
+      "title": "Debunking Tiny Home Interior Design Myths",
+      "anchorSlug": "debunking-tiny-home-interior-design-myths",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/debunking-tiny-home-interior-design-myths.html"
+    },
+    {
+      "title": "When Does a Professional Designer Become Essential for Your Tiny Home Interior?",
+      "anchorSlug": "when-does-a-professional-designer-become-essential-for-your-tiny-home-in",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-a-professional-designer-become-essential-for-your-tiny-home-in.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Optimizing Space in Your Tiny Home",
+      "anchorSlug": "mistakes-to-avoid-when-optimizing-space-in-your-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-optimizing-space-in-your-tiny-home.html"
+    },
+    {
+      "title": "How to Maximize Every Inch in Your Tiny Home",
+      "anchorSlug": "how-to-maximize-every-inch-in-your-tiny-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-maximize-every-inch-in-your-tiny-home.html"
+    },
+    {
+      "title": "Is Your Tiny Home Storage Working Against You?",
+      "anchorSlug": "is-your-tiny-home-storage-working-against-you",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-tiny-home-storage-working-against-you.html"
+    },
+    {
+      "title": "Why Does My Tiny Home Feel So Cramped?",
+      "anchorSlug": "why-does-my-tiny-home-feel-so-cramped",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-tiny-home-feel-so-cramped.html"
+    },
+    {
+      "title": "Is My Tiny Home Storage Optimized?",
+      "anchorSlug": "is-my-tiny-home-storage-optimized",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-tiny-home-storage-optimized.html"
+    },
+    {
+      "title": "When to Call for Storage-Optimization Design",
+      "anchorSlug": "when-to-call-for-storage-optimization-design",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-storage-optimization-design.html"
+    },
+    {
+      "title": "Why Do My Tiny Home Spaces Feel Disconnected?",
+      "anchorSlug": "why-do-my-tiny-home-spaces-feel-disconnected",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-do-my-tiny-home-spaces-feel-disconnected.html"
+    },
+    {
+      "title": "What if My Tiny Home Needs to Serve Multiple Purposes?",
+      "anchorSlug": "what-if-my-tiny-home-needs-to-serve-multiple-purposes",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-if-my-tiny-home-needs-to-serve-multiple-purposes.html"
+    },
+    {
+      "title": "When to Call for Multifunctional Living-Space Design",
+      "anchorSlug": "when-to-call-for-multifunctional-living-space-design",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-multifunctional-living-space-design.html"
+    },
+    {
+      "title": "Worried Your Tiny Home Won't Fit Your Lifestyle?",
+      "anchorSlug": "worried-your-tiny-home-won-t-fit-your-lifestyle",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-your-tiny-home-won-t-fit-your-lifestyle.html"
+    },
+    {
+      "title": "Feeling Overwhelmed Starting Your Tiny Home Project?",
+      "anchorSlug": "feeling-overwhelmed-starting-your-tiny-home-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-overwhelmed-starting-your-tiny-home-project.html"
+    },
+    {
+      "title": "Are You Making These Mistakes Planning Your Tiny Home?",
+      "anchorSlug": "are-you-making-these-mistakes-planning-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-you-making-these-mistakes-planning-your-tiny-home.html"
+    },
+    {
+      "title": "Unsure if a Tiny Home is Right for Your Property?",
+      "anchorSlug": "unsure-if-a-tiny-home-is-right-for-your-property",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/unsure-if-a-tiny-home-is-right-for-your-property.html"
+    },
+    {
+      "title": "Confused About Where to Put Your Tiny Home Legally?",
+      "anchorSlug": "confused-about-where-to-put-your-tiny-home-legally",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/confused-about-where-to-put-your-tiny-home-legally.html"
+    },
+    {
+      "title": "Do You Know the Truth About Tiny Home Placement Regulations?",
+      "anchorSlug": "do-you-know-the-truth-about-tiny-home-placement-regulations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/do-you-know-the-truth-about-tiny-home-placement-regulations.html"
+    },
+    {
+      "title": "Is Customizing My Tiny Home Too Complicated?",
+      "anchorSlug": "is-customizing-my-tiny-home-too-complicated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-customizing-my-tiny-home-too-complicated.html"
+    },
+    {
+      "title": "Myths About Tiny Home Customization",
+      "anchorSlug": "myths-about-tiny-home-customization",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-tiny-home-customization.html"
+    },
+    {
+      "title": "When Should I Hire a Professional for Tiny Home Upgrades?",
+      "anchorSlug": "when-should-i-hire-a-professional-for-tiny-home-upgrades",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-professional-for-tiny-home-upgrades.html"
+    },
+    {
+      "title": "Will a Backyard Tiny Home Add Value to My Property?",
+      "anchorSlug": "will-a-backyard-tiny-home-add-value-to-my-property",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/will-a-backyard-tiny-home-add-value-to-my-property.html"
+    },
+    {
+      "title": "What's the Difference Between an ADU and a Tiny Home?",
+      "anchorSlug": "what-s-the-difference-between-an-adu-and-a-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-difference-between-an-adu-and-a-tiny-home.html"
+    },
+    {
+      "title": "Can I Really Build a Tiny Home in My Backyard?",
+      "anchorSlug": "can-i-really-build-a-tiny-home-in-my-backyard",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-really-build-a-tiny-home-in-my-backyard.html"
+    },
+    {
+      "title": "Worried Your Guest Home Won't Feel Private?",
+      "anchorSlug": "worried-your-guest-home-won-t-feel-private",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-your-guest-home-won-t-feel-private.html"
+    },
+    {
+      "title": "What to Consider Before Building a Guest Tiny Home",
+      "anchorSlug": "what-to-consider-before-building-a-guest-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-building-a-guest-tiny-home.html"
+    },
+    {
+      "title": "Is a Guest Home the Right Solution for My Property?",
+      "anchorSlug": "is-a-guest-home-the-right-solution-for-my-property",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-guest-home-the-right-solution-for-my-property.html"
+    },
+    {
+      "title": "Will My Primary Tiny Home Be Legal in San Diego?",
+      "anchorSlug": "will-my-primary-tiny-home-be-legal-in-san-diego",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/will-my-primary-tiny-home-be-legal-in-san-diego.html"
+    },
+    {
+      "title": "How to Ensure Your Primary Tiny Home Maximizes Space",
+      "anchorSlug": "how-to-ensure-your-primary-tiny-home-maximizes-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-primary-tiny-home-maximizes-space.html"
+    },
+    {
+      "title": "Struggling to Design a Functional Primary Tiny Home?",
+      "anchorSlug": "struggling-to-design-a-functional-primary-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-design-a-functional-primary-tiny-home.html"
+    },
+    {
+      "title": "Why isn't my tiny home vision coming together?",
+      "anchorSlug": "why-isn-t-my-tiny-home-vision-coming-together",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-tiny-home-vision-coming-together.html"
+    },
+    {
+      "title": "How do I even start designing a custom tiny home?",
+      "anchorSlug": "how-do-i-even-start-designing-a-custom-tiny-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-even-start-designing-a-custom-tiny-home.html"
+    },
+    {
+      "title": "5 Common Mistakes in Tiny Home Design to Avoid",
+      "anchorSlug": "5-common-mistakes-in-tiny-home-design-to-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-common-mistakes-in-tiny-home-design-to-avoid.html"
+    },
+    {
+      "title": "What should I consider before building a tiny home?",
+      "anchorSlug": "what-should-i-consider-before-building-a-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-consider-before-building-a-tiny-home.html"
+    },
+    {
+      "title": "What's the typical timeline for building a custom tiny home?",
+      "anchorSlug": "what-s-the-typical-timeline-for-building-a-custom-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-typical-timeline-for-building-a-custom-tiny-home.html"
+    },
+    {
+      "title": "Is a custom tiny home construction right for my property?",
+      "anchorSlug": "is-a-custom-tiny-home-construction-right-for-my-property",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-custom-tiny-home-construction-right-for-my-property.html"
+    },
+    {
+      "title": "Worried About Where to Put Your Tiny Home?",
+      "anchorSlug": "worried-about-where-to-put-your-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-where-to-put-your-tiny-home.html"
+    },
+    {
+      "title": "Is Your Property Right for a Tiny Home?",
+      "anchorSlug": "is-your-property-right-for-a-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-property-right-for-a-tiny-home.html"
+    },
+    {
+      "title": "Making Sense of Zoning for Your Tiny Home",
+      "anchorSlug": "making-sense-of-zoning-for-your-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-sense-of-zoning-for-your-tiny-home.html"
+    },
+    {
+      "title": "Can I Really Have a Tiny Home on My Land?",
+      "anchorSlug": "can-i-really-have-a-tiny-home-on-my-land",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-really-have-a-tiny-home-on-my-land.html"
+    },
+    {
+      "title": "What to Expect During a Tiny Home Feasibility Consultation",
+      "anchorSlug": "what-to-expect-during-a-tiny-home-feasibility-consultation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-tiny-home-feasibility-consultation.html"
+    },
+    {
+      "title": "Why Do Tiny Home Site Assessments Matter So Much?",
+      "anchorSlug": "why-do-tiny-home-site-assessments-matter-so-much",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-do-tiny-home-site-assessments-matter-so-much.html"
+    },
+    {
+      "title": "How do I make my small space feel bigger?",
+      "anchorSlug": "how-do-i-make-my-small-space-feel-bigger",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-make-my-small-space-feel-bigger.html"
+    },
+    {
+      "title": "What mistakes should I avoid when designing a tiny home?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-designing-a-tiny-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-designing-a-tiny-home.html"
+    },
+    {
+      "title": "Is a tiny home really right for my lifestyle?",
+      "anchorSlug": "is-a-tiny-home-really-right-for-my-lifestyle",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-really-right-for-my-lifestyle.html"
+    },
+    {
+      "title": "What goes into creating a custom floor plan?",
+      "anchorSlug": "what-goes-into-creating-a-custom-floor-plan",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-goes-into-creating-a-custom-floor-plan.html"
+    },
+    {
+      "title": "How can I customize my tiny home's layout?",
+      "anchorSlug": "how-can-i-customize-my-tiny-home-s-layout",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-customize-my-tiny-home-s-layout.html"
+    },
+    {
+      "title": "How long does it actually take to build a custom tiny home?",
+      "anchorSlug": "how-long-does-it-actually-take-to-build-a-custom-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-it-actually-take-to-build-a-custom-tiny-home.html"
+    },
+    {
+      "title": "Feeling Claustrophobic in Your Tiny Home?",
+      "anchorSlug": "feeling-claustrophobic-in-your-tiny-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-claustrophobic-in-your-tiny-home.html"
+    },
+    {
+      "title": "How to Plan Your Tiny Home Interior for Your Lifestyle",
+      "anchorSlug": "how-to-plan-your-tiny-home-interior-for-your-lifestyle",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-tiny-home-interior-for-your-lifestyle.html"
+    },
+    {
+      "title": "Is Your Tiny Home Layout Working Against You?",
+      "anchorSlug": "is-your-tiny-home-layout-working-against-you",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-tiny-home-layout-working-against-you.html"
+    },
+    {
+      "title": "Struggling with Storage in Your Small Space?",
+      "anchorSlug": "struggling-with-storage-in-your-small-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-with-storage-in-your-small-space.html"
+    },
+    {
+      "title": "Maximizing Functionality in a Compact Footprint",
+      "anchorSlug": "maximizing-functionality-in-a-compact-footprint",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-functionality-in-a-compact-footprint.html"
+    },
+    {
+      "title": "When to Get Expert Help with Your Tiny Home Interior",
+      "anchorSlug": "when-to-get-expert-help-with-your-tiny-home-interior",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-get-expert-help-with-your-tiny-home-interior.html"
+    },
+    {
+      "title": "How to Maximize Every Inch: A Tiny Home Storage Checklist",
+      "anchorSlug": "how-to-maximize-every-inch-a-tiny-home-storage-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-maximize-every-inch-a-tiny-home-storage-checklist.html"
+    },
+    {
+      "title": "When is Your Tiny Home Design Not Working for You?",
+      "anchorSlug": "when-is-your-tiny-home-design-not-working-for-you",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-your-tiny-home-design-not-working-for-you.html"
+    },
+    {
+      "title": "Is a Tiny Home Right for My Multifaceted Life?",
+      "anchorSlug": "is-a-tiny-home-right-for-my-multifaceted-life",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-right-for-my-multifaceted-life.html"
+    },
+    {
+      "title": "Why Does My Tiny Kitchen Feel So Small and Unusable?",
+      "anchorSlug": "why-does-my-tiny-kitchen-feel-so-small-and-unusable",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-tiny-kitchen-feel-so-small-and-unusable.html"
+    },
+    {
+      "title": "How to Create a Multipurpose Living Space in Your Tiny Home",
+      "anchorSlug": "how-to-create-a-multipurpose-living-space-in-your-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-create-a-multipurpose-living-space-in-your-tiny-home.html"
+    },
+    {
+      "title": "What to Do Before Planning Your Tiny Home Project?",
+      "anchorSlug": "what-to-do-before-planning-your-tiny-home-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-before-planning-your-tiny-home-project.html"
+    },
+    {
+      "title": "How to Plan Your Custom Tiny Home Build",
+      "anchorSlug": "how-to-plan-your-custom-tiny-home-build",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-custom-tiny-home-build.html"
+    },
+    {
+      "title": "Why is Tiny Home Design So Important?",
+      "anchorSlug": "why-is-tiny-home-design-so-important",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-tiny-home-design-so-important.html"
+    },
+    {
+      "title": "Where Can I Legally Place My Tiny Home?",
+      "anchorSlug": "where-can-i-legally-place-my-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/where-can-i-legally-place-my-tiny-home.html"
+    },
+    {
+      "title": "What to Consider for Your Tiny Home Site Plan?",
+      "anchorSlug": "what-to-consider-for-your-tiny-home-site-plan",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-for-your-tiny-home-site-plan.html"
+    },
+    {
+      "title": "ADU vs. Tiny House: What's the Difference for Placement?",
+      "anchorSlug": "adu-vs-tiny-house-what-s-the-difference-for-placement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-vs-tiny-house-what-s-the-difference-for-placement.html"
+    },
+    {
+      "title": "Why Your Tiny Home Doesn't Feel Quite Right",
+      "anchorSlug": "why-your-tiny-home-doesn-t-feel-quite-right",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-tiny-home-doesn-t-feel-quite-right.html"
+    },
+    {
+      "title": "How to Make Your Tiny Home Truly Yours",
+      "anchorSlug": "how-to-make-your-tiny-home-truly-yours",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-make-your-tiny-home-truly-yours.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Designing Your Tiny Home",
+      "anchorSlug": "mistakes-to-avoid-when-designing-your-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-designing-your-tiny-home.html"
+    },
+    {
+      "title": "Planning a Backyard Tiny Home: Where Do I Start?",
+      "anchorSlug": "planning-a-backyard-tiny-home-where-do-i-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-a-backyard-tiny-home-where-do-i-start.html"
+    },
+    {
+      "title": "Are Backyard Tiny Homes Worth the Effort?",
+      "anchorSlug": "are-backyard-tiny-homes-worth-the-effort",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-backyard-tiny-homes-worth-the-effort.html"
+    },
+    {
+      "title": "Dealing with Regulations for Your Backyard Tiny Home",
+      "anchorSlug": "dealing-with-regulations-for-your-backyard-tiny-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-regulations-for-your-backyard-tiny-home.html"
+    },
+    {
+      "title": "Is a Guest Home Right for Your Property?",
+      "anchorSlug": "is-a-guest-home-right-for-your-property",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-guest-home-right-for-your-property.html"
+    },
+    {
+      "title": "What to Consider When Designing a Tiny Home for Guests",
+      "anchorSlug": "what-to-consider-when-designing-a-tiny-home-for-guests",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-when-designing-a-tiny-home-for-guests.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Building a Guest Tiny Home",
+      "anchorSlug": "mistakes-to-avoid-when-building-a-guest-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-building-a-guest-tiny-home.html"
+    },
+    {
+      "title": "Navigating San Diego Regulations for Your Primary Tiny Home",
+      "anchorSlug": "navigating-san-diego-regulations-for-your-primary-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-san-diego-regulations-for-your-primary-tiny-home.html"
+    },
+    {
+      "title": "Making Your Primary Tiny Home a Real Estate Investment",
+      "anchorSlug": "making-your-primary-tiny-home-a-real-estate-investment",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-primary-tiny-home-a-real-estate-investment.html"
+    },
+    {
+      "title": "How to Plan for a Foundation-Built Primary Tiny Home",
+      "anchorSlug": "how-to-plan-for-a-foundation-built-primary-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-a-foundation-built-primary-tiny-home.html"
+    },
+    {
+      "title": "Why Does Custom Tiny Home Design Matter?",
+      "anchorSlug": "why-does-custom-tiny-home-design-matter",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-custom-tiny-home-design-matter.html"
+    },
+    {
+      "title": "How to Plan Your Perfect Tiny Home Layout",
+      "anchorSlug": "how-to-plan-your-perfect-tiny-home-layout",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-perfect-tiny-home-layout.html"
+    },
+    {
+      "title": "Mistakes in Tiny Home Design to Avoid",
+      "anchorSlug": "mistakes-in-tiny-home-design-to-avoid",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-in-tiny-home-design-to-avoid.html"
+    },
+    {
+      "title": "Navigating the Tiny Home Construction Process",
+      "anchorSlug": "navigating-the-tiny-home-construction-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-the-tiny-home-construction-process.html"
+    },
+    {
+      "title": "How Long Does Tiny Home Construction Really Take?",
+      "anchorSlug": "how-long-does-tiny-home-construction-really-take",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-tiny-home-construction-really-take.html"
+    },
+    {
+      "title": "Why Choose a Custom Builder for Your Tiny Home?",
+      "anchorSlug": "why-choose-a-custom-builder-for-your-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-choose-a-custom-builder-for-your-tiny-home.html"
+    },
+    {
+      "title": "Is my property suitable for a tiny home?",
+      "anchorSlug": "is-my-property-suitable-for-a-tiny-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-property-suitable-for-a-tiny-home.html"
+    },
+    {
+      "title": "What goes into a thorough tiny home property assessment?",
+      "anchorSlug": "what-goes-into-a-thorough-tiny-home-property-assessment",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-goes-into-a-thorough-tiny-home-property-assessment.html"
+    },
+    {
+      "title": "What are the steps to assess my land for a tiny home?",
+      "anchorSlug": "what-are-the-steps-to-assess-my-land-for-a-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-steps-to-assess-my-land-for-a-tiny-home.html"
+    },
+    {
+      "title": "Why is site feasibility crucial for my tiny home project?",
+      "anchorSlug": "why-is-site-feasibility-crucial-for-my-tiny-home-project",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-site-feasibility-crucial-for-my-tiny-home-project.html"
+    },
+    {
+      "title": "Avoiding common pitfalls in tiny home site selection",
+      "anchorSlug": "avoiding-common-pitfalls-in-tiny-home-site-selection",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-tiny-home-site-selection.html"
+    },
+    {
+      "title": "When should I get a professional site assessment for my tiny home?",
+      "anchorSlug": "when-should-i-get-a-professional-site-assessment-for-my-tiny-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-get-a-professional-site-assessment-for-my-tiny-home.html"
+    },
+    {
+      "title": "Feeling Claustrophobic in a Small Space?",
+      "anchorSlug": "feeling-claustrophobic-in-a-small-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-claustrophobic-in-a-small-space.html"
+    },
+    {
+      "title": "Maximizing Every Inch: Small-Space Planning Checklist",
+      "anchorSlug": "maximizing-every-inch-small-space-planning-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-every-inch-small-space-planning-checklist.html"
+    },
+    {
+      "title": "My Tiny Home Feels Cramped – What Went Wrong?",
+      "anchorSlug": "my-tiny-home-feels-cramped-what-went-wrong",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-tiny-home-feels-cramped-what-went-wrong.html"
+    },
+    {
+      "title": "How to Design a Tiny Home That Feels Huge",
+      "anchorSlug": "how-to-design-a-tiny-home-that-feels-huge",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-design-a-tiny-home-that-feels-huge.html"
+    },
+    {
+      "title": "Is Your Tiny Home Layout Limiting Your Lifestyle?",
+      "anchorSlug": "is-your-tiny-home-layout-limiting-your-lifestyle",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-tiny-home-layout-limiting-your-lifestyle.html"
+    },
+    {
+      "title": "What to Consider Before Customizing Your Tiny Home Floor Plan",
+      "anchorSlug": "what-to-consider-before-customizing-your-tiny-home-floor-plan",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-customizing-your-tiny-home-floor-plan.html"
+    },
+    {
+      "title": "Why Does My Tiny Home Feel Cramped?",
+      "anchorSlug": "why-does-my-tiny-home-feel-cramped",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-tiny-home-feel-cramped.html"
+    },
+    {
+      "title": "Designing Your Tiny Home: Where Do You Even Begin?",
+      "anchorSlug": "designing-your-tiny-home-where-do-you-even-begin",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/designing-your-tiny-home-where-do-you-even-begin.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Tiny Home Layout Design",
+      "anchorSlug": "avoiding-common-pitfalls-in-tiny-home-layout-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-tiny-home-layout-design.html"
+    },
+    {
+      "title": "Maximizing Every Inch: The Tiny Home Challenge",
+      "anchorSlug": "maximizing-every-inch-the-tiny-home-challenge",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-every-inch-the-tiny-home-challenge.html"
+    },
+    {
+      "title": "How to Create Smart Storage in Your Tiny Home",
+      "anchorSlug": "how-to-create-smart-storage-in-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-create-smart-storage-in-your-tiny-home.html"
+    },
+    {
+      "title": "When Is a Professional Necessary for Tiny Home Space Design?",
+      "anchorSlug": "when-is-a-professional-necessary-for-tiny-home-space-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-professional-necessary-for-tiny-home-space-design.html"
+    },
+    {
+      "title": "Struggling with Clutter in Your Tiny Home?",
+      "anchorSlug": "struggling-with-clutter-in-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-with-clutter-in-your-tiny-home.html"
+    },
+    {
+      "title": "Where Do I Put Everything in a Tiny Home?",
+      "anchorSlug": "where-do-i-put-everything-in-a-tiny-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/where-do-i-put-everything-in-a-tiny-home.html"
+    },
+    {
+      "title": "Are Tiny Homes Really Liveable?",
+      "anchorSlug": "are-tiny-homes-really-liveable",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-tiny-homes-really-liveable.html"
+    },
+    {
+      "title": "What Happens When My Tiny Home Needs to Do It All?",
+      "anchorSlug": "what-happens-when-my-tiny-home-needs-to-do-it-all",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-when-my-tiny-home-needs-to-do-it-all.html"
+    },
+    {
+      "title": "How to Design a Tiny Home for Multiple Uses",
+      "anchorSlug": "how-to-design-a-tiny-home-for-multiple-uses",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-design-a-tiny-home-for-multiple-uses.html"
+    },
+    {
+      "title": "Feeling Overwhelmed by Tiny Home Decisions?",
+      "anchorSlug": "feeling-overwhelmed-by-tiny-home-decisions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-overwhelmed-by-tiny-home-decisions.html"
+    },
+    {
+      "title": "What's the Best Way to Plan My Tiny Home Project?",
+      "anchorSlug": "what-s-the-best-way-to-plan-my-tiny-home-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-best-way-to-plan-my-tiny-home-project.html"
+    },
+    {
+      "title": "Struggling to Envision Your Tiny Home Layout?",
+      "anchorSlug": "struggling-to-envision-your-tiny-home-layout",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-envision-your-tiny-home-layout.html"
+    },
+    {
+      "title": "Worried About the Legal Side of Your Tiny Home Placement?",
+      "anchorSlug": "worried-about-the-legal-side-of-your-tiny-home-placement",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-the-legal-side-of-your-tiny-home-placement.html"
+    },
+    {
+      "title": "Is a Tiny Home Right for My Property in San Diego?",
+      "anchorSlug": "is-a-tiny-home-right-for-my-property-in-san-diego",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-right-for-my-property-in-san-diego.html"
+    },
+    {
+      "title": "How Do I Figure Out Where My Tiny Home Can Go?",
+      "anchorSlug": "how-do-i-figure-out-where-my-tiny-home-can-go",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-figure-out-where-my-tiny-home-can-go.html"
+    },
+    {
+      "title": "My tiny home design feels cramped—how can I make it feel bigger?",
+      "anchorSlug": "my-tiny-home-design-feels-cramped-how-can-i-make-it-feel-bigger",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-tiny-home-design-feels-cramped-how-can-i-make-it-feel-bigger.html"
+    },
+    {
+      "title": "How do I legally add a tiny home to my backyard?",
+      "anchorSlug": "how-do-i-legally-add-a-tiny-home-to-my-backyard",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-legally-add-a-tiny-home-to-my-backyard.html"
+    },
+    {
+      "title": "What to Consider Before Customizing Your Tiny Home Design",
+      "anchorSlug": "what-to-consider-before-customizing-your-tiny-home-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-customizing-your-tiny-home-design.html"
+    },
+    {
+      "title": "What Mistakes to Avoid When Planning a Backyard Tiny Home",
+      "anchorSlug": "what-mistakes-to-avoid-when-planning-a-backyard-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-to-avoid-when-planning-a-backyard-tiny-home.html"
+    },
+    {
+      "title": "How to Customize Your Tiny Home for Maximum Livability",
+      "anchorSlug": "how-to-customize-your-tiny-home-for-maximum-livability",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-customize-your-tiny-home-for-maximum-livability.html"
+    },
+    {
+      "title": "Why You Need a Local Expert for Your Backyard ADU Project",
+      "anchorSlug": "why-you-need-a-local-expert-for-your-backyard-adu-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-need-a-local-expert-for-your-backyard-adu-project.html"
+    },
+    {
+      "title": "Is a Tiny Home the Right Primary Residence for You?",
+      "anchorSlug": "is-a-tiny-home-the-right-primary-residence-for-you",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-the-right-primary-residence-for-you.html"
+    },
+    {
+      "title": "How to Plan Your Custom Tiny Home for Full-Time Living",
+      "anchorSlug": "how-to-plan-your-custom-tiny-home-for-full-time-living",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-custom-tiny-home-for-full-time-living.html"
+    },
+    {
+      "title": "Myths About Tiny Home Living as a Primary Residence",
+      "anchorSlug": "myths-about-tiny-home-living-as-a-primary-residence",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-tiny-home-living-as-a-primary-residence.html"
+    },
+    {
+      "title": "Thinking About a Guest Home? What You Need to Know",
+      "anchorSlug": "thinking-about-a-guest-home-what-you-need-to-know",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-a-guest-home-what-you-need-to-know.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Building a Tiny Guest Home",
+      "anchorSlug": "mistakes-to-avoid-when-building-a-tiny-guest-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-building-a-tiny-guest-home.html"
+    },
+    {
+      "title": "When to Bring in Experts for Your Guest Home Project",
+      "anchorSlug": "when-to-bring-in-experts-for-your-guest-home-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-experts-for-your-guest-home-project.html"
+    },
+    {
+      "title": "Feeling Overwhelmed by Tiny Home Design Choices?",
+      "anchorSlug": "feeling-overwhelmed-by-tiny-home-design-choices",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-overwhelmed-by-tiny-home-design-choices.html"
+    },
+    {
+      "title": "What makes a tiny home truly custom?",
+      "anchorSlug": "what-makes-a-tiny-home-truly-custom",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-makes-a-tiny-home-truly-custom.html"
+    },
+    {
+      "title": "Avoiding common mistakes in tiny home design?",
+      "anchorSlug": "avoiding-common-mistakes-in-tiny-home-design",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-tiny-home-design.html"
+    },
+    {
+      "title": "How to navigate the construction process for a tiny home?",
+      "anchorSlug": "how-to-navigate-the-construction-process-for-a-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-the-construction-process-for-a-tiny-home.html"
+    },
+    {
+      "title": "Is a tiny home on a foundation the right choice for you?",
+      "anchorSlug": "is-a-tiny-home-on-a-foundation-the-right-choice-for-you",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-on-a-foundation-the-right-choice-for-you.html"
+    },
+    {
+      "title": "What to do before starting your tiny home construction?",
+      "anchorSlug": "what-to-do-before-starting-your-tiny-home-construction",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-before-starting-your-tiny-home-construction.html"
+    },
+    {
+      "title": "What to consider before buying land for a tiny home?",
+      "anchorSlug": "what-to-consider-before-buying-land-for-a-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-buying-land-for-a-tiny-home.html"
+    },
+    {
+      "title": "How to Figure Out if Your Property Can Host a Tiny Home",
+      "anchorSlug": "how-to-figure-out-if-your-property-can-host-a-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-figure-out-if-your-property-can-host-a-tiny-home.html"
+    },
+    {
+      "title": "Why Are Property Assessments Crucial for Tiny Home Success?",
+      "anchorSlug": "why-are-property-assessments-crucial-for-tiny-home-success",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-property-assessments-crucial-for-tiny-home-success.html"
+    },
+    {
+      "title": "What Happens During a Tiny Home Site Feasibility Consultation?",
+      "anchorSlug": "what-happens-during-a-tiny-home-site-feasibility-consultation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-during-a-tiny-home-site-feasibility-consultation.html"
+    },
+    {
+      "title": "Why Do I Need a Site Plan for My Tiny Home Project?",
+      "anchorSlug": "why-do-i-need-a-site-plan-for-my-tiny-home-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-do-i-need-a-site-plan-for-my-tiny-home-project.html"
+    },
+    {
+      "title": "How to Navigate Zoning for Your Tiny Home in San Diego",
+      "anchorSlug": "how-to-navigate-zoning-for-your-tiny-home-in-san-diego",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-zoning-for-your-tiny-home-in-san-diego.html"
+    },
+    {
+      "title": "My Tiny Home Feels Cramped – What Am I Doing Wrong?",
+      "anchorSlug": "my-tiny-home-feels-cramped-what-am-i-doing-wrong",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-tiny-home-feels-cramped-what-am-i-doing-wrong.html"
+    },
+    {
+      "title": "When Your Tiny Home Vision Just Isn't Coming Together",
+      "anchorSlug": "when-your-tiny-home-vision-just-isn-t-coming-together",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-tiny-home-vision-just-isn-t-coming-together.html"
+    },
+    {
+      "title": "Is a Tiny Home Right for My Lifestyle? What to Consider",
+      "anchorSlug": "is-a-tiny-home-right-for-my-lifestyle-what-to-consider",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-right-for-my-lifestyle-what-to-consider.html"
+    },
+    {
+      "title": "Struggling to Design a Functional Tiny House Layout?",
+      "anchorSlug": "struggling-to-design-a-functional-tiny-house-layout",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-design-a-functional-tiny-house-layout.html"
+    },
+    {
+      "title": "The Biggest Mistakes People Make with Tiny Home Layouts",
+      "anchorSlug": "the-biggest-mistakes-people-make-with-tiny-home-layouts",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-biggest-mistakes-people-make-with-tiny-home-layouts.html"
+    },
+    {
+      "title": "How to Plan an Interior Layout That Feels Spacious and Functional?",
+      "anchorSlug": "how-to-plan-an-interior-layout-that-feels-spacious-and-functional",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-an-interior-layout-that-feels-spacious-and-functional.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid When Designing Your Tiny Home Interior",
+      "anchorSlug": "common-mistakes-to-avoid-when-designing-your-tiny-home-interior",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-when-designing-your-tiny-home-interior.html"
+    },
+    {
+      "title": "When to Call a Professional for Your Tiny Home Interior Layout Design?",
+      "anchorSlug": "when-to-call-a-professional-for-your-tiny-home-interior-layout-design",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-your-tiny-home-interior-layout-design.html"
+    },
+    {
+      "title": "How to Maximize Every Square Inch in Your Tiny Home with Space-Optimization",
+      "anchorSlug": "how-to-maximize-every-square-inch-in-your-tiny-home-with-space-optimizat",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-maximize-every-square-inch-in-your-tiny-home-with-space-optimizat.html"
+    },
+    {
+      "title": "Is a Tiny Home Right for Me if I Need Lots of Storage?",
+      "anchorSlug": "is-a-tiny-home-right-for-me-if-i-need-lots-of-storage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-right-for-me-if-i-need-lots-of-storage.html"
+    },
+    {
+      "title": "Making the Most of Your Tiny Home: A Space-Optimization Checklist",
+      "anchorSlug": "making-the-most-of-your-tiny-home-a-space-optimization-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-the-most-of-your-tiny-home-a-space-optimization-checklist.html"
+    },
+    {
+      "title": "How to Make Every Inch Count in Your Tiny Home",
+      "anchorSlug": "how-to-make-every-inch-count-in-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-make-every-inch-count-in-your-tiny-home.html"
+    },
+    {
+      "title": "Tired of Clutter? Smart Storage Solutions for Small Spaces",
+      "anchorSlug": "tired-of-clutter-smart-storage-solutions-for-small-spaces",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tired-of-clutter-smart-storage-solutions-for-small-spaces.html"
+    },
+    {
+      "title": "Avoiding Storage Headaches in Your Tiny Home",
+      "anchorSlug": "avoiding-storage-headaches-in-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-storage-headaches-in-your-tiny-home.html"
+    },
+    {
+      "title": "What Makes a Tiny Home Feel Spacious, Not Cramped?",
+      "anchorSlug": "what-makes-a-tiny-home-feel-spacious-not-cramped",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-makes-a-tiny-home-feel-spacious-not-cramped.html"
+    },
+    {
+      "title": "Why Your Tiny Home Needs a Dynamic Floor Plan",
+      "anchorSlug": "why-your-tiny-home-needs-a-dynamic-floor-plan",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-tiny-home-needs-a-dynamic-floor-plan.html"
+    },
+    {
+      "title": "Dealing with Limited Space? Multifunctional Design to the Rescue",
+      "anchorSlug": "dealing-with-limited-space-multifunctional-design-to-the-rescue",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-limited-space-multifunctional-design-to-the-rescue.html"
+    },
+    {
+      "title": "Feeling Overwhelmed Starting Your Tiny Home Journey?",
+      "anchorSlug": "feeling-overwhelmed-starting-your-tiny-home-journey",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-overwhelmed-starting-your-tiny-home-journey.html"
+    },
+    {
+      "title": "How Do I Make Sure My Tiny Home Project Stays on Track?",
+      "anchorSlug": "how-do-i-make-sure-my-tiny-home-project-stays-on-track",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-make-sure-my-tiny-home-project-stays-on-track.html"
+    },
+    {
+      "title": "What Mistakes Should I Avoid When Planning My Tiny Home Project?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-planning-my-tiny-home-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-planning-my-tiny-home-project.html"
+    },
+    {
+      "title": "Confused About ADU vs. Tiny House for Your Property?",
+      "anchorSlug": "confused-about-adu-vs-tiny-house-for-your-property",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/confused-about-adu-vs-tiny-house-for-your-property.html"
+    },
+    {
+      "title": "Worried About Where to Put Your Tiny Home Legally?",
+      "anchorSlug": "worried-about-where-to-put-your-tiny-home-legally",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-where-to-put-your-tiny-home-legally.html"
+    },
+    {
+      "title": "What Steps Do I Need to Take Before Placing a Tiny Home?",
+      "anchorSlug": "what-steps-do-i-need-to-take-before-placing-a-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-steps-do-i-need-to-take-before-placing-a-tiny-home.html"
+    },
+    {
+      "title": "My tiny home doesn't feel personalized enough, what can I do?",
+      "anchorSlug": "my-tiny-home-doesn-t-feel-personalized-enough-what-can-i-do",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-tiny-home-doesn-t-feel-personalized-enough-what-can-i-do.html"
+    },
+    {
+      "title": "How to approach customizing your tiny home for ultimate comfort",
+      "anchorSlug": "how-to-approach-customizing-your-tiny-home-for-ultimate-comfort",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-approach-customizing-your-tiny-home-for-ultimate-comfort.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Upgrading Your Tiny Home",
+      "anchorSlug": "mistakes-to-avoid-when-upgrading-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-upgrading-your-tiny-home.html"
+    },
+    {
+      "title": "What to Consider Before Putting a Tiny Home in Your Backyard?",
+      "anchorSlug": "what-to-consider-before-putting-a-tiny-home-in-your-backyard",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-putting-a-tiny-home-in-your-backyard.html"
+    },
+    {
+      "title": "How to Plan Your Backyard Tiny Home Project",
+      "anchorSlug": "how-to-plan-your-backyard-tiny-home-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-backyard-tiny-home-project.html"
+    },
+    {
+      "title": "Are tiny homes legal in my San Diego backyard?",
+      "anchorSlug": "are-tiny-homes-legal-in-my-san-diego-backyard",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-tiny-homes-legal-in-my-san-diego-backyard.html"
+    },
+    {
+      "title": "Confused About Tiny Home Regulations in San Diego?",
+      "anchorSlug": "confused-about-tiny-home-regulations-in-san-diego",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/confused-about-tiny-home-regulations-in-san-diego.html"
+    },
+    {
+      "title": "Can a Tiny Home Really Feel Spacious?",
+      "anchorSlug": "can-a-tiny-home-really-feel-spacious",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-a-tiny-home-really-feel-spacious.html"
+    },
+    {
+      "title": "Guest Home or ADU: Which is Right for Your Property?",
+      "anchorSlug": "guest-home-or-adu-which-is-right-for-your-property",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/guest-home-or-adu-which-is-right-for-your-property.html"
+    },
+    {
+      "title": "Navigating Permitting for Your Tiny Guest Home",
+      "anchorSlug": "navigating-permitting-for-your-tiny-guest-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permitting-for-your-tiny-guest-home.html"
+    },
+    {
+      "title": "Considering a Tiny Home for Rental Income?",
+      "anchorSlug": "considering-a-tiny-home-for-rental-income",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-tiny-home-for-rental-income.html"
+    },
+    {
+      "title": "How to Make Your Tiny Home Feel Spacious",
+      "anchorSlug": "how-to-make-your-tiny-home-feel-spacious",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-make-your-tiny-home-feel-spacious.html"
+    },
+    {
+      "title": "Getting Started with Your Custom Tiny Home Build",
+      "anchorSlug": "getting-started-with-your-custom-tiny-home-build",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-with-your-custom-tiny-home-build.html"
+    },
+    {
+      "title": "Can I Build a Custom Tiny Home on My Property?",
+      "anchorSlug": "can-i-build-a-custom-tiny-home-on-my-property",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-build-a-custom-tiny-home-on-my-property.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Tiny Home Construction",
+      "anchorSlug": "avoiding-common-pitfalls-in-tiny-home-construction",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-tiny-home-construction.html"
+    },
+    {
+      "title": "How to know if your property is tiny home-ready?",
+      "anchorSlug": "how-to-know-if-your-property-is-tiny-home-ready",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-know-if-your-property-is-tiny-home-ready.html"
+    },
+    {
+      "title": "What are the first steps to placing a tiny home on my land?",
+      "anchorSlug": "what-are-the-first-steps-to-placing-a-tiny-home-on-my-land",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-first-steps-to-placing-a-tiny-home-on-my-land.html"
+    },
+    {
+      "title": "Do I need a professional for my tiny home site assessment?",
+      "anchorSlug": "do-i-need-a-professional-for-my-tiny-home-site-assessment",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/do-i-need-a-professional-for-my-tiny-home-site-assessment.html"
+    },
+    {
+      "title": "What does a site feasibility consultation actually cover?",
+      "anchorSlug": "what-does-a-site-feasibility-consultation-actually-cover",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-does-a-site-feasibility-consultation-actually-cover.html"
+    },
+    {
+      "title": "How to navigate local regulations for tiny homes?",
+      "anchorSlug": "how-to-navigate-local-regulations-for-tiny-homes",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-local-regulations-for-tiny-homes.html"
+    },
+    {
+      "title": "What Mistakes Should I Avoid When Planning My Tiny Home Space?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-planning-my-tiny-home-space",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-planning-my-tiny-home-space.html"
+    },
+    {
+      "title": "Is My Tiny Home Design Actually Practical?",
+      "anchorSlug": "is-my-tiny-home-design-actually-practical",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-tiny-home-design-actually-practical.html"
+    },
+    {
+      "title": "How Do I Get Started Designing My Custom Tiny Home?",
+      "anchorSlug": "how-do-i-get-started-designing-my-custom-tiny-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-get-started-designing-my-custom-tiny-home.html"
+    },
+    {
+      "title": "Struggling to Design a Functional Tiny Home Layout?",
+      "anchorSlug": "struggling-to-design-a-functional-tiny-home-layout",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-design-a-functional-tiny-home-layout.html"
+    },
+    {
+      "title": "Why Are Tiny Home Floor Plans So Hard to Get Right?",
+      "anchorSlug": "why-are-tiny-home-floor-plans-so-hard-to-get-right",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-tiny-home-floor-plans-so-hard-to-get-right.html"
+    },
+    {
+      "title": "Struggling to Visualize Your Tiny Home Layout Before It's Built?",
+      "anchorSlug": "struggling-to-visualize-your-tiny-home-layout-before-it-s-built",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-visualize-your-tiny-home-layout-before-it-s-built.html"
+    },
+    {
+      "title": "How to Create an Optimized Interior Layout for Your Tiny Home",
+      "anchorSlug": "how-to-create-an-optimized-interior-layout-for-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-create-an-optimized-interior-layout-for-your-tiny-home.html"
+    },
+    {
+      "title": "When to Call a Professional for Your Tiny Home Interior Design",
+      "anchorSlug": "when-to-call-a-professional-for-your-tiny-home-interior-design",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-your-tiny-home-interior-design.html"
+    },
+    {
+      "title": "Worried About Wasted Space in Your Tiny Home?",
+      "anchorSlug": "worried-about-wasted-space-in-your-tiny-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-wasted-space-in-your-tiny-home.html"
+    },
+    {
+      "title": "Checklist: Maximizing Every Square Foot in Your Tiny Home",
+      "anchorSlug": "checklist-maximizing-every-square-foot-in-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-maximizing-every-square-foot-in-your-tiny-home.html"
+    },
+    {
+      "title": "How Do You Create a Seamless Flow in a Small Living Area?",
+      "anchorSlug": "how-do-you-create-a-seamless-flow-in-a-small-living-area",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-you-create-a-seamless-flow-in-a-small-living-area.html"
+    },
+    {
+      "title": "Where can I put all my stuff in a tiny home?",
+      "anchorSlug": "where-can-i-put-all-my-stuff-in-a-tiny-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/where-can-i-put-all-my-stuff-in-a-tiny-home.html"
+    },
+    {
+      "title": "What mistakes should I avoid when planning tiny home storage?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-planning-tiny-home-storage",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-planning-tiny-home-storage.html"
+    },
+    {
+      "title": "How can I maximize every inch of my tiny home?",
+      "anchorSlug": "how-can-i-maximize-every-inch-of-my-tiny-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-maximize-every-inch-of-my-tiny-home.html"
+    },
+    {
+      "title": "Can a tiny home really feel spacious and open?",
+      "anchorSlug": "can-a-tiny-home-really-feel-spacious-and-open",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-a-tiny-home-really-feel-spacious-and-open.html"
+    },
+    {
+      "title": "How do I design a tiny home that adapts to my daily needs?",
+      "anchorSlug": "how-do-i-design-a-tiny-home-that-adapts-to-my-daily-needs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-design-a-tiny-home-that-adapts-to-my-daily-needs.html"
+    },
+    {
+      "title": "Is it possible to have a functional kitchen in a tiny house?",
+      "anchorSlug": "is-it-possible-to-have-a-functional-kitchen-in-a-tiny-house",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-possible-to-have-a-functional-kitchen-in-a-tiny-house.html"
+    },
+    {
+      "title": "Why is my tiny home project stuck before it even starts?",
+      "anchorSlug": "why-is-my-tiny-home-project-stuck-before-it-even-starts",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-tiny-home-project-stuck-before-it-even-starts.html"
+    },
+    {
+      "title": "What’s the first step to building a custom tiny home?",
+      "anchorSlug": "what-s-the-first-step-to-building-a-custom-tiny-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-first-step-to-building-a-custom-tiny-home.html"
+    },
+    {
+      "title": "What to consider for a tiny home that truly fits your life?",
+      "anchorSlug": "what-to-consider-for-a-tiny-home-that-truly-fits-your-life",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-for-a-tiny-home-that-truly-fits-your-life.html"
+    },
+    {
+      "title": "What should I know before picking a spot for my tiny home?",
+      "anchorSlug": "what-should-i-know-before-picking-a-spot-for-my-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-know-before-picking-a-spot-for-my-tiny-home.html"
+    },
+    {
+      "title": "Are tiny homes legal everywhere in San Diego County?",
+      "anchorSlug": "are-tiny-homes-legal-everywhere-in-san-diego-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-tiny-homes-legal-everywhere-in-san-diego-county.html"
+    },
+    {
+      "title": "What mistakes should I avoid when placing my tiny home?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-placing-my-tiny-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-placing-my-tiny-home.html"
+    },
+    {
+      "title": "What to Consider Before Customizing Your Tiny Home?",
+      "anchorSlug": "what-to-consider-before-customizing-your-tiny-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-customizing-your-tiny-home.html"
+    },
+    {
+      "title": "Is a Tiny Home Right for My Property?",
+      "anchorSlug": "is-a-tiny-home-right-for-my-property",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-tiny-home-right-for-my-property.html"
+    },
+    {
+      "title": "What Upgrades Really Add Value to a Tiny Home?",
+      "anchorSlug": "what-upgrades-really-add-value-to-a-tiny-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-upgrades-really-add-value-to-a-tiny-home.html"
+    },
+    {
+      "title": "When to Bring in an Expert for Your Tiny Home Customization",
+      "anchorSlug": "when-to-bring-in-an-expert-for-your-tiny-home-customization",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-an-expert-for-your-tiny-home-customization.html"
+    },
+    {
+      "title": "Why can't I just buy a pre-built tiny home for my backyard?",
+      "anchorSlug": "why-can-t-i-just-buy-a-pre-built-tiny-home-for-my-backyard",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-can-t-i-just-buy-a-pre-built-tiny-home-for-my-backyard.html"
+    },
+    {
+      "title": "What's the real difference between an ADU and a tiny house?",
+      "anchorSlug": "what-s-the-real-difference-between-an-adu-and-a-tiny-house",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-real-difference-between-an-adu-and-a-tiny-house.html"
+    },
+    {
+      "title": "How do I know if my property can have a guest home?",
+      "anchorSlug": "how-do-i-know-if-my-property-can-have-a-guest-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-know-if-my-property-can-have-a-guest-home.html"
+    },
+    {
+      "title": "What should I consider before committing to a primary-residence tiny home?",
+      "anchorSlug": "what-should-i-consider-before-committing-to-a-primary-residence-tiny-hom",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-consider-before-committing-to-a-primary-residence-tiny-hom.html"
+    },
+    {
+      "title": "Are tiny homes really legal in San Diego?",
+      "anchorSlug": "are-tiny-homes-really-legal-in-san-diego",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-tiny-homes-really-legal-in-san-diego.html"
+    },
+    {
+      "title": "What are the first steps to building a custom tiny home?",
+      "anchorSlug": "what-are-the-first-steps-to-building-a-custom-tiny-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-first-steps-to-building-a-custom-tiny-home.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://zentinyhomes.aiovisibility.net/articles.html",
+    "https://zentinyhomes.aiovisibility.net/articles/getting-started.html",
+    "https://zentinyhomes.aiovisibility.net/articles/services-and-process.html",
+    "https://zentinyhomes.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://zentinyhomes.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://zentinyhomes.aiovisibility.net/articles/local-service-guidance.html"
+  ],
+  "sitemapRemove": []
+}
